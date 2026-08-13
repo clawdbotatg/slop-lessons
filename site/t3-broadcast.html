@@ -87,8 +87,14 @@ function play(sc, j) {
 }
 addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
-  if (['ArrowRight','ArrowUp',' '].includes(e.key)) stage(cur + 1);
+  if (['ArrowRight','ArrowUp'].includes(e.key)) stage(cur + 1);
   else if (['ArrowLeft','ArrowDown'].includes(e.key)) stage(cur - 1);
+  else if (e.key === 'Escape') location.href = 'index.html';
+  else if (e.key === ' ') {
+    e.preventDefault();
+    if (!vid.hidden) { vid.paused ? vid.play().catch(() => {}) : vid.pause(); }
+    else if (S[cur].clips?.length) play(S[cur], clipIdx);
+  }
   else if (e.key.toLowerCase() === 'p' && S[cur].clips?.length) play(S[cur], clipIdx);
   else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
 });
