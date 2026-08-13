@@ -96,10 +96,19 @@ whole feeding-the-baby-while-agents-wait cluster. Search `data/clips.json` title
   `~/clawd/clawd-harness/tools/node_modules`), show Austin, he picks, THEN build
   full decks (psychosis + trust throughline + more).
 
-### Planned deck structure (psychosis sample, ~9 scenes)
-title → cold open (junior-dev clip + Nov 25) → taxonomy (5 clickable windows) →
-one scene per psychosis (definition + quotes + clip + "the cure") → closer
-("go do a magic trick" clip + Q&A window + glossary).
+### Decks (built 2026-08-13, LIVE — Austin picked t1-desktop as the winner)
+`t1-desktop.html?deck=<name>` loads `site/deck-<name>.js` (deck-as-data; index.html
+is the chooser). Three full decks, all scenes walked headless with zero errors:
+- `deck-psychosis.js` — 11 scenes: title → opener → taxonomy → 5 psychoses →
+  "patient zero: clawd" case study → cure map → closer+Q&A.
+- `deck-trust.js` — 13 scenes: the TALK.md throughline (collapse → nov 25 →
+  what's scarce → taste/verification → trust minimization → agents-as-users →
+  honest counterweight → can't-be-evil → the window → collective ownership).
+- `deck-sloperator.js` — 11 scenes: ten craft lessons (context, observability,
+  loop wars, manage-don't-micromanage, throw away code keep tests, effective→
+  efficient, ownership, distribution/taste, arbitrage, touch grass).
+`site/data.js` carries 68 curated clips. t2/t3 templates still render the
+psychosis deck (kept as alternates; t2 was Austin's #2 pick).
 
 ## Vercel plan
 **LIVE at https://slop-lessons.vercel.app** (2026-08-13, verified headless: all 3
