@@ -104,7 +104,7 @@ addEventListener('keydown', e => {
   else if (e.key === 'Escape') location.href = 'index.html';
   else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
   else if (e.key.toLowerCase() === 'g') {
-    GLOSSARY.slice(0, 6).forEach((g, i) => SLOP.mkWindow('📖 ' + g.term,
+    [...GLOSSARY].sort(() => Math.random() - 0.5).slice(0, 6).forEach((g, i) => SLOP.mkWindow('📖 ' + g.term,
       `<p class="quote" style="font-size:14px">${g.tldr}</p>`, { x: 80 + i*90, y: 90 + i*62, w: 330 }));
   }
 });

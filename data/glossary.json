@@ -1,1 +1,150 @@
-{"error":"unauthenticated"}
+{
+ "source": "live.slop.computer/v1/glossary",
+ "count": 36,
+ "items": [
+  {
+   "term": "harness",
+   "tldr": "In AI/LLM contexts, a harness is the scaffolding code that runs a model against tasks or evals \u2014 handling prompting, tool calls, parsing, and scoring."
+  },
+  {
+   "term": "quantizing/quantization",
+   "tldr": "Reducing the numerical precision of an LLM's weights (e.g., from 16-bit to 4-bit) to shrink memory footprint and speed up inference, usually with minor accuracy loss."
+  },
+  {
+   "term": "accelerators",
+   "tldr": "Specialized hardware (GPUs, TPUs, NPUs, or custom ASICs like Groq or Cerebras chips) designed to speed up AI workloads such as training and inference beyond what general-purpose CPUs can deliver."
+  },
+  {
+   "term": "slop-skill-probe",
+   "tldr": "A quick eval prompt designed to detect \"slop\" \u2014 generic, low-quality LLM output patterns \u2014 by probing a model's skill on tasks where slop typically surfaces."
+  },
+  {
+   "term": "LLM",
+   "tldr": "Large Language Model \u2014 a neural network trained on massive text corpora to predict and generate language, powering chatbots, agents, and most modern AI tooling."
+  },
+  {
+   "term": "GGUF",
+   "tldr": "GGUF is a binary file format for storing quantized LLM weights and metadata, designed for fast loading and inference with llama.cpp and compatible runtimes."
+  },
+  {
+   "term": "TUI",
+   "tldr": "Text-based User Interface \u2014 a terminal-rendered interactive UI, commonly used for AI dev tools like Claude Code, Aider, and other CLI agent harnesses."
+  },
+  {
+   "term": "honcho",
+   "tldr": "Open-source memory library (with managed service) by Plastic Labs for building stateful LLM agents that model users and other entities continually across sessions."
+  },
+  {
+   "term": "REAP",
+   "tldr": "Router-weighted Expert Activation Pruning \u2014 a one-shot MoE compression method that prunes redundant experts using router gate-values and expert activation norms while preserving the router's control over remaining experts."
+  },
+  {
+   "term": "second brain",
+   "tldr": "A personal knowledge management system\u2014often a note database like Obsidian or Notion augmented with LLMs and RAG\u2014that stores and retrieves your notes, ideas, and references on demand."
+  },
+  {
+   "term": "EDR",
+   "tldr": "EDR (Endpoint Detection and Response) is a security platform category where LLMs are increasingly used to auto-generate detection rules against proprietary EDR schemas, requiring normalization layers to mitigate hallucinations."
+  },
+  {
+   "term": "Mixture of Experts (MoE)",
+   "tldr": "A neural network architecture where multiple specialized sub-networks (experts) exist, and a gating mechanism routes each input to only a few experts, enabling large parameter counts with efficient inference."
+  },
+  {
+   "term": "distillation",
+   "tldr": "Distillation is the process of training a smaller \"student\" model to mimic the outputs of a larger \"teacher\" model, transferring capabilities while reducing size and inference cost."
+  },
+  {
+   "term": "open weights",
+   "tldr": "AI models whose trained parameters are publicly released, allowing anyone to run, fine-tune, or distill them locally, though training data and code may remain closed."
+  },
+  {
+   "term": "KV cache",
+   "tldr": "In transformer LLM inference, a memory store of previously computed key and value tensors from attention layers, reused across tokens to avoid recomputing them and dramatically speed up generation."
+  },
+  {
+   "term": "LoRA / QLoRA",
+   "tldr": "LoRA (Low-Rank Adaptation) fine-tunes LLMs by training small adapter matrices instead of full weights; QLoRA does the same on top of a quantized base model to slash memory usage."
+  },
+  {
+   "term": "RAG (retrieval-augmented generation)",
+   "tldr": "A technique that augments an LLM's responses by first retrieving relevant documents or context from an external knowledge base and injecting them into the prompt."
+  },
+  {
+   "term": "vLLM",
+   "tldr": "vLLM is a high-throughput, memory-efficient inference and serving engine for LLMs, best known for PagedAttention which optimizes KV cache management to boost throughput."
+  },
+  {
+   "term": "llama.cpp",
+   "tldr": "An open-source C/C++ library for running LLM inference locally on CPUs and GPUs, popularized by its efficient support for quantized GGUF models on consumer hardware."
+  },
+  {
+   "term": "SGLang",
+   "tldr": "SGLang is a fast-serving engine for LLMs and vision language models that co-designs the backend runtime and frontend language , using RadixAttention for prefix caching to compete with vLLM and TensorRT-LLM."
+  },
+  {
+   "term": "ExLlamaV3",
+   "tldr": "Optimized quantization and inference library for running LLMs locally on consumer NVIDIA GPUs, using the EXL3 format (a streamlined QTIP variant) with tensor parallelism, speculative decoding, and cache quantization."
+  },
+  {
+   "term": "LM Studio",
+   "tldr": "LM Studio is a desktop application for discovering, downloading, and running local LLMs (typically GGUF models via llama.cpp) with a chat UI and OpenAI-compatible API server."
+  },
+  {
+   "term": "tokens per second (tok/s)",
+   "tldr": "A throughput metric measuring how many tokens an LLM generates (or processes) per second, commonly used to benchmark inference speed across models, hardware, and serving frameworks."
+  },
+  {
+   "term": "DGX Spark",
+   "tldr": "NVIDIA's compact desktop \"personal AI supercomputer\" powered by the GB10 Grace Blackwell Superchip with 128GB unified memory, capable of running local models up to ~200B parameters."
+  },
+  {
+   "term": "context window",
+   "tldr": "The maximum number of tokens an LLM can process at once as input, including the prompt, conversation history, and retrieved context, before older content must be truncated."
+  },
+  {
+   "term": "NVFP4",
+   "tldr": "NVIDIA's hardware-native 4-bit floating-point (E2M1) quantization format for Blackwell GPUs, using 16-element blocks with FP8-E4M3 per-block scales and a per-tensor FP32 scale for efficient LLM inference and training."
+  },
+  {
+   "term": "mixed-bit quantization",
+   "tldr": "Mixed-bit quantization is a technique that assigns different bit-widths to different weights or layers of a model, preserving accuracy on sensitive components while aggressively compressing less critical ones."
+  },
+  {
+   "term": "Bittensor",
+   "tldr": "Bittensor is a decentralized peer-to-peer network organized into task-specific subnets (language modeling, inference, image generation, etc.) where miners and validators contribute AI services and earn the native TAO token."
+  },
+  {
+   "term": "decentralized training",
+   "tldr": "Decentralized training is the practice of training large AI models across geographically distributed, often heterogeneous compute nodes rather than in a single centralized data center, coordinating gradients or model updates over the network."
+  },
+  {
+   "term": "MCP (Model Context Protocol)",
+   "tldr": "MCP (Model Context Protocol) is an open standard from Anthropic that lets LLMs connect to external tools, data sources, and services through a unified client-server interface."
+  },
+  {
+   "term": "self-custody",
+   "tldr": "Self-custody means holding your own private keys (or model weights, data, or agent credentials) directly rather than trusting a third-party service to store them for you."
+  },
+  {
+   "term": "MEV (maximal extractable value)",
+   "tldr": "Maximal Extractable Value \u2014 profit validators or searchers extract by reordering, inserting, or censoring transactions in a block, increasingly relevant when AI agents transact on-chain."
+  },
+  {
+   "term": "worktree",
+   "tldr": "A feature in Git that lets you check out multiple branches simultaneously in separate directories, commonly used by AI coding agents to run parallel tasks without conflicts."
+  },
+  {
+   "term": "oMLX",
+   "tldr": "oMLX is a macOS-native LLM inference server built on Apple's MLX framework using zero-copy unified memory and a two-tier KV cache (unified memory + SSD) for high token generation speeds on Apple Silicon."
+  },
+  {
+   "term": "rlhf",
+   "tldr": "Reinforcement Learning from Human Feedback: a training technique where human preferences are used to fine-tune an LLM's outputs, typically via a reward model guiding policy optimization."
+  },
+  {
+   "term": "LoRA",
+   "tldr": "LoRA (Low-Rank Adaptation) is a parameter-efficient fine-tuning method that trains small low-rank matrices added to a frozen base model instead of updating all its weights."
+  }
+ ]
+}
