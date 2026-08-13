@@ -40,6 +40,7 @@ SLOP.qaWindow({ x: W*0.55, y: H*0.62, w: 400 });
 addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
   if (e.key === 'Escape') location.href = 'index.html';
+  else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
 });
 </script>
 </body></html>

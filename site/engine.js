@@ -125,7 +125,7 @@
         if (!r.ok) throw 0;
         a.textContent = (await r.json()).answer;
       } catch {
-        a.innerHTML = `<span class="muted">[offline — /api/ask goes live on the vercel deploy. clawd will answer from all 41 transcripts.]</span>`;
+        a.innerHTML = `<span class="muted">[clawd is offline — the Q&amp;A backend isn't wired up yet. the window works; the brain is coming.]</span>`;
       }
       log.scrollTop = 1e6;
     });

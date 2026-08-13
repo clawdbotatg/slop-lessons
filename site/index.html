@@ -58,7 +58,11 @@ SLOP.mkWindow('other templates', `
   <a href="t3-broadcast.html"><button class="slop">📺 broadcast</button></a>`,
   { x: innerWidth*0.62, y: innerHeight*0.12, w: 330 });
 
-SLOP.mkWindow('🦞 ask clawd', `<p class="muted" style="margin:0">every deck has the Q&A window — press Q while presenting.</p>`,
-  { x: innerWidth*0.64, y: innerHeight*0.42, w: 330 });
+SLOP.qaWindow({ x: innerWidth*0.62, y: innerHeight*0.40, w: 380 });
+
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
+});
 </script>
 </body></html>

@@ -37,6 +37,7 @@ document.querySelectorAll('.term-row').forEach(row => row.addEventListener('clic
 addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
   if (e.key === 'Escape') location.href = 'index.html';
+  else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
 });
 </script>
 </body></html>
