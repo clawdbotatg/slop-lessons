@@ -102,9 +102,22 @@ one scene per psychosis (definition + quotes + clip + "the cure") → closer
 ("go do a magic trick" clip + Q&A window + glossary).
 
 ## Vercel plan
-Static site → `site/` deploys as-is; the only backend is `/api/ask` (serverless
-function, Anthropic API, answers from the corpus — feed it `data/digest.md` or a
-RAG over `notes/`). Multiple decks = multiple deck-data files + a chooser index.
+**LIVE at https://slop-lessons.vercel.app** (2026-08-13, verified headless: all 3
+templates render, clips stream from IPFS, no console errors). `site/` deploys
+as-is; the only backend is `/api/ask` (serverless function, currently Anthropic
+API + `api/corpus.js`). No ANTHROPIC_API_KEY is set, so ask-clawd shows its
+offline stub — intentional, see TODO.
+
+### TODO: route /api/ask through claude-p-agent on SUBSCRIPTION billing
+Austin explicitly does NOT want metered API billing for Q&A. Plan: `/api/ask`
+forwards the question to a claude-p-agent (see `projects/claude-p-agent` —
+`claude -p` on subscription OAuth) running on one of his boxes, e.g. a tiny
+authed relay endpoint the Vercel function POSTs to (box needs a public route —
+the fleet relay or a tunnel). The corpus/persona moves into that agent's
+CLAUDE.md. Vercel then needs only the relay URL + a shared secret env var, no
+Anthropic key. ON HOLD until Austin says go.
+
+Multiple decks = multiple deck-data files + a chooser index.
 
 ## Gotchas / decisions made
 - **gitleaks:** first commit tripped 91 false positives — the 41 bytes32 onchain
