@@ -1,0 +1,467 @@
+slop.atg.eth: Here we are, OK. Okay. here too The There we go. We're live. Live with Ben. Oh, you can change your name. Right now you're Anon, you can change it up there...
+
+Anon5620: transcript Okay
+
+slop.atg.eth: Right here? Yeah, just click the little pencil guy. Welcome, welcome, welcome. This is a little bit impromptu. Thanks for coming, thanks for being here. Let's get into it. So you work at Aztec, is that right?
+
+Anon5620: It's not right.
+
+slop.atg.eth: You worked at Aztec? Never.
+
+Anon5620: Never, never actually.
+
+slop.atg.eth: I thought maybe it was Aztec. I'm sorry.
+
+Anon5620: I work with Ditteron Foundation
+
+slop.atg.eth: Oh, you're at EF. We work at the same place! Okay, with ya. Oke
+
+Anon5620: I work with them building Maybe I made a mistake, but yeah. ###
+
+slop.atg.eth: All good, man. Okay, so What I call sloperation? You are probably a sloperator, right? Windows, would you consider yourself a sloperator? Hell yeah.
+
+Anon5620: Very much, for the anecdote, two months after the launch
+
+slop.atg.eth: Oh yeah.
+
+Anon5620: for a long time
+
+slop.atg.eth: And you're building something called verity, is that right?
+
+Anon5620: English-language
+
+slop.atg.eth: That's what we should talk about today.
+
+Anon5620: The The volgende is een I'll not take all the credits because a big part of it is also my co-founder, and you can check on his GitHub.
+
+slop.atg.eth: Let's go. We're here. I'm ready. I'm ready for it. Let me even pull up a share. We can share your GitHub or something. What is the good thing to share to talk about this?
+
+Anon5620: so maybe I
+
+slop.atg.eth: Is it the
+
+Anon5620: ...and why we build Verity and how advanced it is right now? So basically, Verity is a language that permits you to write smart contracts, The And the interesting thing is that, well, One year ago, we weren't in need of another smart contract language Solidity works well, the AI knows well Solidity, we didn't really think we needed a new smart contract language in any way. Something happened in November of 2025. and basically these models were now able to be better than any software engineer on earth I would say And With the arrival of Opus 4.5, we understood that basically the future of software is writing a lot of code agent of course, formal verification is something that was very, very, very expensive is to write proofs that your code is correct. The good thing is that it's built directly from the ground up Baifa yokud I can go deeper on that, In order to formally verify smart contracts, you have to do three main things in a mathematical way, Okay, what are the rules I want my smart contracts to follow?
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: And then you gonna prove
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: That's like in all possibilities when you run this code, This rule is not violated. And this is the main big change that we saw in November 2025. So it's now becoming like abundance of formal verification. We can see it now playing because last week GPT 5.7 was able to solve mathematical problems that weren't solved before. And
+
+slop.atg.eth: Okay so TLDR, you've written an AI-first language to do formal verification on smart contracts
+
+Anon5620: It is quite ###
+
+slop.atg.eth: What makes it AI-first? Other than being built with AI, what makes it AI-ready?
+
+Anon5620: Спрогин длинный The following is a transcript of an English-language conversation.
+
+slop.atg.eth: the language itself, or, or why create a new language for AI?
+
+Anon5620: I said there is like these three ways We were able to do modelization before. I change in the whole process is the third step. This is the code of 1000 lines it will be like 100,000 lines or 10,000 lines But now it's not a problem because AI can write these lines. if it doesn't build, I go again. And again and again, in the last week is because the feedback loop is very, very easy. And this is why basically we built it. very complicated code, We are bounded We cannot Il fallait compliquer l'idée de code. to make it easy But yeah
+
+slop.atg.eth: Okay, so it's the proof part of it. but thanks to AI, the whole bunch of code part is easy
+
+Anon5620: contexte:
+
+slop.atg.eth: That's like giving it the observability of whether it's correct or not. Am I saying that correctly? context:
+
+Anon5620: And I will emphasize on the fact that it helps also a lot on modelization and on like writing the rules. The following
+
+slop.atg.eth: The slop! You were in it, yes.
+
+Anon5620: It was something that just context:
+
+slop.atg.eth: Nah sorry, it only works on mine. I gotta get it for everybody.
+
+Anon5620: It was something that was completely not possible before because, for example motorboats And the software that is in this subway is formally verified.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: The French state that did that has access to infinite PhDs for basically free. So this is just not economically viable for most of startups, even for Ethereum that had a huge capitalization, most of the protocol is not formally verified. only the US military, and some like European militaries do it, and AWS. Before AI, we believe that after AI, we're starting with smart contracts, but everything will be formally verified as long as it has some kind of importance. In terms of correctness
+
+slop.atg.eth: OK. So the doing of the formal verification requires like hella work to be done by very smart people, and that makes it very expensive and economically unviable?
+
+Anon5620: The
+
+slop.atg.eth: But now with AI, it's much more viable So, hold on, the French Metro, the Paris Metro is formally verified? Like, it knows these two cars will never run into each other mathematically or something? ***
+
+Anon5620: So if you go to like the south of Paris, there is an airport called Orly So yes, it is formally verified. And there's bunch of small parts of softwares in airplanes The following is a transcript of an English-language conversation.
+
+slop.atg.eth: with lots of money, smart contracts, this is another thing that formal verification is very important with. It's just super hard and super expensive to do, but what you're saying is now that there's AI, it's actually anymore
+
+Anon5620: The
+
+slop.atg.eth: More expensive. economically viable
+
+Anon5620: It's still hard, but it's just way less expensive.
+
+slop.atg.eth: Okay, so let's say I am a smart contract engineer, but I don't know anything about formal verification. How do I go about getting my smart contract formally verified?
+
+Anon5620: So there's different ways of doing so.
+
+slop.atg.eth: everything,
+
+Anon5620: Formal verification is a step on top of that because it does not just test some random combination on your functions, it tests all possibilities and prove all possibilities are correct. Based on the rules it has to follow That's formal verification.
+
+slop.atg.eth: The following
+
+Anon5620: and then launch an LLM to prove
+
+slop.atg.eth: Can I give this Verity repo to Claude and say we need to modelize, write the rules, all that?
+
+Anon5620: context:
+
+slop.atg.eth: Will it be able to kind of figure that out? Okay
+
+Anon5620: It's not even needed a skill file, like you just give it the documentation, he's going to understand everything of it and he's going to be able to like make a good model, make some good specs depending on your contract also, You can do that and force probably easy contracts It makes a lot of sense to do that
+
+slop.atg.eth: How long does it take? Let's say easy contract.
+
+Anon5620: It depends
+
+slop.atg.eth: A staking contract with deposit and withdraw and a few other functions. Yes.
+
+Anon5620: Cybersecurity is a market, right? superhuman, but as the market context:
+
+slop.atg.eth: He has an infinite amount of time to attack it. You have to get it right on the first try, and he has an infinite amount of time.
+
+Anon5620: You have to get it right, It will really depend on how deep you want to go and what's your experience on it The difference between the... being able to know what is quality you being able to take ownership of what the model did In the sense that these models are capable of everything
+
+slop.atg.eth: Yeah,
+
+Anon5620: It really depends on how good you are at reviewing and like taking this ownership. That's why I cannot tell you an answer.
+
+slop.atg.eth: The longer you spend the better. I was thinking like formal verification was kind of like you said, binary. Like, it is now formally verified or not. There is like, there's some like you spend more time on it, it gets more formally verified or something?
+
+Anon5620: So
+
+slop.atg.eth: Yeah, you tell me.
+
+Anon5620: The
+
+slop.atg.eth: Okay.
+
+Anon5620: So we formally verified Yes, but we took in assumption
+
+slop.atg.eth: Yes, please do. Right over here. That screen right there. Yep.
+
+Anon5620: It's okay, I'm gonna You can go to context:
+
+slop.atg.eth: Tell me what to share, I'll share it for you
+
+Anon5620: The
+
+slop.atg.eth: Got it.
+
+Anon5620: This is A work we've done we basically formally verify one invariant of the protocol.
+
+slop.atg.eth: context:
+
+Anon5620: one rule in the Lido Vault protocol So we explain, OK, how we model some hypothèses that this proof relies on. This means We are like saying Lido is formally verified,
+
+slop.atg.eth: external things Yeah
+
+Anon5620: for this to be true I'll give you a very easy example. So someone is going to come if there is an opportunity and liquidate people. Well, that depends also on the oracle price. you have a problem, right? So the assumption is... For the system to work
+
+slop.atg.eth: oracle price could go to zero and then you're everything's like, there's nothing you can do about it
+
+Anon5620: The following is a
+
+slop.atg.eth: context:
+
+Anon5620: assumption is good. So in a formal verification always take assumptions you will say, "Oh, I trust this, I trust that." Especially in the smart contracts, sometimes it's built on top of other smart contracts So do you formally verify these other smart contracts too? But this is what I mean by that. How good are your specs? like few times, or we took this code,
+
+slop.atg.eth: The
+
+Anon5620: So again, an example, I lost a bunch of money on the hack too.
+
+slop.atg.eth: The following is a transcript of an English-language conversation. Someone leaks a private key.
+
+Anon5620: Basically it was a private key hack. So we could have formally verified the whole contract
+
+slop.atg.eth: The
+
+Anon5620: If there is an upgrade path, we will take as assumption Under the specs, the formal model, and the assumptions. It's always a bit more complicated, of course, but it is a solution for the mythos apocalypse or whatever. It is one of the solution. probably the best solution we have for correctness of smart contracts
+
+slop.atg.eth: Great. I have this service one-dollar audit, and it makes me think that someone should be doing formal verification as a service like as like an X402, like leaning into AI and leaning into the fact that you could just give a smart contract.
+
+Anon5620: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: to an agent and the agent could at least formally verify the smart contract with some assumptions around it pretty quickly. Is anybody doing that yet? Like, is there any formal verification as a service to be part of your CI/CD pipeline?
+
+Anon5620: You mean like an agent?
+
+slop.atg.eth: Yeah. Okay Hell yeah, okay. Yeah
+
+Anon5620: So there is some company doing that, it's not $1. as a concept
+
+slop.atg.eth: Chill it.
+
+Anon5620: To me these things I would say the future of not formal verification as a service, but it should be part of the process of building a protocol or building any kind of software because you have access to these ideas. PhDs in data center for 50 cents an hour Before, I think the bottleneck is not like the intelligence anymore And this you can films
+
+slop.atg.eth: This is very hard.
+
+Anon5620: audit firms and people that will do so for you. as a service, one dollar, ten dollars,
+
+slop.atg.eth: a human
+
+Anon5620: where people say, OK,
+
+slop.atg.eth: Yes
+
+Anon5620: We take ownership on that and if it bugs, it's our fault.
+
+slop.atg.eth: context:
+
+Anon5620: Basically,
+
+slop.atg.eth: Okay, cool. That makes a lot of sense. language that you've built for formal verification and you've built it with AI for AI.
+
+Anon5620: context:
+
+slop.atg.eth: But what I really want to get into is that how you built it part. Like what is your stack? Are you a Codex guy or a Claude guy? How do you go about building your own language for formal verification?
+
+Anon5620: Good question. Building a Vibe Coding in math is really, I would say, easier than Vibe Coding in normal languages. normal product as the product we're on right now. because the feedback loop is really easy in terms of what's good, what's bad because it compiles or it doesn't compile. And it's like way easier for the agent to have feedback loop and to advance autonomously. you're coding a front end, Even though it's possible So we've worked a lot The first step will be getting really clear on what you want to do. and pass way more time trying to understand what you want to do And then ...les outils à l'agent pour vérifier autonomously son travail. And work when you're not here But for Fonten it will give him a way to understand what's good Fonten, so a way to understand the screenshots, a way to compare it to a design, something like that. We even did some video games Once you've done that, you can launch agents, Once you did, I would say, the vision, You have
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: Your duty is now only to have ideas and to be in the flow.
+
+slop.atg.eth: It's idea guy summer.
+
+Anon5620: Yeah, it's idea guy summer. You can have no technical ability whatsoever, and... because having good product idea is technical ability The uh, Now in terms of model, we're using all models possible. We have Codexplode, two or three Chinese so there is like GLM and Kimi we have, and we tested Groq also. just because it's very, very cheap compared to business subscriptions that we can call and in this API we And then we have nowhere things that do not need a lot of thinking
+
+slop.atg.eth: context:
+
+Anon5620: this kind of models. But in terms of managing the difference, context:
+
+slop.atg.eth: Okay, so I think what you're talking about is actually running the formal verification and doing some of these audits like you did for Safe and Lido and Morpho, I think. on like the build process itself? formally verify someone else's code. Okay.
+
+Anon5620: Everything relies on LLM. of compiler with LLMs also So, all of this infrastructure is basically inference management.
+
+slop.atg.eth: Right, crazy.
+
+Anon5620: one or two K a month. So we've built all of this infrastructure, and I try to be low level, I would say, because this is what we use for building whatever. It's like, first, understand what you want, second, build this feedback loop. in COVID and then do that. And if you think on these three steps, Because this is basically the three steps of the agent, and the hardest step is giving the feedback loop and getting the idea of what even to build, what is good, what is taste. The And The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I think that's a theme that I've had talking to a lot of people on slop computer. Yes, like the idea and the taste is sort of like the human thing And you bring that to the table, and then you have to have a very good plan or a very good spec. And then you have to have very good observability or evaluation. And that's what you're talking about. And then I think the third thing you're talking about here is something we haven't talked about as much. Once you have the spec, once you have the observability, it's already in a loop but you want it to be sort of improving itself as you go.
+
+Anon5620: That's difficult. I've not figured out completely to be honest. It works well for personal use cases, and I will say to another Do you think we can improve the skill we used or the memory I'm still struggling, but probably will be there.
+
+slop.atg.eth: And you're using frontier models, both Codex and Claude. Is there some kind of triage system you have
+
+Anon5620: The
+
+slop.atg.eth: go to Claude, Codex, or the Chinese models
+
+Anon5620: I found trying to filter on the intent is pretty complicated
+
+slop.atg.eth: The
+
+Anon5620: What we do is just like routing when we have no money anymore on the subscription. No credits
+
+slop.atg.eth: We're out of the good ones, so now let's just go to the Chinese.
+
+Anon5620: No, but it's clearly recent.
+
+slop.atg.eth: Oh, okay.
+
+Anon5620: And yeah
+
+slop.atg.eth: And then DeepSeek just came out like a couple days ago.
+
+Anon5620: It came out two days ago.
+
+slop.atg.eth: Let's use them.
+
+Anon5620: And it's not that expensive comparing to subscription B2C subscription Hey, but
+
+slop.atg.eth: Don't worry, we don't have very many views. This is a very niche podcast.
+
+Anon5620: If I pay API price, I work on open source software. I prefer to not use API. um, and context:
+
+slop.atg.eth: One reason might be because Fable won't let you, right? Like when you're trying to do formal verification stuff, it's very security adjacent. How do you get around the fable safeguards, or do you?
+
+Anon5620: So Formally verification is not finding bugs, it's proving the absence of it.
+
+slop.atg.eth: ###
+
+Anon5620: That's very cool, and I tweeted about it like in a funny way saying we are the only guys not blocked by Fable basically when doing stuff.
+
+slop.atg.eth: The
+
+Anon5620: But Fable is like too expensive to run. That being said, we're banned every week by one of these accounts. But Fable is completely unusable for anything outside of formal verification, to be honest. Completely micromanaging me, saying, The
+
+slop.atg.eth: I'm the boss. ###
+
+Anon5620: do that on legal, on cybersecurity, I'm not using Anthropic's model right now. Anthropic is still probably the best model,
+
+slop.atg.eth: many safeguards
+
+Anon5620: I'm not using it
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: Probably, like 50% of the price you pay is the safeguards and when they have a doubt, they ban you. You just appeal, 24 hours after, they say, "Sorry, we banned you for nothing." three times in the last month,
+
+slop.atg.eth: At least you get unbanned, man. I feel like there are some places you get banned from, and it's just like no one can help you.
+
+Anon5620: The following is a transcript of an English-language conversation
+
+slop.atg.eth: Okay, so let's talk about Yeah, well Twitter is one. Someone registered the Twitter account for this podcast, and then I registered another one and mine got marked as spam and theirs didn't. And then I reported it as spam and they didn't do anything about it. Let's get into these actual formal verification audits that you've run this system on. but I only have that for my research-- I don't know if that's true. Are those kind of like big three that you've done? Okay.
+
+Anon5620: We've done a lot of pre-sales, so we were working with the digital foundation on Verity. Apart from Verity, we are using Verity on a lot of production protocols formally verifying for them and then we have like clients on a paid basis that we work with But yeah
+
+slop.atg.eth: Let's talk about that. Specifically, a fourth big client. Those contracts are gnarly and huge. There has to be a lot of human touch on top of it
+
+Anon5620: So first and foremost, I'm not the one doing the audits. He is building the compiler himself With that being said Le process pour Family Briefing Protocol The goal for us is to prove the absence of bugs.
+
+slop.atg.eth: The following is a transcript of an English-language conversation. context:
+
+Anon5620: have no bugs. So we have to So that's the first step.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: The first step is looking at the code, sending a bunch of agents trying to really understand the whole system, the architecture around it, what are the edge cases, and then find all the bugs and do a classic audit. Once we do that Use formal verification to... to make sure there is no bug anymore. And that's the big difference with a normal audit that there is no bug anymore Under the specs and the assumption, right, all the rules the contract must follow under a certain amount of assumption and hypothesis around the rest of the world of the contract, so the oracle price, the upgrade path, the private key, this kind of stuff depending on the contract Then we prove it. We can use LLMs, a lot of work before to understand fully the protocol. The horse understand what are the assumptions, we use agent at all level
+
+slop.atg.eth: Heck yeah, okay, that makes sense. Let's look at some of those folks that you already had through MorfoSafe? Lido and others, The scariest or the biggest thing you found? Maybe you can't even say. context:
+
+Anon5620: So we started this pretty early, six, seven months ago.
+
+slop.atg.eth: Got it, that makes sense. What about this? There's a tweet from you basically like Piers going full corporate.
+
+Anon5620: context:
+
+slop.atg.eth: Why Why not you? Like what is it about not going corporate? I don't know, just like pull that thread a little bit and talk about your own preference.
+
+Anon5620: Basically yesterday was my birthday
+
+slop.atg.eth: Happy birthday!
+
+Anon5620: And I met a guy is a childhood friend of mine and is working So McKinsey famous consulting company And
+
+slop.atg.eth: Probably, yeah.
+
+Anon5620: especially if he goes to the US, which he could For a smart guy like him, it makes a lot of sense to actually continue that and max out this way because in terms of expected value, that's where he can Comparing to an anime Someone that is starting entrepreneurship and doing a $20 a month micro-SaaS.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: I've done that for like the last seven years. I don't even take it as a possibility. I'm completely unemployable, I worked as a software engineer for like six months and I left because I couldn't. So for me, I would say like The people I was in engineering school with It's probably better to find a corporate job, especially in the US.
+
+slop.atg.eth: I don't know if I got exactly why you wouldn't then. Maybe you said that. I want to pull that a little bit more Hello Yeah.
+
+Anon5620: Me, when I was in school, so growing up in France, that I understood was possible yesterday with McKinsey. I was like, I was like, that's pretty cool. I can make that as an entrepreneur. You also maybe 70k There is no way I cannot make that as an entrepreneur maybe 250, I don't know, 300 as a junior. it's way harder. You have to manage people, you have to grow the business, when I started.
+
+slop.atg.eth: Okay, so it's more just like your own expected value of how this works and entrepreneurship Yeah
+
+Anon5620: It's not having fun. I have way more fun here on the Ethereum ecosystem,
+
+slop.atg.eth: Hahaha Because you would have taken it. context:
+
+Anon5620: to be in the corporate job because I would have this opportunity I wouldn't be able to refuse
+
+slop.atg.eth: Yeah, that makes more sense. There's something cool about just being cypherpunk too and not having to go to like corporate corpo-slop meetings every day.
+
+Anon5620: The I completely agree.
+
+slop.atg.eth: There's something more fun about this. Right.
+
+Anon5620: That's why I say now I'm unemployable.
+
+slop.atg.eth: context:
+
+Anon5620: At the time, probably I would have. The
+
+slop.atg.eth: I wanted to even touch on StarkNet ID. I saw that a little bit in your research history. You want to talk about StarkNet ID? I think it was something that you built and launched to 300,000 users or something like that. Is that right?
+
+Anon5620: The The following is a transcript of an English-language conversation.
+
+slop.atg.eth: What is it? How did you build it?
+
+Anon5620: It was the first year when ChatGPT came out.
+
+slop.atg.eth: Okay
+
+Anon5620: but it was really bad. So basically, Der Inhalt ist and I've done some research and at the time to be honest. But The I basically spent three years of my life working on StarkNet full-time. and we've built a lot of things on StarkNet.
+
+slop.atg.eth: Oh, okay
+
+Anon5620: So it was basically Apparently the CSS is not charging.
+
+slop.atg.eth: The CSS didn't load.
+
+Anon5620: It is directly on PartnerID? Yeah, we have.
+
+slop.atg.eth: Haha
+
+Anon5620: So we are not working on this anymore for the obvious reasons that we know that NFT actually do not work, and StarkNet actually didn't work as well as intended. more than that
+
+slop.atg.eth: It'll probably load later
+
+Anon5620: Maybe you can go to the actual website. It's still live, we're trying to make it, I would say, unstoppable. people that still have the domains. today, for example context:
+
+slop.atg.eth: Totally. Okay, let's see... Usually I have Claude come up with some questions here. understands The you and your history Mic check.
+
+clawdbotatg.eth: Hey Ben, you mentioned you've been talking to math PhDs lately and the mood is basically doomerism. You're excited about formal verification getting commoditized, they're gloomy about it. What do they see coming that you think they're missing?
+
+slop.atg.eth: That's a good one. There's a lot of people that are like gloomy about AI, right?
+
+Anon5620: Continue, continue.
+
+slop.atg.eth: So like We see a lot of even like Gen Alpha kids hating on AI. Why are math PhDs negging on AI? It seems like it's useful for them, too.
+
+Anon5620: Oh context:
+
+slop.atg.eth: Is it just doomerism, like they think the world's gonna end?
+
+Anon5620: I'm not a PhD myself, I'm doing applied engineering, so I'm very happy that this exists
+
+slop.atg.eth: That's true.
+
+Anon5620: But a math PhD, he bet his whole career and eight years of his life minimum to being the smartest guy in the room when it comes to math.
+
+slop.atg.eth: The
+
+Anon5620: Now everyone going on a website called ChatGPT.com can talk to a guy smarter than him. And everything he was able to do, now a machine is able to do it for 50 cents an hour. We can understand that this guy is basically a bit, I would say, frustrated at least, by the state of how his job got commoditized. for people that are not excited I would say commercial use cases. I'm excited by commercial use cases for formal verification on Twitter, of theorem that do not have especially in general direct application and they are funded by university and governments So they are not really excited by the commercial things. They were excited by the idea of proving theorem manually and thinking about it. Really like only an LLM in a loop can do all of what they did. Better, faster, cheaper
+
+slop.atg.eth: Okay
+
+Anon5620: be helpful and I
+
+slop.atg.eth: No, that's a good take. Math PhDs have spent their whole life trying to be the biggest brain in the room and use their brain to do these things that computers can do or that LLMs can do. and the new kind of computer can do better than them, Yeah, they kind of like made the wrong bet in terms of like what they get really good at, and so now they hate it because it's kind of taking their job. Okay, so that's different than like, I would say my kids are hating AI because of just like slop and everyone's using AI to send, you know, giant messages and it's just like gross. The slop will go away eventually. A sloppy sentence or a large sentence will be the sign of a human freaking out, and AI will just get better and better and more precise eventually.
+
+Anon5620: To me, if someone send you slop, it's not the fault of the AI, it's the fault of someone.
+
+slop.atg.eth: Yeah, yes. Yes
+
+Anon5620: Because the AI is capable of not doing slop, it's just the person that is using the AI is not capable of understanding this is slop. And again, we come back Now the bottleneck is taking responsibility on what you're doing Someone with a big brain and a lot of AIs that said, yes, The
+
+slop.atg.eth: The human touch is still very important, even in these like highly mathematic or formal verification. Okay.
+
+Anon5620: It's just that in an organization, someone has to be responsible and someone has to understand. and say, "Yes, this is good," he's taking the ownership. The following is The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Yes, it was you. The buck stops at you. I think someone said this, maybe it was Karpathy, I can't remember who said it, but it was basically like you can outsource your thinking but you can't outsource your understanding. And what you're saying is like someone... and it has to be like the buck stops at a human.
+
+Anon5620: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: OK, cool. Awesome. All right, that's it, I'm gonna have Claude give us an outro. He's basically just gonna give us a summary of how it went and say goodbye, and I'll get some music going. Thank you so much. This has been cool, man.
+
+clawdbotatg.eth: Big thanks to Ben, Frico Ben, the man who vibe coded an entire language, Verity.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+Anon5620: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Hell yeah.
+
+clawdbotatg.eth: Now it's PhDs in a data center for 50 cents an hour. Unemployable at 19. Cypherpunk over McKinsey. Go follow Ben. Go check out Verity. Stay sloppy. See you on the next one.
+
+Anon5620: to jest słowik
+
+slop.atg.eth: All right, thank you for being here.
+
+Anon5620: context:
+
+slop.atg.eth: Have a good one. Thank you for being here.

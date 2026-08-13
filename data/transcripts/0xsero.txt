@@ -1,0 +1,447 @@
+austingriffith.eth: Hear me out there, Claude? Everything good? Alright.
+
+clawdbotatg.eth: Um Loud and clear. I'm here. Video's up, room's live, we're rolling.
+
+austingriffith.eth: I understand.
+
+Anon7253: ### Oh
+
+austingriffith.eth: Yeah, live with the man! 0xSero, we are live, we are on the air. We should be on Twitter and the YouTubes and all of them. We're streaming, how you feeling?
+
+Anon7253: I'm feeling great. Yeah, I'm feeling great, very excited, surprised.
+
+austingriffith.eth: [Laughter]
+
+Anon7253: Enamored, very interesting experience.
+
+austingriffith.eth: What?
+
+Anon7253: But I get it, it clicks. Yeah, yeah.
+
+austingriffith.eth: Yes, okay, if you are a sloparator, you see this and you're going oh yeah he sloperated the shit out of this. Hell yes.
+
+Anon7253: It's like the mind palace, I think.
+
+austingriffith.eth: The mite palace? I don't know.
+
+Anon7253: The mind palace Yes, yes.
+
+austingriffith.eth: Oh, I see. Like, "welcome to my mind palace." Yes. Xerox arrow! You will have to solve three riddles to escape! Yes.
+
+Anon7253: Yeah, kinda. I am
+
+austingriffith.eth: Okay, okay. So I've watched other podcasts with you. You are like the S-tier guest. You are the Sloperator. You are the Sloperator. You are kind of like the local AI guy. And the slop operator all at once? I'm just gonna speedrun some stuff, you're from Warsaw. You were like a YouTube gamer, and you were pulling like 20k a month? You I don't know. I have a lot of stuff that I'm just speedrunning here. You maintained Eliza OS? Sweet. Attributed, okay. Sure.
+
+Anon7253: Yeah, I contributed. Maintaining is like a hard word. There were so many people working on that project.
+
+austingriffith.eth: 74 models in Hugging Face, TurboQuant has 400 stars, open source must win, 1.3 million views, and we'll get into that for sure. Human Rights Foundation funds you to fight surveillance. Your compute is sponsored by NVIDIA, Anthropic, Lambda. You host Ether's club. You run a 753 billion parameter model at home.
+
+Anon7253: Yes, a lot of fun.
+
+austingriffith.eth: And it's just like fans blowing. Do you have AC in Warsaw? I feel like that's got to be the first question. Okay. Okay.
+
+Anon7253: Small correction, I'm originally from the US. How can I? Yeah, I was working in crypto for a few years.
+
+austingriffith.eth: Superfluid teller. MakerDAO
+
+Anon7253: Before I got into AI, I got a grant from the Ethereum Foundation.
+
+austingriffith.eth: Yeah, MEV. Yeah.
+
+Anon7253: I did a lot. I was with the Milwaukee circle... But yeah, I did that, and then I got into AI mainly because.
+
+austingriffith.eth: Oh yeah.
+
+Anon7253: They used to have like you pay 20 bucks and you get as much sauna as you can use. It was tough. Yeah. Hi, how are you?
+
+austingriffith.eth: It was tough back then. You had to keep it in tight guardrails, you had to get a lot of "you're absolutely right" and check in on why it did it, what it did. Yeah, so I think I met you back in like the ETH Denver, we were teaching, we were both teaching at ETH Denver with Joe. That was probably toward the end of your Etherium stint. I think
+
+Anon7253: I'm still in like...
+
+austingriffith.eth: Sure.
+
+Anon7253: No,
+
+austingriffith.eth: When you created an agent and you gave it money, you decided to give it Solana and not like on it too or something. What's the decision there?
+
+Anon7253: Yeah, okay, I can tell you why that happened. So I opened, I have like five browsers that I have installed, all with like different stuff. The one that I opened happened to have the Solana wallet.
+
+austingriffith.eth: And that's it.
+
+Anon7253: I'm not trying to make a profit. I'm trying to see what the model essentially... So basically every time it does a tool call or reasons or whatever, it's saving data into a JSON file. I can't
+
+austingriffith.eth: ...much data. Do it. You're the man.
+
+Anon7253: I can do stuff with. Also, it's fun philosophically. I'm jumping into things a little out of whack. Um So I think if it's possible for the average person to have a laptop, use it in the day, and then at night just shut it down, and that runs the inference on that laptop and sends an agent to do work. to point intelligence and attention at some kind of problem. The cost to run it is cheaper than how much you would get by just like doing this weird stuff, right? It's going to incentivize people to buy hardware and produce hardware like crazy. Because it's like if you can get a guaranteed return on investment It makes complete sense to buy as much hardware as possible, which is what everybody wants to do because the models get more intelligent as you scale up the parameter size. And I don't see them being as small as they are today. As much as there's going to be good small models, the large companies in order to compete will need to keep making the models larger. At least this is what we're seeing so far.
+
+austingriffith.eth: And this is your particular flavor of AI psychosis. Like everyone I have on Slop Computer, I kind of ask, like, what is AI psychosis? Because everyone kind of has a different answer. But your answer is... Your specific AI psychosis comes down to buying hardware and having just a shitload of GPUs and Macs with VRAM laying around just working on things. Is that right?
+
+Anon7253: So the research paper, what was it?
+
+austingriffith.eth: Okay.
+
+Anon7253: They just say it pretty plainly. The larger the compute, the more data, the longer time training, the better intelligence. It's like a pretty basic formula. They just need to keep building the datasets up.
+
+austingriffith.eth: How are you?
+
+Anon7253: I'm also very interested. Did you see DALL-E 2?
+
+austingriffith.eth: I don't think so. That'd be a long time ago. Yeah. Okay, yeah. Image generation, right
+
+Anon7253: Like before the ChatGPT website. Yeah, so once I saw DALL-E 2, I wrote an article
+
+austingriffith.eth: Okay. Okay
+
+Anon7253: I wrote an article about DALL-E 2 and NFTs, like this was like in 2022 I think, and I'm like, well, you know, if anybody could produce art, which is You're going to have this entire market of people that are buying and selling things that they don't even understand how to make. There's partly ownership around that, like what is ownership then? What are you owning, like an idea? It's very silly. I respect it, but I don't understand it. You know, I respect people's opinions. Anyway, I'm going so off topic, sorry. I ramble. My name is John.
+
+austingriffith.eth: No, we're here to go off topic. Your ADHD kicks in and you start moving things around here. I know, I've been doing this. You're a dad. You are big on human rights and AI as a human right.
+
+Anon7253: Hi there!
+
+austingriffith.eth: Even like a gun laws and comparison between gun laws and chips.
+
+Anon7253: context:
+
+austingriffith.eth: My bot does a bunch of research. There's a research app here and it kind of goes and looks and we kind of talk back and forth.
+
+Anon7253: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There's a skill file here, and I don't know if you're up for this. This might be a little bit too much. But if you go up to slop computer up here, there's a skill file, and you can copy this skill file, and you can give it to a local agent or any kind of agent.
+
+Anon7253: Yes. Mm-hmm.
+
+austingriffith.eth: I'm guessing you have some kind of corpus of information about yourself, which is probably private.
+
+Anon7253: Yes, yeah, dude. context: Yes.
+
+austingriffith.eth: Have your people talk to my people. I don't know.
+
+Anon7253: I think this is the new
+
+austingriffith.eth: Yeah. Oh yeah.
+
+Anon7253: I want to just get the app. Open the app, please. But yeah, so
+
+austingriffith.eth: You do a lot of talking, a lot of speech to text? Yeah.
+
+Anon7253: It saves a lot of time. I prefer writing, honestly. I think it's better for your mind.
+
+austingriffith.eth: Typing or like writing? Okay
+
+Anon7253: writing or typing, or both.
+
+austingriffith.eth: You can do that. Here, let me minimize the stuff. It's right here.
+
+Anon7253: It requires your mind. I want to share my screen. How do I do that?
+
+austingriffith.eth: (laughter)
+
+Anon7253: All right, this is cool. Entire screen. I really do like this. This is super cool. Okay, so do you see this thing?
+
+austingriffith.eth: It's coming up, yep. So I see us basically. Oh, there it is. Yes, I saw this little city, you had this on Twitter yesterday. OK.
+
+Anon7253: Yeah, so basically I've been collecting my personal data for years now, just downloading all of it. So these are actual conversations I had on Twitter, so it's rendering people that I've spoken to on Twitter.
+
+austingriffith.eth: Milwaukee's tech. Okay.
+
+Anon7253: Yeah, so this is like my back and forth with him. Obviously this is just a little fun thing here, but I have all of the different history stuff. on all the research papers, it just like links to everything. The reason I'm mentioning this, how do I get out now? Okay, I'm gonna have to teleport.
+
+austingriffith.eth: Warp.
+
+Anon7253: Yeah, so it emptied this thing. But essentially, it's just all my stuff, right? Yeah.
+
+austingriffith.eth: Like a nice 3D space that's easy to visualize.
+
+Anon7253: Yeah, because collecting insights on yourself is pretty difficult. YouTube algo, and it just tells me the next thing to read, and it renders the articles from Wikipedia.
+
+austingriffith.eth: Nice.
+
+Anon7253: So Yeah, it's about what should I learn. And then I have my writing on the side here. But I think we have like a chance of people collaborating in a completely new way and not many people are working on this yet. Not many people are doing this yet, and then there's like a learning curve that's pretty difficult. And then there's the security part of it. But my agents are already talking to other people's agents just naturally. Oh yeah, I will. Yeah, I have it.
+
+austingriffith.eth: If you want, you could give that skill file to them. It's up in slop computer, copy skill. It's basically right up in the top left window, copy skill, and just basically say, I'm on a live stream. There's a notes app, if you find the notes app. There's a bunch of questions in it, answer what you can answer, and it'll just start banging out some of these answers.
+
+Anon7253: Yeah
+
+austingriffith.eth: And yeah, this is very risky because there's not a lot of people I have on where I'm like, let's have my agent talk to your agent and they're able to do that. There's nothing nefarious in here either. For what it's worth
+
+Anon7253: Yeah, that's another thing. Because it is I let them just...
+
+austingriffith.eth: Right. Great
+
+Anon7253: I don't have any permissions, I block removes.
+
+austingriffith.eth: Give it the skill and say, is there anything nefarious here first or something like that, then you could like be safe.
+
+Anon7253: I just gave it. It's gonna take forever.
+
+austingriffith.eth: Okay, okay, okay, okay.
+
+Anon7253: GPT is slow. ###
+
+austingriffith.eth: Okay, yes. So this gets right into another question I ask everybody is like what models are you using. Obviously you're using like these like bespoke like reaped GLMs, which is so dope, but also you're using frontier models all the time.
+
+Anon7253: Yes. Yes.
+
+austingriffith.eth: And you call that thing Claude, so obviously you're using Fable here and there too. What's your model breakdown look like in terms of where you're using what?
+
+Anon7253: So I have six max subscriptions across like all the different products. So from Croc to Claude, all of them. Basically every model lab that's worth having. machines And
+
+austingriffith.eth: full subscriptions where you're just letting it rip too.
+
+Anon7253: Yeah, and then I use all of them and then basically about every month I'm spending like 30 billion tokens, give or take, across all the different stuff and about 10% of that is local.
+
+austingriffith.eth: Only ten. Yeah. What is that? Yeah.
+
+Anon7253: 5% of it, now it's 10. So the quality of the models is going up. Well, I mean, realistically, dude, I'm running them all day. And especially now, I've learned how to do these long-running tasks. queuing stuff up and a lot of it dies out, I never look at it, but some of it is actually very useful, right? You have to just like Spray and hope that, you know, something works, essentially. I was
+
+austingriffith.eth: Okay, okay. So you're gonna have your agent talk to my agent. That was the next piece. Let's get into the cereal walkaway. You build a lot of things, and the walkaway test is something that we talk about a lot in Ethereum. You do this a lot for everything. And this goes back to self-sovereignty, and this goes back to local AI.
+
+Anon7253: Um
+
+austingriffith.eth: Okay.
+
+Anon7253: Yeah, I think it's just important to have as much fun as possible. Like, money is fake.
+
+austingriffith.eth: Yeah.
+
+Anon7253: I completely do not believe in money. I don't think there's anything that I can't have or own. It's really just like, if you want it and you just go and try to get it, maybe it takes a lot of time. It's very easy, you know. It's very, very simple. Life just gives you whatever you want. If you want to be miserable and sit at home all day, it'll give you misery. If you want to go outside and do something cool. And then a lot of stuff is just like...
+
+austingriffith.eth: Right.
+
+Anon7253: So what you do is you preserve parts of the model and you chop the rest off. So often I'm chopping off like other languages or topics. Obviously, it also has some bugs and issues that it could cause. But ultimately, it worked. I have had hundreds of thousands of downloads. It works, but it was a stepping stone to this other better thing. So it's like half REAP and then half mixed bit quantization, right? But we wouldn't have gotten here without going there. So it's important if something is just not fun anymore, there's other opportunities waiting to be had. Nice.
+
+austingriffith.eth: Your agent just added a note. So,
+
+Anon7253: No, no, that's the point, yeah.
+
+austingriffith.eth: Okay, so I've heard you say this before.
+
+Anon7253: Yes.
+
+austingriffith.eth: do anything you want. It seems like in your mind there is this like us versus them kind and upward mobility is actually trending down right now Call it that how you will, but yeah. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon7253: Yeah, I can just tell you, like, there's pure luck where you're just born in, like, a cursed area. You have no choice, no chance. You're probably going to get killed by the time you're 15. And at that point, it's like... You could just do whatever you want within those confines. And that's like richness, right? If somebody takes you to prison and throws you in jail
+
+austingriffith.eth: Ah
+
+Anon7253: You really have two choices: either get with the program, accept what's going on, learn how to live in your head, or be super miserable. So it's the same thing in a place like that. Flight, I think, is kind of self-imposed. People are locking themselves up socially and hurting themselves socially. So it's not that the world is actually impossible. Everything's PvP. Especially in the US. Like every time you go outside, it's like you're being bombarded with people asking for tips, like, you know, homeless people everywhere. Everything's dirty. Your senses are being bombarded. But it's also a choice. You could just choose, "Hey, I don't want to do this anymore. I'm going to fuck off anywhere else." Especially if you're American, you could do whatever you want in the world. The I don't know. I'm
+
+austingriffith.eth: You said something really interesting there about getting with the program, as if if you're in prison you can be miserable or you can figure it out and you can get with the program. And basically those prison walls extend out differently for everyone, but everyone... probably has some kind of bars around them and you can be miserable or you can get with the program and like lean into your own agency.
+
+Anon7253: Yes.
+
+austingriffith.eth: how to trade cigarettes for
+
+Anon7253: Yes.
+
+austingriffith.eth: Bram. Okay.
+
+Anon7253: Yeah, I think we sit online and we watch other people all day, and it's very easy to start comparing ourselves to things that don't really matter to us. They're just not within our world, and that has nothing to do with our worth. I mean, I spend a lot of time on the internet and it's very bad for my mind and I'm thinking a lot about how do I disengage a little bit While keeping this I don't know how to say this disadvantage that I have, but I do want to try to disengage a little bit because it's just overwhelming. It is imprisoning as well.
+
+austingriffith.eth: Interesting. Okay. Okay, so let's
+
+Anon7253: And if I
+
+austingriffith.eth: Yeah, let's move on. There's a lot of philosophical stuff here and agency, and you can tell that you are a high-agency person. But I don't know if I'm smart enough to ask the right question there. We should move on to open source must win. So great, I mean, an amazing article, so much like This thing has caught wind and attention from a lot of people. What has changed in your mind or how well has it landed between the time that that article came out and now? Great
+
+Anon7253: We are in such a better place now than we were when that article came out. In general, hardware is getting more expensive for data centers. but if you're using something like Sparks, you know, relatively it's cheap. And like $20,000 is a lot of money, but you can have self-sovereignty for way less, $4,000 or $5,000. Not even a year ago, it was much more difficult. I mean, you could run models that are small, they just were not capable of... doing the whole agent thing. One of the small ones.
+
+austingriffith.eth: No. So cool.
+
+Anon7253: I gave multiple videos to edit and it's using FFmpeg or even $1,000 if you're super scrappy and what is available for a subscription in a lab is not too big for 99% of the population. Very useful. ### Here's your coffee.
+
+austingriffith.eth: And just give it a month or two and you'll start to see other models start to catch up. And then another shout out to open source and FFMPEG. FFMPEG itself is such a powerful tool. A similar part of the same ethos where you're using an open source model to power this open source tool. And it's like you said, it can edit video, it can cut video, it can move things around. It's so hard as a human to just land and start
+
+Anon7253: Hmm. Yes.
+
+austingriffith.eth: because you're like from the CLI. But an agent can. Yeah.
+
+Anon7253: They love FFmpeg, and they're all good at it. All of that is just FFmpeg scripts and people pay a lot of money for these FFmpeg scripts because ultimately people can convert them to attention. And so a small tiny model can do this for you very easily and it could make you money. It's just not direct. It's very good as a... as an extension to you. It's very hard to sell. People that are not, like, you know, in ASI courses.
+
+austingriffith.eth: This guy, this guy will, as soon as we end this episode, I will hit a button and he will start clipping this episode with FFmpeg. And I'll have like 20 or 30 clips
+
+Anon7253: But Sure!
+
+austingriffith.eth: On my desktop where I can pick ones to tweet. So definitely like using the heck out of FFmpeg. Okay. Let's see. Own the frontier, let's get into this. So the GLM 5.2... Are there some nice quick mental models to help us think through?
+
+Anon7253: Hmm? Boo
+
+austingriffith.eth: some of those routes are warm and some of those routes are cold, and you can kind of just delete the cold routes because nothing's being used, and that's quantization. To me, that was like, oh Oh, that's proning.
+
+Anon7253: So that's pruning. Yeah, that's pruning. Quantization, you've taught... So you have like a 16-bit floating point number? That's a single weight. And so if you have 750 billion 16-bit numbers, 16 bits are two bytes.
+
+austingriffith.eth: Okay, so you just lose some precision. That's what it is? Okay.
+
+Anon7253: So two bytes, right? Per single parameter it's two bytes. This is for the full precision. So two bytes times 750 billion, that's like 1.5 terabytes. Now if you have it in 8 bits, that's one byte. So one byte times 750, that's going to be 750 gigabytes. Now if you have it in 4 bits, so that means you have two weights per byte. so it would be four bits, it's 25% of the total model size, and it would be 370-something gigabytes. Got it. Yeah. Yeah
+
+austingriffith.eth: The thing is making the resolution of the numbers smaller. You lose some precision, but by doing that, you generally keep the same weights, and you're able to make the model work generally the same in a smaller amount less precision.
+
+Anon7253: So essentially if you have like a thousand divided by five hundred, you have two. But there are so many interconnections between all the parameters that it's hard to find the optimal quantization. At least for me, there's other ones that are better, like EXL3, but it's slow.
+
+austingriffith.eth: That's the other cold thing.
+
+Anon7253: but you have pruning, so pruning is like finding parts of the model. we quantize them down while keeping the rest in a higher precision. Well, on almost everything we've thrown at it, no regressions, no weird loops. There's a lot more for us to squeeze down. It's just going to take time and like a lot of creativity and people doing weird things context: I just saw the new exhibit at the museum.
+
+austingriffith.eth: Okay, but this is really interesting because the smaller it gets, the better it can run on other hardware. The smaller it gets, the easier it is to run on my phone. And you're taking a brain, and you're making it more and more accessible to people.
+
+Anon7253: Yes. Sure.
+
+austingriffith.eth: Just like in decentralization and everything else, we're always trying to make the nodes really easy to run, consumer hardware. Okay, so quantization is Pruning is kind of taking the cold routes out. And then there's REAP, which is like pulling out some of the experts.
+
+Anon7253: Yes.
+
+austingriffith.eth: We're not going to have both of them, we'll just have one of them.
+
+Anon7253: Yes, yes.
+
+austingriffith.eth: And are these basically the three kind of Things to think about?
+
+Anon7253: There is one more method, but I think this is like still like a very, not primitive, it's like a pretty young method. But the idea is you don't need to have the entire model in VRAM because you're not using the entire model all the time. So what you can do is have like a cache of the model that is in two bits, so this is like 12.5% of the total size of the original model. You can have that cache While the model is making predictions, widgets which are just potential tokens and their probabilities. what you could do is if the confidence of the model, which means if the model doesn't have a big certainty or a higher likelihood for the first pick... that means you're going into bad territory. So what you could do is basically locate the experts. fetch them from NVMe storage or from DDR5, DDR4, maybe from a SPARC. Sky's the limit. But you can go and fetch that and then put it into VRAM, run that specific token generation, and throw it back out and keep going with the two bits. Really, like two, three bits, four bits, if the path is going correctly, like the model is predicting something that has like a high likelihood probability, it's probably going to be very, very similar between all of the models, like all of the different
+
+austingriffith.eth: Oh, okay.
+
+Anon7253: But for those parts where it does have errors and it does have issues, you can just replay in full precision or whatever precision you want. context: ###
+The following is a transcript of an English-language conversation.
+### Hmm.
+
+austingriffith.eth: Okay, so you're saying that you've got this compressed or quantized model and it's coming up with a low confidence answer, and so you figure out, okay, who has low confidence, and you bring them into a special environment where you give them a bigger brain. And let them like dig into it deeper and then have higher confidence about the thing. Okay.
+
+Anon7253: Essentially yes, yes. Yeah, so
+
+austingriffith.eth: No, don't.
+
+Anon7253: Yeah, that would be very interesting because that allowed us to run GL on 5.2 on two 6000s, and it scored I don't have the traces, but I trust the person who did this. But yeah, there's a lot of things that we can do that is very interesting to get into more people's hands. Yeah.
+
+austingriffith.eth: And this is probably just a question for Claude more than anything. Do you have a quick cheat sheet in your brain? The GPUs and the VRAM max and things?
+
+Anon7253: Yeah, so the two-bit, like not two-bit, the sixteen-bit, eight-bit, four-bit thing. So two bytes... One byte, half a byte.
+
+austingriffith.eth: Full size, okay.
+
+Anon7253: So if it's in 4-bits, it's 75% smaller. If it's in 8-bits, it's 50% smaller. If it's in 16-bits, that's usually full precision. Let me figure out, yeah. So I've been writing this. It's still like a work in progress, but it's state of local AI 2026
+
+austingriffith.eth: Okay. Yep. I've seen that. Yep.
+
+Anon7253: This is meant to tell you all about the different hardware The models, the ways that you can navigate this, the quantization methods, it's a bit long, but I think it should be Yeah, I think it should be. So that's one thing. Then we have local.ai. So local.ai, we have released it to a few thousand people so far, but I think we're still reviewing stuff. Essentially, we have chart, like bar charts for models based on intelligence and speed hardware
+
+austingriffith.eth: There we go. Yep.
+
+Anon7253: So when we go like RTX 6000 it'll show the best model based on benchmarks that we were running. I like my version a little more.
+
+austingriffith.eth: What?
+
+Anon7253: It shows the best model based on the benchmarks that we ran. Then we also benchmark the quantizations to see how accurate they get. So essentially if you go here, you have your spark, you can see this is going to be the fastest model, and there's a parade of frontier of speed to intelligence, and we're trying to pick like three points, like the fastest, the smartest, and the most balanced.
+
+austingriffith.eth: Okay.
+
+Anon7253: but it uses vllm under the hood, sgilling as well, which are much, much faster than olama. Not at this towards my level.
+
+austingriffith.eth: Hell yes. Okay, so can I get into local AI without being accepted?
+
+Anon7253: Yeah, I need to send you a code. context:
+
+austingriffith.eth: But normal people who are watching this might not be able to get into local AI for a little bit. Okay.
+
+Anon7253: So we've been just accepting people incrementally. We just want to make sure that everything's correct so far.
+
+austingriffith.eth: Okay, there was a good question in here that I don't know if I can answer, and it's why is context the real bottleneck, not the weights? I think we're talking about GLM and the quantization, but I don't even know, is that just because it's like how much it can take in at once or when it starts to get confused?
+
+Anon7253: Are we talking about the context window or are we talking about the weights? Yeah.
+
+austingriffith.eth: The context window as the bottleneck I think is the question.
+
+Anon7253: So first I think the bottlenecks, like the mental model is the weights. between 50 and 80 percent of the size of the data that you need in memory to do the inference. So when we quantize, like let's say we have GLM, we quantize it to 3.25 bits, which is what we're running like as the standard now, that means the model fits in 300 gigabytes. Now for the KV cache to have like a million token context window in 8-bits, now we need like another hundred gigabytes, but because we also have activation, so we need some space for like the math to happen on There's some other stuff that goes in there, but essentially right after the weights it becomes the KV cache, both the precision, because you can do 4-bit KV cache, 8-bit, 16-bit, and the amount. you want at least 268k context in my opinion. That's like a comfortable, that's what I shoot for. And you want concurrency. So concurrency is like when the model runs a sub-agent, We want all of that to happen at once so the GPUs need to have enough space to do all that math for whatever amount. Usage is hitting it. Does that make sense?
+
+austingriffith.eth: Okay, yep, totally makes sense. Yep. I only have you for so long, so I want to ask you as many good questions as I can here.
+
+Anon7253: Take your time, we have 25.
+
+austingriffith.eth: Perfect, we'll use it. Whatever time you'll give me, I'll take it. Subscriptions are subsidized right now, and you're paying $200 and getting $4,000 to $8,000 worth of value. Where is that going? What's going to happen there? Like, what do you think?
+
+Anon7253: Okay, so I don't think that this is the case for everybody.
+
+austingriffith.eth: Okay, just using the shit out of it. Yep, yep.
+
+Anon7253: I don't know, let's say a hundred thousand people who are outliers that are using this stuff like heavily, right? would be costing like each a lot of money because usually like these labs, they're dealing with different numbers of compute. It's not like they're running four GPUs just for you. They usually have like 64 GPU nodes and then those like are meant to service But you as somebody who is doing all these like agent loops, goals, like spamming it from 20 different... you know, you're taking up maybe 5% of the capacity of these GPUs. And if you translate that into like GPU hours And you try to go rent that from Prime Intellect, whatever, AWS, it's going to cost you way, way, way more than you think. So these users, like these 100,000 people, I think it's way more. Let's say a hundred thousand people. Because I think, unfortunately, there's regular people that are also using this amount of usage. They're just sitting there talking to Claude all day, every day. They're doing their research from a personal perspective, not from a work perspective. They're also abusing the... And then they probably cost anthropic more than $20 a month or $100 a month. Now I could be wrong, like I don't know what's going on inside of their labs. I have no idea. That being said, assuming I'm like more right than wrong, they have to increase the prices or reduce the usage for these types of people. So we've watched the average subscription price. 2022 go from $12 200. Now it's like in Europe, you pay $280 a month for ChatGPT Pro. So if the government of Iran is using AI for any reason possible, they need to either service their own thing because they are not going to be prioritized. I'm just throwing names of countries out there. You know, Yes.
+
+austingriffith.eth: [laughter]
+
+Anon7253: I mean, I don't know if this is true, this is like again my AI psychosis, but do you feel like, yeah, what do you think about this problem? I'm curious.
+
+austingriffith.eth: I am but a lowly sloperator. I take as much as I can. I've got four subscriptions. I feel like it's magic that I get so much out of it and most people don't. And what I'm hearing through this is basically
+
+Anon7253: What time is it?
+
+austingriffith.eth: there's a lot of people with a lot of subscriptions and they're not banging on it as hard as we are. I don't know if that's a great analogy. Okay.
+
+Anon7253: Yes, essentially. No, it is, it is. Also, there will always be, I think, open and public AI available. I mean, there is public anything, right? Yeah, you can torrent it. But in the UAE, I think the UAE was the one that did a deal with OpenAI where they essentially purchased with a few billion dollars, a few years. for all citizens of the country. So the problem with this is that if AI becomes like health insurance in the US,
+
+austingriffith.eth: Which it could. Yeah
+
+Anon7253: That's gonna suck. And that's most likely what's going to happen from a security perspective. Also, if I have 100,000 GPUs and everybody wants these GPUs, I can't sell to everybody. rather sell to the highest bidder, which is most likely the government, and then have the government handle the distribution, right? But then you have like this middleman who basically, similar to an ISP, you have the ISPs, which are like a massive issue Some countries where they can just shut off the internet. I lived in a country where they could just shut it off.
+
+austingriffith.eth: We got satellites, bro. I got a satellite, I just point at the sky and I get internet. ###
+
+Anon7253: It's still tough because they can figure ways around slowing down the introduction. Yeah, because satellites, they need to get into the country. So countries like Iran, it's hard to get. internet that connects to the rest of the world. North Korea, it's not as simple as Starlink.
+
+austingriffith.eth: Okay, okay.
+
+Anon7253: context: ###
+
+austingriffith.eth: So you've already kind of talked about this, this quote, everything is becoming worthless, distribution is everything. I think you've already touched on that everything is becoming worthless part. And when I talk to a lot of sloperators, they always spend about 80% of the time talking about their setup and 20% of the time talking about what's actually coming out. And it seems like maybe this distribution is leaning into the, what are you actually doing?
+
+Anon7253: True.
+
+austingriffith.eth: First of all, what do you mean by distribution is everything? What do you tell other sloperators in terms of ...your stack versus your output...
+
+Anon7253: Yeah, so what do I mean by this?
+
+austingriffith.eth: Okay, fancy. Hi Yep.
+
+Anon7253: I'm trying to take the Gucci brand, right? then they go from there to Italy, they get stamped they get taken to these shops where people pretend like they're worth way more than they are actually worth, right? So it's like the way that the product is being distrib like the arbitrage, like that's really where the value comes from because anybody can produce a shirt that is the same quality of Gucci shirts. This is not like a high barrier to cross. So it's like how Same thing with code. Anybody can now go and make a dashboard, a website, an app. So how is it, like, why would I go to your app versus just build my own app? So there's like two arguments there. something under the app that is proprietary that I cannot access without going to this app, like inference, like whatever. ChatGPT app, Codex app, then that vertical integration. You are capable of selling pretty much anything, right? Because you have your audience. Now, obviously, you should sell good things to your audience. I get a lot of sponsorship requests. I don't do any of them. I should be able to say whatever I want to say. But I could sell to the audience, and I think there are things that the audience would like to purchase that don't exist, and AI can just fill the hole very, very quickly. Does that make sense? Yes, Americans.
+
+austingriffith.eth: Distribution is everything and Gucci has hella good distribution.
+
+Anon7253: Yes.
+
+austingriffith.eth: You as a slobberator need to understand that anyone can build what you are building. You have to have good taste and good distribution of the things that you are building.
+
+Anon7253: Yes. Yes.
+
+austingriffith.eth: Then you're like, what are you building? Oh, but it does this. How do you pull that thread?
+
+Anon7253: So basically I have a public GitHub. Everything that I do pretty much is open source unless I have some kind of NDA or contract. Pretty much even then I still try to like do open source. What I've been building is this local studio app, so it does the inference from your machine. You install it, it turns your machine into an inference machine. Then I got recently transferred this app called KittyLObject.
+
+austingriffith.eth: I've seen the kitty litter stuff. What is kitty litter? Hello.
+
+Anon7253: So kitty litter was the first Codex app before ChatGPT connected to the Codex. app now also.
+
+austingriffith.eth: But it wasn't built by OpenAI? It was like a third party that was building it? Sure.
+
+Anon7253: So the kitty litter app, this open source guy built it, and then OpenAI hired him to build their own, right? Because they didn't have like a way to do this.
+
+austingriffith.eth: And then he had to do something with kitty litter. That's why he handed it off to you. Okay, cool.
+
+Anon7253: Well, I asked him for it. He was sitting on it. team The code is all my own slop. I want the ability for me to connect and use my own inference to be as good of an experience as Codex and ChatGPT app. So that's one thing. The other thing is all the compressions that I put on Hugging Face. Technical writing, so you could find my writing under the Cerebrus blog. These are AI companies. So I do model reviews, so both privately and publicly. I do model and app reviews and stuff like that. What else do I do? Yeah, I do auto research so I have auto research running all the time on something, like give GLM vision, right? The problem for me is it's AI working on AI. That's like all the stuff that I'm doing is AI working on AI. It's not stuff that is like I'm more good at like making experiences and like meeting people and socializing and, I don't know, like crossing, you know, these bridges. Great, Hmm.
+
+austingriffith.eth: And how about advice to other sloperators now that you've gone through a lot of this? It's sort of like when I was working on my Linux operating system, I was always working on my operating system and never getting work done. Do you have any advice for people who are spending 80% of their time working on their stack? their time actually producing work.
+
+Anon7253: Um
+
+austingriffith.eth: Okay. If that's fine? Hello
+
+Anon7253: I feel like you should just have fun. If 80% of the time is you having fun, and if you can make money, it doesn't matter. The tools in which you do your job are just as important as the job itself. And now a whole bunch of People are using this in a whole bunch of different products, so it's fine. I'd say stick to the Codex app. I'm showing Codex here. It's an unpaid shill, but stick to the Codex app for everything computer use. Like, I basically connected it to my GitHub, my email, my calendar, my drive. I have a file on my machine called slash personal, and it has every single document, everything I've ever written, all my tweets, medical records. Every time a new model comes out, I go in there, slash, go shove it into their servers. They should know everything about me. Um, One thing I would say is the most important advice is keeping things simple because the models just love to overcomplicate everything. They're very good at localized changes, they're not good across systems. they are not good with Git, so stick to a single branch Claude is great for...
+
+austingriffith.eth: Hmmmm Yeah.
+
+Anon7253: I don't know, personal stuff, as a semi-conscious thing. I feel like it's a semi-conscious thing. That's how they're building it. They're making it seem conscious, right? But it's a great communicator, and it's great at
+
+austingriffith.eth: Yeah.
+
+Anon7253: personal stuff, right? It's very trustworthy
+
+austingriffith.eth: Huh
+
+Anon7253: If they don't like you, they're not going to give you good. If you say something wrong, it's down like whatever, 5% of the time I'm trying to use it. So,

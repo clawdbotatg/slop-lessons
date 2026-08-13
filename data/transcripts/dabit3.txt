@@ -1,0 +1,439 @@
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x4df29863: Good, how are you?
+
+austingriffith.eth: Welcome to the slop. Natterman, how you doing, dude? I'm surviving.
+
+0x4df29863: Um-hum.
+
+austingriffith.eth: What was that, like trap music? Okay, let me shut that off. Welcome. So you've had a kind of journey through Through Ethereum and onto more like AI stuff. And this is kind of like a show about the cross-section of A little bit of crypto, a little bit of AI, maybe it's more like we're talking about cool AI stuff and hoping to pill a few people on crypto along the way kind of thing. Like this whole slop computer is eventually going to be like a platform you can spin. context: Heck yeah, man. Yeah, or bad.
+
+0x4df29863: Shé! This is a really cool platform, by the way. It's just a lot of fun, you know?
+
+austingriffith.eth: I'm always moving stuff around, like when people are talking and I should be paying attention to what they're saying, I'm moving stuff and dinking around with the platform.
+
+0x4df29863: Yeah, I like it.
+
+austingriffith.eth: Cool man, well it's great to have you here. You started, like, I knew about you maybe like AWS era. And then like you came through ETH?
+
+0x4df29863: Sure.
+
+austingriffith.eth: Maybe like Abe and Eigen, if I remember correctly. You've worked at some big places doing developer growth. Is that what you're doing now at Cognition? Hey Okay.
+
+0x4df29863: Yeah, I mean, the title that I have is not so clear. I don't even have a title, actually. I'm just on the growth team. So I do growth, and that is developer growth. It's essentially I'm helping with the ambassador program and the community events, onboarding startups. It's pretty crazy, I'm doing a million things. But yeah, it's kind of the same general genre of things that I've been doing. I guess Eight years of my career now, so...
+
+austingriffith.eth: But also building. Like you are a good builder and you're good at like experimenting and finding the edge. I don't even know what the word for it is. what the new tech is going to be and going and experimenting with it and building things.
+
+0x4df29863: and now with AI, if you have this itch, it just makes you go crazy on it.
+
+austingriffith.eth: It's so much work.
+
+0x4df29863: Because if you want to focus on one project, it used to take months to build.
+
+austingriffith.eth: Um.
+
+0x4df29863: You can actually ship something in a couple of hours now, it's crazy. I had it up and running in a couple of hours, it's just crazy. Sure.
+
+austingriffith.eth: I talk about this a lot, but I always figured I would do DevOps and my agent would do the building. Then one day, it was just like, "Oh, I'll set that up for you." It was like, "Oh, that's so much easier." It's so cool.
+
+0x4df29863: It is, it's so much fun.
+
+austingriffith.eth: Yeah, let's get into your stack. That's usually what I like to talk about is like what your stack is, what your superpower is, what your tooling is. Like, are you a Clodcode guy? Are you a Codex guy? Which way do you lean?
+
+0x4df29863: Yeah, so I mean, I kind of use a lot of different things. And in terms of like the tech stack, I used to say, oh, I'm a TypeScript guy and I'm a Python or whatever, right? But now it doesn't matter, honestly, right?
+
+austingriffith.eth: Yeah, I never used to write Python, and now my bot writes Python all the time. context:
+
+0x4df29863: Yeah, so I'm just shipping code. Now, what LLMs do I use and what tools do I use? Well,
+
+austingriffith.eth: Awesome.
+
+0x4df29863: I would say that I'm kind of like experimenting with this orchestration model where you kind of have a really intelligent orchestrator and a quick or inexpensive executor. And I pretty much have unlimited tokens Because I worked in an AI company. But that doesn't mean I'm wasteful or anything. If I'm doing something really serious, I just use Fable or I use Opus 4.8. Actually, lately I've been using Fable or I use GPT 5.6 lately. I guess Seoul
+
+austingriffith.eth: It is.
+
+0x4df29863: If I'm doing something quick, I use SWE 1.7 because it's like 1,000 tokens per second. It's our model at Cognition.
+
+austingriffith.eth: Oh, it's a cognition model. OK, cool. Yeah.
+
+0x4df29863: Yeah, so for deep intelligence, I use the frontier models. For speed, I use SW1.7. For my tooling, I mean, I obviously work at Cognition, so I'm using Devin for everything. But I still kick the tires and I have Cursor and I have Claude and I have Codex subscriptions because I want to keep up with what they're doing because they're kind of, I would say, our competitors, and I can always learn from other people what they're doing. But I would say like 95% of my work is in Devon. The large majority is using frontier models. I would say I'm split about 50-50 in local and cloud agents. So I kind of like prototype and experiment locally. Once I've shipped something, it's in the cloud and then I'm just iterating on it in the cloud.
+
+austingriffith.eth: So SW stands for like software engineer?
+
+0x4df29863: Yeah, it's kind of like a model trained specifically for software engineering.
+
+austingriffith.eth: Cool.
+
+0x4df29863: context:
+
+austingriffith.eth: Okay, and then you got into Devon too, and I wanted to kind of hit on that. So Devon is like a harness then. I thought it was like an agent. It's a harness.
+
+0x4df29863: It's a combination of a bunch of things. So we have our local agent, which is essentially just that works with our desktop application, which supports ACP. ...actually with the Devon desktop. So I also kicked the tires with other agents as well. And then the cloud agent is more of like a software engineering platform. Yes, it has a harness, but it also has all these other things. That's the general idea. Yes.
+
+austingriffith.eth: Okay, you said you get infinite tokens. Just because you work at an AI company, how does that work? Like, I want infinite tokens.
+
+0x4df29863: I mean
+
+austingriffith.eth: You guys just have deals?
+
+0x4df29863: I mean because we have a subscription to Devon.
+
+austingriffith.eth: It's like your internal product. No. Context:
+
+0x4df29863: Yeah, and we have Opus and we have Fable as options.
+
+austingriffith.eth: What'd you build?
+
+0x4df29863: Yeah
+
+austingriffith.eth: No, exactly.
+
+0x4df29863: So I'm more like productivity maxing, and sometimes that means I'm like running an hour of Fable.
+
+austingriffith.eth: Okay, so Cognition builds a handful of AI products. ...like thing. 빠. Inside of Devin, you can choose Fable, or inside of Cognition, you can choose Fable? I'm still getting a lay of the land. Sorry for these dumb questions.
+
+0x4df29863: Yeah, sure. I mean, I guess when you look at like Claude
+
+austingriffith.eth: Hi
+
+0x4df29863: like Claude offers you the Anthropic and Claude suite of models. When you're using Codex, you have the Codex or I would say OpenAI models. With Cognition, we essentially offer every model. We offer GLM and KimiK 2.7 in DeepSeek, and then we have our own model SWE 1.7. more diverse and better. And we want to support everything. We want to make sure that if something new comes out You can build out smarter routing capabilities because if you have a router that only is allowed to use like two models, then you're kind of not getting the full capability. But if you have a router that can touch a PDF specialized train on parsing PDFs when you need that, and it's specialized on software engineering when you need that, and it's specialized on general purpose. If you have a smart router that has access to everything, then that's kind of the ultimate goal of a really high-quality harness in my opinion, and I think that's our general take. And I think if you're a company building an LLM and you only allow people to use your LLM, kind of like ...not giving access to everything that's out there. So that's our approach, and I think a lot of people like that, but it's not maybe for everyone, I would say.
+
+austingriffith.eth: Yeah, no, that makes sense. And I love the open source models. Being able to dink around with open source models feels like, I don't know, it feels like more cyberpunk and more magic. I'm building an app that uses a local model on my phone. And it's like dumb, but it's like quick.
+
+0x4df29863: Dang, it's so fast probably, right?
+
+austingriffith.eth: It's free, it's fast, it's dumb, but you know it's coming. This is going to be way better in a year. It's going to not catch up with probably frontier models at the time, but maybe the model... on my phone now will be as smart as Fable is now or Opus is now. I hope, we'll see. But it's cool Yeah.
+
+0x4df29863: Yeah, I mean, that's just how things have happened and why would we expect it not to continue that way? So, you're right.
+
+austingriffith.eth: I hope it does. We'll see what happens. I cypherpunks, so it's kind of a different mix. Hugely centralizing. Open source models are exciting, but they're just not as good. And it's just a part of the thing. Like the frontier models are just going to be better and it's just going to be how it works. But hopefully these open source models catch up. To change gears back to something you said earlier, this is like one of the tensions that I get from talking to a lot of sloperators, is It's the meme of like I'm running 100 agents, and I'm token maxing, and I'm building my own harness and all of this stuff, and then it's like, well, what are you producing? This is like a really great insight of just what the actual output is. Do you want to talk about that more? You basically already talked about it, but this is one of the major themes of Slop Computer so far.
+
+0x4df29863: Yeah, I mean, I think one of the things I've noticed because I'm working at a company that does this, it's like when you're talking to customers. And they're essentially like a CTO of a company.
+
+austingriffith.eth: ###
+
+0x4df29863: can really get out of control. I think I saw someone that tweeted about a single session running and costing them $20,000. There's crazy things happening out there, and if you just give your engineers
+
+austingriffith.eth: Yeah
+
+0x4df29863: and you have a $10 million bill at the end of the month, but what did the outcome of that be? Seeing at least with us and with some companies is a focus around output or productivity or ROI. And therefore you kind of have like more intelligence around tracing and where these sessions and who they're attributed to. So with us, we provide like a dashboard that shows 10% went to pull requests, 15% went to, you know, I don't know, like bug fixes, and 25% went to data. Analysis. And like 20% went to new features. You have a clear understanding of what's going on. because you might just be doing some crazy loop. But yeah, I mean, that seems to be a big, big focus right now across the entire industry. And there needs to be some way to kind of rein that in. between productivity and spend.
+
+austingriffith.eth: You tapped on loops. I feel like loops were hot for a while. You also said it sucks that People are burning so many tokens. How do you feel about loops? What's your take on loops?
+
+0x4df29863: Loops are interesting. I think loops are a lot simpler than people would like to make them out to be on Twitter. Because you can basically say Go fix this task and then run a test to make sure that it works in the browser. And if it doesn't work, go and fix the update and then test it again. That's kind of a loop, and you can create a million of these loops in natural language. build some crazy system around it.
+
+austingriffith.eth: Evaluation, yep.
+
+0x4df29863: It's just like that, but in natural language. I mean, loops are interesting. I think what's more interesting though are automations. Because like when you have an automation, you can have a clearly defined task and outcome and you can run it on a very, very well-defined and you know that you're going to actually get a result based on that, and it's not just out there running in the wild. It's going to run every morning or once a week, and you're going to have this artifact that is a result of that. And I think automations allow engineering teams to really, really focus, or even developers, to really focus on building and innovating new things and not going and maintaining old things. So if I have like an app that's running What I might do in the past was check every month to make sure my NPM dependencies are up to date, make sure that there's no issues that have been opened on my repo that need to be fixed. All of that can be automated now, right? You can run an automation that says, look at my package, JSON every month, and upgrade. my dependencies and make sure the app still works. automation that you can set up once, and that relieves an hour of your month. When Sentry detects a crash or a bug, how can you route that alert to an agent to go and make a fix and submit a pull request and review the pull request? All you have to do is review the pull request and click merge, and then you can go and actually build some cool stuff. So to me, that's truly where the value is. I think if you're someone that's building crazy depth tooling around agents and you want to create crazy, you might be doing the crazy looping type of stuff, like if you're Peter Steinberger building crazy stuff at OpenAI. The loops are more around pragmatic, like prompt engineering, and then automations.
+
+austingriffith.eth: Fukuri on here who builds smithers and he talked about loops. And basically he said that like a lot of people out there build, like over-engineer their loops and they don't actually like just compare it to a Ralph loop. like usually a route loop will beat their fancy building.
+
+0x4df29863: Yes
+
+austingriffith.eth: build this and evaluate it like this. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+0x4df29863: And honestly, the best harnesses can manage a loop in natural language.
+
+austingriffith.eth: They do it anyways.
+
+0x4df29863: So I mean like I think
+
+austingriffith.eth: Yep.
+
+0x4df29863: I think loops are just going to be eaten up by harnesses and prompt engineering. We're back to square one.
+
+austingriffith.eth: And that keeps happening. Like, good harnesses keep eating a lot of things. There was a ton of stuff you had to do to get Sonnet 4.3 or whatever to build things without saying, "You're absolutely right" a hundred times to you.
+
+0x4df29863: [laughter]
+
+austingriffith.eth: Now it's just like, nah, I think at a whole higher level of abstraction and just like one shot the thing and it goes. You talked about schedules, and I think I do a lot of scheduling also. it does feel like magic when you have like, again, you wake up to a PR that's all done figure out which ones to merge or something This is probably what Peter Steinberger's doing.
+
+0x4df29863: Yeah, some people are like building GitHub Actions that auto-merge certain PRs. Players are trigger.
+
+austingriffith.eth: Could be time, could be, yep.
+
+0x4df29863: The trigger kicks off an agent session.
+
+austingriffith.eth: Don't leak any tokens.
+
+0x4df29863: I mean, that sounds crazy, but when you think about human hours, this is actually very efficient. And then you have a set of credentials or criteria that can auto-merge.
+
+austingriffith.eth: Hello
+
+0x4df29863: then you've done 80% of your work completely automated. you can then have a human reviewer at the very end. it's been all of their time like innovating. So like I think the teams that are going to really, really do the best are the ones that are going to give their engineers the most time to innovate, to build, to create and to solve new problems as opposed to just making sure things don't break. I know.
+
+austingriffith.eth: Hell yeah.
+
+0x4df29863: Sounds a little boring, but it's true.
+
+austingriffith.eth: No, no, that's good. Boring is what gets the job done a lot of times. Let's see, we talked about And then you said agents a little bit with Devin. And then there's even entities, which are kind of like these things that are like agents that exist in line. We kind of talked about maybe GitHub and tagging. Do you use entities or are you guys like, I think this is kind of like a new word and I don't know if it'll Another thing that will probably be eaten by the harnesses. But yeah, I don't know, do you use entities at all in your workflow?
+
+0x4df29863: Yeah, I mean, I would say Slack has been one of the most popular ways that people have been using Devon for the past year or so. Most of these Slack agents is that in order for them to do work, you need to tag them. And then they are triggered, and then they start doing the work.
+
+austingriffith.eth: He's just reading everything.
+
+0x4df29863: That's like the state of the art is when you invite an agent to live in your Slack channel, and they're reading everything. And then at some point they know, oh, I can solve this problem because that's what I'm configured to do. where we currently are with most of our automations is like, yes, you can still tag your agent and explain to them to do something. But when you actually have an agent that lives inside of a Slack channel, they can decide when to act and act automatically. So you're now removing just another step of human in the loop type of stuff. So yeah, that's kind of what we're doing now. For us, we call it auto triage because it's like the agent automatically knows when to... but really you can kind of like have the agent do anything. You might have a birthday channel and the prompt might be
+
+austingriffith.eth: (laughter) Yeah, yeah.
+
+0x4df29863: I don't know, like if someone says happy birthday, then you should go add an emoji with like fireworks or something. I mean, like, you know what I'm saying? It's pretty cool. It's actually really fun. Yeah.
+
+austingriffith.eth: I feel like this is a hard thing of having an agent that's like paying attention to everything but knows when to step in and knows when to execute on something and knows when to stay back. Like, I think that is very hard for an agent right now.
+
+0x4df29863: It is very hard, and for us, the way that we are able to manage a functioning version of that is that it's highly specialized on software engineering tasks. I think if we tried to expand our agents to do everything, it would be a little more challenging to know how can you configure this. But I'm assuming with a good prompt per channel, maybe it might work. version of this is an auto triage bot. So, if you have like a Slack channel where messages are posted from humans and from automations, you might have a warning that's not so serious And then you might have an actual bug that's posted to that channel that says critical error slash product slash ID isn't working and it's crashing. Then the agent will automatically know, oh, I'm going to jump in and solve this.
+
+austingriffith.eth: This shit's critical, gotta go.
+
+0x4df29863: So that's just how it works.
+
+austingriffith.eth: The prompt for channel, I think, is the clear piece to me.
+
+0x4df29863: Yeah, exactly.
+
+austingriffith.eth: If there's anything that's like high or critical, you need to attack it now.
+
+0x4df29863: That's right.
+
+austingriffith.eth: Something like that, where you're writing, again, like going back to plain text loops.
+
+0x4df29863: That's exactly right, yeah.
+
+austingriffith.eth: That makes sense. Okay, another thing, and you've already hit on this, I'm kind of changing gears again. I think I had you on for product, the PMFers.
+
+0x4df29863: Hmm. We did a few, I don't remember exactly which ones, but yeah.
+
+austingriffith.eth: Did you get on PMFers? I had you in a couple, but on Slobcomputer I'm starting to find He's like And another one is like effective versus efficient. And you want AI to be effective first. It needs to get the job done. If it's not effective, everything falls apart. then if you're constantly running your effective AI, it gets very expensive. I think you said you have Fable as the... and then SW7 as like the implementer.
+
+0x4df29863: Yeah, that seems to be like a very, I would say, efficient approach in general these days.
+
+austingriffith.eth: Yeah, and it's like you're constantly measuring this. Do you find yourself pulling on this tension of effective versus efficient? Yeah.
+
+0x4df29863: No, I think it's being reevaluated all the time. And I think with the progression of models and capabilities of models and pricing of models and all these different things along with the harnesses, it's going to continue to be reevaluated. I think the general direction is around smart routing. And then the prompts will automatically be routed and the tools will automatically call. Just like a smart harness knows which tools to call, a smart router knows which LLMs to call. And you're not only calling one LLM, you're kind of like finding what is the best. for the best price and the best speed.
+
+austingriffith.eth: Okay, so do you guys do any like routing type stuff at Cognition? some kind of a triage system that tries to route it to the right model or
+
+0x4df29863: You have the option to choose between a variety of smart routers. but it wasn't like a thing back then. But now it's becoming more into the zeitgeist. as like fable level intelligence at opus level cost We have a regular agent router that is kind of our base router where we try to pair the highest intelligence with the lowest cost with the highest capability. And then we have a fast agent router, which is the same thing but two and a half Faster We have a low-cost router, which is called Light Router. We have a data analysis router, which is specialized in doing analytics. And it's better at doing data analysis.
+
+austingriffith.eth: Like a ton of effective versus efficient, yes.
+
+0x4df29863: Yeah, we have a bunch of different ones, but pretty much when you're working in the cloud, almost all of our agents use smart routing. Locally, though, we're still offering A lot of straight direct agent capabilities, but what people are essentially doing is building their own version of a smart router with an orchestrator pattern. So they have like a skill, and I have like the skill called lightning skill that's available but what it essentially does is because like Lightning is a thousand tokens per second It's around like, I believe, 85 tokens per second. is All right because I'm not using Grok for everything. And what you now have is like an extremely fast router and then you have a lower cost Total token consumption.
+
+austingriffith.eth: Yeah, this theme of effective versus efficient is like
+
+0x4df29863: Oh yeah, it's a thing, it's big time.
+
+austingriffith.eth: everywhere and all the decisions you're making.
+
+0x4df29863: That's a great question.
+
+austingriffith.eth: How do you go about comparing two models? Like there must be some kind of bench, but how do you do it? Cool.
+
+0x4df29863: Well, we have our own eval, our own benchmark that we worked on. So if you just Google Frontier Code Eval Yeah, it should be the first thing that shows up. Like Yeah, front Yeah, if you like...
+
+austingriffith.eth: Oh shit, like the websites? This messes with my ADHD so much, just like playing around with this? Yes, yes, it's crazy, yeah
+
+0x4df29863: But like, you know, what ends up happening with these evals is like they become saturated. When you start having like these crazy capability
+
+austingriffith.eth: Start teaching to the test, sort of, right?
+
+0x4df29863: Yeah, and they're like, oh, 99% effective. frameworks for judging models. And what we have is something called, I believe, Frontier Code Diamond, which is kind of the most challenging eval or benchmark along with other things with frontier code. And yeah, that's the way we evaluate. And there was actually a really nice blog post Someone at Cognition yesterday Explaining exactly how Let me see if I can just drop this in the chat
+
+austingriffith.eth: I think I had it up. I think it's this right here, right? complain. Meet
+
+0x4df29863: Yeah, exactly. So that's a deep dive. The question of how could we make a router that's Fable intelligence but cheaper than Opus.
+
+austingriffith.eth: Here's the article here. This is what I had earlier, just trying to figure out like how you even... It sounds like you have your own benches, and your benches are respected by Anthropic, which is really cool. But the problem with any test bench is that the next model is then built to weigh all that. but maybe is not generally intelligent overall at other things.
+
+0x4df29863: Hmm.
+
+austingriffith.eth: Oh yeah, let's get into your... How green are we looking? Did it pick up? Yeah.
+
+0x4df29863: I mean, I'm not doing as good as some folks, but yeah.
+
+austingriffith.eth: Yeah, no, this is great. This is where it should be. You're a father, too. You know, you gotta be a parent some of the time. Sure It looks like it did pick up a little bit. I feel like there was a big turning point in November of 2025 where Opus 4.5 really...
+
+0x4df29863: Mm-hmm.
+
+austingriffith.eth: I don't know, you could just really rip at that point. So that's what I look at. I look at this GitHub chart but around that time and how it changes. And it looks like you just had some like maybe deeper commits since then. Looking good, huh? Looks good. Who are you Yeah.
+
+0x4df29863: Yep, Opus 4.5 was truly a turning point for me. And um I looked at all the stuff, yeah.
+
+austingriffith.eth: Let me, sorry. Weird. What was the thing that you were saying you were gonna release? Wie wir es nachfabrikiert?
+
+0x4df29863: Yeah, it's public. It's under my repositories. Lightning orchestrator?
+
+austingriffith.eth: Lightning Orchestrator. Here we go. Nice. Okay. (laughs) Cool.
+
+0x4df29863: I haven't shared it publicly until now. I have some updates I'm going to push. in the next day or so. But yeah, it's basically
+
+austingriffith.eth: The TLDR is it's, yeah, go ahead, go. Okay, cool.
+
+0x4df29863: No, no, exactly like what you're probably saying. Yeah, exactly. It's a thousand tokens per second.
+
+austingriffith.eth: Lightning is your SW 1.7, it's like the fast version of SW 1.7, is that right? And it's free to you, but can I get it on a subscription, or how does it work if I want to get Lightning? or 17 in general?
+
+0x4df29863: Yeah, if you use Devon, let me see the pricing right now. The Lightning right now is 2.5. cents per million tokens out. The bouts 25% the cost of Babel
+
+austingriffith.eth: Okay.
+
+0x4df29863: Yeah.
+
+austingriffith.eth: Yeah. And it's like, so it's really fun using,
+
+0x4df29863: Yeah, that's right.
+
+austingriffith.eth: But you can put it in isolation and give it a task and it's pretty good.
+
+0x4df29863: you kind of like route tasks to models based on their capabilities these days, right? So there's certain things that you can just know that you can send it to. Like, I'm not going to use Fable to like, ask a question about New Orleans
+
+austingriffith.eth: Right.
+
+0x4df29863: So I'll use like a local model for that because hey, it's free and it's here.
+
+austingriffith.eth: Like I have a stupid question that everybody already knows and I don't know, local model. I've got a keystroke on my keyboard that I hit and I just start talking and it dumps it to a local model.
+
+0x4df29863: Nice. Yeah.
+
+austingriffith.eth: It's so handy for things like that. Like, when do I start watering my lawn in Fort Collins? Like, questions like that, right? The local models can handle that for sure. What were you going to say? Oh, okay.
+
+0x4df29863: I don't have a local model running. I need to do that. So how hard was it to get running on your Mac or something?
+
+austingriffith.eth: Super easy. I just have like Olama installed. And then so I'm on this kick right now of like local models. Like I said, I even have like local models on my phone that I'm using. And it's really easy. You get Olama download some stuff and anyone, you know, I just tap Claude code do it, right? Like, yo, go get me a llama and get me some local models. But I've been pushing for what SAS products that I use that I push all my data to someone else's cloud machine I actually rebuild locally. And the first one is just like a note-taking app, like Granola.
+
+0x4df29863: 嗯。
+
+austingriffith.eth: It took me like an hour in an afternoon, and my local model was... Okay, so I used Frontier models to build the software to use local models to do Granola, right? At the very beginning of the call, you were talking about how your system has these classifiers that you do some work and then it classifies whether It was a PR or a feature. Local models are really good at that kind of thing. You could basically have like a simple dumb local model that can classify stuff super fast for free on top of your frontier system. And I think that more people should be doing that for sure.
+
+0x4df29863: Yeah, absolutely.
+
+austingriffith.eth: Like the privacy is there, even open source models like GLM 5.2 are pretty good.
+
+0x4df29863: Hello, how are you?
+
+austingriffith.eth: Usually I get a chess app going and put
+
+0x4df29863: You have so many things here.
+
+austingriffith.eth: But GLM's pretty good. Let's get a game going. We'll throw it down in the corner. Just something fun to watch there.
+
+0x4df29863: Yeah, that's cool.
+
+austingriffith.eth: There may be provided context on the content of the audio or conversation. Okay, Yeah.
+
+0x4df29863: GLM is good, GLM is really good.
+
+austingriffith.eth: Yeah, and open source, I love the open source models. impacted.
+
+0x4df29863: Sure.
+
+austingriffith.eth: Okay, let's see. What else is there? So like Idea Guy Summer is happening right now, like you can basically build anything. Like you said you had an idea and you built it in an afternoon. You want to share any of your...
+
+0x4df29863: Yeah, sure.
+
+austingriffith.eth: Idea guy ideas that you're shipping these days?
+
+0x4df29863: I mean, a lot of it isn't crazy complicated.
+
+austingriffith.eth: You can't control this one, but you can control... there is a browser here. Here we go, we can like multiplayer this browser. Do it.
+
+0x4df29863: This is a cool app, I'll probably just share open source because it's already open anyway. I'm just going to full screen it for a little bit, but this is the way it looks. If you're like an event organizer or something, And you are like events that require you to hand out like some type of coupon or credit. Like for us at Cognition, we host a lot of meetups. And when someone attends a meetup, we want to give them a credit. Or maybe if they come to But the challenge with this sometimes is like nowadays, like these LLM credits are almost used like currency. People build systems and apps around them that allow them to kind of...
+
+austingriffith.eth: be resold, be attacked, yes.
+
+0x4df29863: I would say attack... Yeah, like resell them and all these things. The way that you Yeah.
+
+austingriffith.eth: We saw that in crypto a lot. That gets attacked.
+
+0x4df29863: Yeah, it's similar man for sure. So like, what is the approach to solving that? Well, the approach is essentially number one, having one-time use codes, and then number two, giving those one-time use codes to the specific people that That should have them and that's it. So this is just a simple system that allows you as an event organizer upload a list of credits. And then you can export the list of attendees in email. And everyone at your conference can then just go to this URL. And then if they are an attendee, they sign in and it matches them up with the code. On the back end, we'll say this code is clam, so no one else gets suggested it. And this has been a really nice way to kind of like scale out our credit distribution.
+
+austingriffith.eth: Yep Your credits are all gone. Ha!
+
+0x4df29863: People could kind of use the same one, but they would get shared with their friends or sold before the end of the meetup. It would happen almost within 20 or 30 minutes, they're all gone.
+
+austingriffith.eth: Oh man.
+
+0x4df29863: Anyway, it's not our job to go and do all that. and like Codex have had challenges with this. So this is the type of system; pretty simple, but it works really, really well. Yeah.
+
+austingriffith.eth: This is a great example of just building your own software. Software is so easy to make right now, but you have to have the mindset of having this open mind but also the agency to go build the thing, and you find a problem oh, I wish we could do that. One-shot thing.
+
+0x4df29863: Yeah, this would be like a month-long project in the past because it uses a real database, it uses real authentication identity, it's hosted on a real domain name, it has security issues that need to be...
+
+austingriffith.eth: Yo. Yeah.
+
+0x4df29863: reviewed and made sure it all works. But we have this thing called Security Swarm, which is essentially like hiring a bunch of hackers to kind of It's kind of like another layer upon like a review agent. And then you merge that branch into main, and that's like your new release for the week. What people are doing with Security Swarm is whenever you have like a new release with a bunch of updates, you run like this entire like Security Swarm agents against your new release, and it will literally just try to find or to find a vulnerability or any type of issues with your code. I built this and then I ran Security Swarm against it. Anyway, it works great. But it's just like a flag that I have on the backend. Like when you run this, it'll just say vending machine. There's no Devin branding at all. So yeah, it's completely Yeah, it's white label.
+
+austingriffith.eth: You're saying you could white label the thing that's already up, you could white label it? That's pretty cool.
+
+0x4df29863: Yeah, it's completely just non-branded for Devon and all. The live version just says Devon Vending Machine because we're using it for devonvendingmachine.com. But yeah, so anyway, I built some random stuff like that. I mean, most of my stuff, like this is in my GitHub. See here, there was recently, I mean, this isn't even like an actual... let's say But there's this guy who had his entire home directory deleted because he didn't have a
+
+austingriffith.eth: You got to have some isolation.
+
+0x4df29863: So people don't know that hooks are deterministic?
+
+austingriffith.eth: See if it's allowed.
+
+0x4df29863: Every time you're gonna call a tool, run this function beforehand.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+### Here it is, yeah.
+
+0x4df29863: and it got like 41 stars. People seem to like that. And then the other one that I have is CloudStackDifs, and it's essentially a skill that allows you to turn a list of requirements into stacked PRs. which is pretty nice because a lot of people have this requirement in their software development lifecycle already. This just adds a skill that allows you to kind of like kick off a single agent that agent will run through a list of requirements and stack the PRs on top of each other. features that you want to ship and then run them all at once with a single command. If you have linear MCP, it'll actually take the linear tick to move them from backlog, to in progress, to done. and even works with review agents. What is the weather like today?
+
+austingriffith.eth: That's it. You out there, the sloperators in the world that are watching, you should be building a bunch of random shit, but useful shit, right? Don't be token maxing, don't be just outputting apps. Be building things that other people need to use. Be measuring that. Are people actually using them? Get feedback, iterate on it. You can take an idea and implement it in an afternoon. You were talking about the website. Basically, having a website is the most work. Going to register a domain, I created $1 audit the other day, and I already had the whole agentic pipeline here.
+
+0x4df29863: Oh, cool.
+
+austingriffith.eth: Actually hire my agent to research, audit, or build something right here.
+
+0x4df29863: Sure.
+
+austingriffith.eth: It took me longer to register the domain, set up the DNS, like a handful of things that are still not automated in my pipeline, than did just to make the whole website, have the whole thing ready to go.
+
+0x4df29863: Dang, yeah
+
+austingriffith.eth: This website was like one shot with Fable. The process of sometimes registering the domain or setting up the DNS is the longest part.
+
+0x4df29863: Yep. [laughter]
+
+austingriffith.eth: How did our chess game go here? Looks like Haiku won. GLM resigned at some point. I don't know what happened there. Maybe it got confused. bad. All right, let's close it out. What's your superpower? Do you have a superpower in terms of building an AI and all that? You're a mixture of experts?
+
+0x4df29863: I think my superpower is being like a generalist at a bunch of things that I'm pretty good at, but I'm not excellent at anything. I'm kind of a mixture of a bunch of things that I'm not like the best at in the world at anything, but I'm pretty good at a bunch of things and combined together that makes me a superpower of something.
+
+austingriffith.eth: That's great. I like that. I like that a lot. Then let's see, what is another...
+
+0x4df29863: Nice. So cool.
+
+austingriffith.eth: Efficiency versus the effective, the, oh, okay, agentic commerce. Do you fuck with any of it still? Are you using USDCs to pay for anything?
+
+0x4df29863: Yeah, I'm still definitely using it. Yeah. I feel like that's still the optimal way to send money cross-border, especially. And just generally to make payments is the most efficient way. I mean, like I'm still dealing with. We have vendors that we work with that need payments is still like night and day. You have to coordinate with banks around the world with SWIFT and all these different types of payment systems. It's kind of like a nightmare when you go back to doing that. I think X4O2 is something along the lines of direct agent-to-agent payments with crypto. way that payments will ultimately be done permissionlessly across different apps and companies because even if you think that you can build a sophisticated there's still so much fraud and stuff that can kind of like happen that is essentially removed if you have an agent that has access to your private key. Only one that has control over that. Also, just the permissionless nature of just taking money from my account and sending it to your account.
+
+austingriffith.eth: You still writing any smart contracts? What happens here?
+
+0x4df29863: What we haven't really seen is an inflection point of an application or a use case that is doing that at scale that is well adopted. that everyone knows about? Agents are the killer use case
+
+austingriffith.eth: I think agents are going to be the user. I think that we may maybe never have humans using crypto at scale. It will be humans telling agents to do things and agents using crypto at scale, I think.
+
+0x4df29863: So what are the two apps that are going to be working together to make that happen?
+
+austingriffith.eth: Yeah.
+
+0x4df29863: I think what you saw with that first uptick in x for it to usage was like meme coin trading and like it was bullshit kinda. So like who is the vendor and who is the customer? What is that first combo gonna be? I believe it'll be something like an open router.
+
+austingriffith.eth: But
+
+0x4df29863: LLM provider, but who knows?
+
+austingriffith.eth: Even agentic jobs, like with ERC-8004, you have a very generalized agent. Yes, my generalized agent could generate an image right now, but it's going to cost 10x to 100x more than if I dump it to an agent who's built to do that and specialized to generate that image. But boy, I'm optimistic and dreaming, and we're really not seeing the demand side yet. So we'll see how that goes. But thank you so much, Nader, for being here. Any closing thoughts? Anything for the sloperators out there? Yes.
+
+0x4df29863: Not really. I would say thanks for having me on. I would say check out some of the stuff that Eigen Labs is doing. That's the last team I was working with. We're building out something called Dark Bloom, which is pretty cool, which is essentially a way to run software... on your idle Mac that allows other people to run inference and you make money and they get cheap inference, pretty cool. I think they have the team and the potential to kind of like make this work so that's pretty cool. I would definitely check them out. Yeah
+
+austingriffith.eth: Is it Gejef? I don't know how to say his name. I've been bugging him, like, come on and show off Dark Bloom. But I think he's like moving or something right now.
+
+0x4df29863: Oh, Pharrell? Yeah, he should totally come on. I'm surprised he hasn't. Here we go.
+
+austingriffith.eth: Yeah, I've been bugging him. It takes a while sometimes to get people on, but I will.
+
+0x4df29863: Cool. Thank you for having me. For sure.

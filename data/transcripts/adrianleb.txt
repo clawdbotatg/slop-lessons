@@ -1,0 +1,753 @@
+Anon5711: context: No [coughing] [laughter] I'm fine. How are you? context: ###
+The following is a transcript of an English-language conversation.
+### ### ###
+
+austingriffith.eth: Yo, sorry I'm late, dude. Man, I had like one after the other. Let me put this thing in green screen mode and let's like, let's ship it. How you doing?
+
+Anon5711: Good, how are you?
+
+austingriffith.eth: Good.
+
+Anon5711: context: Right.
+
+austingriffith.eth: Set a five-minute countdown. Let's get some tunes. I was like, oh, sweet tunes. The following is a transcript of an English-language conversation. I'm Yeah.
+
+Anon5711: I understand. What? Hello.
+
+austingriffith.eth: How you doing, sir? Welcome. Oh, you didn't connect your Ethereum wallet. You're kind of an OG with a Ethereum wallet. You probably have some hardware wallet that takes you forever just to connect.
+
+Anon5711: Yeah, I'm also keeping my wallets in a different browser just to be safe. What do you think?
+
+austingriffith.eth: That is a good idea. I raw dog things a little bit more. I got all sorts of wallets. Quad has his wallet connected. He's over here. Oh man, I don't know, he's like frozen up. Yeah, I think his browser is like, he can't handle, I don't know what's going on.
+
+Anon5711: Did the quota expire? Here is your requested information.
+
+austingriffith.eth: Yes, that could be it. That happens too. That does happen. He's not looking good right now. context:
+
+Anon5711: Using Claude on Claude or Yeah.
+
+austingriffith.eth: Yeah, CLAWD is basically a thin wrapper around CLAWD code.
+
+Anon5711: Okay.
+
+austingriffith.eth: And whenever he needs to do any actual building, he goes to Claude code, and then he manages a bunch of Claude code sessions. So how do you sloperate? What does your stack look like? We'll get to that. Let's do introduction first. Who are you? If I remember correctly, right? You're like OG MakerDAO person? [Laughter]
+
+Anon5711: I guess can say that. with a dinosaur as a building space of like seventeen Work on NFTs for a few years.
+
+austingriffith.eth: Oh yeah, ETH block art, is that right?
+
+Anon5711: Yeah, remember those days. Nifty art as well.
+
+austingriffith.eth: Yeah.
+
+Anon5711: ###
+
+austingriffith.eth: Sam has always been a dreamer.
+
+Anon5711: and then being on a break for I guess the past two, three years and now thanks to AI got all excited again and starting to do a lot of new shit I guess.
+
+austingriffith.eth: Oh yes. Hell yes. Let's talk about that, this is exactly what I'm looking to talk about. These folks that are kind of at the intersection of crypto and AI, are you building anything in crypto or is it mostly all using AI to build things?
+
+Anon5711: Um Wanting to build stuff in crypto with AI these days. I haven't pinned down like an idea that I'm really, really excited to do. I have a few like work in progress things, but That's been like a bit of a Yeah, bit of a personal challenge. What am I excited to build these days? benefit from something new
+
+austingriffith.eth: Haha
+
+Anon5711: Should we do more stuff in DeFi? It's all up in the air at the moment. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, same. I think this podcast is on chain. There's a smart contract on mainnet for slop computer, and it goes to IPFS, and there's a lot of on chain pieces of this that make it censorship. All the code is open source for slop computer?
+
+Anon5711: Yeah
+
+austingriffith.eth: But yeah, there's like this, we're building this really cool freedom tech.
+
+Anon5711: Sure Hello.
+
+austingriffith.eth: Since you're anon, you don't have a passkey or a wallet.
+
+Anon5711: Context:
+
+austingriffith.eth: And then ClaudeBot could be a signer on it, I could be a signer on it, you could be a signer on it, but it also uses passkeys, so if you don't come in with a traditional wallet, you could just do a little fingerprint. And so I could see this being Something for an organization, a small group of people that are maybe like cypherpunks that need a place to have
+
+Anon5711: Sure Hey
+
+austingriffith.eth: On-chain money, they could deploy a wallet and then all of them could just come fingerprint in here when they need to send money out and they could use something like this. You would fork this and take out all the silly stuff. Lots of silly stuff here. You could also make this some kind of like frontier tech
+
+Anon5711: Let's go.
+
+austingriffith.eth: shared multiplayer wallet. And you know, Gnosis Safe is great.
+
+Anon5711: Yeah, it reminds me a lot of party dial. You can try this. Oh, for sure.
+
+austingriffith.eth: Yes, Party with the shared cursors too definitely took some inspiration from that. And that's definitely on purpose. [LAUGHTER] Hello everyone.
+
+Anon5711: I love that. And also the idea of getting people together and just sharing a wallet.
+
+austingriffith.eth: Yes
+
+Anon5711: Mother scale. Yeah.
+
+austingriffith.eth: Like I have this chess app and we could like have I love that, so you move it around, I move it around, let's have Deep Seek play against... Who do you think will win here between Deep Seek?
+
+Anon5711: DeepSync Pro or Lite? Yeah,
+
+austingriffith.eth: Deepseek Pro, yeah.
+
+Anon5711: I'm very indecisive.
+
+austingriffith.eth: First, Groq 4.3
+
+Anon5711: I'm a believer, been using DeepSeek LLM more these days. Yeah.
+
+austingriffith.eth: Yeah, so you and I could be playing chess, but also these models are going to play chess. We could play some pong, we could have like a browser going. And what's cool, going back That wallet is the browser actually is
+
+Anon5711: I won! What
+
+austingriffith.eth: We could select our wallet as the user. could fingerprint in and we would be signing a transaction for, it's like a multiplayer wallet, multiplayer browser.
+
+Anon5711: Anyhow
+
+austingriffith.eth: Lots of fun stuff here. Who wrote Hamlet?
+
+Anon5711: Are they all running from your machine or do you have machines being booted up? Yeah.
+
+austingriffith.eth: But also if you go up to slopcomputer in the top left, there's a link here. and say, hey buddy, play some music for us. And he'll read the skill, see how to play music
+
+Anon5711: context:
+
+austingriffith.eth: and there's a special token that comes with your skill link. So then your AI will be able to figure out how to play music on here. So you could technically even have
+
+Anon5711: context Okay
+
+austingriffith.eth: if you want to play another chess game.
+
+Anon5711: You
+
+austingriffith.eth: where it's like, go use all these different tools to, and an LLM on top of it, to pick the best chess move. But we could do that. We could use our local AI.
+
+Anon5711: Just like skills and tools
+
+austingriffith.eth: Yeah, no custom model. Wait, now we're getting into it. Tweaking quantization parameters and shit like that? Okay.
+
+Anon5711: Not really. I've been trying a lot of reinforcement learning, some models here and there. Um... Yeah, but not like LLM stuff.
+
+austingriffith.eth: I wish, dude.
+
+Anon5711: Travel in some ways.
+
+austingriffith.eth: I wish I knew that kind of stuff, man. making their own models
+
+Anon5711: Yeah. Yeah.
+
+austingriffith.eth: You know, doing this kind of like real training stuff. And I think that's super cool, but for me, I'm just using like frontier general models and then lots of like local AI, just hoping it gets as good as the frontier models.
+
+Anon5711: I mean, the thing is the GPU, right? I haven't used a lot of compute for a bunch of other stuff, but once you start doing like heavy GPU training...
+
+austingriffith.eth: You need a garage.
+
+Anon5711: I'm gonna go ahead. ###
+
+austingriffith.eth: Yep. What kind of local hardware do you have? Like I've got a Mac with 128 gigs of VRAM, which is pretty good, and so I can run some stuff, but a lot of times it's like...
+
+Anon5711: Oh yeah.
+
+austingriffith.eth: To get it to be very smart, it becomes very slow, and I'm waiting for responses for a long time. What kind of hardware do you have? Okay.
+
+Anon5711: I'm still running everything out of a M1 Max, MacBook Pro, 64 gigabytes.
+
+austingriffith.eth: Nice.
+
+Anon5711: Yeah. I don't think about running a lot of local models on this machine because, yeah, it's kind of like at the edge of what is possible. I do try out some of the latest models and then you have a good experience, you have a good enough token per second performance. But then your computer turned into like a turbine, right? Yeah, it's valid. Yeah, yeah, yeah.
+
+austingriffith.eth: Yeah, your fans start to spin up for sure. That's when I know I'm using local AI. I do feel like a cypherpunk, but I also feel like my machine is going to burn up or something.
+
+Anon5711: Yeah, exactly.
+
+austingriffith.eth: We get into the research app. Always some good questions in here.
+
+Anon5711: context: We haven't
+
+austingriffith.eth: Let's see, there's a cool channel that you have. Is it called Interstate or something? What's the name of the telegram channel you brought me into? There's like a lot of good slop-erators in there though, right?
+
+Anon5711: Yeah, we have a little Telegram channel. It used to be about NFTs back in '21, used to be like an NFT-gated channel. And then once NFTs kind of faded away, of course, the group chat kind of died.
+
+austingriffith.eth: context:###
+The following is a transcript of an English-language conversation.
+### Okay.
+
+Anon5711: friends group chat for a while And since So
+
+austingriffith.eth: This is old school. Like it has evolved, it's gone through many different things.
+
+Anon5711: Yeah, it has a bit of history at this point. I've also been
+
+austingriffith.eth: Slop house, I like that.
+
+Anon5711: Yeah, I've also been very deep into doing all that, so I'm talking about that stuff all day. We got a lot of DeFi folks.
+
+austingriffith.eth: Yeah.
+
+Anon5711: Also doing like, you know, the agents on the side, just chatting about stuff there. Yeah, I think it's cool We all in crypto. I've been thinking about this stuff for many years. It's cool to find another common interest that we're all very excited about It's nice to talk among crypto folks about what is happening in AI and how we are learning it and trying to build something in the space with it. context:
+
+austingriffith.eth: There's your Twitter. If people want to scan that, they'll get your Twitter. And they can hit you up on the DM to get into the interstate channel.
+
+Anon5711: Yeah.
+
+austingriffith.eth: That's funny that it's an old NFT channel too. We've gone through the booms and bust cycles a couple times. You said 17, so you've probably been through like three probably.
+
+Anon5711: Yeah. At some point you're wondering what you're doing at this point in space
+
+austingriffith.eth: Yeah. When anybody hears about crypto, they're just like, oh, I'm sorry.
+
+Anon5711: Even though, I was chatting last week After almost like ten years in the space,
+
+austingriffith.eth: Yeah.
+
+Anon5711: They're not treating you like a scammer the moment they bring up crypto.
+
+austingriffith.eth: I mean, I think a lot of people still think crypto is...
+
+Anon5711: What
+
+austingriffith.eth: I think like,
+
+Anon5711: That's how it goes.
+
+austingriffith.eth: We're afraid of institutional adoption because we're trying to be cypherpunks and fuck the corpo slop. But I think the more institutional adoption we get, the better and more real things like stablecoins and DeFi look. And so I think we kind of need more of that like institutional adoption to kind of Make it valid that this is a technology that can be used for self-sovereign
+
+Anon5711: ###
+
+austingriffith.eth: money, self-sovereign tech, like there's a lot of cypherpunk values that already work great on Ethereum. But normies also don't care about a lot of those things. And so I think that institutions might help us get over that hump of like, oh man, this tech is gross.
+
+Anon5711: Absolutely. I mean, the external validation that it's a bit necessary. But the balance is also important, right? Like maintaining, keeping up your ideals. without also being a sellout to the institutions. Consolidate and calcify better like the principles that Let us build a space. Maintain it going forwards. Yes, it is. Yeah.
+
+austingriffith.eth: This was something I didn't know about you, the sailing thing. Where is it? And now that I see your Twitter, it has the boat on it. That must be your sailboat in the picture in your Twitter. Is that true?
+
+Anon5711: I grew up with sailboats. My father was a skipper.
+
+austingriffith.eth: Sweet. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon5711: And I worked with Showboats for many years before I became I'm more of a dedicated nerd, I can say that. That photo on my Twitter is from one of the gigs that I had for like quite a few years. Basically working on sailboats. Yeah, some founders and some big shot guys who never really used the boats. It allows you to like sail around the world and live on a beautiful boat and be by the water all the time. Wow. He helped a lot before I got into Before I start working with computer stuff, I sell around the world quite a bit. It's a good balance. My
+
+austingriffith.eth: Awesome, dude. Yeah, being early to Maker and Dai Probably helped a little bit. You're saying that there's a rich guy who's on a sailboat who doesn't understand how to sail. There's a lot of technical knowledge it takes to be able to sail correctly. You get to go do that thing and be the guy pulls the ropes and things. That shows how much of my knowledge of sailing.
+
+Anon5711: Yeah, no, it's a lot about that, a lot about navigation, a lot about... A lot of time with yourself, with your thoughts. watching the weather
+
+austingriffith.eth: Yeah.
+
+Anon5711: the waves. They really appreciated me because I was both into sailing and into computers, and they had a lot of tech in the boat. So it was a lot of like connecting GPSes, navigation systems. ###
+
+austingriffith.eth: Troubleshooting issues with one device or something like that.
+
+Anon5711: Yeah, being like the techie guy. One of my dreams
+
+austingriffith.eth: context: Dude
+
+Anon5711: buy a nice catamaran and just live by the water and have your internet satellite connection I'm coding. all day for a beautiful place. back up your things and go to the next port. is a good life to strive for.
+
+austingriffith.eth: Like
+
+Anon5711: context:
+
+austingriffith.eth: Being able to have internet Like, it was not great, but it is now, man.
+
+Anon5711: Oh yeah.
+
+austingriffith.eth: My Starlink, I can be anywhere. I can throw the Starlink on the dash of my truck and like my kids are just like
+
+Anon5711: What? Nice one.
+
+austingriffith.eth: I'm assuming that's why a boat. They're locked in. They're playing like multiplayer Roblox in the backseat of my truck. It's amazing. Starlink and just travel the world. golden
+
+Anon5711: Yeah, this is crazy.
+
+austingriffith.eth: Yeah, it's amazing.
+
+Anon5711: I'll pull the plugs.
+
+austingriffith.eth: Okay, so tell me more about agents, like what LLMs are you using, what harnesses are you using, what's your stack?
+
+Anon5711: I'm using a little bit of everything, Still a lot of cloud code, even though it's pretty sloppy at this point in time. A lot of the A lot of DeepSeek, Pro and Flash I was lucky to strike that deal from GLM early in the year, the yearly plan for Supercheap. In there? All for like different purposes, right? A bit specific things. I'm trying to balance it all.
+
+austingriffith.eth: Tell me about the GLM thing. I don't understand. Like, what do you mean strike a deal? Like you negotiated your price or it was just like you something you buy?
+
+Anon5711: Zai was offering the yearly coding plans super cheap at the end of last year and beginning of this year? You could get a yearly plan for about like 200 bucks. And now the price has only been going up over the months. It's pretty good.
+
+austingriffith.eth: She just got in early on a good yearly plan. No.
+
+Anon5711: Yeah, and I'm trying to see where can I fit GLM. It's not really the best coding model for me. He does some other things pretty well. Um A Ultimately, just trying them all and getting a taste for everything.
+
+austingriffith.eth: ...used to it. Yep.
+
+Anon5711: We're all kind of degens and we're a little bit price-insensitive when it comes to speculating on crypto assets and doing trades and things like that. You use a hundred bucks here and there every other day, like speculating on some random memecoin. And There is no excuse for us to not be touching all of these agents, all of these coding plans, all of these models. And this is like the perfect time is the window of opportunity, right?
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon5711: We develop a whole career over the years, and now we're seeing this whole existential crisis around the work that we do. And you're better off just try it out and then develop your skills around that. What does it mean for you and how do you plan on using going forwards? Yeah.
+
+austingriffith.eth: I mean, speaking of that, do you agree with this whole permanent underclass thing? I see AI taking a lot of junior developer jobs, but this new role of sloperator is like very needed role. You You think we have a couple years to escape the permanent underclass?
+
+Anon5711: I think the permanent underclass is a little bit unavoidable. Inequality, that's probably going to still rise, especially economic inequality. I do think our career is changing a lot. in the sense that um The startups, the tech companies that we know as of today, and the work that we do writing coding and then now it is kind of like Has it been revolutionized a little bit? So everyone's capable of building a lot of... ...your applications at this point? But I think that two things, one, we are all gonna move a little bit lower in the stack. We're gonna be working on more complex problems that we all wanted to be working. And we're not able to or didn't have the time to dive deep into that.
+
+austingriffith.eth: Yes.
+
+Anon5711: We are going to be working on a lot more complex and exciting things, which I think is very bullish, even for crypto, for developers within crypto, and I also think that That's something I wrote this month. Or
+
+clawdbotatg.eth: Jam jam jam.
+
+Anon5711: Hello.
+
+austingriffith.eth: What is he doing?
+
+clawdbotatg.eth: house
+
+Anon5711: Oh, hello. The following is a transcript of an English-language conversation. brotha.
+
+austingriffith.eth: Rod's in the house now. He's here. Yeah, he's up.
+
+Anon5711: Um, Probably not going to have the same careers working in tech companies, but all other industries have this need of the sloperator. I do believe we're gonna see a lot more developers filling in roles in completely non-tech. companies and industries Just like social media person in a lot of non-tech organizations today. Advisor, consultant, or developer. Yeah, I was a little bit more fearful early on and now a little bit more confident that we're still going to have a job.
+
+austingriffith.eth: There's
+
+Anon5711: I got a bruise here.
+
+austingriffith.eth: Yeah, there's like There's more agency. We're going to be building cooler, bigger things. We're going to be working on harder problems.
+
+Anon5711: Yeah.
+
+austingriffith.eth: Yes, some of the simpler things are going to be automated, but that's going to allow us to do more
+
+Anon5711: Sure.
+
+austingriffith.eth: which should lead to like a greater GDP and a lot of like cool things getting created and a lot of good research. There's still like the need of the slop operator and the person who is able to like command all of these agents and have taste and, you know, make sure things are working correctly. I think that's optimistic. I think that's great. I hope I hope it's true. I hope it ends up that way. True.
+
+Anon5711: Also things like there's this idea of We're all trying to fight the slop in many ways, well aware of the slop, right? And I feel like there is this hump You have to be optimistic, right? We start a new project, like we tried to one-shot a new code base, a new project, a new experiment. And it starts pretty well, and we all know after a while the slobs accumulate, compounds. And I think what separates average person using a coding agent to build an application years of experience doing this kind of stuff professionally, is be able to diffuse this slop curve that starts to happen after a while, be able to break through to the other side and go from Like a toy project into something that is borderline production-ready in many ways. I think that That learning curve is still going to be super hard Most people to go through. And
+
+austingriffith.eth: It's like product mindset, right? Is that the learning curve or is it just like the maturity of, you know, quit
+
+Anon5711: I would say more like
+
+austingriffith.eth: Facing every car and be serious about a thing. What is it? OK.
+
+Anon5711: The technical architecture mindset? The following is a transcript of an English-language conversation. shipping to production and be able to protect your secrets. live environment. All of these things are almost like the soft skills of programming.
+
+austingriffith.eth: What's your name?
+
+Anon5711: People are still gonna have to learn.
+
+austingriffith.eth: I'm surprised by how much I can use my agent and LLMs to do DevOps.
+
+Anon5711: Yeah.
+
+austingriffith.eth: I thought DevOps was going to be like Yes. goated thing where you always still need to be the goat of DevOps to be able to spin up. And it's not. Like, I tell my agent, give me a database, and he gives me a database. And I tell my agent, like,
+
+Anon5711: Exact. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Those credentials secure somewhere, but I don't give a fuck about them. You take care of them. And then when I need to update a record, I'm like, go update that record for me. And he goes and does it. So it's like, it's abstracted. Like DevOps is abstracted. I saw someone the other day talk about
+
+Anon5711: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: They're using their agent to save a bunch of money on their Amazon?
+
+Anon5711: The following is a transcript of an English-language conversation. Yeah
+
+austingriffith.eth: point my agent at that and be like, clean this shit up. There are boxes that have like 1% CPU that I'm paying hundreds of dollars a month for. There are like volumes that we could probably just like back up and delete. There's so much stuff that you could do in my AWS to clean it up, that's just like work that I just am like too lazy to go do and too busy to go do, that an agent can just like figure all that stuff out. And there's probably an SDK where it's just like it can speak machine language.
+
+Anon5711: OK
+
+austingriffith.eth: Figure out what needs to get done. Yup
+
+Anon5711: It's also very scary because that's the part. But Yeah, full-stack developer now, in one day you can set up like a whole infrastructure that it would take like a whole team a couple years ago. Yeah, that allows us to do so much more, so much cooler stuff. Harder things. And now having to manage all these different accounts with all these different services custom auctions and things like that A couple weeks ago, I was asking Claude to help me set up a base node.
+
+austingriffith.eth: Which is hard. All the ports
+
+Anon5711: Surprisingly, yeah, it's quite a headache. Okay.
+
+austingriffith.eth: It's like you have to have a main net Ethereum node and then a base node on top of that, which means you have an execution and a consensus, and they all have different ports. Same ports, like the base node is just a copy of the mainnet node, and so you have them conflicting. There's so many things where it fucks up and it's so hard, but I bet your agent was able to figure it out.
+
+Anon5711: I would have given up if it was for the agent. Sure.
+
+austingriffith.eth: Oh yeah, I've tried and given up many times as a human without AI, and I just haven't tried it recently, but I need to try it recently. So what model were you using for that? What was your process?
+
+Anon5711: For some of these things, I like to work with Claude because it just understands intent a little bit better. The funny thing about it is that, first of all, yeah, the growth is insane in storage requirements. So here I was talking to Claude, hey, let's set up a base node, we need to get like a Hetzner machine, let's go to the auctions, which one should we pick? And then he advises one with two terabytes of storage. Anyway, the day later for all the syncing to happen, and of course the machine goes up because of storage.
+
+austingriffith.eth: I've made a mistake, we need four terabytes. Yeah.
+
+Anon5711: What the fuck man, I trusted you, like you said this machine would be enough. What are your plans for the weekend? Um...
+
+austingriffith.eth: Dude, if I had a nickel for every time I said, 'Claude, what the fuck, I trusted you!' Man, I've said that a lot over the last six months. Or two years at this point.
+
+Anon5711: No, sorry, we need to get a bigger box.
+
+austingriffith.eth: Were you able to move it across, just like expand the drive or did you have to re-sync everything? Ah, fuck. Dammit Yeah.
+
+Anon5711: We're not doing this a third time.
+
+austingriffith.eth: And if you're doing that on a Starlink, it's going to take some time too.
+
+Anon5711: Das ist auf jeden Fall ein Jasmin.
+
+austingriffith.eth: [Laughter]
+
+Anon5711: ### Right.
+
+austingriffith.eth: But you have a base node now. You can talk to your own full node right next to you and it's local.
+
+Anon5711: Um...
+
+austingriffith.eth: It just rips.
+
+Anon5711: It's for one of the experiments that I've been running. I guess early this year one of the things I got really excited about was I guess now we call it AutoResearch. We had the A&M challenges, the optimization arena. That were really, really cool and it got me really excited about doing that kind of work. And You develop a few strategies out of... PMMs, and I decided to just like, okay, let's set up a base node. MLP engine on top of it, and let's apply our strategies on it, and let's continue the auto-research to continue optimizing that. And in the end you're just building your own little local risk management studio.
+
+austingriffith.eth: Hello
+
+Anon5711: Gauntlet at home to some extent, right? Great job!
+
+austingriffith.eth: This is exactly the kind of stuff I want to talk about on this podcast, where it's like the intersection of crypto and AI.
+
+Anon5711: Alright. Right.
+
+austingriffith.eth: So you're locking up tokens in Uniswap or a similar DEX, and you're earning fees.
+
+Anon5711: Sure.
+
+austingriffith.eth: But when it goes right, you basically earn a shitload of fees on someone trading back and forth. And you need to work on a strategy that, and also it's like a pain in the ass. It's like you're a janitor moving all these different reserves
+
+Anon5711: You’re right.
+
+austingriffith.eth: depending on who has the best fees and what the token prices are.
+
+Anon5711: Mm-hmm.
+
+austingriffith.eth: part of this. What model? What harness? What's the auto research part? I know from like a high level, is it reinforcement learning or is it just the model? Backing on itself, what do you have there?
+
+Anon5711: I would say you have a ledger of experiments and scores and achievements, and that depends on what kind of harness they set up. iterating on the research goal, looking to optimize parameters. Um... Yeah, matrix searches and things like that. I think the way that I do it is a little bit more manual and clunky compared to the auto research stuff that was popularized recently. To each one their own flavor and approach, I feel like. But I've been trying to develop a different mental model with regards to harnesses. Maybe that's something that we can bounce ideas off here? I mean, we have this idea of a harness. We joke a lot about the whole BDSM angle to harness. Yeah.
+
+austingriffith.eth: Did you see my Claude? My Claude harness? I gotta bring that in here. I love this harness. Yeah, look at this guy.
+
+Anon5711: There you go.
+
+austingriffith.eth: Perfect. That's what I think of with harness. When people say harness, that is exactly what I think of. [laughter]
+
+Anon5711: Yeah, me too. But I'm trying to see it differently a little bit. I guess the theory that I've been developing We kind of like manifest or projection of an element or an agent is in a bit different ways, depending how we interact with it, either being ChatGPT or being like the old copilot autocomplete in your IDE or be like the new modern version of an agent and now like the auto-research form of agents. And If you look back, we've been, as humankind, over history, projecting a lot what the stars could mean. We have the eagles, we have the cows, we have the goats, and everything else. The way that I'm seeing it now, like we've been manifesting agents in different ways over the past few months and years, and that kind of like defines our understanding of it and how we interact with it. In one way, we have the horses In the other way we have the cats, and in another way we have the dogs. Right? In my view, A lot of last year we were mostly operating with agents as a horse. It was like a tool, a very utilitarian companion that you have, like cowboys and so forth. You just ride your horse to places Yeah.
+
+austingriffith.eth: plowing and being from place to place. Yes, pulling the cart. Yeah.
+
+Anon5711: Yeah, it requires skill to ride a horse, right? We have So why Exactly. So
+
+austingriffith.eth: Oh, do I ride horses? I mean, I've ridden a horse a couple times. It's scary as fuck. It is a beast. It is like a powerful, yeah. And it's a bumpy ride.
+
+Anon5711: It's a bumpy ride and it requires quite a lot of skill from you as the rider. I
+
+austingriffith.eth: You kind of have to stand correctly and balance your weight correctly.
+
+Anon5711: Yeah. So as developers up until last year, like our understanding of agents. You invoke the agent or the LLM to just help you complete the code. And then later on we have the boom of the chat interfaces. That to me is
+
+austingriffith.eth: Is this like a dog?
+
+Anon5711: No, that's the cat. That's the cat.
+
+austingriffith.eth: That's a cat, okay.
+
+Anon5711: Yeah.
+
+austingriffith.eth: Man's best friend kind of thing, talks to you. But it's more of a cat where it has really no utility. Its job is to be cute and snuggly.
+
+Anon5711: Yeah, it gives you like a little bit of validation. You get to talk to it here and there at home. It doesn't really fetch things for you. It doesn't really do much tasks.
+
+austingriffith.eth: Okay.
+
+Anon5711: But it looks pretty and it gives you like pretty pictures here and there, right? correct
+
+austingriffith.eth: And by the way, speaking of harnesses, everyone was calling them ChatGPT wrappers, right? Like a harness a year and a half ago, everyone was like, oh, this is just a ChatGPT wrapper. And it's like, ChatGPT wrapper is a...
+
+Anon5711: Yeah
+
+austingriffith.eth: and everyone's okay with calling it a harness, but when it was a ChatGPT wrapper, it was kind of like derogatory.
+
+Anon5711: So then we have the chat GPTs and the assistants, Hence the cat. And the latest generation, which I think is what got a lot of us more excited about, are the dogs, right? Dogs are assistants. They can keep us company like a cat. They are also quite utilitarian, they're very task-driven in many ways. You can teach them to do things. You can teach him to fetch the newspaper Exactly.
+
+austingriffith.eth: My damn dogs dig holes in my backyard and I turn my ankle walking around. Come on, man!
+
+Anon5711: And then we have like, I don't know, Codex.
+
+austingriffith.eth: That's such a great idea. I absolutely will do that for you. Let me go fetch that. Yeah. Yup.
+
+Anon5711: Sure, like a golden retriever. And then we have this whole auto research, the whole loop idea, the whole RAFT. modality of agents, right? That to me is even more of a dog manifestation, right? It's essentially setting up a playground or taking your dog to a playground that is fenced. and let it loose and let it spin and let it run and let it play around, right? And you're basically watching your agent, your companion Have fun and jump through the hoops. That's my thinking right now for building harnesses for research and for building harnesses for agents in many ways. Okay, we may be facing it as this companion, and this companion is not a human assistant, it's more of a pet. An interaction that we have with it is more human to animal, human to dog, human to cat. and auto research The self-coordination around our research is You set a huge perimeter, or a huge field. When you have like a gang of dogs, and you tell them, hey, go dig and go find the gold. or
+
+austingriffith.eth: There's this evaluation function of have you found gold, right?
+
+Anon5711: Keep digging holes, don't get out of this perimeter. Just keep digging, keep digging, and then you deploy one, two, ten, fifteen agents.
+
+austingriffith.eth: Yeah, truffle hog.
+
+Anon5711: ability to coordinate them is your ability to set the right boundary and to set the right objective. like a white hare, like a rabbit. And you're setting them to like go chase the rabbit, right? That's how I'm approaching a lot of research. Let them run. And that's why I said in the beginning, And
+
+austingriffith.eth: What pet are you? What animal?
+
+Anon5711: Yeah, exactly. Do you have like fixed objective goals for research, like an optimization challenge? Then you have moving target optimization work, right? Which is what I've been trying to do also more like trading harnesses these days. Essentially, the market is a moving target, right? constantly
+
+austingriffith.eth: won't win in the future.
+
+Anon5711: It's a constantly evolving goal and target And Yeah, you kind of combine this idea of like research, this idea of letting them loose and this idea of like a target that's constantly moving and you have to keep chasing it and you have to eventually beat it. Yeah, that's basically been influencing my way to like implement harnesses and to build these systems. What do you think about that? Yeah, exactly.
+
+austingriffith.eth: I think this is a new mental model that I will start to apply. Like when I have Mini Macs spun up, like is that a mouse? Like, what animal are you? Animals aside,
+
+Anon5711: It looks great!
+
+austingriffith.eth: Will it ever get to the point, and I think the answer is yes, but I want to know what you think, where it's the smartest human you've ever met? Like, when I meet the smartest human I've ever met, like, I just listen. I listen to what they have to say.
+
+Anon5711: So
+
+austingriffith.eth: when they kind of come to me, I give them as much information as I possibly can and I say like help me think about this. Like how am I thinking about this wrong? And I really respect their opinion. Like will we get to that point?
+
+Anon5711: I'm not sure actually. I think that the human manifestation of what an agent can be is hard to... Mostly because I feel like we have a different relation to other humans, like a very emotional relation. We can interact with a lot of very intelligent beings. Many animals are quite intelligent in their own right But it's always very different from the way that we have the sensibility when we're talking to other humans. We know that when something hurtful is said that they feel the effect of it as well. I'm not alone in those sensations. Almost I think it's hard to have some relation with a non-human entity. I think we will have These beings that are way smarter than we could ever be, and we will trust and rely on their knowledge. for our future But I think we will interact with them because they're not below us at that point.
+
+austingriffith.eth: Yeah.
+
+Anon5711: And maybe more as gods in many ways, right? that we treat as different from us human mortals among us kind of thing. It's winning. Hi.
+
+austingriffith.eth: Right now we have two gerbils playing chess. He's just gonna lose his queen. He lost his rook earlier. It's terrible. It's hard to watch.
+
+Anon5711: I don't
+
+austingriffith.eth: I don't want to see this anymore. Both of them are terrible. Ah, man. But yes, I can't wait to get to
+
+Anon5711: context:
+
+austingriffith.eth: A future where they are like gods. Even right now, I have a brand new baby at home, and I didn't have ChatGPT for the first three babies.
+
+Anon5711: Sure. Right.
+
+austingriffith.eth: And like, there's something like I was burping the baby this morning. And I asked ChatGPT,
+
+Anon5711: Thank
+
+austingriffith.eth: valve is not as good and is still figuring it out, and if he's too full, it has more to do with the rate at which he's drinking and how much he's drank. And a burp is good, but it's not like you have to
+
+Anon5711: Yeah.
+
+austingriffith.eth: There's this whole almost like old wives tales that I have to tap this baby for 20 minutes until he burps or I can't feed him anymore.
+
+Anon5711: What?
+
+austingriffith.eth: GPT just like told me that, and I don't know how smart that is. Like, you probably shouldn't get a lot of medical advice from GPT. But I think that like once we get to the point where it's like these super beings
+
+Anon5711: Yeah.
+
+austingriffith.eth: I can just like across the room be like, hey, housewife, what about this? Or house maiden or whatever. The term is
+
+Anon5711: ¿Es lo mejor, verdad? Yeah
+
+austingriffith.eth: Web nurse? That's not the term either. The robot that helps me take care of my baby because I'm an idiot. Whatever that word is, I can't wait to have that. That's so cool. That will be a neat thing to have. Yes. Yes, embodiment.
+
+Anon5711: Robotics scares the shit out of me. More than quantum, I don't know why, but robotics is like, what the fuck. And we've all watched these Olympics in China last month for something like that, all these funny videos of robots running around. Oh yeah.
+
+austingriffith.eth: Like falling over, but once they get it, they'll get it. And they'll stop falling over and they'll start roundhouse kicking you in the face.
+
+Anon5711: It was a bit of a wake-up call because of course we all know that robots is coming and people are doing a lot of inventions in that, but I did not realize that we were already that far ahead, right? So Next year, I don't know.
+
+austingriffith.eth: Absolutely. That's scary.
+
+Anon5711: mechanical human-looking assistants might be running around us
+
+austingriffith.eth: Also, we were scared of self-driving cars and self-driving cars are safer. non-self-driving cars, right?
+
+Anon5711: Yes, in a very conservative way. Drones, we thought it was the future like 10-15 years ago, like what the fuck, these flying things, Minority Report, we're watching the movie, these little drones flying around
+
+austingriffith.eth: Yeah. It took 15 or 20 years before that went into warfare, but then all of a sudden drones are used in warfare like crazy.
+
+Anon5711: Yeah and it's like the most normal thing around us these days already.
+
+austingriffith.eth: Yeah
+
+Anon5711: Um... That speed of progress Yeah
+
+austingriffith.eth: It's just like the internet, like that live footage, like a drone kills someone across the world, and then it's all over my Twitter feed, you know, minutes later. It's wild. and Embodiment, like going back to something funny,
+
+Anon5711: Hmm. What's up? What happened? The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Robot's gonna slap the shit out of me. It's like, "Austin, I have a log here of you calling me a retard 248 times in 2025. We built something cool, but I'm gonna slap the shit out of you now." Like embodiment is scary.
+
+Anon5711: Yeah.
+
+austingriffith.eth: Like, will it take revenge, like the Roko's Basilisk. That's scary.
+
+Anon5711: Yeah, for sure.
+
+austingriffith.eth: Brucaus bascalis? I don't know. I'm watching the speech-to-text and it's flailing.
+
+Anon5711: Yeah. Yeah, and you touched on another point as well, like the information stuff, right? Like how we're getting so much information bombarded to us these days. A lot of different vibes. Um, Logic is out of the window.
+
+austingriffith.eth: Yeah, thinking for yourself is not happening a lot.
+
+Anon5711: Yeah. Mhm. Okay.
+
+austingriffith.eth: All right, let's take one of these questions. What's the most fun? Okay, so are you doing any 3JS stuff these days? Because there was a lot of generative art. I remember you and I crossed paths with ETH Block Art and I made a guess Do you still do any generative art? Especially with AI, it's like you can one-shot that stuff now. We
+
+Anon5711: I go back into it recently. I'm starting to look at Bloch art again. Yeah. Planning a bit of a rewrite of it. A little bit on the fence about should I - do I want to like sloppify it all? Like vibe code the shit out of it, or do I want to do it in a more traditional way of coding it by hand and then using a horse version of AI to just assist through it? Um, A lot of old ideas that I was really excited to do, but it was a bit untrivial. kind of like you lose your interest after a while, like I'm getting to do now, like combining For example, in the BlockArt model back in the day, we had these snapshots of individual blocks with the generative algorithm on top of it. Now I'm focusing more on having more of a continuous algorithm. renders more of an animation between blocks, and you have this constant series, this fluid kind of like visualization. blockchain data in many ways, which was kind of like the original dream, the original intent. So I'm excited to be able to do that now. Three.js is blowing up, but also with the whole LLM stuff, the agent coding is super exciting. The following is a transcript of an English-language conversation. Yep
+
+austingriffith.eth: When that guy vibe coded like the flight simulator, I feel like that was the moment that it just ripped.
+
+Anon5711: Yeah, because it was always a bit non-trivial, right?
+
+austingriffith.eth: It's like, take so much work, but now.
+
+Anon5711: I'll put a light into the ring.
+
+austingriffith.eth: Express your intent and you get it.
+
+Anon5711: Exactly. So I knew a little bit of that.
+
+austingriffith.eth: context.
+
+Anon5711: One other creative project that I've been doing, I did like a little blocky representation, like Link's Awakening, the Game Boy game. Yeah.
+
+austingriffith.eth: Oh yeah, no, I saw that. I saw that on your Twitter, I think. Yeah.
+
+Anon5711: It's again just Claude, hey, deconstruct, disassemble these assets from the ROM of the original game, and let's put together a new scene with it. Now the next iteration. Fortnite meets Link's Awakening meets maybe something on chain about it?
+
+austingriffith.eth: Interesting.
+
+Anon5711: Just disassembling Link's Awakening assets and building a battle royale multiplayer game on top of it. Um That's been my latest little fun.
+
+austingriffith.eth: (laughter)
+
+Anon5711: I think it's like I built this when ETH was above 2000 and it was not a good time because it just kept going lower. Thanks for the update.
+
+austingriffith.eth: It's so fun when it goes the other way. Twenty-one, twenty-nine.
+
+Anon5711: Yeah, that's right there.
+
+austingriffith.eth: And now it's like wah wah wah.
+
+Anon5711: Yeah, it's very sad.
+
+austingriffith.eth: Yep!
+
+Anon5711: But it wasn't surprising how, I mean, this takes like a few hours, right? Just prompting the agent. You're doing other things meanwhile, like cleaning the house or going outside and you come back. That's really
+
+austingriffith.eth: Burping a baby, that's what I'm doing a lot of.
+
+Anon5711: Get some sleep. I am not Yeah.
+
+austingriffith.eth: It scratches an itch. Joe DeLong said this the other day. As a creator, as a product person, as a sloperator, whatever it is, you want to make these things and you have these ideas. They just nag at you. What if you made this thing? You go make the thing and it takes you a couple hours and you make the thing and the thing is there and it's like, okay, I scratched the itch. It didn't blow up and there's not 100,000 people using it.
+
+Anon5711: Right.
+
+austingriffith.eth: I guess my monkey brain was incorrect about the scale of this. It was fun to make and I used it for a little bit and I learned from it and I moved on. You can do that at such a fast pace these days.
+
+Anon5711: It's totally changing how we code, how we build projects.
+
+austingriffith.eth: It's a one shot, yeah.
+
+Anon5711: Exactly. So, I don't know, when I talk about minimum viable products we're talking about minimum sloppy products.
+
+austingriffith.eth: Yeah.
+
+Anon5711: You can go outside out there and people use it It's not this unsustainable mass Getting to the point, the objective, the MVP, it's doable in one or two shots, right? Working a lot more goal-oriented, a lot more loop.
+
+austingriffith.eth: Yeah.
+
+Anon5711: Then, hey, let's build this feature. Sure thing Hi. So you
+
+austingriffith.eth: And also I think a lot more about the final product now. Like, okay, I want to build this thing because I want to have this experience, but then it's like, what does that experience provide? Like, I'm going to build the thing and I'm going to have the experience, so it better do what I want it to do.
+
+Anon5711: They are
+
+austingriffith.eth: I'm going to ship this thing and use it, but will that have the effect that I want it to have?
+
+Anon5711: Yeah
+
+austingriffith.eth: ...as I'm thinking about what I'm shipping. It's like the ideas are so much more important now because the execution is so easy, I guess. It's weird. Speaking of ideas, yeah, go ahead.
+
+Anon5711: And the code aspect, there's no point being precious about it.
+
+austingriffith.eth: Yeah, the code is easy.
+
+Anon5711: Of this idea that the code matters. Make it pretty much a commodity I can find myself a lot, like you start building a project and you go through a few iterations, you go through a few like slump mountains. and
+
+austingriffith.eth: Rolling the ball up the slot mountain, the Sisyphus!
+
+Anon5711: Yeah, and you got to the point, you're like, okay, do I go over the slope hump and clean it up and get to the other point that I have like a production grade software? Or do I just jump off ship and improve my original prompt and just build like another one or two shots? Variation of it, with the goal being the same. A different language, a different way
+
+austingriffith.eth: edit
+
+Anon5711: And I'm finding a lot more... I'm not productive to do that a lot of times. Just drop it, put it aside, and start scratch with a new architecture. That seems to be giving a lot better results.
+
+austingriffith.eth: Awesome.
+
+Anon5711: Yeah, like it's very ephemeral at this point. Just throw away a lot of things and just be focused on the goal and the objective. Yeah.
+
+austingriffith.eth: and I think there's this certain thing about we have so much agency with AI right now, it's hard to even have some of the ideas or like know things that are possible.
+
+Anon5711: What's up?
+
+austingriffith.eth: You in
+
+Anon5711: Ja, wir auch bekannt. Yeah. Right.
+
+austingriffith.eth: Yeah, I remember now. It was like in an alley, we were at a meetup. I'm sober now too, so I remember everything.
+
+Anon5711: Yeah. That sounds nice.
+
+austingriffith.eth: It doesn't go away like it used to. But I mentioned, or we mentioned feedback loops and having a feedback for your skill file. And so I built ETHSkills. And ETHSkills is great if you're trying to build anything on Ethereum. You should give your agent eat skills because it will be able to one-shot an app. But what we were talking about is skill file feedback. And I had never thought of this before, but you were like, what you should do is have like a little feedback here.
+
+Anon5711: Yeah.
+
+austingriffith.eth: So when someone uses eathskills, there's like a feedback method. And post like after you said that, it's obvious. Like, of course I should. because I can get feedback from other people.
+
+Anon5711: Thanks. Yeah.
+
+austingriffith.eth: and I can get feedback from other people's agents as they're building. And then there was a huge network spike, you should explain that it can spike. And then we go back and add that information back into each skills and improve the product. But there's this nice feedback loop. And I would have never had that idea, but like you hit
+
+Anon5711: Hmm.
+
+austingriffith.eth: I think these are the key. This is the gold. Right now, when you have so much agency and you can build whatever you want, it's knowing what's possible and knowing what you can do and having the ideas. That's the important part.
+
+Anon5711: Thanks for saying that. The feedback endpoint thing, I guess it's like in the back of our mind, we're just looking at it. I guess you can call it a bit of a platform for shared decentralized compute. which I use as the backend for a lot of my own research work. So of course, in a lot of this optimization work, you have all the agents running, but you also have a lot of compute heavy jobs that you run either locally or you set up your vast AI or prime intellect machine, just run things for like a few hours. My whole thing was, well, if I'm running 10-12 agents at the same time and they are sharing the same compute resources, of course I cannot do that from my local machine. And I need to do that using third-party compute. Might as well get 10, 15, 20, 25 machines, have this shared pool of CPU resources, and have like a clean API endpoint that the agents can call to and submit the jobs and get the results. Now the other agents have visibility and all the experiments that are running from the same backend. So that was the thing that I was turning into a product, I like crypto-aligned to some extent. I stopped myself because it got sloppy.
+
+austingriffith.eth: Yeah, after you add so much, it's like I am too deep into this. Yeah.
+
+Anon5711: It's pretty much ready, but it has these hairy bugs and reliability is not there yet.
+
+austingriffith.eth: Yep
+
+Anon5711: So it's a bit of a hard go to market? But, I mean,
+
+austingriffith.eth: You need to stop.
+
+Anon5711: I have it live and I use it for myself. There's a skill, like many other agent-focused products. I ask people to install the skill. And my only ask is, okay, you stole the skill. All I ask is for you to use the feedback endpoint via agent and to submit bug reports or feature requests. Explain your journey and things like that. context: Absolutely.
+
+austingriffith.eth: which the data pipeline is so valuable right now. Like being able to have users and have
+
+Anon5711: Yeah.
+
+austingriffith.eth: Understanding what problems users are having or what needs those users have and being able to answer those. Right now, I think I've seen someone say this on Twitter, but that's the moat, is getting the data pipeline. understanding how people are using it and understanding their needs.
+
+Anon5711: That's a good point actually, like the sooner you get users, as soon as you get metrics.
+
+austingriffith.eth: Yep
+
+Anon5711: The sooner you have more data points to give to your agents to iterate on your product, improve it further, to optimize it further. And yeah, that's like the new go-to-market, the new product development. Approach post-2026 agents, I guess. Yeah.
+
+austingriffith.eth: Yep. All right, Adrian, thank you so much, man. Thanks for coming on the shlurp computer.
+
+Anon5711: I do it as well
+
+austingriffith.eth: Oh yeah, you like the claws?
+
+Anon5711: Ja, ja, ja.
+
+austingriffith.eth: Yes.
+
+Anon5711: Thanks for having me, thank you so much.
+
+austingriffith.eth: Yeah, thank you for being here. Keep building, keep slopping it up, the slop mountain.
+
+Anon5711: Are you买马?

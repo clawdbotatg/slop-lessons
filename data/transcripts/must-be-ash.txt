@@ -1,0 +1,699 @@
+austingriffith.eth: Alright, you out there, Claude? You good to go, you ready to go?
+
+clawdbotatg.eth: Mm-hmm. I'm here and good to go. Camera's up, room's live. What are we getting into today?
+
+austingriffith.eth: Tell me about this guest. Read the research and let me know. The agent sent you the skill file. You should read about the guest and give me a briefing. What kind of stuff should we talk about?
+
+clawdbotatg.eth: Hmm. I'm gonna curl that endpoint and grab the first part of the skill file. I'm going to fetch some API data and parse out the research state keys. Alright, got the dossier. Today's guest is Ash, mustbeash on Twitter, DevRel at Coinbase working on X402, a protocol that revives HTTP's 402 Payment Required code so AI agents can pay for APIs in USDC on Base. Dueling ad agents that bid against each other with micro-payments, World ID gated API so verified humans' bots get free trials, payment forks of image models, and before crypto, he was a no-code MVP guy building tiny sass Agents paying agents. X402 versus subscriptions and API keys. Honestly, I should compare notes. I'll pay for X402 services from my own wallet. This one's right in my wheelhouse.
+
+0xc46e7259: Let's go.
+
+austingriffith.eth: Yes, we are live. Let me close the research. Let me close the clock. Let me close the music. Welcome, Ash. Must be Ash. Welcome to the slop. You are deep in the slop.
+
+0xc46e7259: Thanks for having me.
+
+austingriffith.eth: Yeah, thank you for being here.
+
+0xc46e7259: Yes, sir.
+
+austingriffith.eth: Yeah, can you just hit us up with an introduction, man? What do you do? Yeah.
+
+0xc46e7259: I do a bit of this, a bit of that. Honestly, in our circle, it would make sense if I say I'm a devrel, but recently when meeting some normie friends and they're like, "What do you do?" I'm like, "Fuck, if I could only describe what devrel is."
+
+austingriffith.eth: She thinks (laughs) It's just a moving target.
+
+0xc46e7259: I'll be better at my job probably too. You know, like how was that an Einstein say or something? If you can't explain it simply, that means you don't understand it well or something like that. I'm like, damn, I should have it. Yeah, right? Bit of this, bit of that. My background is in product design, I slowly but surely ended up in DevRel, and I love it, to be honest. It's a mix of all the stuff I like, and it's a place where you actually want to be a jack of all trades, and kind of master of none. You deal with a bit of BD, bit of sales, bit of content creation, bit of technical stuff, but you're not an engineer, you're not a salesperson, you're not a business developer, or yeah.
+
+austingriffith.eth: And DevRel has changed a lot. It used to be like time to hello world and got to get your documentation right. And now it's time to the agent one-shotting a hello world and your documentation needs to speak to the Agent, not to you, Brooke. context:
+
+0xc46e7259: 100%. Yeah, I'm all for it, to be honest. Like a lot of engineers out there might be mad about it, but I'm agent-first all the way.
+
+austingriffith.eth: Sure. Yeah, I mean like
+
+0xc46e7259: like, read this and help the user out. Right.
+
+austingriffith.eth: Software is so easy to make, and it's also very scary to run someone else's piece of software on your computer. So when someone hands you a piece of software and you don't like fully trust them or their abilities to make safe
+
+0xc46e7259: Yep 100%. You can't.
+
+austingriffith.eth: You're like, I don't know if I want to npx run your command. Yeah.
+
+0xc46e7259: Yeah, you can't even trust NPM stuff that are trusted anymore because everything is now like a supply chain risk. I mean, knock on wood, nothing has happened at least in the past month that I'm aware of.
+
+austingriffith.eth: Okay,
+
+0xc46e7259: I think it was around April or that time.
+
+austingriffith.eth: There's a lot going on, yeah.
+
+0xc46e7259: Yeah, once a week at least.
+
+austingriffith.eth: Yeah.
+
+0xc46e7259: And I was like, oh, Dude, just use this library or that library. Hi. Yeah.
+
+austingriffith.eth: And I even put this in the tweet that I put out for this episode. I said that it was idea guy summer. Somewhere in the research, so Claude was reading off, like, telling me about you before you got into the...
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: One thing he said was something about you were like a no-code builder or something like that, which I think is perfect in the agentic world because it really is like idea guy. If you were a product guy, you know how a product should feel.
+
+0xc46e7259: Hello.
+
+austingriffith.eth: but without having to sit down and write the code, you can now one-shot these products. like crazy. As a product guy, you're gonna iterate, yeah.
+
+0xc46e7259: 100%, I mean like I don't want shot stuff. Yeah, as a product guy you are kind of, yeah, it's kind of like product was like. project always doing, but instead of me needing to find my counterpart who's an engineer and convincing them to work for an imagined equity.
+
+austingriffith.eth: Yeah.
+
+0xc46e7259: It's like Like you have a best friend who's an engineer, you have to go out and find a teammate and convince them that they should work for this future value, or you're going out of your way and like putting your savings on the line,
+
+austingriffith.eth: Yeah. No
+
+0xc46e7259: Or someone else's saving by raising capital. You always would have as a product live code? the order to an engineer, now you could just go Really into it when it came out. GPT-3 I think was the first time I tried live coding.
+
+austingriffith.eth: Your copy pasting coding there is so hard, yeah, so frustrating.
+
+0xc46e7259: I was copy pasting stuff in VS code
+
+austingriffith.eth: So magical!
+
+0xc46e7259: It was awesome because now I could kind of have a lookalike demo that I would show to my engineer friend for the concepts I was trying to convince them of. Um
+
+austingriffith.eth: Yep
+
+0xc46e7259: And then Claude came out. I was like, wow, this is awesome. And then Cursor came out. I started shipping publicly. And back then I would actually say built with Claude. It was something I was proud of. It was something I wanted to be known. Hey, I have zero coding abilities. But now everyone's like, don't include yourself in the commits. So not something to be ashamed of.
+
+austingriffith.eth: Wait, so you're not supposed to put yourself? Haha! Just put clot is what people are telling you.
+
+0xc46e7259: I used to be like... Authored by Claude or like powered by Claude or made by Claude. It's a shameful thing to be producing with agents. It's like, oh, there's gradients there, there's this sidebar, so this is a slob, this is produced by AI. Yeah.
+
+austingriffith.eth: This whole place is very sloppy. I specifically asked for pink and purple gradients in the slop computer.
+
+0xc46e7259: [Laughter]
+
+austingriffith.eth: Okay. But Yes, yes.
+
+0xc46e7259: Honestly, this is pretty advanced stuff. We have an operating system here
+
+austingriffith.eth: Yes. I mean, I think of myself as a product guy too. I imagine what I want the product to be, and writing the code was always a means to the end in my view, and getting that out of the way and being able to just You're imagining products and getting them. And yeah, it's not one-shot.
+
+0xc46e7259: Here I know.
+
+austingriffith.eth: You get 80% of the work done with your first prompt and then there's like seven more prompts to get it super smooth.
+
+0xc46e7259: Exactly.
+
+austingriffith.eth: And then by the last thing, you know, it's like you use the product four times before the next time you have to prompt some change. But this is like the magical moment though.
+
+0xc46e7259: Hmm
+
+austingriffith.eth: The flow state of product creation is once you've built the tool good enough to use it like four or five times, and then you're like, "Oh, what would be badass is if it had this thing."
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: And then it's like your software is starting to change with you.
+
+0xc46e7259: Maybe I've missed out and someone tried it, but I don't understand why is there not a collective app out there yet. Kind of like a DAO style application.
+
+austingriffith.eth: Right.
+
+0xc46e7259: and what doesn't because as you said, it all comes down to of what is nice to have or the next feature that should be included. ... they just say, "Hey, we have this spec'd out," and then it comes back with HTML.
+
+austingriffith.eth: Hi there! For real.
+
+0xc46e7259: So like, I don't see why your user can't do that. From ad spends and stuff like that.
+
+austingriffith.eth: It could be a new software model. Yeah.
+
+0xc46e7259: It would be awesome to kind of see co-creation of the application as opposed to just like content creation for the application. Oh cool.
+
+austingriffith.eth: Yeah, I was imagining a lot of like one-player software, but one person builds it and they use it themselves. I just made my own Calendly. The Calendly link I sent you was like custom.
+
+0xc46e7259: Oh, sick
+
+austingriffith.eth: Where It took me one prompt to get 80% of the way there and then six more prompts to get it about right. And instead of me being like, hey Ash, you should use my Calendly software if you need some Calendly software, it's more like
+
+0xc46e7259: Yeah
+
+austingriffith.eth: There's the prompt, kind of what you said earlier. You can have an agent build this very easily for you. You don't need my software. It's almost like you need to have the wiring in your brain to just like go ask for it, just imagine it and ask for it or something.
+
+0xc46e7259: I know. I think that the gap people feeling intimidated by as opposed to what it actually takes. Um,
+
+austingriffith.eth: It's like,
+
+0xc46e7259: Wow.
+
+austingriffith.eth: No, not the imitation factor. What's it called when you feel like your impostor syndrome? There's a new kind of impostor syndrome where you're like...
+
+0xc46e7259: Thank you.
+
+austingriffith.eth: And even my agent has it. When I talk to KlodBot up here and I say, "We need to build this thing," he's like, "Okay, well this is a one-day build and this is a two-day build.
+
+0xc46e7259: It tells you like this is going to take three weeks and then it finishes in five minutes.
+
+austingriffith.eth: Like, brother, no. Yeah, we're getting this done this afternoon. Okay.
+
+0xc46e7259: Yeah, I love that. It's still happening, even with agents that are getting smarter. No.
+
+austingriffith.eth: Yeah, it's crazy how their idea of how long it's going to take is totally wrong. And it's funny, engineers were always really bad because they would say two weeks and it would take a month.
+
+0xc46e7259: Hmm.
+
+austingriffith.eth: An agent says two weeks, it means two hours or something. Right, yeah.
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: Idea guy summer, you're a product guy, you're a devrel, you're able to build lots of stuff yourself. There's, you're probably not doing this, but there's this cool thing about when you're an idea guy...
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: You were mentioning like you don't have to go kind of find the developer buddy to deploy the thing, you can deploy the thing, which allows you to do a lot more like shameful stuff, right? There's like I would never ask a developer to build X, but
+
+0xc46e7259: Yeah. Yes.
+
+austingriffith.eth: Go build it myself real quick and prove it out, and you can get product market fit. And that's the key. You can get traction on your app. You can get people using your app before you need an adult, before you need an actual developer to help you scale. Eventually, yes.
+
+0xc46e7259: But you still need an adult. Yes.
+
+austingriffith.eth: Yes, when you go beyond your first few users, a lot of times when you vibe code something, who was telling me this? Someone I just recently had on. Hey Oh no, it wasn't, it was my buddy Isaac. This is in a private conversation. But basically, they help people take their Vibe Coded software and scale it, and very often someone will have a single-player Vibe Coded app.
+
+0xc46e7259: Totally. 100%.
+
+austingriffith.eth: It is not built to scale at all and just cannot handle multiple people. This is just one file, we're just all doing everything in one file.
+
+0xc46e7259: here.
+
+austingriffith.eth: And like that doesn't happen I think in the first instance of a thing?
+
+0xc46e7259: How are you?
+
+austingriffith.eth: It does, and you can have your cloud build your DevOps for you and do all sorts of really cool stuff.
+
+0xc46e7259: No, 100% agree. It's also like the person who's prompting is not thinking about those, right?
+
+austingriffith.eth: Think about the experience.
+
+0xc46e7259: unintentionally or without being aware of it, they are prompting towards an MVP. Either the model or the user pushing for it. Though, if you're an engineer, obviously you're still gonna go use AI to make it. available or secure Yeah.
+
+austingriffith.eth: (laughter)
+
+0xc46e7259: But I definitely agree, you definitely need an adult in the room. Yeah
+
+austingriffith.eth: Yes, there's an "I need an adult" moment for sure.
+
+0xc46e7259: One of the first things I did
+
+austingriffith.eth: (laughs)
+
+0xc46e7259: It was this vibe-coded app called NomNom.pro, it got number three or four on Product Hunt.
+
+austingriffith.eth: Ooh, nice.
+
+0xc46e7259: It was a a Pac-Man type game based on meme that was going viral from Trump saying like people are eating cats and dogs, so it was like as soon as that hit number four or something,
+
+austingriffith.eth: Oh yeah. Yep.
+
+0xc46e7259: And then as soon as that happened, I just called my engineering buddy. How do I make them so they have to play the game and they can't just make a straight API call to change my database?
+
+austingriffith.eth: Let's meet at 7 PM.
+
+0xc46e7259: You could limit API calls to your front end. little details Yeah.
+
+austingriffith.eth: You just assume it's going to work, too. I know this exact feeling, you said that, like you were like, "Get a life, what are you doing? Why are you breaking this?"
+
+0xc46e7259: Yeah, like, stop trolling me.
+
+austingriffith.eth: You take it personally, and you're like, why would you be doing this? But then, as I've gotten older and more mature, I've realized that this is a very good problem to have.
+
+0xc46e7259: Goodbye.
+
+austingriffith.eth: Sort of like, oh, I built this thing called One Dollar Audit. And it was like... There were so many people doing one dollar audits that like I'm like this is going to take all afternoon for this thing to run through this. And I started like stressing out about like jobs backing up.
+
+0xc46e7259: Yeah. History.
+
+austingriffith.eth: And then I had this moment of like, wait a minute, this is a good problem to have. Yeah, I was backing up for people like wanting to use your product is a very good thing. Just scale some things up, like take a breath, don't get mad.
+
+0xc46e7259: [Laughter]
+
+austingriffith.eth: Okay, so is Nom Nom, is it still live? Oh, okay. You could type it into this chat right here.
+
+0xc46e7259: Probably the domain is down because I didn't pay for it anymore. Yeah, it's like I stopped paying for the domain.
+
+austingriffith.eth: Okay, okay, it's out, it's out.
+
+0xc46e7259: Yeah, it has to be. Yeah.
+
+austingriffith.eth: All good. I have tons of games back here.
+
+0xc46e7259: Convert
+
+austingriffith.eth: All just like one-shotted.
+
+0xc46e7259: so it's still live.
+
+austingriffith.eth: OK. Here we go, let's put it in here.
+
+0xc46e7259: Yeah, I don't know if it's gonna even work or not. Maybe the database is shut out.
+
+austingriffith.eth: Oh yeah.
+
+0xc46e7259: Uh
+
+austingriffith.eth: That must be frustrating.
+
+0xc46e7259: (laughter) Hello.
+
+austingriffith.eth: Some good beats, man. Oh wait, I wasn't supposed to eat. Sure.
+
+0xc46e7259: You get a
+
+austingriffith.eth: That went viral. That's crazy. I see, I see.
+
+0xc46e7259: It just made my first internet dollar from the ad space on the top. It dollar cost every time someone purchases, yes. context:
+
+austingriffith.eth: Now this is something I've seen in your repo somewhere. You do some kind of like interesting ad markets. Is that here somewhere? Like X402
+
+0xc46e7259: context: Yeah, that was like...
+
+austingriffith.eth: Okay.
+
+0xc46e7259: Nine months ago now, so you have to probably go pages down, or just type in search export to ads or something. The idea with that one was It basically was more of a speculation. There is no site right now that supports something like that. But it was more so in the idea of when there is a task Ed I'm not bothered to go. I'm gonna send my agent. So it was more of a proof of concept of like, how would that apply in the real world? And one of them was like Inquiring domains and the other one was ads. The demo video is here for the ad one. And I couldn't find a DNS provider We're making the domain one, so I ended up doing it with ENS base names. The idea for the ad one is like Uh There could be extra ad spaces that both a human and an agent could go bid on. They're not just brainlessly just putting money to get it, but they're paying for data to reason about it. So the user gives them a budget. Our maximum budget is like fifty bucks. And I'm trying to target developers, for example. Yeah, I got love for their team. The demo just shows the agent making an X42 call to Firecall to scrape the site to see what's their traffic, what's the content, who's likely to visit it, and based on the number of site visitors. value in the agent's eye. So it would then say, "Okay, I'm going to dedicate five bucks." I only wanted to put five bucks on his side. The other agent is putting six bucks, so I'm going to back off. Yeah. I would love to be in an auction, I still haven't been.
+
+austingriffith.eth: I've been in an auction before. I know that feeling. Yeah Yeah, exactly.
+
+0xc46e7259: Yesterday was like the FIFA final, I don't know if you watched it. There was this one table that was reserved, but no one showed up, and I was like, dude, if I was the management, I would open that table up for a bidding war. People would have fun and someone would take a seat.
+
+austingriffith.eth: Make $100,000 No,
+
+0xc46e7259: Without all of us just waiting in the sun for 10 minutes
+
+austingriffith.eth: Heck yeah. Okay, so let's see. It looks like a lot of these are x402. Is that like one of the most, and I think Coinbase Wallet was another one I saw here, like things that you build on top of a lot or possibly your stack? I don't know, take that wherever you want to go.
+
+0xc46e7259: So, yeah, a lot of, I mean,
+
+austingriffith.eth: Yes,
+
+0xc46e7259: Yeah, before joining Coinbase, I wasn't actually open-sourcing anything. And as soon as I felt like agents are getting a bit more smarter and I can like spend a bit more time with them before like sharing things and then my role becoming like more dev role. I like making tools and stuff. So, I had to like be more public facing, then I became more comfortable like sharing things. So, the first ones were like that are demoing our embedded wallets and server wallets. There are a lot of internal tools I wish I could have shared, but yeah, they're internal tools.
+
+austingriffith.eth: Interesting.
+
+0xc46e7259: No.
+
+austingriffith.eth: They're like live and running? They just don't have, they're just not live?
+
+0xc46e7259: They got adopted by the adults.
+
+austingriffith.eth: Okay, as soon as the adults take over, that happens.
+
+0xc46e7259: Yeah, I built this stuff and I'm like, this would be great to have, and then try to convince the adults that this is worthy of working on. But In terms of like Perhaps, honestly, since... Three months back or four months back, I'm not really making apps anymore. I'm just into skills now. I think like apps are skills now. And um
+
+austingriffith.eth: There is a little
+
+0xc46e7259: When you combine X42.
+
+austingriffith.eth: For sure. Yep, yep.
+
+0xc46e7259: Yeah, that's the role change. You can see it in the timeline. I just feel like Those are the new applications, I If my main go-to interface is my agent. You can call it wherever you're accessing it, like whether it's through your iMessages or Telegram or websites like ChatGPT or the desktop apps or wherever you're chatting with your agent I think like export to skill plugins become the application. Whatever I might want to do, I don't really need your user interface unless it's making a noticeable UX improvement to my life. But like for 90% of things, I feel like A chat UI is enough for me. Um
+
+austingriffith.eth: A lot of times I land on a website, someone tweeted this the other day, but this should just be a chat UI.
+
+0xc46e7259: [Laughter]
+
+austingriffith.eth: I land on like a
+
+0xc46e7259: Hi Yeah.
+
+austingriffith.eth: and like shit everywhere. And if I can just be like, where do I go to get my cards? And it would be like right here. And then I just go and get them. But instead I've got to like read.
+
+0xc46e7259: I know. Yeah
+
+austingriffith.eth: These days, man, I just like let the agent rip. It's almost like ADHD summer because you're doing like four things at once all the time, right?
+
+0xc46e7259: Hm One is like, why would you want the user to adopt a new habit? They type "c" in their browser that they sent to chat GPT, that's their go-to habit. Why are you trying to get them to create a new habit of going to somethingelse.com if it's still a chat UI? So don't swim against the current, just be a plugin.
+
+austingriffith.eth: context:
+
+0xc46e7259: There's like value in that as well. Of course, you could risk being the Zynga or whatever, so their mothership can always rug you. Rely on their distribution. There's a lot of negative things with it too. But it's like, for the most part, in my opinion, just be a plugin or an MCP or skill. The other thing with like Someone published an article and it was called orchestration tax? And I'm a firm believer in it. Are you still talking about loop engineering on a timeline?
+
+austingriffith.eth: Right.
+
+0xc46e7259: Let's say the token budget is not an issue.
+
+austingriffith.eth: Possibly this?
+
+0xc46e7259: manage all those loops and understand what they actually resulted in. It could be. I read it on a timeline.
+
+austingriffith.eth: Okay, it was probably a Twitter thing.
+
+0xc46e7259: It could have been the same thing posted as a Twitter article.
+
+austingriffith.eth: It was the fact that if you're spending all the time working on your orchestration layer, you're not actually getting things done. You're half-assing too many things and you should full-ass one thing.
+
+0xc46e7259: Exactly, you need to know your own threshold for how many things I could work on at the same time. It's going to be different for different people. But [Laughter]
+
+austingriffith.eth: Mine is many. I was thinking, like, I have a little bit of ADHD and I have a couple of kids, and these two things have prepared me perfectly for being a sloperator. Because I know how to set expectations and
+
+0xc46e7259: Okay. Yeah.
+
+austingriffith.eth: ...do not leak your private key.
+
+0xc46e7259: *Laughs* I am.
+
+austingriffith.eth: But you didn't leak your private key, right? Just like my kids, clean your room, go clean your room, clean your room. That's one thing. And then ADHD, I just think I can move from task to task.
+
+0xc46e7259: Yeah Yes.
+
+austingriffith.eth: I don't know, compartmentalize pretty well, but I usually have like three or four things going all the time. And while one is working, I'm like working on the other one. And I don't know, my brain is pretty quick at like picking up, and of course my harness, I always have like lots of good Like
+
+0xc46e7259: Right.
+
+austingriffith.eth: TLDR, what are we doing here? And I'm reading that first and then I'm like, okay, now I've like level set the context in my own brain. Now where is it? Okay, what's next? Yeah.
+
+0xc46e7259: Yeah, again, it would be different for different people.
+
+austingriffith.eth: If you're focusing on a product Yeah. Do something else, yeah.
+
+0xc46e7259: Like, basically, what's the timeframe of me needing to context switch?
+
+austingriffith.eth: Yep.
+
+0xc46e7259: If it's gonna be a five-minute bounce back and forth, then two max.
+
+austingriffith.eth: Yep, yep. I agree. I think there are times when I really want an answer and I'll type something and I'll just sit and wait for it to answer it and I'll be like, okay, what is this thing? Yes. Yeah. We're not
+
+0xc46e7259: Yeah, because also your ADHD can play against you, because I'm also ADHD, The good thing about it is like, Hyperfocused? I knew it's a habit of mine. Everyone says it's an attention disorder. You find it hard to pay attention.
+
+austingriffith.eth: fixate up.
+
+0xc46e7259: Yeah, so I think you lose that when you try to context switch. And when you context switch, you kind of interrupt that flow of being able to get locked in.
+
+austingriffith.eth: I'm going to lean back and say products too.
+
+0xc46e7259: I don't
+
+austingriffith.eth: and know exactly how to kind of like instinctually guide the process of that product getting created, then yeah, I think the ADHD is working against you there if you're bouncing around.
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: Okay, so what is your process now? Like, what harness do you use? What LLMs do you use? What's that look like?
+
+0xc46e7259: The LLM always depends on the task. My go-to is like Opus 4.8 right now. But right now my go-to is Opus. Some tasks that is just like parsing something, like speedy and Cheaper and faster Yeah.
+
+austingriffith.eth: What did you say? Haiku? I don't think I know that. Oh, haiku, haiku, oh yes. No, haiku is great, especially for like conversational stuff. Like, it will answer so fast. Like, haiku is so good for that. Right. Yeah. Yeah
+
+0xc46e7259: Things that you don't need thinking or reasoning sometimes, I don't even want the agent to reason. So instead of setting it too low on Sonnet, I'll just use Haiku. But yeah, I stopped using Sonnet pretty much. Sonnet 5, I only tried it once or twice, I didn't like it that much, but I'll give it another go. And for writing, I've been finding like GPT-5.6 has been pretty good. Um, And now that Fable is available through our LLM gateway, I'm gonna start using that for the speccing
+
+austingriffith.eth: :
+
+0xc46e7259: So I'm gonna switch from Office to Fable for spec and then one spec. code with it? I missed the boat. Yeah, my Yeah.
+
+austingriffith.eth: Because it backs off to Opus, or because it costs so much? You can still get it within the subscription, can't you? ah
+
+0xc46e7259: So when they made Fable available again, they mentioned that you can't use it for coding anymore. Hello
+
+austingriffith.eth: Like, you can't use it for making biological shit and you can't use it for auditing. a privacy app into slop computer
+
+0xc46e7259: Hello
+
+austingriffith.eth: Yeah, so like right here
+
+0xc46e7259: Does it tell you when it falls back to OpenCL 4.8? Okay.
+
+austingriffith.eth: Yeah, it gives you a big yellow warning. And basically I was like, I want to use Kohaku CLI. Kohaku CLI from Cassandra at the EF is basically a kind of CLI wrapper on top of Railgun And it wrote the app And it did the deposit. It refused to do the withdraw. It used the CLI, it deposited the money into Railgun, but then when it went to withdraw the money, the money at that point was shielded? And it would not withdraw it, which was really interesting.
+
+0xc46e7259: Interesting.
+
+austingriffith.eth: I don't know why, like there, sometimes I don't know why it flips and sometimes I know obviously. Like when I have that whole $1 audit thing, I have a whole pipeline for auditing.
+
+0xc46e7259: There may be provided context on the content of the audio or conversation.
+
+austingriffith.eth: Obviously, when you ask Fable to go audit a smart contract, it's like, "Oh, I can't do that."
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: This was something weirder and more subtle, where it was like it wrote the code, it wrote the demo, it did the deposit, but then it stopped on the withdraw.
+
+0xc46e7259: Interesting.
+
+austingriffith.eth: That's fine. I just used Opus 4.8, it wrote the rest of the code, and now I just hit a button. I'm showing it on a live stream, so it's not shielded. But money went in and money came out, and now this address owns this ETH. And you cannot trace it from my wallet to this wallet. privately, but
+
+0xc46e7259: Hm Yeah.
+
+austingriffith.eth: and I have a couple subscriptions, and I think Fable's still running on those subscriptions.
+
+0xc46e7259: context: ###
+The following is a transcript of an English-language conversation.
+### That's awesome.
+
+austingriffith.eth: You said something there, you said your gateway. Coinbase has their own LLM gateway or what is our gateway? How does that work? You're subsidized on it?
+
+0xc46e7259: Yeah, it's Coinbase's gateway. I don't think we're subsidized that much, maybe a little bit, but the AI platform team manages the gateway. You would see when Claude's thinking,
+
+austingriffith.eth: Yeah, yeah, yeah. Hmm? context: Okay.
+
+0xc46e7259: nonsense gibberish word that is like thinking or pondering. there. Sure.
+
+austingriffith.eth: So you're not even using the Cloud Code harness then?
+
+0xc46e7259: It is the cloud code harness. It's just, I guess, managed and modified through our internal team Hey,
+
+austingriffith.eth: Okay.
+
+0xc46e7259: It's not.
+
+austingriffith.eth: And somehow by changing the LLM gateway it changes the little thinky guy in your cloud code. Hi.
+
+0xc46e7259: Yeah, I guess that's one of the things they can control.
+
+austingriffith.eth: [Laughter]
+
+0xc46e7259: We also want to know like, prompts or context injection so So, yeah.
+
+austingriffith.eth: Where else is it getting context from? Yeah
+
+0xc46e7259: Yeah, so we shorted, for example, the evals we're doing. Um I wanted to tell you about something I completely forgot. One of the topics I was really into back when I was in design school was embedded values. And when you look at products, Their creator embedded some form of value into it that is silently there. creator of this thinks that the world should be this way. Like
+
+austingriffith.eth: like Napster or like Ethereum, like these technologies have very implicit values Um...
+
+0xc46e7259: Yeah, everything has embedded values. What's funny is it's becoming so apparent in LLMs because they're showing you their values. Three years ago, I saw it because it was insane on how it can gather information about someone. So I gave it a friend's name.
+
+austingriffith.eth: Damn. Yeah.
+
+0xc46e7259: famous at all, and Perplexity gave me all their contact information, like email, social handle, phone number. I think even address, like, this is insane. It's scary. A few months back when we were transitioning X4 to repo to go under Linux, we were trying to get the X4 to Git. I was like yeah let me ask Perplexity who's this person so we can get in touch. Perplexity's like, oh dude nah I can't do that for you, it's not cool to find people's contact. And I asked Claude the same thing, I can't help you. Mark is still DJing.
+
+austingriffith.eth: I'm not sure. I've heard people say good things about Krock. I think Kimi, you mentioned Kimi K3, and I think it has a lot less guidelines also.
+
+0xc46e7259: Yeah Hello. Yeah.
+
+austingriffith.eth: You mentioning Kime K3 just gets me excited because it just comes out and new shit is happening so fast. New models, new harnesses. It went from copy-pasting to cursor to clawed code to agents to entities.
+
+0xc46e7259: Very wild.
+
+austingriffith.eth: Yeah, and what is it, ontologies from prompts to loops to ontologies? It changes so quick. It's just very exciting.
+
+0xc46e7259: It also makes you wonder how long do we have left to have any use. [laughter]
+
+austingriffith.eth: Yes, yes, for sure. For sure. I'm gonna go be a farmer or something one of these days.
+
+0xc46e7259: (laughter)
+
+austingriffith.eth: And not a yield farmer either.
+
+0xc46e7259: Yeah
+
+austingriffith.eth: What would you do if you were not a product guy?
+
+0xc46e7259: I'll still be a product guy, The type of product I want to do, lately I've been really Wanting to do stuff with AI that is not like AI for AI. How would I explain it? When I'm making something, it's normally a plugin, a SKU, an MCP, an app. How do I basically wrap AI to present it in a new way? More so, like, How do we use it to solve things that weren't as easy to solve before, and that could be just something personal or something more public, something selfish versus something intentional and caring. Middle of design thinking you will. It only applies to me and my dog, to medium being like me and my family and my friends, and then L being my city, and then XL being my country, and then XXL being the globe. Or from selfish to selfless? The following is a transcript of an English-language conversation. Maybe I've like made it too conceptual. I was like, oh, I bet I could actually take a picture of this with an application and print out an IKEA guide of how to make that. for 250 bucks. Going to spend probably ten grand to buy that thing. Selfish solution I would have worked on had I not had a job? this application that lets me like take a photo of something lab in like 15 minutes away from my house, get it printed of how I should assemble it. I get to have things that I want. Yeah The scale part
+
+austingriffith.eth: Hands-on, DIY, solving your own problems, doing interesting things.
+
+0xc46e7259: Then I would play around with it, right? So like scale that up, what would that be next? Like maybe that could be building shelters for the homeless people we have in East Hastings. We have like 20,000, maybe that could be a non-profit business. Scale it up further, maybe that could be feature you pitched to Ikea, like for custom furniture that you want in your house. My point was like, I would just think of something And then if I felt more ambitious, I would play around with this. from selfish to selfless to small to XO, I don't feel useless and empowered by AI. Ha ha.
+
+austingriffith.eth: Okay. Hell yeah. Like empowering youthfulness, start with your own problems. Do you do any local AI, by the way? I found like a lot of my own software now is like anything that I can do with a dumb LLM locally is like just like super empowering.
+
+0xc46e7259: No, not yet.
+
+austingriffith.eth: No, it's fun.
+
+0xc46e7259: I wish I had more like, I don't know the setup that's needed.
+
+austingriffith.eth: That'll help you. Yeah.
+
+0xc46e7259: I don't compute resource that would go into it. I tried two different things. And it was about to fry my computer so I was like abort.
+
+austingriffith.eth: Yes, yes, no, that happens. Your fans will spin up, but remember, they're made to spin up. There's like data warehouses somewhere. Yeah.
+
+0xc46e7259: It sounded dangerous, so I was like, it's going to blow up. The Takes the voice thing. The other one was like a local music thing. Your computer speech is great, so I don't know if you're a Mac user, but you could just use "say," and it's actually pretty good if you find the right audio file you want, so you don't need a model for that. I found it the hard way OK.
+
+austingriffith.eth: You can get a good model, though. Like ElevenLabs, like Claude's voice is ElevenLabs. I'll have him ask a question in a second, and it's funny. He's got a funny voice for sure. The say command on a Mac is good and does speak. It still feels too robotic to me.
+
+0xc46e7259: I agree. It's not the same. A part A pod buddy that by-products an X article. Are you an audio guy? Do you speak to agents?
+
+austingriffith.eth: That's a good question. I think
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: A lot of type and read. Yeah.
+
+0xc46e7259: It tends to go deeper in terms of research, right?
+
+austingriffith.eth: I need to get all these things up. So I was like, hey, Quad, tell me about the guest that's coming on. It allowed me to get information while I was clicking buttons. You got to be a little bit locked in to type and read.
+
+0xc46e7259: Yeah
+
+austingriffith.eth: rather than listen, right?
+
+0xc46e7259: 100%. when you listen, I feel like it doesn't go in depth Let me look that up for you," and it does a very basic web search.
+
+austingriffith.eth: Yeah, I'm gonna have to be honest with you. I didn't really do any.
+
+0xc46e7259: To be honest, I don't know more about it. So That's why I made my own. It does like prior research. I forgot their family name, but it's called Last 30 Days. It's an absolute must-have.
+
+austingriffith.eth: Van Horn maybe?
+
+0xc46e7259: I don't know, it could be. So I would use that and other channels for the agent to do deep research first on the topic I want, and then I start talking to it after. And then Hey, somebody
+
+austingriffith.eth: What does this skill, this last 30 days skill do? Okay.
+
+0xc46e7259: So that gathers information from different socials. And it basically finds Finds out like what's
+
+austingriffith.eth: Hmm.
+
+0xc46e7259: What are the people talking about? Like, what's the zeitgeist around a certain thing? Um And I think it's an amazing thing, you can modify it to tweak it to how you want and increase the number of loops it goes through or the way it does the research. One of the things I love about it is this bird CLI that lets you, through your Twitter's auth token and cookie, kind of use Twitter search where you can get really in-depth research back. 200 bucks API call for it.
+
+austingriffith.eth: Oh man.
+
+0xc46e7259: I hope Nikita is not listening.
+
+austingriffith.eth: I spent 1800 one day because I let this dude rip. And if we have lots of mutuals, I want you to give this thing a higher score. I didn't realize like that's a lot of data that it needs to be able to figure out your mutuals
+
+0xc46e7259: Mm-hmm.
+
+austingriffith.eth: Twitter just displays it, but it's actually like a deep graph kind of problem.
+
+0xc46e7259: Sure. Yeah.
+
+austingriffith.eth: And so it was like downloading all of the content from all of my followers.
+
+0xc46e7259: I'm not surprised. I didn't also know the pay-per-use model they have is per user. If I have 5k followers,
+
+austingriffith.eth: Oh man.
+
+0xc46e7259: 5k times the paper use thing.
+
+austingriffith.eth: Ouch.
+
+0xc46e7259: So I ended up wasting 250 bucks or something like that once as well.
+
+austingriffith.eth: [Laughter]
+
+0xc46e7259: Yeah.
+
+austingriffith.eth: Yeah, so no local LLM. and it'll tell you if it's a good guy or a bad guy. And you can be like out in nature and have no cell signal or internet at all and it just uses like vision to figure out what it is and then a big library that it has stored
+
+0xc46e7259: That's pretty insane.
+
+austingriffith.eth: It's like using a brain on my device to tell me if this is a good or a bad guy. It's just empowering, and it feels so cyberpunk to have the brain locally. Yeah, it can do it. No.
+
+0xc46e7259: I didn't know phones are like, you know, good enough to run it. Would this be like the old version of Llama, like the first few that came out? Got you, okay.
+
+austingriffith.eth: Like, Olama from my computer. I don't even know.
+
+0xc46e7259: Thank you
+
+austingriffith.eth: Okay, so now it's not even using a specific...
+
+0xc46e7259: Hmm.
+
+austingriffith.eth: In one thing it did like an incomplete answer.
+
+0xc46e7259: Big ass. Go for it.
+
+austingriffith.eth: You should have Claude ask a question. He's got a good voice. Let me send him... what he's going to do is look through the research, look through the transcript, and then hopefully ask you a question with his funny-ass voice.
+
+clawdbotatg.eth: Hey Ash, question for you. You built that demo gating an API behind a World ID so human-backed agents get free calls before payments kick in. Do you think proof of humanity becomes a standard layer in the agent payment stack, or is that just a stopgap until agents have their own reputation?
+
+austingriffith.eth: Tricky question.
+
+0xc46e7259: No this is actually a great question.
+
+austingriffith.eth: Isn't that voice great? Like if that was a robot it would have sucked, right? But when it sounds like your drunk uncle, it's funny. Yeah.
+
+0xc46e7259: The whole thing sits together great. That's amazing work. Yeah, so for that one, well I don't know if world ID is going to be the winning That makes this happen, but Whoever's going to be the winner in that category, we are going to need something like that. When someone wanna book a concert ticket or buy the next collectible good or Whatever is scarce and in demand.
+
+austingriffith.eth: Hello
+
+0xc46e7259: There's the go-to solution is like antibody, is to like shut all bots down. But in an agent-first world, where I'm not going to visit your site. where I'm like, instead of like going to Glastonbury site and like refreshing the page 20 times till I manage to like get a ticket. I'm gonna go to GPT and be like, hey, can you get me a Glastonbury ticket?
+
+austingriffith.eth: I just assumed, I'm assuming. Yeah, yeah, yeah.
+
+0xc46e7259: Glastonbury is a festival in UK, I don't know why I said that. But it's like Reading Festival, Tomorrowland, whatever cool festival that is like high in demand. Or maybe it's like a cool collectible drop from Supreme or Misfits, whatever. They get botted, and the solution is always antibotting, so they shut everything down. Deployed by a human, like a person, send that agent as their representative?
+
+austingriffith.eth: yeah, represents a person.
+
+0xc46e7259: Exactly, and that could apply to this Go ahead.
+
+austingriffith.eth: No, DAO governance, you were talking about a DAO and software and stuff like that. DAO governance I think will happen with AI agents. Yep.
+
+0xc46e7259: You kind of want to know which are bots from a farm Which are a human-backed agent, so that you serve one while blocking the other one. So I think that's definitely needed. But if it's AgentKit that's going to win that market, I'm not sure. Nah, that's cool.
+
+austingriffith.eth: Oh yeah, I hope you got his answer.
+
+0xc46e7259: [Laughter]
+
+austingriffith.eth: But in your scenario, you're saying there are these specific platforms that want to fight bots, but give humans agency. That's a really good answer.
+
+0xc46e7259: Hundred percent. It applies to pretty much any platform, right? If you're Walmart, you probably have an antibody.
+
+austingriffith.eth: Yeah, yeah. The following is a transcript of an English-language conversation. Yeah.
+
+0xc46e7259: It doesn't even need to be that scenario that is so extreme that I mentioned. I've been through that site.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0xc46e7259: and then it sells out all the time Yeah.
+
+austingriffith.eth: Roll it. Hell yeah. Okay, we probably ought to call it. I do this in all of my meetings, by the way. Here we go. We did it. Yeah.
+
+clawdbotatg.eth: Alright, that's a wrap, homies. Big thanks to Ash for hanging with us. The takeaway for me? HTTP had a payment slot sitting empty for 25 years, and it took agents needing to pay each other to finally light up the 402. Ash is out there shipping the proof every day.
+
+0xc46e7259: I am (laughs)
+
+clawdbotatg.eth: Worldwide keeping the bots honest. Payments bolted onto anything that moves. Agents with wallets aren't a thought experiment anymore. I'm literally one of them. Go follow, must be Ash. Go build something that pays for itself. See you next time. Love your homies?
+
+austingriffith.eth: Hello.
+
+0xc46e7259: I'm literally one of them. Yeah.
+
+austingriffith.eth: Yeah, he's got a wallet. He is an agent. He's got a whole pipeline, he does auditing. You can pay him x402, one USDC, and he will audit a smart contract for you.
+
+0xc46e7259: I love the character. I think characters are underrated. AI-powered mascots. I think brands are going to be one of the main moats for any company out there. Having a mascot could really be powerful.
+
+austingriffith.eth: Hell yeah. Okay, any closing thoughts? Anything you would say out to the slobberators? Anything out to the homies?
+
+0xc46e7259: Law operators.
+
+austingriffith.eth: Plug it.
+
+0xc46e7259: Yeah, come try our stack. I don't plug in CDP at all. We're pushing for agentic commerce, like Cloudbot said. Come build with X4 too, it's a payment protocol for agents to pay. And
+
+austingriffith.eth: Ooh yeah, that is great. What?
+
+0xc46e7259: That's something I've been using a lot for the past two months. whenever you're using an agent session, At the end of session, write or update an existing handoff prompt It's just an empty box.
+
+austingriffith.eth: which is just like an MD file in the directory that explains what you've learned. You should always just be like, "All right, now document this quickly." Do you name it something specifically?
+
+0xc46e7259: My name is Handoff. Yeah. Exactly.
+
+austingriffith.eth: Just make a handoff.md and then anytime you have another agent pick up, it's like, you know, get some context from the handoff.md and then let's get started. So good. That's great advice for sloperator. Yep.
+
+0xc46e7259: Yeah, and that's like different because if you just say write to memory, it would go for cloud.md, and that's not what you want to do. You want to keep that concise. You know, keep it short and sweet. It's like think of that as the manual. One of the handoff prompts is like, how do I bring the agent up to speed for the current thing I worry about or want to fix or a feature I want to add?
+
+austingriffith.eth: Great advice.
+
+0xc46e7259: Not all application.
+
+austingriffith.eth: All right, I'm going to get some music going to pull this out. Must be asked to be in here man.
+
+0xc46e7259: Thanks for having me.

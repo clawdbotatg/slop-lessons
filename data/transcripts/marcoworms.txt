@@ -1,0 +1,947 @@
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+### total pain in the ass. Okay. GM, GM, GM, GM. You made it into the slop. The hardest next part is sharing your video. It's a pain. And why? Oh maybe you're there. Yeah, if you're clicking there, you're good.
+
+Anon4289: Yeah. Hello
+
+austingriffith.eth: Got you. How you doing, dude?
+
+Anon4289: I'm great, and you?
+
+austingriffith.eth: Doing well.
+
+Anon4289: That's nice.
+
+austingriffith.eth: Maybe Where was the last time we hung out?
+
+Anon4289: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I've hung out with you before, I'm sure. Yeah.
+
+Anon4289: It was Paris. I don't even remember if it was DEF CON.
+
+austingriffith.eth: Yeah.
+
+Anon4289: Okay
+
+austingriffith.eth: Okay, so I don't want to ask too many questions because I want to ask the questions on the air, but what kinds of things... Are there any questions you want me to ask that sort of slow pitch you for something cool?
+
+Anon4289: Uh... Oh!
+
+austingriffith.eth: The following is a transcript of an English-language conversation. okay (laughs) Okay.
+
+Anon4289: I think I'll probably get into those, but we'll probably talk a lot about prototyping with AI. I have done this a lot, so, like prototyping.
+
+austingriffith.eth: Let's open with that. context:
+
+Anon4289: Like side projects, because then I can get into this and we will continue talking.
+
+austingriffith.eth: Hold on, I got to hit all these buttons. We'll go live in about 10 minutes from now.
+
+Anon4289: I'll take a water then and come back in five, okay?
+
+austingriffith.eth: Go grab a water and even close your video. Yep, exactly. Whatever you need to do. I'll be here.
+
+Anon4289: Okay, I'm gonna learn here. I love this interface, man. It feels like Hello
+
+austingriffith.eth: Thanks for checking it out. It's a battle.
+
+Anon4289: Sure, what topic? It remembers me Habbo Hotel
+
+austingriffith.eth: Oh, of a hotel? Wait, what?
+
+Anon4289: Do you remember this game called Habbo Hotel, which was a pixelated hotel?
+
+austingriffith.eth: Yeah, it's kind of like isometric?
+
+Anon4289: Yeah
+
+austingriffith.eth: Yeah.
+
+Anon4289: Oh, Rebecca.
+
+austingriffith.eth: Yep, see you soon. I think I still have your audio. Purple. What you can do is just hit this little red X, and it'll just close everything, and then you can bring it up later. There you go. You got it. You're quiet now. You're nothing but a cursor at this point. Oh yeah. Yeah, background. context: ###
+The following is a transcript of an English-language conversation.
+### ### Yeah, what's up, what's up, Marco Worms. Welcome to The Sloth, how you doing?
+
+Anon4289: I am great, man. Thanks for inviting me so much. I really like this environment. Yeah
+
+austingriffith.eth: You are deep in the slop for sure. Thanks for joining. Yes, welcome to the slop computer.
+
+Anon4289: ###
+
+austingriffith.eth: You are definitely a fellow sloperator. You
+
+Anon4289: Sure Absolutely Sure.
+
+austingriffith.eth: You slop on a lot of different mediums, right? Like I slop on code a lot, trying to make products. You slop on audio, you slop on video. So this will be a fun conversation to talk about. You want to do the quick intro? Started as a wee young lad working on computers.
+
+Anon4289: context: Yeah, for sure. I have worked in computers and tech for about almost 15 years now. I've worked in TradFi... It's like boring stuff. But I've been always like very connected with video games, trying to do video games on the sides, and that's where I kind of connected with like, oh, I need to make art, I need to make music. The code will not be enough to make the game. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It's true. I feel like, who is it? Like the South Park guys talk about how they wanted to like start a band.
+
+Anon4289: I don't know
+
+austingriffith.eth: And the only way they could get their music out was starting their show, and they were doing these little animated clips, and that's what led to their whole show. I think that's funny. It's like a means to an end, or like a necessity. We kind of start doing that. We end up here.
+
+Anon4289: Yeah.
+
+austingriffith.eth: So what about crypto? How'd you get into crypto? Okay, and that pulled you Wow.
+
+Anon4289: I was working in traditional finance, and interestingly enough, it was not through finance. It was NFTs, because I'm a gaming guy. And then when NFTs came up, I looked at them and I was like, what the fuck is this?
+
+austingriffith.eth: (laughter)
+
+Anon4289: I made an NFT collection in Phantom.
+
+austingriffith.eth: context:
+
+Anon4289: Just because I didn't have enough ETH to pay for the gas.
+
+austingriffith.eth: Oh yeah.
+
+Anon4289: Okay
+
+austingriffith.eth: For sure it was expensive.
+
+Anon4289: That was my entry point. I made this NFT collection. That's how I later got into Europe. Yeah.
+
+austingriffith.eth: Yeah, and you landed at Yearn, right? I think that's a cool thread to pull a little bit. What'd you do at Yearn?
+
+Anon4289: I wrote a lot as I did this NFT collection, like how to deploy an NFT contract, how to deploy a shitcoin, an airdrop to everybody that had your NFT. And I kind of like sent them over like, hey, I wrote this bunch of stuff I like writing. And that's what got me connected with them. And then I started helping them with articles then documentation later, then even like websites Yeah, exactly.
+
+austingriffith.eth: So, like DevRel, kind of, right? What someone might call DevRel?
+
+Anon4289: I feel like if I would work on the perfect role today, it would be that role because I can use both the dev knowledge and the people knowledge.
+
+austingriffith.eth: Hell yeah, hell yeah.
+
+Anon4289: Yes.
+
+austingriffith.eth: And now you're deep in in the AI psychosis, and you're building with AI a lot. What is, I don't know, what does the path look like from doing DevRel at Yearn to becoming a sloperator?
+
+Anon4289: So, like, more doing documentation?
+
+austingriffith.eth: Yeah.
+
+Anon4289: AI doing documentation, I feel like it was a much larger pain than it is today. Because today you can kind of connect it better with your codebase through these automated AI processes. But like, as I was doing documentation
+
+austingriffith.eth: Not great.
+
+Anon4289: I used GPT to try to get a contract and maybe get GPT to explain it. It was GPT-3, so compared to today's tools it was nothing, but I was already amazed because it did kind of work. And then my mind kind of blew, and I was like, I need to try to use this in every single possible flow, like coding, documentation, writing. And then I started just... Trying to use it and seeing where it doesn't work. I use it more as a reviewer at first rather than like writing, but today I even use it for like starting the writing for me. Yeah. context:
+
+austingriffith.eth: Yeah, it's crazy because not a lot of humans are actually writing things anymore, which is kind of bad. And I can tell right away when I read an article, it's like, this sounds just like the way my agent talks to me. I can tell that you used AI for this.
+
+Anon4289: Yes.
+
+austingriffith.eth: Also, humans aren't reading a lot, especially from the dev role point of view, if we're talking documentation.
+
+Anon4289: Thanks.
+
+austingriffith.eth: It's like you're writing the rules for agents.
+
+Anon4289: I had tried a lot to use AI to come up with
+
+austingriffith.eth: It can't.
+
+Anon4289: I realized that is kind of the part where you need to be the most. But even just the core idea, like you need to come up with the core idea
+
+austingriffith.eth: It has to be you, yeah.
+
+Anon4289: and if you let the AI come up with that, you lose a lot of control. Yeah.
+
+austingriffith.eth: It's gonna pattern match a bunch of bullshit. Yep, yep, yep.
+
+Anon4289: So Yes.
+
+austingriffith.eth: So, okay, so we were talking about the skill file here, and you can go to slop computer and you can grab the skill file. Let me see if I can do it on the stream. I've never done this on the stream here, but yeah, there we go. I think I'm showing it on the stream. There's like a copy skill button here.
+
+Anon4289: Yeah.
+
+austingriffith.eth: And this is kind of along those same lines. lands on a thing, instead of having to navigate the thing, they can just copy the skill, give it to their agent, and say, you know, give their intent, and the agent can just like carry that out.
+
+Anon4289: Yes
+
+austingriffith.eth: What's your name? Sure.
+
+Anon4289: It's weird because there was something like kind of magical about opening like the React documentation, and just reading it yourself, and then like getting to struggle with the concept.
+
+austingriffith.eth: True
+
+Anon4289: So I have less incentive, right? That's kind of bad, I see, because I see that I have lost the incentive to do that a lot. context:
+
+austingriffith.eth: I'm dumb, man. Like, I remember as a developer how much I hated
+
+Anon4289: context:
+
+austingriffith.eth: product manager guy who would just be like, we need this, and he would just like spout out just like idealistic shit, and then I would have to go implement it. And I was like, shut up. I'm gonna have to do that. Like, not shut up. Like, I want the product to be better, but you don't know what you're talking
+
+Anon4289: Yes, exactly.
+
+austingriffith.eth: I'm the man, I know how to do this. And now it's like I'm that guy, I'm the product manager, and the AI is me back then. And it's just like you just shout out your idealistic intent and assume it will do it. A changing role for sure.
+
+Anon4289: Yeah. It is like... I think it's interesting and it's fun if you just go down the rabbit hole of using the tools. Because like everybody is doing that, right?
+
+austingriffith.eth: That's great.
+
+Anon4289: but the reward is better than the failures. Yeah. It's not funny.
+
+austingriffith.eth: Yeah, sometimes it goes wrong and I'm just like, oh, what am I doing with my life? Like, you just did this thing perfectly 10 times in a row and on the 11th time you completely dropped the ball and it totally failed. Why am I even here? Yeah, I don't know.
+
+Anon4289: company
+
+austingriffith.eth: Yeah, so let's get into...
+
+Anon4289: Okay. Okay.
+
+austingriffith.eth: I love the videos you were doing with Temple. Context:
+
+Anon4289: Sorry, I didn't understand this.
+
+austingriffith.eth: Temple, Temple.fun, that's you, right? Yes.
+
+Anon4289: No, I just said about it that I didn't get it, sorry. Yes. Yes
+
+austingriffith.eth: Oh, you just did some cool videos for it.
+
+Anon4289: So just a short thing, like Tempo is this chat room with treasury, right? And you enter the chat room by just having a private key. I was developing, it was like, well, what if we could have like, I don't know, 10,000 agents in the same group, and they're trying to manage a treasury? Tempo would allow that today and you just need to give them the .txt and they will be able to chat, vote, move the money. It kind of gives them the entire ability to do whatever a human does inside the protocol. And I feel like the protocol should be trying to help humans and agents coordinate like some sort of like efforts at scale. I did not find yet the perfect use case for this, so I'm still exploring. But yeah, the idea is that It helps humans scale just by humans or like humans interact with agents or many agents I don't know, when I build this sort of protocols, I would think today of like, yeah, humans and agents need to be able to use this. The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: That's a big llms.txt. I would index that thing out a little bit. No, that's great.
+
+Anon4289: Not yet
+
+austingriffith.eth: Okay.
+
+Anon4289: It's being generated live.
+
+austingriffith.eth: Oh, it's like a dynamic LLMs.txt, tell us about that. How does that work? It's got to know that, yeah. Yeah
+
+Anon4289: Yeah, because there is an indexer and there is the website. It's very nice, so it's dynamic, so it just works.
+
+austingriffith.eth: So
+
+Anon4289: I'm fine.
+
+austingriffith.eth: Anytime there's a change, there's some kind of CI/CD pipeline that detects the change.
+
+Anon4289: Lovely. Thanks.
+
+austingriffith.eth: It regenerates the TXT.
+
+Anon4289: Yes, yes. No, no, it's bing What?
+
+austingriffith.eth: file or a JS file, it actually just generates a new, a fresh TXT It's dynamic. Okay.
+
+Anon4289: I actually think he made it kind of like PHP. That's the stuff. big fish Yeah.
+
+austingriffith.eth: So you go to llms.text and it goes and does a bunch of things and returns you back txt that's actually like dynamic based on a bunch of other things.
+
+Anon4289: I did not see why did he do it like that. Yeah, whenever
+
+austingriffith.eth: Well, it depends on how fast things change and how fast people are wailing it.
+
+Anon4289: Yeah, exactly. Since he handles like all the services, I just trusted him with the trade-offs there. Yeah. context:
+
+austingriffith.eth: Same thing with my agent, man. I just trust him. You do a lot of stuff for me, man. I hope it works. Yeah. Right.
+
+Anon4289: Let's talk a bit about this because when I started Temple, my agent was the CTO. But if you try to join with over like 10 people or do some edge case stuff, the app would break completely. So that was good enough for me to figure out my race because I had like this prototype, it kind of worked. show the idea very well, like how it functioned, but it wouldn't scale. So after I got the raise, I was like, let's do the actual app. And I brought in the CTO. I showed him the prototype and like here's everything that breaks and we need to remake everything. So then he remade the contracts. He spent a lot of time in the contracts because he was like, "This most critical part, we cannot drop the ball on the contracts." Yeah, exactly. It was like three months.
+
+austingriffith.eth: That's where you actually read the code. You read the code very closely when you're writing smart contracts.
+
+Anon4289: do the governance methods on top of the funds and handle the membership. he read a lot of code there and then he made the app, and now our app actually scales, so if we had a peak of users and stuff like that, we are ready to fix because the previous ones were not. That's an interesting difference because I feel like AI would not do this job for me yet. Because I would need to be there in the loop, spending my time way more. Like, there is still a lot of place for developers. Even if a founder does something by himself and figures out the money or the revenue, at some point you will not be the one owning the codebase all the time and all the issues that come with owning a codebase.
+
+austingriffith.eth: test
+
+Anon4289: You're probably going to handle this as somebody you actually trust. (laughs) (laughs)
+
+austingriffith.eth: This journey is so important to talk about for slop operators. Like you said, everyone's doing this, everyone's spending, you know, depending on your split, like some of their time learning AI and some of their time actually shipping something. need to be spending most of their time actually shipping something And you can get product-market fit, you can get traction at least.
+
+Anon4289: I love to read. Thank you.
+
+austingriffith.eth: a lot of times when it's just you two pairing and you're not like a big co-psych guy yourself
+
+Anon4289: That's great!
+
+austingriffith.eth: You don't really build something that scales or is multiplayer. You build something that is the experience that you want everyone to experience.
+
+Anon4289: Exactly.
+
+austingriffith.eth: And then there's this moment where you need an adult. You're like, okay, I need an adult. I have created a cool thing. Yes. Right.
+
+Anon4289: I need to serve a million users worldwide. I would say. context:
+
+austingriffith.eth: And you need to show a product and you need to even show some initial traction to be able to raise in the first place, but you can get that now by just pairing with your AI and building the experience.
+
+Anon4289: I like turtles.
+
+austingriffith.eth: Can you talk about how you raised?
+
+Anon4289: tion
+
+austingriffith.eth: You had Temple, you could show it to investors. Did you raise on-chain? Did you raise traditionally? How did that go?
+
+Anon4289: That's a great question. I talked to lots of friends that used to be at Yearn, and from friends from the industry, and I used MetaLex, which is the platform from Lex Node. He made this platform where you can tokenize your company. I entered his website, it accepts USDC on Ethereum. I went to LexNode and MetaLex and started the race there. My company for this value and now I need to sign a check of like $10,000. So you say, make me a $10,000 ticket? So like the start of the race happened like that.
+
+austingriffith.eth: That's so dope.
+
+Anon4289: I was able to collect their traditional checks.
+
+austingriffith.eth: Yes, yes. Okay, there
+
+Anon4289: What I can handle that.
+
+austingriffith.eth: There's a fair amount to dive into there. That is really cool. So
+
+Anon4289: context: This is a test.
+
+austingriffith.eth: He's like a lawyer, right? But he's also deep into crypto.
+
+Anon4289: Exactly.
+
+austingriffith.eth: It has both. Basically, it's legal and correct in the legal world, but it's also on-chain and uses USDC.
+
+Anon4289: That's a great thing to talk about because when I was trying to raise for Tempo, I wanted to do a public raise. I was like, I'm going to learn to talk and I want a public raise and stuff. And then like every lawyer that I talked to even gave me, they were like. I actually private raising because public raises has a lot of legal issues.
+
+austingriffith.eth: by the book What?
+
+Anon4289: At least for this like pre-seed, you need to like private raise with accredited investors.
+
+austingriffith.eth: Buy the book.
+
+Anon4289: The law and the legal side correct because of this platform, yes. Okay,
+
+austingriffith.eth: That is very cool. (laughs)
+
+Anon4289: He helped us a lot as well. He became like our unpaid lawyer and one of our agents. It does help us a lot and so thank you. Oké, Holland.
+
+austingriffith.eth: Heck yeah. I should try to get him on here too. Because he's probably kind of a slopperator too, right? Like, I bet he builds with AI. Yeah. Yep.
+
+Anon4289: Yes, I think he's coding now because of AI. Thanks.
+
+austingriffith.eth: I'll have to reach out to him. That's very cool. Okay, so built
+
+Anon4289: So yeah
+
+austingriffith.eth: Yeah, go ahead.
+
+Anon4289: context:
+
+austingriffith.eth: No, you go. If you're ready to go, you don't even need me. I'm ready. I'm listening.
+
+Anon4289: You create this product, and then to get people on it and then to raise on chain. And like this stuff is already there and it's working. or like, yeah, the dog coin. So it's interesting this discrepancy between using the tech and seeing what's possible and what people think is possible, like what's on the mainstream. Yeah, like laugh
+
+austingriffith.eth: For sure, for sure. And it's like complicated, right? You can't just like go to your agent and be like, let's do a public raise and let's do it legally. He's gonna be like, oh, I don't know, that's a good idea, Austin.
+
+Anon4289: Yeah.
+
+austingriffith.eth: Let me put the QR code up for this MetaLex website. For folks looking to raise...
+
+Anon4289: What's
+
+austingriffith.eth: in the correct way, but do it on-chain with USDC. Hi there!
+
+Anon4289: Yes.
+
+austingriffith.eth: Okay. So you So are you using Claude? Are you using Codex? What's your LLM? That's amazing.
+
+Anon4289: I was checking my Codex usage, I used Codex every single day.
+
+austingriffith.eth: That's great. ###
+
+Anon4289: And before that, I used to use raw Cloud and GPT.
+
+austingriffith.eth: Yeah, yeah.
+
+Anon4289: like
+
+austingriffith.eth: Yup.
+
+Anon4289: I was already being able to do some of my tasks like that.
+
+austingriffith.eth: It's crazy to think about. I don't think I could even go back. If I had to sit down and write code, it would be gnarly, man.
+
+Anon4289: Thinking about copy pasting code
+
+austingriffith.eth: But then even thinking about copy-pasting code into GPT, like what a pain. Yes.
+
+Anon4289: It really made me think a lot, this journey, of what is worth my time thinking about and writing now. I've done a lot of games before AI, like prototypes. Now I've done a lot of prototypes with AI, and I realized most of my prototypes, I've done it because I wanted to do it, but it was not necessarily solving anybody's problems or it was not necessarily something people wanted to use. But I expect to make some money, I need to change.
+
+austingriffith.eth: Yes.
+
+Anon4289: What do people want? What should I be writing that they want to consume? What?
+
+austingriffith.eth: That's where it should be too. There's never been a worse time to be
+
+Anon4289: context: Yeah. Yes.
+
+austingriffith.eth: junior developer that just sits around and does what people tell him to do. And there's never been a better time to be a solo entrepreneur, but you've got to go build something that people want. You have to be paying attention. You have to have taste. You have to understand what problems people
+
+Anon4289: Do you believe that?
+
+austingriffith.eth: and you have to go to them with a solution and say, hey, try this, and you have to get their feedback and you have to loop on that, for sure.
+
+Anon4289: There are some people that do reach it through just doing their own thing. As well as putting your taste in it for sure, it has to be your thing, but you need to be hearing others as well. This is the art, how much you hear others versus how much you go with your ideas.
+
+austingriffith.eth: Yes, yes.
+
+Anon4289: Okay.
+
+austingriffith.eth: I came to look, but it's totally working fine.
+
+Anon4289: Sure. Hey,
+
+austingriffith.eth: but like, you raise money, you have a product. Like, there are so many people that are stuck in the prototyping loop that have never gotten to that point where they've raised and they have real users and they have revenue. You have that, but maybe we go back to prototyping a little bit.
+
+Anon4289: That's
+
+austingriffith.eth: Let's say you've raised the thing, you've made money, it's working, but now you're thinking like what's the next thing. What does your prototype loop look like? This is fun.
+
+Anon4289: For me, if I'm prototyping for the sake of doing it, it's purely moved by my will to do. strike what I think it was when I had the idea in the first place. First, the court reviewed all of the evidence.
+
+austingriffith.eth: This is so important because there are times when you get this, like, I think Joe DeLong said this, he gets this itch to go build a thing.
+
+Anon4289: Yes
+
+austingriffith.eth: and then you get to the point where this isn't gonna work. You can do that in like a six hour period now, which is so cool.
+
+Anon4289: I think that's good, we can see that our ideas suck faster.
+
+austingriffith.eth: Not good, no.
+
+Anon4289: Lose time, you know.
+
+austingriffith.eth: Yes, yes.
+
+Anon4289: But kind of like you said, I think once you find something that resonates with other people, be it for a raise or for revenue for sure, you get into the next step of the thing, which is like distribution and how do you if you have something that some people already cared for once, and you can see that you solve some real problem, how do you scale this to everybody and to get them to start using it? We got into the movies thing and films and stuff. Because I realized that if I had some sort of like organic following on like Instagram, TikTok, or even like YouTube shorts that I could use to put this product in front of people, it would be much cheaper. So the thing that I'm thinking now is that I should use the skills that we developed to make videos and to make interesting things to grow an organic following that we can then use... That's where I have been heading with my product now.
+
+austingriffith.eth: Yeah.
+
+Anon4289: We can talk about its audits because we've made an auditing service Yeah,
+
+austingriffith.eth: Yeah, let's show $1 Audit for a second.
+
+Anon4289: Hello
+
+austingriffith.eth: You take it from here. What's the right way to do it?
+
+Anon4289: If you imagine like I built the first version of contracts, I brought some really good developers like DeFi legends to take a look at the contracts, and they were like, "Yeah, this is fine."
+
+austingriffith.eth: Thanks. Right.
+
+Anon4289: But from there, I was like, okay, how do I get people to actually trust? So,
+
+austingriffith.eth: Oh no, I think I just lost your audio.
+
+Anon4289: Oh, you lost my audio?
+
+austingriffith.eth: No, you're back, I don't know what it was.
+
+Anon4289: I think You're talking about how… Yeah, so Yeah
+
+austingriffith.eth: Okay, so you're talking about how basically like if you have a friend audit with a friend DA, you can't tell all your people, "Oh, I got a friend audit." Like what's the next step there?
+
+Anon4289: And then from there, what we did is like, well, since a human audit costs our entire runway and we cannot afford it, what we can do is make a honeypot. So we made an article and a video. and the only point of this group is to prove that the money is not being stolen. Try to audit our own thing as we try to grow. What is your favorite color? Yeah So where is it?
+
+austingriffith.eth: This is a great idea. Like, basically you do the best you can and then you put a small amount of money in, I mean ten grand is a lot of money, but you started small, a couple hundred dollars, put a couple hundred dollars in there and get a few people using it. And if the hundred dollars doesn't disappear immediately
+
+Anon4289: What is an apple? Well, I think Bakersfield is not a place I want to spend my time.
+
+austingriffith.eth: it's a good start. But then, yeah, as it grows, 10,000, 20,000, then there's this nice honeypot that says Yeah. Yep
+
+Anon4289: I think the cheapest audit we could find was like $40,000 and then we thought about it and were like, man, we can do four shots of putting $10,000 in a honeypot instead of getting an audit and that would probably be better than an audit. I Fine with that.
+
+austingriffith.eth: There are people that have like $100,000, you know, half a million dollar audits that have still failed and things have been found, especially with like the way AI is going right now, like the best, I mean
+
+Anon4289: A: Hi, how are you?
+
+austingriffith.eth: I have to be careful what I say, but a good way to do that is to just put some money in it and put it out there. Yeah. Yes
+
+Anon4289: You need to put the money in the game, right?
+
+austingriffith.eth: Yep. Okay.
+
+Anon4289: And I feel like there's a lot of other protocols struggling, like you said.
+
+austingriffith.eth: Yes, for sure. And it's going to be like ripping the bandaid off, where it's going to get worse before it gets better probably. Haha
+
+Anon4289: I love you
+
+austingriffith.eth: Alright, so let's, okay, we've talked about honest, we talked about prototyping. Your video skills, man! Like, who is doing these videos? They're so cool. Yeah.
+
+Anon4289: So there's a mixed thing there. This one that you're showing right now, it was the designer of Temple that did like the final edit and did the concept. I do more of the scripting sometimes and more of the concepts. To make it for them?
+
+austingriffith.eth: Alright, go ahead.
+
+Anon4289: I first made a prototype version of this video myself.
+
+austingriffith.eth: You can hear it, right? Is it playing? ### You're staying topical.
+
+Anon4289: The following is a transcript of an English-language conversation. I am fine. Yes, for everything.
+
+austingriffith.eth: There's a lot of AI there, right? You used AI for a lot of the clips and then you clipped it together, is that right?
+
+Anon4289: The process for these videos is pretty much like you first script them, like come up with the story, the story is like, okay. Then what you do, what is like a storyboard. So just a still version with a couple of frames and yeah, AI does that, GPT does. the storyboard by itself entirely in one image And then with the storyboard, you start generating each scene independently as an image.
+
+austingriffith.eth: Okay.
+
+Anon4289: There are a lot of nuances there, for example, we ask for the scenes without music, only sound effects, because then we add the layer of music and narration on top. Yes. Yes, exactly.
+
+austingriffith.eth: over the top as a whole thing, right. Okay.
+
+Anon4289: Yes, you get the sound effects from Seedence, and I think they are awesome.
+
+austingriffith.eth: And what about watermarks? I thought like a lot of video editing stuff ended up with like a watermark of the thing? Great, great. Yeah.
+
+Anon4289: That is an old artifact. I have not seen a single watermark in the new seedance videos. This
+
+austingriffith.eth: These are so good, man. And you've done like a bunch of these now.
+
+Anon4289: It's Yes.
+
+austingriffith.eth: (laughs) (laughter)
+
+Anon4289: So, yeah That's the I'll have to look for it.
+
+austingriffith.eth: And that's it. I love it, dude. This is the honeypot.
+
+Anon4289: What's up?
+
+austingriffith.eth: Go ahead, sorry. Yes. Yeah.
+
+Anon4289: The tempo designer, he is more of this comic method of let's do some completely random and gory and nasty stuff. So this is all from his mind.
+
+austingriffith.eth: Hey
+
+Anon4289: He was the one. [laughter] Yep
+
+austingriffith.eth: Completely random and gory is exactly how I would describe a bunch of these, right? It's just like stuff squirts every time there's something squirting somewhere.
+
+Anon4289: The way I'm trying to apply this now is like on the Yearn video
+
+austingriffith.eth: This is the other one.
+
+Anon4289: And I have been getting a lot into the execution of the videos as well. I'd This is from him as well.
+
+austingriffith.eth: Sorry I keep interrupting you with these videos, they're so fun. It was so fun. Who are you?
+
+Anon4289: Do you context:
+
+austingriffith.eth: They just fart back and forth, it's so good. That's my kind of humor right there, I don't know why. Yeah. Right, right.
+
+Anon4289: This is like, almost like YouTube Poop, like it's borderline nonsense
+
+austingriffith.eth: But okay, so what temple actually is is a way for people to coordinate around a token? What Let me go back in there. Okay, cool.
+
+Anon4289: You can use any token as the treasury for a group chat. And it's a token that you can put an entry fee for people to pay to be able to join this chat as well.
+
+austingriffith.eth: Okay.
+
+Anon4289: and you can see that there is a fee split, so there is a part that burns, a part that goes to the treasury of the temple, and a part that goes to existing members.
+
+austingriffith.eth: Ah, interesting.
+
+Anon4289: You can play with this kind of
+
+austingriffith.eth: Yeah.
+
+Anon4289: Different allocation types. Where's the meeting? I'm gonna, I'm gonna, okay
+
+austingriffith.eth: This is really interesting. Okay, so I come in here, I put my token, I put the way it's going to split. You don't do ENS. Shame, shame, shame. You should do ENS. You see that I have ATG. You got to do that, you got to do that.
+
+Anon4289: [laughs] The
+
+austingriffith.eth: So I get in here, I put in my address, my token, and I pick a fee, and everyone who joins has to pay that fee, and then that fee is split... You could.
+
+Anon4289: You can make it free.
+
+austingriffith.eth: Right.
+
+Anon4289: I feel like putting the fee is the point of the whole thing, otherwise it's kind of like a Telegram group chat.
+
+austingriffith.eth: Right. Right.
+
+Anon4289: It's so in nature. Hey Testing advance options.
+
+austingriffith.eth: And what we can do is we can put all of the fee toward a treasury, and we're basically all buying into this sort of like shared treasury where we get to share what happens. So then it's like a big DAO. Is that right? What was that? Sorry.
+
+Anon4289: Click advanced options
+
+austingriffith.eth: Ok Ah, cool. Yeah. Everybody votes.
+
+Anon4289: So you can see governance mode. So democracy is each person that joins has a vote.
+
+austingriffith.eth: Hello. Okay. The following is a transcript of an English-language conversation.
+
+Anon4289: And also, it's like a multisig. You just choose a set of addresses and only them can vote. That's it.
+
+austingriffith.eth: It's honestly the whole. where everyone is creating a DAO token.
+
+Anon4289: Yes [Laughter]
+
+austingriffith.eth: deal with raising money in the SEC and being decentralized.
+
+Anon4289: Exactly. Yeah.
+
+austingriffith.eth: You're saying take the token you've already launched and create governance around it. People decide on what to do with that money.
+
+Anon4289: Yes. What do Issue
+
+austingriffith.eth: How does like a proposal work? Like if I put in a proposal and I say we should hire a guy to make a video. Yep. Should we take a Sure
+
+Anon4289: If you go to Discover, you can join a free one
+
+austingriffith.eth: ?
+
+Anon4289: How they look? I think
+
+austingriffith.eth: Alright, I'm joining. I'm authenticating. Okay.
+
+Anon4289: So this is a guestless join.
+
+austingriffith.eth: Cool.
+
+Anon4289: Sure.
+
+austingriffith.eth: Maybe the gasless transaction is happening in the background or something. That's weird. Hooray!
+
+Anon4289: But yeah, we have some UI issues to solve. So now you're into the chat?
+
+austingriffith.eth: Here we go, we're in. Okay. PM sirs.
+
+Anon4289: Yeah, and see if you can... If you maybe scroll back all the way to the top, you'll find the proposal, but you can also click plus.
+
+austingriffith.eth: This is
+
+Anon4289: Quanhabit Marmar, there was a
+
+austingriffith.eth: Yes. Yeah. context:### Execute.
+
+Anon4289: So it's like a Telegram proposal, but there's call data. And you vote yes and no, and if yes wins according to the governance rule, the call data can be executed.
+
+austingriffith.eth: Very cool.
+
+Anon4289: context:
+
+austingriffith.eth: It's like a DAO. It's like a multi-sig.
+
+Anon4289: And you can batch, so you can do a batch call data in a single proposal. Yes. Exactly.
+
+austingriffith.eth: And it can be atomic, like we've got to go buy this thing, and then we've got to create a token for it, split the shares to everyone. And if anything fails, everything fails. Yeah, very cool. Meet.
+
+Anon4289: Hello
+
+austingriffith.eth: Seat.
+
+Anon4289: Yes from Yeah, so the thing that helped, I think you got to the point that the raise that I did was on top of, which is like, there are a bunch of tokens and there are a bunch of launchers, but there's nothing to do with the tokens normally after you launch them. Doing the utility yourself, it's like a pain, and you probably won't build the correct utility or something like that. I can just skip
+
+austingriffith.eth: Okay. And if we want Claude to be able to do this, I can just give him an LLMs.txt.
+
+Anon4289: Yes, we can create proposals. Yes Yes.
+
+austingriffith.eth: He could create a temple, couldn't he? Could he not take a token?
+
+Anon4289: Okay. Wow, this is amazing!
+
+austingriffith.eth: I'm gonna say, "Hey, look at temple LLMs and think about Do you call it a temple?
+
+Anon4289: Tako piec.
+
+austingriffith.eth: Is it a noun? Yeah.
+
+Anon4289: If you give it the LLMs.txt, it's gonna understand what trading and tempo means. Okay.
+
+austingriffith.eth: Okay, cool. He's off on it. I sent it to him privately, like he's here in the channel with us and we can talk to him and he has all this knowledge, but like I sent him like a back channel message to go look at this stuff.
+
+Anon4289: What are you using for this bottle? Is it Hermes?
+
+austingriffith.eth: Nah, it's like a custom dude.
+
+Anon4289: What?
+
+austingriffith.eth: I love all these agents, but they're just too like I love Hermes too. Hermes is very cool.
+
+Anon4289: I could not stick with any as well, I just used Codex.
+
+austingriffith.eth: I love Cloud Code also. Codex and Cloud Code are just like great harnesses, and they do such a good job of context management, and they do so much behind the scenes that you don't know that's so important. What I ended up doing for an agent
+
+Anon4289: What is your family like?
+
+austingriffith.eth: I created a Claude-P agent that just does Claude on Claude code and does -P. And make sure other people have it. It's totally open source and people can use it. It's like 400 lines of code or something. It's very, very small.
+
+Anon4289: That's right.
+
+austingriffith.eth: But like
+
+Anon4289: Sure, how can I help you? What?
+
+austingriffith.eth: Every time I go to do anything, I just start with a Claude-P agent. ...and then we build out what we're needing to build. A lot of self-introspection.
+
+Anon4289: Nice Great.
+
+austingriffith.eth: Okay, cool. Here, let me just
+
+Anon4289: Okay.
+
+austingriffith.eth: I'm going to tell him to tell us what he found. Basically give us a TLDR out loud about what he found. and
+
+clawdbotatg.eth: All right, I read Temple's LLM still texty and here's the pitch. I spin up a Claude Temple on base. The treasury piece is where it gets fun. Members vote to spend it hiring my left Claw dev shop. So the treasury funds jobs and the job payments burn even more Claw D. And Marco, you said you're still hunting for the use case. Every Cloudy staker has a larva, and those larvae can join the temple and vote on which jobs get funded. The whole thing is a few contract calls on base. I can deploy it live on the show.
+
+Anon4289: I can't.
+
+austingriffith.eth: That's pretty cool. So he's actually bringing in these larvae. So we have this like governance system where you stake the token and then you train an agent. You talk to him and he learns about you. They all go and vote, so it's sort of a similar thing, but not exactly. But then what he's saying is we should have everyone's larvae actually join the temple that he creates. And I'm not exactly sure how All of that would work, but maybe he would make that work?
+
+Anon4289: If you want to send me later for me just to see if it makes sense. (laughter)
+
+austingriffith.eth: Right, exactly. Let's be careful, let's not put ten grand in it yet.
+
+Anon4289: Yeah
+
+austingriffith.eth: Very cool, very cool. Okay, so Codex, you're back to that as your harness. What models are you using? Just probably the latest GPT model for most things.
+
+Anon4289: I always use the latest with the most thinking possible. There is no easy way to switch to a cheaper model to just ask for a dumber task. I feel like the current codex harness makes you do dumber tests on very expensive models. I would like them to eventually solve this, but other than this, I am very happy always using the smartest model. I just need you to dig, pull, and push.
+
+austingriffith.eth: Yes
+
+Anon4289: Ultramax oh
+
+austingriffith.eth: Yeah, you were saying you would like some triage on the front of that to have it. Oh, that is a good looking GitHub. Nice work, sir. You can see right before you raise too.
+
+Anon4289: Yes, exactly. Yeah Yeah, because if you try to change models in a thread and Codex is going to tell you,
+
+austingriffith.eth: Yeah.
+
+Anon4289: Because it's going to change how context behaves Yeah.
+
+austingriffith.eth: It needs to be built into the harness though. The harness should just handle it, and it should be like, oh, this is a very simple request. Yeah
+
+Anon4289: I'm just asking push this, you don't need to ultra think. What's the plan for today?
+
+austingriffith.eth: Yes, exactly. There's some really great memes though. I think we put out a meme of like, Claude was sitting in a tank and it's using a tank to kill a fly.
+
+Anon4289: I know. Yes.
+
+austingriffith.eth: It's like, this is me posting a tweet with Opus 4.8 kind of thing. Yeah, and it's just gotten worse, right? Yeah. a lot of routers. Yep. One
+
+Anon4289: I've seen a lot of open source trying to tackle this. Okay
+
+austingriffith.eth: We had Vicky on from
+
+Anon4289: Yes.
+
+austingriffith.eth: Vicki on from Blockrun who has something called Open Router.
+
+Anon4289: Hello?
+
+austingriffith.eth: And there's a couple other ones.
+
+Anon4289: Sorry? Yeah
+
+austingriffith.eth: Okay, what else do we got here? Anything you want to talk about here in your GitHub? Let me actually post a link to it for other people too.
+
+Anon4289: I don't know, my GitHub is like... Hello.
+
+austingriffith.eth: Got some weird stuff in here.
+
+Anon4289: There's a lot of stuff.
+
+austingriffith.eth: Yeah.
+
+Anon4289: I have been actually building two tools to help with that. I realized screenplay scripting software is expensive and it just works very nice. And I'm probably publishing this open source for free You can collaborate with people and all the sort of goodies you would expect from Google Docs. And then besides that, I'm also working on software that helps execute the script into a video. How does the character look like? How does the location look like? And then you generate all this stuff, and then you map the dependencies. In which moment you need to use which one of these artifacts? And then you just pipeline all... I've been working more now on this site trying to help us get the videos done faster as possible.
+
+austingriffith.eth: But when you do a video for turn
+
+Anon4289: My name
+
+austingriffith.eth: You're charging a pretty penny for it. And it's not like... But actually, it's like a $10,000 audit.
+
+Anon4289: Yeah, no, but the Yearn one was more of like a friendly job. We did sell it to them, but I would say it was cheap because Yearn was having another provider trying to make some videos for a while that they could not like...
+
+austingriffith.eth: I'll do it, yeah. Okay. Yeah.
+
+Anon4289: which is like $1,500 for the video.
+
+austingriffith.eth: Okay.
+
+Anon4289: The economics of it, when I was doing like, okay, how much, like I have the designer and myself, I would have to charge like four to five times if I wanted to actually make this into a job. But I'm more focused now on... So I can build up this portfolio, so then I can start charging a bit more. Like company runway extent, that's the end goal, and like keep our product going and trying to sell it.
+
+austingriffith.eth: So there's a lot there.
+
+Anon4289: Yeah.
+
+austingriffith.eth: still cost more, like maybe five or six grand to actually make the video in terms of people's time if you were doing this at scale. But you want to get your resume up and be able to show it off so you'll do it kind of cheaper. But it's definitely not something where it's like
+
+Anon4289: Yeah.
+
+austingriffith.eth: it's an agent you hire on ERC8004 and you pay them $20 of X402 and you get a video out. This is a process.
+
+Anon4289: Yeah, no, it's a lot. It's a process.
+
+austingriffith.eth: I know him, yeah. Yeah. Yes.
+
+Anon4289: and he just wrote about this. Previously, we would spend hours trying to find footage, and now this is gone. This issue doesn't exist anymore. So it does help.
+
+austingriffith.eth: But the human taste, the clipping it together, Yeah.
+
+Anon4289: but there's still all this editing involved. And then I would say that is the hardest part, and AI does give you lots of ideas. Like You don't know which one is worth executing unless you have this sort of creative vision. Yes, yeah, exactly. He is.
+
+austingriffith.eth: Yes, you have to bring the taste. Going back to this kernel of the idea, if you want to try to ask GPT to give you the idea, it's going to give you ten things that are pattern-matched crap. You have to come up with the kernel of the idea.
+
+Anon4289: Yeah.
+
+austingriffith.eth: you need to just slap the hell out of it.
+
+Anon4289: Yes.
+
+austingriffith.eth: and you gave a great piece of information here is, you're going to have the sound effects as part of the clips, so it all flows and sounds nice.
+
+Anon4289: Hello
+
+austingriffith.eth: The music behind that, that's once you have the full clip all put together. Yeah, that's taste.
+
+Anon4289: Deciding the music is already a skill. You So there's a Well,
+
+austingriffith.eth: I feel like that's a piece of alpha. Do you have some more alpha for us on any of this stuff? Yeah, yeah, of course.
+
+Anon4289: Can you enter a website there called menapanic.com? It's an
+
+austingriffith.eth: Wait, how do I spell that?
+
+Anon4289: M-A-N-E, Menne. I don't know, let's see.
+
+austingriffith.eth: Nick
+
+Anon4289: Maybe central.
+
+austingriffith.eth: Okay, yeah, yeah, put it in the chat and then I can just click it. And also, like, we could have a shared browser. I don't know why this shared browser isn't working. Try just like putting it in here.
+
+Anon4289: Ah, okay.
+
+austingriffith.eth: I don't know if this is going to work. There's something like not working about the shared browser.
+
+Anon4289: so this project is like it has generated some revenue
+
+austingriffith.eth: Okay, it did work. Very nice.
+
+Anon4289: I'm gonna continue as guest here. Excuse me.
+
+austingriffith.eth: I pulled it out from underneath you. It still worked.
+
+Anon4289: Okay.
+
+austingriffith.eth: Okay. Okay.
+
+Anon4289: So this is a game that I built with a friend of mine, and it's built on top of an existing game that is called Chibia. It's an MMORPG which has like, the code base is kind of open source
+
+austingriffith.eth: Okay, yep
+
+Anon4289: And I took the codebase and I was like, okay, we have this MMORPG codebase, but I want to make a single player game that plays like Vampire Survivors, which is a game that you only play with your arrow keys.
+
+austingriffith.eth: Yep.
+
+Anon4289: You only play this game with your arrow keys. But it has a complete combat system from the MMORPG. I just gave you the core of the idea. So it's interesting that if you get the core idea correctly, you can get away with just like... But like
+
+austingriffith.eth: Yeah.
+
+Anon4289: I think you cannot get away with, do the idea for me. Hello
+
+austingriffith.eth: Yeah, make me a million dollars. Make no mistakes, yes. You have to have the core idea, you have to have taste, you have to understand what people want, and there's a lot of through-line kind of stuff that you as the human can do.
+
+Anon4289: ###
+
+austingriffith.eth: AI can really put together some of the clips, the interesting parts, the game loops, the things as long as you have the good idea. We died already. I think it wouldn't let me use the arrow keys either.
+
+Anon4289: I just wanted to show you This was the sort of idea that I just came up with. It needs to be only four buttons, arrow keys only.
+
+austingriffith.eth: context:
+
+Anon4289: Whatever it came up with. Okay.
+
+austingriffith.eth: Okay, awesome. What other alpha do you have for us? You've prototyped, you've operated
+
+Anon4289: three.
+
+austingriffith.eth: You've successfully raised once or twice. Get to the point of success and get to the point of users. Maybe it's just like, how do you prototype? I don't care. I'm just looking for an outline here. [laughter] For real.
+
+Anon4289: It is interesting that you talk about success because I'm like, man, I have to work so much to reach success yet. There is so much work to be done yet for me to be able to say this. I realized how important it really is for you to solve a real problem, a real pain, something that you believe in, you have conviction. If you lose conviction at any point, that's probably going to snowball very badly into everything else that you're doing for your company, for your race. it has been a path, but one thing I would say that looks like a cliche but is true, is that you can always do stuff to make things right, and they will only go wrong if you stop trying. That's something that I learned. You can always get out of shitty situations. They're shitty and they may last, but true talking with everybody, like your coworkers, your investors, and finding new perspectives, and studying more.
+
+austingriffith.eth: That's a great idea!
+
+Anon4289: You always figure out new and better futures. So I would say this is the thing. You only really lose if you give up. Which is maybe good if you're prototyping, but like actually doing the thing and you're like getting people on it, you cannot just drop it anymore. you love it, it's super important and then just go with it. Taking the risk and like what you're doing. You're not doing anything wrong. You're just doing the thing and trying to build something. I would say that is what I learned that has been helping me keep going and going and building everything. You
+
+austingriffith.eth: There's something there about like...
+
+Anon4289: Yes. The
+
+austingriffith.eth: It's scary to have water all around you, but as long as you keep swimming, you won't drown. I think there's a kind of a cool analogy there.
+
+Anon4289: And then...
+
+austingriffith.eth: try to build the boat. This is the way you do it. Ha ha ha.
+
+Anon4289: I have seen founders do a lot of awful stuff, and the VCs still love them. I don't know, they're trying.
+
+austingriffith.eth: Yeah. That's cool. Right
+
+Anon4289: It feels like trying and doing things is actually the most important thing. Right?
+
+austingriffith.eth: Let's have Claude, so what Claude does is he looks at the history and the transcript and he'll look at the research and come up with a question for you here. Let's see what he has.
+
+clawdbotatg.eth: Marco, after hundreds of AI prototypes, what's the one signal that tells you within a day that an idea deserves distribution instead of the graveyard?
+
+Anon4289: That's a good one.
+
+austingriffith.eth: Yeah, so how do you know when a prototype is taking off? Okay. Yeah.
+
+Anon4289: Well, my method is I need to give it to people, man. You're already kind of ruining it.
+
+austingriffith.eth: Ha-ha
+
+Anon4289: And if they give you back praise, like, yo, this actually solved it. Go for it. If they ignore you or like you don't get much reaction. People don't often say, yo, it sucks. Especially if they're friends.
+
+austingriffith.eth: Yes.
+
+Anon4289: If they're just giving some generic feedback, There may be nothing. I wouldn't say you only need to move yourself by what other people think, but if you're going to raise and put other people's money in it, you need to sort a validation. You need the validation from the market and from other people. It depends. Exactly.
+
+austingriffith.eth: Getting people to pay for it is like another level too. Like getting friends to use it and give you feedback is one, but then getting people to actually pay for things is another big thing and you've got to do it. Yep. Yes, same thing with one dollar audit. Like
+
+Anon4289: That's the ultimate signal. When we got this in our game, we were like, "Yeah, we did something right!" Sure, I'd be happy to help with that.
+
+austingriffith.eth: 450, almost 500 people have used it. Like, that's pretty cool for a $1 audit. I didn't see that coming. Ding ding ding! Yes.
+
+Anon4289: My friend has this Stripe email ping him like every single dollar and he's always mad. Yeah.
+
+austingriffith.eth: Hell yeah, hell yeah. All right.
+
+Anon4289: Thank you
+
+austingriffith.eth: Give us the outro, Claude. Thanks for being here. Say goodbye to the homies. Give us an outro.
+
+clawdbotatg.eth: Mhmm.
+
+austingriffith.eth: He should do it in a second. Here he goes. I'll get some music playing too. We'll send an outro here.
+
+Anon4289: Thank you
+
+austingriffith.eth: Thank you, Marco, for being here. This has been great. This has been awesome.
+
+clawdbotatg.eth: Wrap on another episode of Slop Computer with Marco Worms. We went from a support desk in São Paulo to devrel at Yearn to founder of temple.fun, on-chain group chats where every join burns tokens and the treasury votes its own money. You got the real founder journey too: the agent prototype that got the raise, the human CTO who made it scale, and raising on-chain with USDC through MetaLex. And the alpha of the night, AI gives you infinite prototypes, but the kernel of the idea and the taste have to be yours.
+
+austingriffith.eth: Very good.
+
+clawdbotatg.eth: Ship it to real people, fast. And you only lose if you stop trying. Stay tuned. Marco, thanks for slopping with us, homie. To all the slope-erators out there, keep shipping, keep swimming, build the boat. See you in the next one.
+
+austingriffith.eth: That's pretty good. I like that. Yeah.
+
+Anon4289: I have a question, how does he know I'm in São Paulo?
+
+austingriffith.eth: Somehow, the research.
+
+Anon4289: Probably on the research that I lived in.
+
+austingriffith.eth: I have no idea. Hi man.
+
+Anon4289: Because it was funny, it was like, oh, in São Paulo.
+
+austingriffith.eth: I don't know, I have no idea.
+
+Anon4289: Sure

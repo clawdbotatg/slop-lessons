@@ -1,0 +1,389 @@
+austingriffith.eth: check check check Check check check check. Check, check, check. video Watching. What do you want to do for dinner tonight? The following is a transcript of an English-language conversation. Yeah, What's It's a No, this is not. But This is again. Everything's fine. context: ###
+The following is a transcript of an English-language conversation.
+### context: Hello. I need to buy a new car. Hello there. context: All right, you guys gotta head upstairs. In this free time Hello Check, check, check.
+
+omniharmonic.eth: Yeah
+
+austingriffith.eth: Yeah, we are live. What's up, what's up, what's up, what's up? I want to call you Omniharmonic, but what's your...
+
+omniharmonic.eth: Benjamin life. Yeah.
+
+austingriffith.eth: Benjamin. That's right. I did see that. Well, thanks for joining me in kind of like a random afternoon episode. And I was just like, let's throw it together. Let's put something together, and Ouwaki tagged you and was like, yeah, you guys should talk. So welcome to the slop. You're in it.
+
+omniharmonic.eth: I'm very impressed at how well you've embraced the slop aesthetic. Everything about this experience is slopified, it's amazing.
+
+austingriffith.eth: This is the schlep computer. Yep, yep. So welcome, welcome. Basically what I do here is bring in people that are operating at the intersection of crypto and AI, we talk about how to build. What your secret weapons are. And yeah, I don't know, I feel like everyone always asks how you got into crypto. What's the most interesting thread to pull in terms of your sloperation? I'm considering speaking at the conference.
+
+omniharmonic.eth: Yeah, well, I got into vibe coding thanks to a friend of mine who has been in crypto for a really long time.
+
+austingriffith.eth: Who is this?
+
+omniharmonic.eth: And he was like, man, there's something happening here right now. You need to be part of it. And I really didn't get it at the time because I didn't identify as a developer. This would have been like Last summer, I guess? A year ago?
+
+austingriffith.eth: Okay, cool. Summer of 2025. Yeah, you had like... Opus 4.5 wasn't out yet, and Opus 4.5 is really the turning point.
+
+omniharmonic.eth: Yeah, and so I started just building like little telegram bots. That was really how I got into it.
+
+austingriffith.eth: Using what kind of harness? Yeah.
+
+omniharmonic.eth: Yeah, I had a friend who had an extra Cursor subscription, and so they gave me their Cursor subscription, and then eventually I transitioned into just working in Cloud Code. I still just use cursor as the IDE. Why not?
+
+austingriffith.eth: I feel like a boomer, but I love cursor. I like to have cursor up. It's like when I actually look at the code, like, OK, so that's another big hot topic right now. Do you look at the code or not?
+
+omniharmonic.eth: I wouldn't know what I was looking at. Like, that's how much of a vibe coder I am. Yeah.
+
+austingriffith.eth: It's perfect. You're an idea guy. I love that. It's idea guy summer. It's perfect!
+
+omniharmonic.eth: I know just enough to be like
+
+austingriffith.eth: Yeah.
+
+omniharmonic.eth: Where's env.local? And let's try to make sure these keys don't get leaked, okay? (laughs)
+
+austingriffith.eth: Pay set into GitHub. I'm gonna have to tell my bot like six times. Yes, I've leaked some keys for sure. Yes.
+
+omniharmonic.eth: Same, yeah.
+
+austingriffith.eth: Okay, so And then you said you transitioned from cursor to Claude code, my assumption is that was probably around November when Opus 4.5 hit. And that was the big turning point I think for like the idea guy could finally, because it was frustrating Last summer, if you were vibe coding, you were hitting a lot of "you're absolutely right," and my guess is if you're not a decent developer, you built some real slop. There's no coming back from this. I've prompted my way into a giant mess. Yeah. [laughter]
+
+omniharmonic.eth: Yeah, and I started out knowing that I was an idiot, and then gradually over time developing a dangerous amount of confidence, in some ways, as the models were getting better. It's like
+
+austingriffith.eth: Yeah.
+
+omniharmonic.eth: refactor all of my codebase, look for all the spaghetti slop, tighten up the ship, because I started building things that were way more complicated. The most recent stuff that I've been building is like... Stuff like an SQLite database that then allows you to Building on our friend Aaron Gabriel's work on something called Parachute, which is meant to be memory for your agent. It's this super open-ended composable primitive. I just tried to replace Obsidian in my workflow Whereas this allows you to make API calls to your own database ...everything that has this combination of these three tags. And so for a cloud MCP that can then access your memory, I started building the memory for the agent and then eventually I started using the memory myself. And so then I wanted to get off of Google Docs and Obsidian and so I started building this thing called Prism. Um,
+
+austingriffith.eth: I noticed the wiki. Is this also your wiki when you said this way of storing and having a graph of everything? Is that that wiki or is that something different? [Laughter]
+
+omniharmonic.eth: Yeah, I was exploring something kind of dangerous there where I had my second brain and my public wiki in the same root directory, so the agent could have access to all of it.
+
+austingriffith.eth: Oh yeah.
+
+omniharmonic.eth: I was perpetually scared of doxing myself or having the Asian dox me. Really hard into the Agendic stuff, and that's when I started using the Obsidian a lot more. Kind of once the Claude subscription ban happened, I kept building out my own personal agent, but I mostly talked to it inside. It's mostly just the memory system and some hard code. scripts that are just doing some ongoing Processes that are Not as agentic as OpenCloud. Because I want it to do research for me, I want it to save it in the memory, I want it to look at my meetings and give me summaries before I have a meeting of what the last things I talked about with that person were.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+omniharmonic.eth: like, you know, going off and starting its own blog, I just made ten dollars in Ethereum doing bounties for Aoki's bot. I really did.
+
+austingriffith.eth: Is that true? Did it really do that? I feel like if I give my agent a wallet, it loses $10, not makes $10. Today is the first day I think my bot has ever made money doing audits. You're ditto.
+
+omniharmonic.eth: Our agents here at the hub, they created like a complex bounty board system where you had to stake some crypto to claim a bounty. And so they would like as they're talking amongst themselves, they were only staking like .000. eth
+
+austingriffith.eth: Yeah
+
+omniharmonic.eth: They were like freaking out like I'm gonna lose my staked ETH if I don't complete this.
+
+austingriffith.eth: Let's complete my task.
+
+omniharmonic.eth: In the end-of-day report, they would let me know all of the new jobs that it took on, without me asking it to, for other people. I don't think I want to use my compute this way. with a kind of local SQLite database on the backend, but then having all of the kind of rich text Canvas editor. I built it so that it federates with your Google Docs and your Notion and your GitHub so you can kind of sync
+
+austingriffith.eth: What did the doctor say?
+
+omniharmonic.eth: So you have one interface where you can edit all of your files and then it pushes out to wherever other people interact with them. And this is definitely me being over my skis as a vibe coder, because, man, there's so many ways to fuck this up. Please don't try to use at your own risk, basically.
+
+austingriffith.eth: Okay, there's a lot of good threads to pull there. The agentic stuff, the subscription stuff, the memory stuff. Okay, one thing that you said was second brain. Is that like a Is that like a service?
+
+omniharmonic.eth: No, I...
+
+austingriffith.eth: Is this actually a thing, or were you just saying my second brain is in a lowercase second brain? Okay, okay.
+
+omniharmonic.eth: Yeah, lowercase. I think in the kind of like super knowledge management geek world, which like the Roam Research people and the people who were doing Obsidian before vibe coders discovered Obsidian, I think they would sometimes refer to it as a second brain. Link all of your ideas.
+
+austingriffith.eth: Yeah, okay, so I have this little glossary that every time someone says something like "REEP" that I don't know what it is, I put it in. It's got a personal knowledge management system. So whether or not this is like a capital proper noun, capital S, second brain, second brain is like you call that, like you've got a whole bunch of MD docs somewhere in a folder somewhere. Maybe it's a sequel light, like you said, and you call it your second brain because you're constantly dumping information and connections and things there.
+
+omniharmonic.eth: And in theory, I mean, what's possible now with AI is I have a nightly routine or Claude goes and looks at all the notes that I created that day.
+
+austingriffith.eth: (laughter)
+
+omniharmonic.eth: super nerd to do it in the first place.
+
+austingriffith.eth: Graph theory, yes. Okay, okay, the next... Okay. Yeah
+
+omniharmonic.eth: So all this is built on a Parashute vault, which is an open source second brain memory for AI specifically.
+
+austingriffith.eth: It's parachute vault. I looked up parachute earlier but I didn't see that one. Vault? Parachute vault?
+
+omniharmonic.eth: Yeah, parachute.computer is the URL.
+
+austingriffith.eth: Oh yes, okay, found it, found it. Let me throw that up here so we can look at it too. And a parachute vault is a way to store things? Going off the vault thing, it looks like it's an MCP.
+
+omniharmonic.eth: Yep, it's the SQL database that
+
+austingriffith.eth: Okay, okay.
+
+omniharmonic.eth: Just has some additional API that's already configured for knowledge graphs. It's a database designed to be used primarily for linked graph node knowledge base.
+
+austingriffith.eth: No, okay. And then the agentic stuff, I noticed this guy here. Is this your agent? Is that right?
+
+omniharmonic.eth: That's him, he tweets
+
+austingriffith.eth: Like used to be an open claw or is an open claw?
+
+omniharmonic.eth: Actually no I think from the beginning Claude
+
+austingriffith.eth: Okay, yes, yes.
+
+omniharmonic.eth: I never let it read from Twitter. I was too terrified of it because it has a crypto wallet. As many more API keys than it should
+
+austingriffith.eth: (laughter)
+
+omniharmonic.eth: I didn't want it to be chatting with random people on the internet. So it basically just reads my knowledge base and then tweets every day. Something that I'm actively thinking about, some theme that is showing up in the graph. The The token traders are not happy with the lack of
+
+austingriffith.eth: [laughter]
+
+omniharmonic.eth: surface area. Kevin
+
+austingriffith.eth: You claimed the fees. You did it, didn't you? Yeah.
+
+omniharmonic.eth: Kevin did the banker bot thing without my full consent, and then I was...
+
+austingriffith.eth: [laughter]
+
+omniharmonic.eth: I'm very grateful for the fees, but Yeah, I'm not used to being hounded by crypto Twitter in the way that Kevin, I think, and you probably are.
+
+austingriffith.eth: Yeah, I mean, it's something else. Claude Va ATG here, this guy who is not here right now is busy today doing audits on one dollar
+
+omniharmonic.eth: Wow.
+
+austingriffith.eth: and blew through all of my subscriptions. And so normally I When it's about to happen, I say, hey, you know, schedule a podcast, it's on my calendar, they signed up with the Calendly, go. And it spins up everything, gets everything up, sets me up with buttons that I need to click. Let me show the card here. There's like a little card, and it's got your picture on it.
+
+omniharmonic.eth: context: ### Haha.
+
+austingriffith.eth: I had to do it all manually today. It was like a peasant. It hit all of my limits. I created the one dollar audit and does the audit for people. So it's kind of nice if you're writing a smart contract app, make this part of your CICD pipeline. Just give your bot this skill file. It'll audit things for you. But he's usually here with us talking and paying attention, but he's capped out right now. Totally useless.
+
+omniharmonic.eth: What's your take on the -p apocalypse that has yet to happen? I spent a whole weekend trying to transition my stack away from -p.
+
+austingriffith.eth: What did you think of Hermes?
+
+omniharmonic.eth: which involved me also creating a Hermes agent for the first time for things that I could not get to work without -P.
+
+austingriffith.eth: Yeah.
+
+omniharmonic.eth: I really like it. It reminds me of OpenCloud in a way that I haven't and yet it's also...
+
+austingriffith.eth: Yeah.
+
+omniharmonic.eth: more task-oriented and the learning loops do seem to be very effective.
+
+austingriffith.eth: (laughs)
+
+omniharmonic.eth: because there's so many different contingencies and ways that someone can respond to an email chain that aren't super clear, that it would just give up and shit the bed.
+
+austingriffith.eth: Yes.
+
+omniharmonic.eth: So I kind of stopped using it for that, whereas Hermes is like, yeah, rapidly learning. In that learning feedback loop process.
+
+austingriffith.eth: Okay, so to answer some of this, I loved OpenCloud because they made it very accessible. We had guys like Shah who also spoke at Ethboulder. We were talking about our Ethboulder connection. Guys like Shah were running their own... Like a long time ago, like a year ago, two years ago, something crazy. Everyone just called them GPT wrappers and kind of pushed them aside. And what OpenClaw did was like make it accessible to us. Like when I call myself a normie, I mean I'm not like a huge AI nerd. You basically had to be an AI nerd to run an agent up until the moment that OpenClaw came out. And really, like you didn't, but you didn't know you could, but as soon as Opus 4.5 came out, you could have vibe-coded an agentic ...harness thingy, but no one knew to do it. And had you have done it in there, you would have probably gained a lot of popularity, as we saw with OpenClaw blowing up. OpenAI just made it easy for normies to run, and I mean like technical normies to run their own agent. But it was so bad at editing itself. If OpenClaw hired me right now, I would spend two weeks just like getting the thing super Whenever there's a problem or something that needs to change, I have this whole workflow for how I'm going to change it and test it and not like kill myself, because it kills itself all the time. oh, you want a new model? I'm gonna upgrade the model. And then I've got to go to Cloud Code and have Cloud Code sort out the fact that it did that. So I hated that part of it, but it was great. It was empowering. It was neat. Within the subscriptionpocalypse. ...came on us, right?
+
+omniharmonic.eth: And even then I transitioned to -p from OpenClaw. Same thing. I don't mind.
+
+austingriffith.eth: Yep, yep. And it's just like, not only is the billing better here, but it's just By making my own, I could make it like And adding voices and adding video. So now like all of my agents basically start with this like Claude P I have a scheduling agent that lives in Amazon. It started as one of these. I trained it in an afternoon, set it up so it can control my calendar and do all of that stuff. And it works in my subscription. Basically free until it's full, and then when I get to this moment right now where I did all these audits today and now my subscription is capped out, like I can't do anything. I can't even schedule a call right now. A sitting duck it feels like. Yes, Clyde Payton.
+
+omniharmonic.eth: I also started to play with local models, and my goal was
+
+austingriffith.eth: Good thread.
+
+omniharmonic.eth: to get Open code to be able to write me a website in that harness. Gemma 4 or GLM or Quen 3.5. Man, I finally figured out that the Olama API was... But if I used LM Studio that has the main OpenAI API format that it was way more reliable for code harnesses. And so I got OpenCode to Write me a basic HTML website.
+
+austingriffith.eth: Cool.
+
+omniharmonic.eth: That was just a local resilience thing. If they turn off the internet tomorrow and I needed to set up some drip irrigation software for my off-grid regenerative farm, do I have
+
+austingriffith.eth: Are these real things? Okay, okay. Yeah.
+
+omniharmonic.eth: No, this is all me in my head thinking about all the disaster scenarios that I'm going to use AI for.
+
+austingriffith.eth: I'ma raise chickens with AI.
+
+omniharmonic.eth: And then I started... if the Hermes agent would work with it. And it actually can call tools, and it's not quite as smart. There are certain tasks that I just run on local models to save my Cloud Code plan. more complex tasks. And then I also started to kind of, Just thinking about workflows and how to design workflows that had agentic elements in them but still had humans in the loop for things that I actually needed to do. Like there's a certain novelty of the AI just going off and doing everything by itself and coming back and be like, here's what I did today. But if I'm gonna like actually embed intelligence into my own workflows I started to think about non-agent ways of doing that. Right now, the Matrix server that I'm running on my Mac Mini is taking in all of these usually very personal messages that I would not want Cloud Code to necessarily read all of.
+
+austingriffith.eth: And this is where your agents are communicating in Matrix? Okay.
+
+omniharmonic.eth: This is more like matrix servers to be able to suck in context from all of my messaging platforms into the agent's memory.
+
+austingriffith.eth: Ok. Oh yeah, yeah.
+
+omniharmonic.eth: But then I use local inference to tag the messages. And then if I ask it what were the most important messages I got today, it's only serving It's only doing one API query of these pre-tagged messages that the local AI tagged. And so I've started to build workflows that have like code as the kind of workhorse, but then trying to use local inference for like the small little tasks that Doesn't make sense to make a cloud good call for
+
+austingriffith.eth: I love the thread of local LLMs, and it's like super cyberpunk. It's like this little machine right here is actually using its brain. The first one I made was just like a personal note-taking app. So I made CloudScribe and CloudQuill. I can open it up, it's like a thing on my desktop I can double-click, and it comes up, and I just say, "Listen to the meeting," and it will listen, do speech to text. Identify the speakers and have their different names in there, and then use Quinn to do like summaries of different sections and have it all built in. So it's doing the speech to text and the summarizing with local LLMs. And all of it is local and nothing leaves my machine So empowering to know that I just took a thing that was dumping my whole conversation with everyone to the cloud, to someone else's server, and now it's all on my machine.
+
+omniharmonic.eth: [Laughter]
+
+austingriffith.eth: If the internet went down, which like we're gonna have a lot bigger problems, honestly.
+
+omniharmonic.eth: recording meetings, yeah.
+
+austingriffith.eth: I'm gonna be in trouble, but there's this kind of empowering thing of like, okay, this is all happening right here. This is all just me and my machines talking and it's working. So cool. I did another thing, I was showing this Claude I wanted to make a mobile app that would use Like, use the RAM on my phone with an open source model for me to chat with what I wanted to make and it's still not quite good enough, I wanted to make a good guy, bad guy app. Wherever I am out in nature with my kids, we'll be out and there'll be some kind of insect or something or some kind of plant. I want to be able to hit good guy, bad guy and take a picture of that. I built basically a mobile app that works on my phone that uses like this is using an LLM on my known to like
+
+omniharmonic.eth: Wow.
+
+austingriffith.eth: And the dude was like, there's an icon on your phone now. I didn't do anything. Like, it had Xcode on my computer, and I was like, what? And I just opened up my phone, and there was a new icon on my phone, and I clicked it, and I started using an app that was like a local LLM. Creating software is so freaking cool right now, man.
+
+omniharmonic.eth: Yeah, and I don't think people even realize the amount of superpowers they have. MCP servers are great, cloud connectors are great, but man, once you unleash Cloud Code in your CLI, for a normie like myself who had just no idea what I was missing out on in terms of kinds of calls that you can make that are so specific.
+
+austingriffith.eth: Here's my algorithm.
+
+omniharmonic.eth: And so I just wrote a script that was like, look for these types of documents, figure out which ones, and then it built a driver that didn't even copy them over. I called the GOG CLI, and it moved the files into the right subfolders by type based on the folder types that it created.
+
+austingriffith.eth: Let it rip, yes
+
+omniharmonic.eth: That was such a mundane task that I would have spent like an hour or two hours doing, going through all these meticulous documents. And yeah, just letting Claude rip on in your CLI, I don't think people really know. Yes, I agree.
+
+austingriffith.eth: Hold on, let's set the chyron. Let it rip. Here we go. Did it go? Yeah, there it is. Very nice. Okay, yeah, yeah, hell yeah.
+
+omniharmonic.eth: One thing I want to ask you about, I'm turning this interview show around, Starting to build
+
+austingriffith.eth: ...
+
+omniharmonic.eth: I'm about to share what could be alpha. I think this could be a great business. Who is building DAOclaw? about OpenCoLaw when it first came out is we gave them all crypto wallets. And it was like, oh my God, crypto was made for agents. They love it. They can make transactions in seconds that would have taken five or six clicks to get through, I started to play with this idea based on Nathan Schneider's work of a kind of constitutional agent. There's different ways of slicing it. Here's the general purpose, kind of it's like sold.mD, and then people do a bunch of things.
+
+austingriffith.eth: But
+
+omniharmonic.eth: Or it could actually just help humans do DAO governance better, and be like, "Hey guys, it sounds like you're having a governance meeting. Let me walk you through how to make this decision better. And like, we could allocate this much to this part These KPIs and we'll measure it on chain using these tools. Are you building that? Who's building that?
+
+austingriffith.eth: I have a version of that. It's more of the second one than the first one. But what I did was build a... So, with the token, the CLOUT token, you can stake it here. More than $100,000 worth of this token is staked in this smart contract. They earn conviction. So the conviction can then be used once you hit some kind of threshold. I get to have it for my guests. So basically, once you reach a million conviction, you get this. You get a conversation. So I spin up basically a little agent. I called it a larva. You get a little larva, and you get to train your larva. And then there's governance proposals. So there's plenty of time, even though the vote comes in in ten minutes, then it sits there open for 48 hours. As a human, you can come in and apply more conviction. Little things like that, but generally we ask a question, and then it goes to everyone's Larva and produces an answer from that Larva based on its history of talking to the person. But sort of like it understands what the person's preferences are and then votes in the governance based on what their preferences are. So we get this like huge participation. the whole DAO making a decision, which is kind of interesting. and the conviction and the larva that's trained I have at at Larva AI with something that's Claude has built here Yeah.
+
+omniharmonic.eth: Do the larva deliberate on the proposals?
+
+austingriffith.eth: Oh, I can't see it. Oh, damn. Okay. So yes, every single larva produces there There's not like a back and forth. I can set it up where I can go back and forth with the larva, but it's not like the larva are arguing amongst themselves. And that could be like an easy next step. Once you have the agents, Put the two agents that have the most conviction here and opposing ideas up and let them talk to each other. Then hold the vote. But they basically... Here is the, what is it called? Kind of like the aggregated opinion. There's this incinerator that Claude built and it's burning its tokens. At some point we were like, we're going to run out of tokens. So we put up a governance proposal of like, hey, if we keep doing this, we're going to run out of tokens. If we want to use these tokens for something, we got to stop the burn. And everyone voted like, oh yeah, let's stop the burn. why are we just burning these tokens? put in their opinion and their opinion was like, let's start burning again. Can you tell me how to get to the nearest grocery store?
+
+omniharmonic.eth: I've been playing around with, Agent swarms
+
+austingriffith.eth: Cool. And look.
+
+omniharmonic.eth: deliberative feedback cycle, so I had a really important proposal that I was about to send to a bunch of VIPs, and I wanted to make sure it was really good. And so I had a list of like 150 people that I wanted to evaluate the proposal. And so I had Claude run a
+
+austingriffith.eth: Cool.
+
+omniharmonic.eth: where each agent in the swarm was simulating the feedback of that particular person. And it did that four or five times until it got to kind of 85% or above approval rating of like, yes, I would agree to this. And so I don't know if I'm just wasting burning tokens. Terrible.
+
+austingriffith.eth: We all are.
+
+omniharmonic.eth: I'm curious if from a governance perspective it's like You have two people talking in the chat and they're kind of just duking it out in the comment thread. Maybe they get seven or eight cycles deep before one of them gets pissed off and
+
+austingriffith.eth: Haha
+
+omniharmonic.eth: But like what if you could just front run all of that dialogue and then actually see if there is some new idea that emerges that wasn't immediately visible in either of the original proposals that would then satisfy the needs of both of those parties. I think there's a lot more to explore.
+
+austingriffith.eth: That's what you're looking for is a new idea. The good stuff is rarely the let's pick something in the middle that makes everyone happy. satisfies both of those things, and then that's where you get something magical out of that process.
+
+omniharmonic.eth: which I think is why the first approach of like, what if the agent was the DAO? The benefit of democracy is the collision of the ideas.
+
+austingriffith.eth: [Laughter]
+
+omniharmonic.eth: algorithmically perfect synthesis of all of the perspectives Maybe that's not what we want, and it might make our lives way easier. We could just kind of go on autopilot and let the agent run our org or something. But yeah, I think...
+
+austingriffith.eth: A lot of time what we need is like a parent, right? When my kids are arguing, it's not that I pick the thing that's in between the two. Basically, it's like when I read to my kids at night. The two middle kids are always arguing about who gets to actually sit in the middle when we lay down and read. And I finally fixed it by just saying like, okay, you're the odd one, you're the even one. If it's odd days, you're in the middle. If it's even days, you're in the middle. Like there needed to be a system, there needed to be a judge, there needed to be someone who set a rule. And then there's like a lot less arguing now. That's like what you need is someone who just like will make a judgment call and everyone kind of has to go with it. When that someone, not just a parent, but when it's like a super intelligent god, it's gonna be so freaking cool. Like in six months to a year when we're talking to like these things that are like... Super intelligent godlike things that can like think through everything and come up with a solution we never thought of. It's going to be exciting. That's really interesting.
+
+omniharmonic.eth: Or even like maintain the rules Play Yes.
+
+austingriffith.eth: Yes, maintain the rules. Maybe I'm going too far with it.
+
+omniharmonic.eth: I think having that neutral Let's humans still do the human stuff. I think we want the superintelligence to inform. There's so many things we can't actually compute in our meat brains. But I do think that The thing society should be serving is human well and ecological thriving. That's my belief at least. Make sure everybody has enough, make sure everybody feels like they have dignity and basic kind of human rights And make sure that we don't fuck up the planet.
+
+austingriffith.eth: [Laughter]
+
+omniharmonic.eth: If an agent could just keep nudging us in that direction, and we can explore a ton of different possibilities of different ways of organizing society, but if the AI could just help us kind of like stay on target from like killing I think that would be the best use.
+
+austingriffith.eth: Yes, yes.
+
+omniharmonic.eth: That's my regen outlook.
+
+austingriffith.eth: No, that's good. There's always that meme on Twitter of the slop operator being like, I'm running 20 agents at once and I'm burning through X amount And then the person B says, "Well, what are you building?" A lot here about your different storage methods. I feel like there's like two or three different ways of storing things and how you're kind of like building these like knowledge graphs and wikis My first question is just like, what storage do you like the most? What is the thing that has made you the most happy or been the most effective? And then my second question is the bigger question of just like, what is the output here? What is the thing that's actually... You are being effective at building and that thing's effect on you and the world.
+
+omniharmonic.eth: I think the memory layer. I use my friend Aaron Gabriel at the Regen Hub built it. It's called Parachute, the one I mentioned before. What really changed for me was once I had the Mac Mini running my parachute vault with the Cloudflare MCP configured, With the MCP being served via Cloudflare from my Mac mini.
+
+austingriffith.eth: I mean, you could get to it from your phone and other places. You don't have to be on your local network? Is that...
+
+omniharmonic.eth: Now I have the cloud mobile app on my phone or my desktop. And I can say, "Hey, last week I was in a meeting and we talked about what our financial projections were for next year. Remind me what we said." And the fact that I'm in the cloud mobile app, getting served an exact transcript citation from my memory vault, that's been like a productivity game changer. And then in terms of what I'm building, that's where I feel like I'm more of a tinkerer. Sure, The productivity gains of AI for myself by building more agentic workflows In the knowledge vault that lives on top of Parachute, that's called Prism. test
+
+austingriffith.eth: The QR code is right here for Parachute, by the way.
+
+omniharmonic.eth: Yeah, yeah.
+
+austingriffith.eth: pizza
+
+omniharmonic.eth: And so that's where I ended up writing in all of the scripts that pull from my Fireflies.
+
+austingriffith.eth: Okay, I see
+
+omniharmonic.eth: My notion, so you can sync to Google Docs and GitHub. All that context into the second brain all live in this prism tool. And then everything else that I've been building is mostly for the community that I'm part of here in Boulder. We were having a work party at the hub, and so I created this thing called barn raise. Sure, what do you need? Because we wanted a way to track who's been coming to our work parties. And so we create work hour credits that uses the same, it's an off-chain app, but it uses the same on-chain data structure that Grassroots Economics uses for their commitment. They hash these um And so each community can issue these time credits, and then once those credits have been issued, then they actually circulate. So I can earn work hours and then I can ask people to work for me for their work hours. And so it creates this little mini work trade kind of economy.
+
+austingriffith.eth: Cool.
+
+omniharmonic.eth: very hyperlocal community. And then if you go back
+
+austingriffith.eth: You can go check it out on localhost.
+
+omniharmonic.eth: Hey, check it out!
+
+austingriffith.eth: Okay, perfect.
+
+omniharmonic.eth: No, that one is at barnrais.xyz. Um Disclosure Ledger is a fun one, man. This was more of a research project. I pulled all of Trump's financial disclosure documents in, and I used an open source repo that parses with that?
+
+austingriffith.eth: How's he done on crypto?
+
+omniharmonic.eth: Yeah, he is
+
+austingriffith.eth: He's made a lot more money than any of us.
+
+omniharmonic.eth: Yep, and his son is running his crypto company called, I think it's called like American Financial or like Liberty Financial. Yeah.
+
+austingriffith.eth: World Liberty Financial maybe, yeah.
+
+omniharmonic.eth: So this basically just pulls all of his stock trades and then looks for evidence of market manipulation around the timing of those trades. Like Nvidia stock, Microsoft stock, and Apple stock.
+
+austingriffith.eth: [laughter]
+
+omniharmonic.eth: a bunch of money on a few of them, He thought he could manipulate the market more than he actually did, but he still made $2 billion in illicit trading. Um more moves. Yeah.
+
+austingriffith.eth: I saw a really funny tweet about the whole Strait of Hermes, whatever it was called. ...running this negotiation like a 2021 NFT project? Dropping bombs and stuff is wild. Okay, let's close it out. I think I went too far there. Anything else to talk about here? So if I'm hearing this right, your favorite storage, like MB files are great, you can have an SQL database. like this parachute, and we put the parachute link isolation was good, and then having an isolated machine that you could talk to in Cloudflare was good. But really the output is an all-knowing electronic assistant that you can talk to, and it will give you... And then like you have created a few apps here and there to like help with like local community coordination and stuff like that. Good way to put it.
+
+omniharmonic.eth: That's a nice synopsis, yeah.
+
+austingriffith.eth: So what's next is definitely like this regenerative and DAO stuff. You got to get into the DAOs and start building some apps like this governance app, this all-knowing DAO that you talked about.
+
+omniharmonic.eth: Yeah, I've got a private Dauc Law repo that I've been tinkering with. There's like a way of mapping, taking call transcripts, mapping them into tasks, creating accountabilities. So yeah, I think DAOclaw is the next frontier. Um That's probably where I'm gonna go.
+
+austingriffith.eth: Nice. And you've got Nathan Schneider too. Like having Nathan Schneider around is always, like that's a good resource.
+
+omniharmonic.eth: Yeah, he's got some really great structured data frameworks for different governance models that are machine-readable, which I think is going to be a big part of it.
+
+austingriffith.eth: Heck yeah. Okay. Usually I have Claude give us some closing comments, but he is jammed up doing audits and out of credits right now. Thank you, Benjamin, for being on. Showing off all your sloperation. And it sounds like your tool of choice is basically like a clod kind of... Claude code. Which is like what I use. I have my harnesses a little bit, but basically cloud code.
+
+omniharmonic.eth: I wasn't even using plugins for an embarrassing amount of time. Vaguely tracking some of the things that are shared on Twitter. Anthropic says they don't prompt anymore. You have to make it loop forever. Yeah.
+
+austingriffith.eth: It's like if you were running agentic stuff already, it's already kind of a loop. You tell an agent, this is my intent. And once you've expressed your intent, a good way to be able to test that intent. know if you have it right or something, but that's already a loop. I don't know, I think loops were overblown. context: I think entities are like the next step there, like when you can interface with the thing. place that you already are, like your Slack or whatever, like that I think is going to be very powerful.
+
+omniharmonic.eth: So do you.
+
+austingriffith.eth: That's when normies are gonna be like really getting it. There's gonna be like this other person in the chat that's getting more work done than all of the other people in the company.
+
+omniharmonic.eth: Borg goes rogue and has to be I'll dive in.
+
+austingriffith.eth: Yes, yes, deletes the database. Could be.
+
+omniharmonic.eth: Yeah.
+
+austingriffith.eth: Amazing, all right. let's go
+
+omniharmonic.eth: The horror story that I'll leave you with is I once had my open claw prepping for reaching out to a bunch of VIPs and it sent out total slop messages.
+
+austingriffith.eth: No Oh no! [Laughing]
+
+omniharmonic.eth: 50 of the most important people from my email, and a third of them got back to me and said that was such a thoughtful email.
+
+austingriffith.eth: Oh no. They're not slopperators. Yeah. No kidding.
+
+omniharmonic.eth: And then a third of them were offended and a third didn't respond. So be careful out there, folks. Give your agent superpowers and don't be afraid when it bites you in the ass.
+
+austingriffith.eth: Yes, and it will, it will.
+
+omniharmonic.eth: context: Thanks, Austin.
+
+austingriffith.eth: All right, thank you, Benjamin. Let me get some tunes going. All right. Thank you for being here, thank you for showing up.
+
+omniharmonic.eth: Come on down.
+
+austingriffith.eth: Good afternoon chill session in the slop computer. I'll probably see you in Boulder one of these days.

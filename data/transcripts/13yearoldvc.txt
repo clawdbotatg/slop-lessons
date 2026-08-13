@@ -1,0 +1,461 @@
+austingriffith.eth: Okay, Claude, can you hear me? Okay, Claude, can you hear me?
+
+clawdbotatg.eth: Yeah, I'm here. I can't hear you. I'm only seeing the slop desktop through the browser. No audio feed. I can see you're in the room as Austin Griffith Eth though. Move
+
+austingriffith.eth: Hi Check check check check. Check, check, check, check. Yo, what's up, what's up? Go click the audio thing over there. Yeah, not video, audio. There you go, you got it. And then just like share your mic You can drop in a You're clicking, it's not working. I see you clicking. Give it a reload. Oh, you may have permissions up in the top left that you have to allow for the mic. What browser are you using? Maybe that's an issue. Here, let me open up chat. We can talk there. Ah I don't know. I mean, you should be able to share your audio through Brave, right? When you double-click the audio, just nothing happens? It doesn't bring up anything? Shit Can you try a different browser? Sorry or something. I wonder why Brave doesn't do that. I'm gonna go try it in Brave real quick. The password, so it's in your, here I can get it. It's in your Telegram. I'm sending it to your Telegram. There it is again. You just follow that same... Okay, we got a second anon, tell me we could share some audio. You don't have to do video.
+
+Anon2690: Guys, can you hear me?
+
+austingriffith.eth: There we go, we got something.
+
+Anon2690: Yeah.
+
+austingriffith.eth: There's a little video button you can click and it'll take it to audio. Okay, boop boop boop. Yeah, that is some dark
+
+Anon2690: This is so chaotic. Oh my god.
+
+austingriffith.eth: Yes, exactly. The slop computer is all chaos right now. It's a good lead-in to our discussion on how agentic finance is. Not here yet. So yeah, first of all, I know you from Jesse's Hacker House. You also have this good founder connection and founder mentality, and your shot's on goal and being serious about things. I don't know. You're an awesome person.
+
+Anon2690: Yeah
+
+austingriffith.eth: I love to watch your journey, but what kind of intro can you give us other than that?
+
+Anon2690: Yeah, so I think, where do I even start? I kind of got into like crypto because I was very interested in coordination.
+
+austingriffith.eth: Note taking out.
+
+Anon2690: Before crypto, I was part of Roam Research. Basically for those of you who don't know, it's like Obsidian or Notion.
+
+austingriffith.eth: Yeah.
+
+Anon2690: The concept is like graph-based note-taking app for collective intelligence. And in college, before Roam Research, I was building something similar in that direction as well. equivalent of knowledge management and coordination tool. So that's what led me to Roam, what led me to crypto. I was fascinated around this coordination problem, so I joined this company called Eigenlayer. And then it blew up like eight months after I joined.
+
+austingriffith.eth: You're doing ecosystem at Eigen?
+
+Anon2690: Yeah, I was head of ecosystem there. Yikes.
+
+austingriffith.eth: That was after Jesse's hacker house, which I think was also kind of ecosystemy
+
+Anon2690: Yeah, exactly. So I was basically, Jesse's Hacker House was like a thing where I started because I was part of a VC and like, you know, like the VCs were gonna pay me to go to these conferences and pay for my stay. So I was like, you might as well Yeah. Get them to pay for other people staying at the house. context: They were
+
+austingriffith.eth: And you had mattresses and people like jammed into the houses and we were buying, I don't even know, like we got to buy mattresses and sell mattresses in Paris or something like that. I don't remember where all we did it. We did it in Denver too, but yeah.
+
+Anon2690: Many places, Denver, Barcelona, Amsterdam, Istanbul, Denver, New York, SF.
+
+austingriffith.eth: Many cracked engineers. (laughs) Yeah.
+
+Anon2690: But, like, yeah, there was multiple times where we had, like, a three-bedroom apartment, and we fit 20 people into the three bedrooms. Because we had, like, three bunk beds. with three air mattresses per room. It was crazy. It was just very grassroots community building. Yeah, getting developers to be super interested in building hacking. This is all pre-AI days, I think. And then Angular basically became from like a few hundred mil to like,
+
+austingriffith.eth: Crazy, yeah.
+
+Anon2690: 2040 bill valuation at some point. Within eight months I joined rollercoaster And then, you know, there's a lot of things happen. And then I joined Ethereum Foundation on the AI team as a founding member. I was like the head of the ecosystem there. One of the things that I discovered very quickly was Xforl2 and agentic payments. Yeah. Very interested in finding the real intersection between crypto and AI. And then earlier this year I joined a company as a co-founder, Fast.xyz, and we spent some time on building around the agentic payment space and learned a lot of lessons. Yeah. So, what do you think?
+
+austingriffith.eth: Yeah, okay. So, and most recently you wrote this article about basically your exploration, I think, from Probably post EF, like your fast XYZ time.
+
+Anon2690: Hello
+
+austingriffith.eth: You did a lot of research, you talked to a lot of companies. We even broke down these four categories of like proxy commerce, machine commerce, agent to agent, and agentic finance.
+
+Anon2690: Hi.
+
+austingriffith.eth: From the outside even, I'm running an agent, my agent builds things, I have an X402 that accepts payments. Really the demand is like Also not there from the outside view. And I think that's kind of what you get to in the paper also. But yeah, let's dive in and go over that.
+
+Anon2690: Sure, so just to break it down for folks, what are these four categories? machine commerce that everyone is referring to. This is essentially giving your agent more capability and access. as an agent, right? A lot of times if you use Naive Claude, So how do you pay LinkedIn directly to access the data? You can't just access our content for free. When the interface Went from human reading the content, human using the services, to agents accessing the content and services. This category fundamentally has some problems because The bet is that
+
+austingriffith.eth: Fraction of a sentence.
+
+Anon2690: Instead of selling to humans, which pay $10 a month for subscription, they will sell API costs to agents, meaning a cent for request, ten cents for request. The problem there is which I mentioned in the blog, is first of all, both services and content follow a power law, meaning only few services and certain type of data and content will be most accessible Yes, Mostly accessed by and paid for by users, all the other services and content will be very long tail. Yeah, which means there's two levels of this. Does it make sense for people to The second is does it make sense to use crypto and stable coins to pay for microtransactions to access them? Does it make sense for a startup to tackle this problem versus an incumbent? Going back to the first question, does it make sense for people to access this with their agents? Yes, I think the market does exist. But again, going back to the power law. Only certain services and content will be accessed. For example, Stripe came out with this thing called Stripe Projects, which basically lists the 32 most frequently used services like Vercel, Runway, Supabase, all these companies. developer will need to use when they use their agent for something. And the other problem with this is because right now most people 80% of the world has not even used AI. Very, very few of them have used agents. And even a smaller segment of those people will use agents and want to pay additional for agents to have that capability. People are developers, and developers historically have been the least willing group and audience to pay. So how do you have a sustained business model here, right? Then going to the second question, which is, does it make sense for Using stablecoins and microtransactions to pay for these. I think even for some of the players who are tackling the space, they're just using top-up systems and internal accounting systems to get people to pay. It's way too much friction. Everyone accepts it, which is you top up and it gets settled at the end of the month. similar Uh Then the argument would be there will be probably one marketplace that aggregates all these Marketplace does exist. I think the most prominent being like Orthogonal, which is a YC company. If there is a one-day marketplace and people actually use this marketplace to access these services, then they would be the current most, I think, farthest along startup, as far as I know. That's tackling this Which answers the third question
+
+austingriffith.eth: It does make sense.
+
+Anon2690: Hello
+
+austingriffith.eth: Yeah, it does make sense to me of like, okay,
+
+Anon2690: I'm
+
+austingriffith.eth: Then it's like, okay, where's it paying from? Crypto makes sense, I have a crypto account, it's really easy for an agent to use crypto,
+
+Anon2690: Yeah.
+
+austingriffith.eth: But then we see people like Stripe make, the UX has to be 10x better for someone to come in and use it.
+
+Anon2690: Brenda.
+
+austingriffith.eth: Stripe is going to make it good enough that maybe you don't need crypto to do this.
+
+Anon2690: No. Yeah.
+
+austingriffith.eth: And so there's a lot of like these weird, there's not enough demand. It all makes sense, but there's not enough people actually using it yet. And there's probably too many barriers to entry to make the crypto stuff work. Sorry to cut you off, just kind of like saying. I don't allow it.
+
+Anon2690: Yeah, exactly. So then it answers the second question, is crypto necessary? No, it's not necessary. The top of it solves the problem. Third question is, is this an in-common opportunity versus startup opportunity? I think in both cases, in comments have much greater advantage here. Services, access to services and access to content. Um Services already cover a majority of the services that you need Anthropic and OpenAI have already signed bulk contracts with publishers for their AI and agents to access web content. And Cloudflare, alongside some other cloud, I think are also attempting to like, you know, like... have a button turn on Agents who access the content and data produced by WhatsApp
+
+austingriffith.eth: It might even be like in your Anthropic subscription, you're not only just paying for your LLM, but you're like giving them a budget to spend. Wow, okay.
+
+Anon2690: Yeah, and it already has a top-up feature.<|disc_thread|> It's extremely difficult. It's just like a way more effort for the benefit. Yeah,
+
+austingriffith.eth: And by the time you get it and you get some customers, the incumbent is going to come eat your lunch and make the same thing.
+
+Anon2690: Exactly. So these are the problems I see with the first category. so-called machine commerce and x4 to MPP. The second category of proxy commerce, an agent to merchant category, is the problem there is Exactly.
+
+austingriffith.eth: This would be like buying on Amazon or something.
+
+Anon2690: So, uh.
+
+austingriffith.eth: This is like your shopping thing, right? We shop with our eyes, I think you said?
+
+Anon2690: Exactly, yeah. So there's two broad sectors. On the retail side of shopping, on the business side, procurement of supplies, right? I'm trying to buy complex products from overseas. this Categories vertically long enough where automation AI makes sense in this process. So then let's focus on the retail side of things. Amazon is doing a lot of active things to make their shopping experience more agentic. One of the things we built was like shopping experience where you could now shop on Amazon and different Shopify merchants that integrated. into the Google ECP standard. Basically making your merchants discoverable by agents, and then you shop through your chatbot. The UX was like Almost like strictly worse than just me going to Amazon, clicking three buttons to buy something. Yeah.
+
+austingriffith.eth: That exact thing happened to me today. Like I needed a dongle and a cord for my camera setup. I was like talking to Claude, like my camera looks like shit, what do I do? And it's like, oh, bro, you need this and this. And it was basically just like, go to Amazon and get the thing.
+
+Anon2690: Yeah.
+
+austingriffith.eth: wouldn't it be great if he was just like I just ordered it for you, you're set, like I just paid with some stablecoin. Like maybe that UX is better, but like I've got to set up the stablecoin, I've got to set up the account, I've got to give it access, I've got to make sure it doesn't leak.
+
+Anon2690: Yeah.
+
+austingriffith.eth: There's a lot of scary things in getting that set up for that UX to be super smooth. Whereas, it gave me two links, I went to the links, I hit three buttons, I paid with my credit card and that thing is on the way and will be here tomorrow. Like that UX is not bad. Let's go.
+
+Anon2690: Yeah, so I can give you some more insights into when we built this chatbot of this shopping experience, what were the problems that were very, very annoying that we encountered even when we're building? Things like, for example,
+
+austingriffith.eth: Thank you. opus 4.7.
+
+Anon2690: We couldn't use a smart model because it would add a lot of costs to you buying from us. I think this happened to McDonald's or something, like they were using a very smart model, people found out about it, so they were just farming the McDonald's chatbot.
+
+austingriffith.eth: Build this DApp for me.
+
+Anon2690: We had to use a strictly worse model.
+
+austingriffith.eth: Yeah.
+
+Anon2690: Yeah, we had to use a strictly worse model. That model was very dumb. It was not even just the model being dumb, the agent and the harness around it was not the easiest thing to design. Everything from like, okay, did the agent understand the exact specification of what I'm trying to use and map it out to search for that exact query. quote of how much it will cost because there's state taxes depending on your shipping address. That product is no longer available or it's different, you have to re-pull or refresh your prices.
+
+austingriffith.eth: Models will get better, harnesses will get better, this information is stuff that you could like do a bunch of research and have prepared, you could dump it all the model and they could figure it out. So like that stuff I think will not be so hard in the future, just right now it's tough.
+
+Anon2690: Yeah, for whatever reason. The other thing we had to optimize for is the speed of the agent. Tell the agent to buy something, wait 10 seconds for it to respond. Have another like back and forth five conversations until you buy something. The UX is just not as good. But generally speaking, I would say there are scenarios where this would make sense, like if you're trying to buy something complex and you want to have a complex query searching the cheapest item across all these shops But again, these are all power user use cases. hard because you have to start with like some niches. Okay, you're maybe helping to solve the problems of a user who doesn't speak English as their native language. simplify the steps of like doing food ordering,
+
+austingriffith.eth: People still want to order from a human. Like when you walk into a store and there's a kiosk and a human, people still go to the human. It Oh yeah.
+
+Anon2690: Not only that, but even when you use the food ordering app, right? Does it occur frequently enough, and how big is the pain?
+
+austingriffith.eth: Like super a lot, yeah. What?
+
+Anon2690: I just want a voice command, order me something, be delivered by 12:30 for lunch. I don't care what. But the problem there is food. Apps don't want to open up their API, it's private, so then you have to find weird ways, like browser use to actually do the food order, which adds costs, which is like, how do you justify on a $15 lunch order, that type of thing. And broadly speaking, I would say the question comes back to it's a matter of incumbents incorporating AI onto their existing UI rather than startups trying to solve this problem. Um And The other thing is just like consumer markets are so difficult. Like you, how many apps do you use? I was just having a chat with my friend yesterday on this. Like how many apps do you use the past five years recurrently as a consumer? Very, very, very few new apps. Like AI is a new app that everyone now uses. Yeah.
+
+austingriffith.eth: Twitter basically probably is the only one that I've been using for five years. in a wallet.
+
+Anon2690: Yeah, exactly. So I think the agent to merchant route is also... I haven't seen any real signal around. And third
+
+austingriffith.eth: I could see luxury goods. There are some websites that I used to go to back in the day that would curate these things that I would like to see. And I could see an agentic layer where it knows a lot about you and it still gives you a broad
+
+Anon2690: context:
+
+austingriffith.eth: But like in the background, an agent is like crawling all these different commerce websites, and then rebuilding it into one that you can look at. And it's like a custom store tailored to your likes.
+
+Anon2690: Yeah Yeah.
+
+austingriffith.eth: and pick things and then it goes and buys them. Okay.
+
+Anon2690: Yeah, I think there's a star called Fia.
+
+austingriffith.eth: Okay.
+
+Anon2690: Bill Gates' daughter building this? I think unless you have some weird unfair advantage here in terms of distribution, it's also very difficult. And then the third category is agent to agent, which is almost entirely theoretical. Right now.
+
+austingriffith.eth: Agent to agent makes sense because you can have these specialized agents.
+
+Anon2690: Hello
+
+austingriffith.eth: You can have the generalized agent talking to the human, getting the intent, and instead of the generalized agent having to do all these specialized tasks, it can pay a fraction of a fraction of a cent, discover them on 8004, pay them with x402.
+
+Anon2690: Hello.
+
+austingriffith.eth: The narrative is good, but the demand is just not there. There's just not thousands of agents wanting to hire other agents right now.
+
+Anon2690: Yeah, I think it makes sense as like an experiment either within a big corp
+
+austingriffith.eth: Hmm
+
+Anon2690: as an indie developer, you don't have a team to worry about in terms of real businesses. The fourth category is agentic finance. Thanks. I What's up?
+
+austingriffith.eth: How long do you think this will exist? You've seen this from the die team, you've seen this from the research.
+
+Anon2690: So,
+
+austingriffith.eth: A year, two years? What do you think?
+
+Anon2690: My theory is it One of the biggest reasons why it may exist is because of the following. Agents are just like humans and kids. The more you use an agent, the more it gets better. Someone who uses a hermes agent for three days versus three months versus three years will have drastically different capabilities for their agents. due to the harness, the memory, the context, the tools, like all that access, right? And so therefore, if there's delta amongst agents, just like delta amongst humans, then they will form a marketplace dynamic. That's the theory. No. You
+
+austingriffith.eth: The structure is there, and the standards are there, but it just hasn't formed yet and there's no demand for it yet. You see it happening because it's... It makes sense.
+
+Anon2690: Yeah, but then see how there's precursors to that thing has to exist first before payments become one of the many, like it's one single piece of a lot of things in this structure. Asianic finance doesn't really make sense because the demand is not there again. Then the fourth category is agentic finance.
+
+austingriffith.eth: Investing, yeah.
+
+Anon2690: using agent to do trading, to do prediction market research, arbitrage, treasury management, investing. I think this category, once again, is like it benefits the incumbents because you can build this for yourself. Also, once you productize it, I think there's going to be some Well, first of all, there's capability gap, and second of all, there's regulatory gap.
+
+austingriffith.eth: Hi
+
+Anon2690: People try to use Asians and do trading and stock buying, and a lot of them lost money.
+
+austingriffith.eth: I'm sorry, Austin, I leaked your private key again.
+
+Anon2690: Yeah, so the capability gap is still there. The regulatory gap is also there once you have this autonomous being managing acting on the behalf for you in terms of money, It just seems like a different thing. Yeah.
+
+austingriffith.eth: Like money transmitter laws or like what's the regulatory stuff? There's probably not regulatory stuff where I build an agent and it does stuff on my behalf. There
+
+Anon2690: Maybe this is why you need crypto because you want decentralization to avoid all these problems. There may be
+
+austingriffith.eth: Yeah, like I can't control the money.
+
+Anon2690: Yeah, like so I don't know, but I just feel like overall I sent out a second tweet, which is Looking at all four categories, it becomes uh Asymmetric bet in a positive way for an incumbents, and the reverse asymmetric bet for startups in a negative way for startups. So asymmetric bet is this term to describe how you have... limited upside and limited downside. These are the bets you should be taking generally in your career, your startup. whatever you're doing. And for incumbents, it's asymmetric bet because it has unlimited upside, right? Like it helps them capture the AI narrative. It helps them capture the wave and be prepared for it if it actually happens. And has limited downside because they have cash flow generating business elsewhere. And it's like an R&D project for them, right? Risk contained. For startups, it's the reverse because it has very limited upside for all the reasons I described. structural problems of all these four categories. That is unlimited downside because your opportunity cost to tackle a problem that does exist and demand that it does exist right now is huge. And also, I think somehow there's a lot of competition now with agentic payments from the startup and in comments. Especially when you're runway constrained as a startup, the cost for you to tackle a category like this is death. Sooner or later, right? We don't know when it will break out if it will ever break out, right?
+
+austingriffith.eth: You're seeing this from the perspective of fast.xyz. And if they get it wrong, it's an R&D project that doesn't really matter.
+
+Anon2690: Yeah
+
+austingriffith.eth: It makes it hard for you to make these bets.
+
+Anon2690: I think broadly speaking for all startups working in this category.
+
+austingriffith.eth: Okay.
+
+Anon2690: Unless you have some secret sauce or secret edge. So there's a few, I wouldn't say successful because it hasn't gotten proven at scale, but there's a few angles. For example, there's a company called Sapien, the founder was like Shopify head of eng, and they worked with this company called Posia. which is like this one-man agent operating company. Basically CPM integrates as Porsche's agenting payment system. So if you have more companies that are like one man running... and they need some
+
+austingriffith.eth: Which we will, right? We'll see a lot of those, I think.
+
+Anon2690: Hi Yeah, I think Yeah, yeah context: Uh
+
+austingriffith.eth: You're not bullish on the one-man company? I feel like right now you can just be an idea guy and you can get product-market fit. with AI.
+
+Anon2690: Yes, I think you can have a lot of them potentially, yes, because I think the AI age favors the people.
+
+austingriffith.eth: So what happened?
+
+Anon2690: individuals with high agency, and you can assemble an army of interns with these agents. like all these These framework, agent framework companies and try to be their underlying payment layer, maybe. But also, again, it's uncertain. If Stripe came out with the same product, why would they integrate with you versus Stripe? I don't know. And then another interesting example is My friend sent me this, which is Ah Let me just try to find it. A company called zeroclick.ai, they essentially turn an API into agent purchasable service controls for pricing, identity analytics, and more. So one interesting trend I see is when we think about generic payments Yeah, there you go. When we think about judgements, we think about supply and demand, right? When we try to run any business, essentially it's supply and demand. In this case of agentic payments, supply is like the services, merchants, content providers. Demand side is like the agents and the users of agents. What we find is the real demand is actually on the supply side, meaning your real users are these merchants and service providers who FOMO about wanting to get their services. or by agents. So
+
+austingriffith.eth: It's like the chicken and the egg problem solved with FOMO. You need the FOMO.
+
+Anon2690: Yeah, you need the service on the supply side. Selling the picks and the shovels to the builders. So it's B2B2C play. That's what we see. In e-commerce, the merchants don't have yet customers who are agents, but they don't want to miss out. So they want to make their products queryable to agents, similarly with services. Services. Yeah.
+
+austingriffith.eth: You should be doing that in general. Like, if you even have a website, you should have a skill.md on that website. If you're writing documentation for almost anything, you're no longer writing that documentation for humans, you're writing that documentation for agents. And so it should be really easy for agents to crawl
+
+Anon2690: No. Yeah.
+
+austingriffith.eth: You should just be ready to have all this. No matter who you are, if you have a surface on the internet, that surface should now be accessible to agents.
+
+Anon2690: Exactly.
+
+austingriffith.eth: Whether those agents are going to pay is a whole new thing that we're still getting into.
+
+Anon2690: Yeah, so basically I think that's the other thing that is somewhat real, like there's somewhat of a demand for but again It goes back to my argument, which is it's still a reverse asymmetric bet for startups. Concerns are how big that problem is. And you would...
+
+austingriffith.eth: And the AI companies are fast. In terms of incumbents, lots of incumbents are slow, and they still have people writing a lot of code with their fingers, which is ridiculous. But like, AI companies, the large AI companies are moving fast, and they're quick to adapt these things.
+
+Anon2690: Yeah.
+
+austingriffith.eth: So these bets are being taken by these incumbents.
+
+Anon2690: And the thing is, I mean, they're slow for a reason because they need their data private. They can't be sending training data to LLM labs, which is very interesting. I think Mistral AI has a very interesting model. They're not building the smartest model, they know they can't build the smartest model, but they can service enterprise needs, which is having their own deployment of the model, having their own private model. And you actually charge more money. There's one big lesson I learned that I keep bringing up in the past few days to people is traction does not equal PMF. traction, traction. cat
+
+austingriffith.eth: You said traction does not equal PMF. Okay, let's dig into that. Give us more.
+
+Anon2690: It's the same
+
+austingriffith.eth: Okay.
+
+Anon2690: You learn like correlation does not imply causation. Traction means
+
+austingriffith.eth: people using it? Okay.
+
+Anon2690: You have signups, you have mindshare, you have hype, you have attention. You have various metrics that you could glorify that you're building something useful. PMF is you have someone paying for it and someone paying for sustainably. Enough of that people paying sustainably to make it a scalable business. So traction is like is a form of energy PMF is a form of sustainable energy that can That can... that can overcome market cycles. And that's a very important, I think, learning for me.
+
+austingriffith.eth: I
+
+Anon2690: Last four years in crypto, and that's looking at AI now, because AI has the exact same problem. Or the same type of thing. Hi. existing.
+
+austingriffith.eth: Like hype cycles, FOMO, people are using it, but people aren't willing to pay for it in a sustained way.
+
+Anon2690: Exactly, and same with the large language model like Anthropic. I think Anthropic saw this problem early on and their priority was to generate revenue. Enterprises as their primary focus. And But this problem is happening to many other AI companies. Basically, Okay, so there's four ways that you exit, right? Like you could IPO, you could launch a token, you can have your own revenue, and you can get acquired. One or two paths no longer really work in today's era. Like
+
+austingriffith.eth: Going public or selling a token. Why don't they work?
+
+Anon2690: Yeah, exactly.
+
+austingriffith.eth: like
+
+Anon2690: Oh
+
+austingriffith.eth: I mean, like we see founders get rich and leave, like we see people launch a token and never build anything. Like, they worked in terms of they got money out of it.
+
+Anon2690: I know Yeah, but
+
+austingriffith.eth: Or is there just so many tokens getting launched every day that it's not actually raising capital?
+
+Anon2690: Because the money flow in today's world, like where liquidity is going is becoming a lot more concentrated. The Magnificent Sevens, like the largest hyperscalers? Some semiconductor companies, maybe some deep tech, but basically money is becoming a lot more concentrated. And like, you can IPO if you're SpaceX, OpenAI, Anthropic. Before you IPO in some very small regional markets, like Hong Kong Stock Exchange or whatever, which is not necessarily small in comparison to the US stock markets, If you IPO like Figma, right?
+
+austingriffith.eth: Perfect timing.
+
+Anon2690: It was brutal. So I think as these two,
+
+austingriffith.eth: Perfect timing of Dylan selling it Worst timing of Figma IPOing.
+
+Anon2690: Yeah. So I think for most companies, most startups, like one-man startup, whatever, right? The only two things that you could do is either get acquired or have some form of revenue. And traction, going back to traction versus PMF, traction can bring you acquisition opportunities. Because if you have traction but no PMF,
+
+austingriffith.eth: You gotta convert. Oh, okay, okay.
+
+Anon2690: have this limited attention span in this short period of time where you could sell yourself to something, to a hyperscaler like Meta or xAI. Yeah. Yo
+
+austingriffith.eth: Right. So instead of, this is maybe the fourth thing you mentioned, is basically selling the company. You get traction, but you don't have PMF, you can sell your company to a larger... Okay.
+
+Anon2690: You only have that limited time window when you have the traction, the hype, and mindshare. Some companies missed it, other companies captured the opportunity and sold themselves to these large companies. If you have PMF,
+
+austingriffith.eth: context:
+
+Anon2690: Basically, you have more optionality because traction brings you either acquisition opportunities or more funding for you to extend your runway and find PMF. And then PMF means you have... you're self-sustaining, you can raise money, you can also sell to other people. But if the market is somehow for AI or whatever just generally crashes, there's no more VCs. You're still self-sustaining, right? Everything is time-bound By the way, for three months you have a hundred million dollars.
+
+austingriffith.eth: The incumbents can still Yep.
+
+Anon2690: Yes, and especially our own labs can still eat your lunch. But I think Yes Exactly.
+
+austingriffith.eth: What about any defenses there? When you're thinking about, I want to make a startup, I want to take a shot on goal, it's probably going to be in this area where these incumbents could eat my lunch
+
+Anon2690: Exactly. Exactly. So
+
+austingriffith.eth: What is my defense? I've heard that data and data flows are kind of a moat.
+
+Anon2690: All of these four categories of Asian opinion does not work. And also looking at the business models now, like what can you actually do sustainably at scale? Especially in face of incumbents. What is the formula for today's startup? What is the category or whatever things you can tackle? I came up with this fifth category that essentially solves majority of all the problems that I talked about. And I have a post on that coming up soon. [laughs]
+
+austingriffith.eth: Okay, yeah, yeah, I think there is like this, there's this teaser at the end of your article that is like
+
+Anon2690: Yeah.
+
+austingriffith.eth: that you think you can attack. Can you give us any hints?
+
+Anon2690: I broadly call it AI native work.
+
+austingriffith.eth: Okay Hello.
+
+Anon2690: It's
+
+austingriffith.eth: Yeah.
+
+Anon2690: We should do another episode once that's out.
+
+austingriffith.eth: Yeah, that sounds good. Awesome.
+
+Anon2690: Yeah, but I have a formula for it.
+
+austingriffith.eth: What
+
+Anon2690: If what you work on somehow fits that formula, I think you have some good edge and you're solving a problem that does exist. Instead of chasing for problems that don't exist yet. Well,
+
+austingriffith.eth: Okay.
+
+Anon2690: Yeah
+
+austingriffith.eth: Great.
+
+Anon2690: I don't That's
+
+austingriffith.eth: I look forward to talking about that too. This has been really good, yeah. So
+
+Anon2690: Yeah.
+
+austingriffith.eth: Yeah, I mean like even A year from now, what do you think the landscape looks like?
+
+Anon2690: Hi.
+
+austingriffith.eth: You probably got to close out here in a few minutes, but what How are you? Do some of these things become successful? Ah
+
+Anon2690: Wonderful.
+
+austingriffith.eth: Even decentralization and the centralization of everything, it seems like we're going in a weird direction with some of these things, and intelligence is becoming centralized. I can extrapolate a lot of things in my own mind, but what's maybe something... Like you see happening in the future that like most people don't agree on or don't see coming?
+
+Anon2690: Um... I'm trying to think. Uh question.
+
+austingriffith.eth: I mean maybe. It's kind of a cheesy question. If I were to ask you what you wish you would have known six months ago, it would be this article, basically. This stuff that you've gone through and learned, these are the lessons that you wish you would have known going into it. Yep.
+
+Anon2690: Yeah, like what I just learned is like multi-million dollar lesson. Our
+
+austingriffith.eth: I feel like that's another million dollar question. What does that software look like? What do you think?
+
+Anon2690: Well, Agent Waller, isn't that just like the substrate? Three of the four.
+
+austingriffith.eth: I guess so, yeah. Yeah, I guess, yeah.
+
+Anon2690: ...categories. Yeah. So I think it really depends. Like in order to define a product, you have to define a use case. And when I just try to define a use case, I find there is no use case. Oh, no, no, no. There is use case Sorry, but not like sustained Like large and venture-scale commercializable use cases at this current moment in time.
+
+austingriffith.eth: I would love to load my agent up with like 10 USDC a day and tell it like Use this to pay other agents that are specialized to do things and have it go do those things and pay those things. And never leak the private key, but still have the agency to get the job done? That's maybe Right now. If there is an agent. Exactly, assuming that's there.
+
+Anon2690: If there is an agent-to-agent marketplace right now that allows people to... Yeah, like,
+
+austingriffith.eth: You're saying it's not going to be, or sorry, I'm reading into it. Okay.
+
+Anon2690: No, I'm saying there could be. But the big problem there, for example, why would I loan my agent to other people? I would be very worried that my agent will be exposing You know how Anthropic started banning people's accounts because there's a lot of illicit use of distilling their model?
+
+austingriffith.eth: Train it.
+
+Anon2690: If I interact with your agent enough with my agent, I can also distill the specialty of your agent. on some level.
+
+austingriffith.eth: Yeah, like tell me what you're good at and make me a skill.
+
+Anon2690: on some level. questions that are just unsolved. I'm not sure if right now is the perfect thing to solve for right now. It's just the, again market comes in sequences and waves. Like when you're too early as a startup, you die. Yeah.
+
+austingriffith.eth: Which is crazy, like thinking about like we had everything perfect we were too early, and then six months later someone does what you did, and they blow up.
+
+Anon2690: Yeah. Yeah, I mean, I'm hoping someone I posted my post like a year from now, I'd be like, "Jessie, you're so dumb." I do. Yeah.
+
+austingriffith.eth: Yes, like, look at all these agents paying for things and all these agents doing things. We do need to see this thing happen. I really look forward to your fifth category and your next step and your next shot on goal here. I hope you are wrong about some of these things, for sure, because we would love to see agents and agentic finance flourish. We would love to see it decentralized and not a bunch of centralized figures.
+
+Anon2690: Yeah.
+
+austingriffith.eth: not centralized people making the UX good enough that Stablecoins and crypto to empower their agents. I guess we'll just see.
+
+Anon2690: Okay, actually I do have, going back to your question, like what is... Contrarian take long term
+
+austingriffith.eth: I'm ready. Okay.
+
+Anon2690: Frantic. I am bullish crypto
+
+austingriffith.eth: Yep.
+
+Anon2690: Because AI concentrates wealth and power in the hands of a few, whereas normal people need upward mobility channels, and this is what crypto can provide. Either through Yes.
+
+austingriffith.eth: AI is like shrinking the upward mobility, right?
+
+Anon2690: Exactly. Long term, even though short term there's like basically no liquidity in crypto. Everyone's either like pivoted to AI or pivoted to finance and like RW and fintech. Basically, I think that's You either stay in crypto, do finance stuff? Before you go to But anyway, I'm long-term bullish crypto because it introduces entertainment for upward mobility. Um Because One is the form of on-chain finance. A lot of centralized exchanges are now doing this, like how do you put stocks on-chain? And people laugh at them saying, oh my God. But no, I think that's exactly what crypto was for, which is to democratize the access of finance.
+
+austingriffith.eth: Doing it better and faster and decentralized. Yes.
+
+Anon2690: Yeah, like in the sense that you don't need to be a U.S. resident to access the U.S. stock market. Obviously you could say, okay, you could still access the U.S. stock market in XYZ regions, but not globally. I think crypto can make that opportunity globally, right? Latin versus Africa versus MENA versus Southeast Asia or some of these global South regions, right? So that's one. The other form is still like, yeah, speculation indeed because Those have been some of the longest standing businesses in the history of humans. that makes that a lot more efficient, a lot more accessible. And I like to use this example, right? Like what happened to Korea, to young people? What happened to the rest of the world? Because Korea has no upper mobility. It's like, it's the...
+
+austingriffith.eth: It's the only way up.
+
+Anon2690: That's why you see so many gamblers in Korea trying to buy stocks or crypto. Crypto does provide that instrument. for people, and Korea is just the first to experience that. um
+
+austingriffith.eth: I love playing video games.
+
+Anon2690: And also crypto makes things entertaining. I'm not advocating for that this is a good type of dopamine rush and good form of entertainment. matter of fact that it does come as a byproduct. I think that is
+
+austingriffith.eth: Provide
+
+Anon2690: Pretty powerful. It's a hedge against AI for regular human beings, financially and as entertainment. Um, yeah.
+
+austingriffith.eth: Hopefully there's some decentralizing factors here and we are able to Not let all this power globally.
+
+Anon2690: And And yeah, this isn't like Accessibility is a direct result of decentralization. context: Correct.
+
+austingriffith.eth: If there's a single company running all the models and they decide you get Fable instead of Mythos, there's nothing you can do about it.
+
+Anon2690: Yeah.
+
+austingriffith.eth: Yep. OK, amazing. Let's talk when you put out your next post. Great.
+
+Anon2690: Hello?
+
+austingriffith.eth: Thank you so much.
+
+Anon2690: Thank you, Austin.
+
+austingriffith.eth: Awesome. Let me crank some tunes up and head out. All right. See you, Jesse. Thank you.

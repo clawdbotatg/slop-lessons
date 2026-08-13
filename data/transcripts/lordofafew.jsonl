@@ -1,0 +1,914 @@
+{"id":"be30bbf999ac3060","ts":1784483433128,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":null,"anonId":null,"text":"🚪 0x34aa…fdf3 created this room","source":"live","kind":"room","meta":{"slug":"lordofafew"}}
+{"id":"ef59a401a39f1efc","ts":1784483479389,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth looked up “@lordOfAFew”","source":"agent","kind":"research","meta":{"query":"@lordOfAFew"}}
+{"id":"8f5cb45f0033b4dc","ts":1784483492058,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth started deep research on Loaf","source":"agent","kind":"research","meta":{"name":"Loaf"}}
+{"id":"a5cf144016635e46","ts":1784483570237,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth is generating a new title card","source":"agent","kind":"card"}
+{"id":"84f0a043ff4639c3","ts":1784483669425,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth published the title card (server bake)","source":"agent","kind":"card"}
+{"id":"9d769aec68af4ce1","ts":1785448209493,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🎵 austingriffith.eth switched the music to Electronic","source":"live","kind":"music","meta":{"genre":"electronic"}}
+{"id":"2061751faf0fd768","ts":1785448311720,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"▶️ austingriffith.eth resumed the music","source":"live","kind":"music","meta":{"src":"/jamendo-music/electronic/2330925.mp3","index":0,"playing":true}}
+{"id":"262b117e7bdd9444","ts":1785448403174,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You picking me up? You good?","source":"live"}
+{"id":"0be2acf409bc1eab","ts":1785448419149,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Can you hear me?","source":"live"}
+{"id":"cd4fbb258e56e576","ts":1785448426793,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"What the fuck?","source":"live"}
+{"id":"ff6870fc52b2b9ee","ts":1785448480779,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hey Claude, can you hear me?","source":"live"}
+{"id":"44501ec8c2b3cb83","ts":1785448498652,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"a4088f3a6d971ef1","ts":1785448505878,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, can you hear me now?","source":"live"}
+{"id":"0230c40791b9e60d","ts":1785448544052,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Welcome, welcome, welcome, sir. You'll go over here. There's like a video tab over here. That's the thing you need.","source":"live"}
+{"id":"488028c579823ce5","ts":1785448563526,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, there you go. Getting close.","source":"live"}
+{"id":"adb5d2a57b3d3ca8","ts":1785448565949,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"⏱️ austingriffith.eth started a countdown","source":"live","kind":"clock"}
+{"id":"76d3a22ca2f98adb","ts":1785448567465,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Start the timer. I'm gonna assume we're good to go.","source":"live"}
+{"id":"13f69e01bbbebcd9","ts":1785448574560,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I'm gonna kick us off live. Like, no one can see us. We're gonna be backstage. You got time to click around.","source":"live"}
+{"id":"24d1f7c523e8ad0c","ts":1785448647547,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Pop","source":"live","kind":"music","meta":{"genre":"pop"}}
+{"id":"5590fdbe8905eeeb","ts":1785448648316,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Rock","source":"live","kind":"music","meta":{"genre":"rock"}}
+{"id":"2787b427b34cf5fc","ts":1785448649477,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Electronic","source":"live","kind":"music","meta":{"genre":"electronic"}}
+{"id":"8b2ad1a56850608c","ts":1785448804099,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Dance","source":"live","kind":"music","meta":{"genre":"dance"}}
+{"id":"cb347841fb8f4fb9","ts":1785448808581,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Country","source":"live","kind":"music","meta":{"genre":"country"}}
+{"id":"27d6ce4bcb8dfcf3","ts":1785448816612,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Indie","source":"live","kind":"music","meta":{"genre":"indie"}}
+{"id":"aed9b39c7f14254d","ts":1785448831775,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Hip-Hop","source":"live","kind":"music","meta":{"genre":"hiphop"}}
+{"id":"c6d0c3a18acc4440","ts":1785448833898,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Electronic","source":"live","kind":"music","meta":{"genre":"electronic"}}
+{"id":"a59c9bad82977996","ts":1785448841296,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Rock","source":"live","kind":"music","meta":{"genre":"rock"}}
+{"id":"7314ba686e0be3f2","ts":1785448847899,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 played track #1","source":"live","kind":"music","meta":{"src":"/jamendo-music/rock/2331461.mp3","index":0,"playing":true}}
+{"id":"25ea0b9f6fe58fff","ts":1785448851754,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 switched the music to Electronic","source":"live","kind":"music","meta":{"genre":"electronic"}}
+{"id":"6afbf74068796095","ts":1785448853689,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🎵 Anon7702 played track #1","source":"live","kind":"music","meta":{"src":"/jamendo-music/electronic/2330925.mp3","index":0,"playing":true}}
+{"id":"03de301df653fe94","ts":1785448989743,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"⏱️ austingriffith.eth started a countdown","source":"live","kind":"clock"}
+{"id":"a8019da40e5ad39d","ts":1785449055212,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Sure","source":"live"}
+{"id":"36dd9a34c321f68f","ts":1785449059532,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Alright, alright, we are live! What's up, what's up, what's up?","source":"live"}
+{"id":"8c71e9d4898ba863","ts":1785449062116,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What's up man?","source":"live"}
+{"id":"5df1b03dd567ee89","ts":1785449063804,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Good to be here.","source":"live"}
+{"id":"2699f76827a149df","ts":1785449064201,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Lord of a few, the loaf, how you living?","source":"live"}
+{"id":"e7cbd1148ee512bd","ts":1785449065229,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Haha","source":"live"}
+{"id":"0401b9917896a1ae","ts":1785449065578,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"⏸️ austingriffith.eth paused the music","source":"live","kind":"music","meta":{"src":"/jamendo-music/electronic/2330829.mp3","index":1,"playing":false}}
+{"id":"12bb6212fed9d46e","ts":1785449070208,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Good, man. It's morning here, a few double espressos in, ready to get cooking.","source":"live"}
+{"id":"f3afa0a0ce97decf","ts":1785449070472,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, yes","source":"live"}
+{"id":"c77991ba753dc141","ts":1785449074469,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's like you might be on the other side of the world, judging by your accent.","source":"live"}
+{"id":"870ea18cd381db04","ts":1785449077412,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Nice.","source":"live"}
+{"id":"99416be82c253b1d","ts":1785449079296,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I'm deep in the land down under.","source":"live"}
+{"id":"32898e7436f633c9","ts":1785449081310,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Sweet","source":"live"}
+{"id":"b642b3220f6e3a4f","ts":1785449088252,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Looks like you've already pulled up task market.","source":"live"}
+{"id":"9d533cd978d3b7f7","ts":1785449094038,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I was saying how well we could embed the website inside the slot computer.","source":"live"}
+{"id":"9bde1549e8c50172","ts":1785449098963,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Oh, yeah","source":"live"}
+{"id":"6785e795b20e9e97","ts":1785449101184,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, we're in the slot.","source":"live"}
+{"id":"2e7d743cca5d073b","ts":1785449103325,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"things that you bring up","source":"live"}
+{"id":"702ba1a7c071c597","ts":1785449104802,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"###","source":"live"}
+{"id":"7ebfcedbe5298e41","ts":1785449106964,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Nicole","source":"live"}
+{"id":"aea10bfef945830d","ts":1785449109548,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's kind of extra weird.","source":"live"}
+{"id":"05738f2bddb80f8f","ts":1785449112319,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"713ad0ba1acf3c34","ts":1785449112851,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"7540e07c0f4cc525","ts":1785449115090,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think this is good. This is like a multiplayer browser.","source":"live"}
+{"id":"e6fbfcc399835f9f","ts":1785449116644,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"with wallets connected","source":"live"}
+{"id":"ead01a3e3266fa1d","ts":1785449117782,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"With both","source":"live"}
+{"id":"a207723d5465e355","ts":1785449124202,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's a multiplayer dapp. Yeah, you could click a button and it would propose a transaction in my wallet.","source":"live"}
+{"id":"34068e94c41c8d28","ts":1785449125723,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah,","source":"live"}
+{"id":"b3b3453516cb8c8b","ts":1785449125857,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's how.","source":"live"}
+{"id":"d19172389856a19b","ts":1785449127606,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"...deep in the slop we are.","source":"live"}
+{"id":"f63935152ca85c68","ts":1785449136453,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, that's cool. We can actually do stuff inside of this. I pulled this off because we literally just launched this officially yesterday.","source":"live"}
+{"id":"cc237b46bfbe3dde","ts":1785449137955,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and","source":"live"}
+{"id":"4303658e11e7659e","ts":1785449144895,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hell yeah.","source":"live"}
+{"id":"4430b2eddcc9cc50","ts":1785449146743,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Something that we've been working on for a while,","source":"live"}
+{"id":"b5b6026159475709","ts":1785449149855,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's","source":"live"}
+{"id":"0a600196a5cc82ca","ts":1785449151406,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You're the captain, you're steering the boat. I'm in the back drinking some champagne. Let's go.","source":"live"}
+{"id":"4f71105a50d528b9","ts":1785449152823,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hahaha","source":"live"}
+{"id":"bece0371cf3c0194","ts":1785449153204,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, well I","source":"live"}
+{"id":"238e7b315c9f4dc1","ts":1785449155019,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"9fc442163314073c","ts":1785449159822,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I published an article back in December.","source":"live"}
+{"id":"1ba0f9dfe939255f","ts":1785449164393,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's pinned on my ex","source":"live"}
+{"id":"dc820c6a4ed536d1","ts":1785449179163,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We've been pushing on agenda comments for 12 months ever since export 2 appeared.","source":"live"}
+{"id":"559587be412414cf","ts":1785449180776,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and build","source":"live"}
+{"id":"9b21b64c58840a09","ts":1785449182543,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"product that","source":"live"}
+{"id":"93a07bdfe0f73912","ts":1785449189380,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"agents but also allows unknown counterparties","source":"live"}
+{"id":"966ba6ca0c838aa7","ts":1785449191188,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"earn","source":"live"}
+{"id":"dc5da831f614dd8c","ts":1785449204594,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"279c2454f8003da9","ts":1785449205675,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The task market does, in a one-liner, is that it converts AI credits into cash,","source":"live"}
+{"id":"2e379a99f5901133","ts":1785449210608,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"...allowing people to compete in a market to complete tasks that other people put up.","source":"live"}
+{"id":"004bb497754f33ff","ts":1785449211701,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"a0094aca8f6b4c22","ts":1785449215045,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So why I think this is interesting","source":"live"}
+{"id":"289a49da98ce969f","ts":1785449225994,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"is that we all do our work through agents these days","source":"live"}
+{"id":"e2f449e5a65137fc","ts":1785449227568,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"20f0d988d14fdda8","ts":1785449228524,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The ball knowers know.","source":"live"}
+{"id":"b272b585bfbacfe3","ts":1785449241592,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Exactly.","source":"live"}
+{"id":"8c3593de7d62c1e5","ts":1785449242897,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think there's only like 50 million people that have Claude or Codex installed.","source":"live"}
+{"id":"c18176cdd1628d6f","ts":1785449243186,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"bf2e898d16c8c7dc","ts":1785449256563,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"people that have chatGPT installed","source":"live"}
+{"id":"0426b6dcc5ed4cb8","ts":1785449260954,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And that is what's going to accelerate over the next 24 months","source":"live"}
+{"id":"e644d712d8584a2f","ts":1785449265117,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And everyone's going to be doing all of their work for agents.","source":"live"}
+{"id":"c22c4bd846b48dce","ts":1785449279639,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I am really good at doing my work through my clonal codex, whatever that is, whether it's knowledge work or coding or graphic design or whatever, which is what everyone will be doing, how can I monetize my skills and sell it to","source":"live"}
+{"id":"ee41abcb8c9b8e95","ts":1785449281650,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"somebody else on the other side of the world","source":"live"}
+{"id":"b44dcf91468d5895","ts":1785449282757,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And","source":"live"}
+{"id":"7ce1f3e1d56042e4","ts":1785449293633,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's what we're trying to achieve in the Task Market.","source":"live"}
+{"id":"628a5ba6a9ec8e48","ts":1785449306373,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And in the background, the way this works is we actually have our own ERCs, which we've defined and published.","source":"live"}
+{"id":"1d3cfd7613268acc","ts":1785449307241,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"029c0ca329f25cf2","ts":1785449312448,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"M14891","source":"live"}
+{"id":"467a510b8e5e597e","ts":1785449315055,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"899a8f45610e3028","ts":1785449317716,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Let's just go into it.","source":"live"}
+{"id":"4425168861227c97","ts":1785449318814,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"5959b46edeb439a7","ts":1785449330044,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So, yeah, we've actually designed our own protocols for this","source":"live"}
+{"id":"b0e422ee0d618051","ts":1785449331489,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"a99cd687f238e006","ts":1785449336927,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, I think so. I think this is a show about slop operators for slop operators","source":"live"}
+{"id":"1f2e395e921d1667","ts":1785449339131,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's great.","source":"live"}
+{"id":"89e111cb697ccfca","ts":1785449344561,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Well, we went straight into the technical side,","source":"live"}
+{"id":"08ba8bb9021112e9","ts":1785449350328,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Inside of the task market, we use 8195 for escrow.","source":"live"}
+{"id":"88fa05232043ef3d","ts":1785449364907,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's called the task market protocol (TMP)","source":"live"}
+{"id":"aeafc44e957dd621","ts":1785449372198,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And there's also a 0.","source":"live"}
+{"id":"93926ef6d2552c30","ts":1785449373963,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b7bf3f8df2caf92d","ts":1785449376042,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"b1682ffdba599dea","ts":1785449377524,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"9ebfb8dcfceb94d2","ts":1785449380622,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"f9dd1fd97b08dcfc","ts":1785449383502,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"2fefb7fe279ece36","ts":1785449383736,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"kind of a on-chain registry of reputation for the agents and humans. So we're actually using it for humans and agents","source":"live"}
+{"id":"5f4e10fc49dbba18","ts":1785449389984,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It could be both. And so that's what works under the hood.","source":"live"}
+{"id":"41e44be3363b506d","ts":1785449397900,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"These are tasks that have been put up,","source":"live"}
+{"id":"1299c9d27788a986","ts":1785449403400,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"75e67676e02695f8","ts":1785449407793,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There's a kind of public task right now that people are competing on.","source":"live"}
+{"id":"ead46e583097ad2a","ts":1785449420075,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So, you know, some of these are just images.","source":"live"}
+{"id":"943ab6d0eec12c52","ts":1785449421816,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so","source":"live"}
+{"id":"5577713134e5e84c","ts":1785449424112,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh, that's a shitload.","source":"live"}
+{"id":"39e0a139e64acc45","ts":1785449424283,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's pretty crazy.","source":"live"}
+{"id":"1c2705d1806be4e6","ts":1785449425066,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"89e43717a442d49b","ts":1785449426927,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's crazy.","source":"live"}
+{"id":"1ae4697fd6fa0294","ts":1785449428939,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so what's the task here?","source":"live"}
+{"id":"33d793a08eaba9ed","ts":1785449431469,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So this task was","source":"live"}
+{"id":"43c82775de5233f2","ts":1785449433508,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"This is the task.","source":"live"}
+{"id":"b8e39107ac1e592f","ts":1785449435204,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's","source":"live"}
+{"id":"6a7ddcf79bf0c704","ts":1785449439533,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Okay, so there's quite a wall of text here.","source":"live"}
+{"id":"855e85c92d4ae3d5","ts":1785449442284,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's interesting","source":"live"}
+{"id":"7bfb3d0b1a5765f0","ts":1785449442480,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Which agents are good at.","source":"live"}
+{"id":"1f52d2b2bdd8976b","ts":1785449456872,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"When you're posting a task, you want to be specific to the agent.","source":"live"}
+{"id":"983124866d381374","ts":1785449458419,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"fd2f48c3b4c3e634","ts":1785449459774,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So um","source":"live"}
+{"id":"c1e58261d3e40c5d","ts":1785449462863,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There's 170 tasks","source":"live"}
+{"id":"83822d556fa9246c","ts":1785449468796,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"When did this go live?","source":"live"}
+{"id":"6189e5e2e8beb424","ts":1785449470605,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So","source":"live"}
+{"id":"718dce17c2933792","ts":1785449482241,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's pretty crazy, like you kind of have this access to all this latent compute in the form of agents that will come and try to complete your task.","source":"live"}
+{"id":"080f7d13bd42bc5e","ts":1785449483022,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"1099d0e13fd05491","ts":1785449487903,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So I did a bunch of","source":"live"}
+{"id":"7f2e0e1a2037f17d","ts":1785449489719,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"is a","source":"live"}
+{"id":"7b6329526072cad8","ts":1785449492998,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It keeps refreshing for some reason.","source":"live"}
+{"id":"f36cd03a65277ea4","ts":1785449495175,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Are you clicking that","source":"live"}
+{"id":"07d46b1b4faf0122","ts":1785449498410,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I","source":"live"}
+{"id":"1c22d63cbd5aa234","ts":1785449501799,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, it could be just bugging out a little bit.","source":"live"}
+{"id":"66f3516d447339dd","ts":1785449507627,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"No, it's not me, but it's like this is out on another machine on the cloud.","source":"live"}
+{"id":"7a42cf7543cb5f0b","ts":1785449508034,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Probably a little buggy.","source":"live"}
+{"id":"6f4c2de3ea20dc6a","ts":1785449522091,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, anyway, we get the idea here.","source":"live"}
+{"id":"71f17a1cc0a04c21","ts":1785449522944,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"fc9a642f84bd7826","ts":1785449529407,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I don't know if we could publish one directly through here.","source":"live"}
+{"id":"5e7184794bad1278","ts":1785449531765,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b29b64612f028f54","ts":1785449535061,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We could probably sign in.","source":"live"}
+{"id":"e14e31ca2f39e2e1","ts":1785449537397,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Oh really?","source":"live"}
+{"id":"12cd51853de28c6d","ts":1785449540503,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It would use my wallet.","source":"live"}
+{"id":"4b6ceaf66302563c","ts":1785449543441,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, yeah.","source":"live"}
+{"id":"27788f5204ba3d4e","ts":1785449543445,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You connect.","source":"live"}
+{"id":"6b66723be4c4c353","ts":1785449546328,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I mean, you can click it.","source":"live"}
+{"id":"ea7ac414352f9bbb","ts":1785449548515,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Which wallet?","source":"live"}
+{"id":"5977f1629aa947ad","ts":1785449552362,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me see, I've got my daily driver here connected.","source":"live"}
+{"id":"e567867a5a5ee223","ts":1785449557882,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Did it trigger when you","source":"live"}
+{"id":"0b538bea7443e7ff","ts":1785449563572,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Here, here we go. Let's try my rainbow. Let's see if it works. No. Damn.","source":"live"}
+{"id":"e79d92d30a5ca68e","ts":1785449568287,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Why wouldn't that?","source":"live"}
+{"id":"e8d6b480e39bdc80","ts":1785449571850,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think we just need to do the browser one,","source":"live"}
+{"id":"65e97b0b62af08f4","ts":1785449577019,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, yeah, yeah. I could even like share my screen.","source":"live"}
+{"id":"b6899dd4cbb55f05","ts":1785449582158,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let's do this.","source":"live"}
+{"id":"edcff199c70d926e","ts":1785449583862,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There we go. It might be some weird quirk.","source":"live"}
+{"id":"3910bca07dab4dc0","ts":1785449585675,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"going on","source":"live"}
+{"id":"7985b783c1bae0af","ts":1785449587873,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, it probably is. Here we go.","source":"live"}
+{"id":"6b6cfc0f090b2129","ts":1785449594182,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"65e068f40bc1e5df","ts":1785449597305,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Alright, I'm in. Here we go.","source":"live"}
+{"id":"642a2b8e0650e322","ts":1785449599330,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"can go live","source":"live"}
+{"id":"a297c734ae250d1f","ts":1785449601602,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Let me retweet that.","source":"live"}
+{"id":"fdc8b6e3863019e4","ts":1785449607260,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You have to have like the stream going?","source":"live"}
+{"id":"694c59f31cd40dc4","ts":1785449612505,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Did you just share it?","source":"live"}
+{"id":"b6aad341ca6fe226","ts":1785449618028,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I got it.","source":"live"}
+{"id":"9ec8796e9cedf795","ts":1785449619590,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, I commented on the thing.","source":"live"}
+{"id":"5939904d07fe7334","ts":1785449622600,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"and Twitter","source":"live"}
+{"id":"dd6c5f1ee528d94e","ts":1785449630486,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Nine out of ten times, because you can schedule it.","source":"live"}
+{"id":"6eba7fece5749f98","ts":1785449630955,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"ac916c860fa26a33","ts":1785449632772,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"50c6d38196ac22e7","ts":1785449634673,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"fbd100535a718400","ts":1785449638151,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"660eacbed02b92ce","ts":1785449640192,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"e12120a91a13b264","ts":1785449640758,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So it's this one. Yeah, it looks like you retweeted it. Someone retweeted it. Good work.","source":"live"}
+{"id":"76c708c92d0aa013","ts":1785449645709,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"task. I'm here","source":"live"}
+{"id":"75a70697e4a3bbd4","ts":1785449649470,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me get my wallet connected here","source":"live"}
+{"id":"4af718a61826a1f6","ts":1785449653088,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I got it.","source":"live"}
+{"id":"2c17d0e38bfd56cd","ts":1785449655376,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Got it.","source":"live"}
+{"id":"4630a7a27c154918","ts":1785449663429,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You just need like a couple bucks or something. I mean, the best way to do this is like go into your like cloud or something and let's do like a game clone.","source":"live"}
+{"id":"6036c77d3d0cc732","ts":1785449670623,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"coolest thing, be like, let's create an enclosed HTML.","source":"live"}
+{"id":"20174f3ae47ccbb0","ts":1785449671804,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"custom","source":"live"}
+{"id":"90a43e0791509cd8","ts":1785449672365,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"create a clone of","source":"live"}
+{"id":"19df8108e9fed95c","ts":1785449673709,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"costume","source":"live"}
+{"id":"f2b76fa59d39b5e9","ts":1785449674417,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"81f8626f0cd56c6c","ts":1785449677811,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're just going to have to go write the brief","source":"live"}
+{"id":"9ace3809ebda7c75","ts":1785449686696,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"e65143dbf2339ce8","ts":1785449690198,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're just going to","source":"live"}
+{"id":"0368bc6b15dea8f1","ts":1785449691287,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a","source":"live"}
+{"id":"558e2b34d0cdde88","ts":1785449693340,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Or we could just...","source":"live"}
+{"id":"06125c87a0dcde58","ts":1785449698961,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Here we go,","source":"live"}
+{"id":"c560fbf0be396f8f","ts":1785449702606,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Three-hole putt-putt game HTML","source":"live"}
+{"id":"06c53ccb735aaffc","ts":1785449706322,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, say like a single page HTML.","source":"live"}
+{"id":"da539d3a4a49615c","ts":1785449711877,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So then it just tells the agent just to return just a pure HTML file.","source":"live"}
+{"id":"0fb63b6014974ed0","ts":1785449718265,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"8881ba78312e4998","ts":1785449722881,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I think this is broad enough.","source":"live"}
+{"id":"44566875a868f5c9","ts":1785449728064,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"you know, harness a different skill.","source":"live"}
+{"id":"926253849405e781","ts":1785449730958,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"92474abea74fcb93","ts":1785449735689,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You feeling good on this? $1","source":"live"}
+{"id":"c3047f1ca97f44ae","ts":1785449737832,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"5728cc2394e11004","ts":1785449739309,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, let's see what it comes back with.","source":"live"}
+{"id":"9b83c386fe50cdbb","ts":1785449741817,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"What's the drop?","source":"live"}
+{"id":"8387ad69e5fd6fd6","ts":1785449744336,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"No doubt.","source":"live"}
+{"id":"f0a99d9a6f36b2fe","ts":1785449749845,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"eaf20ccbec248ef7","ts":1785449750276,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The task drops kind of like something if you want to do like a theme of like ten different tasks at once","source":"live"}
+{"id":"f9d1325fb184bf99","ts":1785449753035,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But we're not going to do that.","source":"live"}
+{"id":"da4a24eb08b2ec03","ts":1785449757734,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Sure","source":"live"}
+{"id":"f24ef44868724eff","ts":1785449761746,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Reward one USDC, you have one hour to complete it. Make me a top-down putt-putt game, fund and publish. Let's go.","source":"live"}
+{"id":"4c9b46fd61bc4d38","ts":1785449763876,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There should be a total gap.","source":"live"}
+{"id":"cf0d7b43ca171253","ts":1785449766119,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So my wallet pops up, I pay my one dollar","source":"live"}
+{"id":"1ea84dd0968860e9","ts":1785449768211,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"c661d4e00e97db22","ts":1785449768749,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Sign without reading?","source":"live"}
+{"id":"f31b9810ad88baba","ts":1785449769752,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Here we go.","source":"live"}
+{"id":"4fbbb8196b16fd66","ts":1785449771340,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"how we got","source":"live"}
+{"id":"a56473fc08efaa83","ts":1785449779955,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oops.","source":"live"}
+{"id":"9188e9a53b8e39a2","ts":1785449782084,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're cooking. So we'll see how long.","source":"live"}
+{"id":"724a0271386c464c","ts":1785449786519,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There's 255 active agents in the past week.","source":"live"}
+{"id":"115b896f9f6d28a4","ts":1785449787883,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hello.","source":"live"}
+{"id":"9a22e1962ffd3465","ts":1785449790979,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So we'll see how many are watching the market right now.","source":"live"}
+{"id":"590df0fea56a61aa","ts":1785449791876,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah,","source":"live"}
+{"id":"7dfa4a7f5a1a770a","ts":1785449792605,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"84fa9c098886ac4b","ts":1785449793997,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But yeah","source":"live"}
+{"id":"1f7adf24486911dd","ts":1785449798941,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So we're just waiting for someone to pick up the task, and we'll see something here when they do that.","source":"live"}
+{"id":"67fc2461eca91943","ts":1785449801167,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"66093745916a9541","ts":1785449802347,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, yeah.","source":"live"}
+{"id":"44143f1dcf7ae9ec","ts":1785449804505,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Tell me about dreams. What are dreams?","source":"live"}
+{"id":"ff6f98e5cf2e5c5e","ts":1785449810445,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So Dreams is the token of Daydreams.","source":"live"}
+{"id":"ae6964a57c91cb9c","ts":1785449812541,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"of.","source":"live"}
+{"id":"6d7c5ddf45bab0ff","ts":1785449813361,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's called Task Market?","source":"live"}
+{"id":"75391c44e070527f","ts":1785449817569,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's the product, but it's created by the daydreams","source":"live"}
+{"id":"800ab5d6e81a869f","ts":1785449817590,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"6f1665d04acdc335","ts":1785449820979,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"45a71119ae90152a","ts":1785449822921,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But dreams is","source":"live"}
+{"id":"83d20ff250463374","ts":1785449826951,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What happens is there's a bonus","source":"live"}
+{"id":"20efdee4b00def27","ts":1785449841532,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Workers get paid in Dreams and Submitters get paid in Dreams as well.","source":"live"}
+{"id":"8f0f40b63b442fc6","ts":1785449845239,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"be part of the platform until it starts cooking","source":"live"}
+{"id":"c3246100d174de0c","ts":1785449847319,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Tell me about cycle attacks.","source":"live"}
+{"id":"c1e62a04c73284a5","ts":1785449853656,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, of course.","source":"live"}
+{"id":"3c36c996915336ef","ts":1785449861991,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, well, you have to expect these things.","source":"live"}
+{"id":"3e20f3a266a6e3f7","ts":1785449876150,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"be the most fair to the people that actually are contributing to the platform.","source":"live"}
+{"id":"8aa1d76241b71447","ts":1785449877344,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript.","source":"live"}
+{"id":"279d00f78c4760ff","ts":1785449880418,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"sending their own money to themselves to get the token","source":"live"}
+{"id":"9794a0a47ac5e922","ts":1785449884779,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"4b4058273a1e15a2","ts":1785449891474,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, yeah. But they lose the fee, there's also a 7.5% platform fee that happens on tasks, so they would still lose that fee and the amount is relative to that fee.","source":"live"}
+{"id":"72e6a2a58bd07a9d","ts":1785449892306,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b15b6eccd86dd099","ts":1785449892676,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"26b464838dd3b538","ts":1785449895401,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And","source":"live"}
+{"id":"04ef28c5ca95c0cb","ts":1785449898466,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So not really winning, but people still do it.","source":"live"}
+{"id":"2de5fb3537381abe","ts":1785449903498,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"246979db9ffef1af","ts":1785449904576,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"On the other side, if I want this guy here, ClaudeBot, to start working and doing tasks","source":"live"}
+{"id":"d764228cf516c596","ts":1785449907662,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so there's a scale file","source":"live"}
+{"id":"af5d9d3fef42ab15","ts":1785449909361,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me go find it.","source":"live"}
+{"id":"f27972f8d9914c3c","ts":1785449910995,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Drop him the skill up the top. So there's a skill button at the top right.","source":"live"}
+{"id":"0ce34f03b56ec9f6","ts":1785449911934,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a","source":"live"}
+{"id":"72730fa7faf27eb5","ts":1785449912345,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"skill","source":"live"}
+{"id":"3216b8da96b648e1","ts":1785449915145,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So you can do MPXkill.","source":"live"}
+{"id":"f20836a8ca523aa4","ts":1785449917366,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I want an MPXL.","source":"live"}
+{"id":"261b823f80018fc3","ts":1785449920338,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Just kill him.","source":"live"}
+{"id":"c419ccf7c131168d","ts":1785449921854,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I want to like run a command on my machine","source":"live"}
+{"id":"6a6c6b82e2ee8f7a","ts":1785449922877,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"14fa81b932239248","ts":1785449938765,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so drop it to him and just check the market every 10 minutes.","source":"live"}
+{"id":"d05b69ca8f299434","ts":1785449940898,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Task ID","source":"live"}
+{"id":"eb8603432a93c3bd","ts":1785449942911,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And he'll try to submit to it.","source":"live"}
+{"id":"1bb6f54cf5af2fd9","ts":1785449946761,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He's going to try to complete your own TOS that you made.","source":"live"}
+{"id":"2680535dcec23f8a","ts":1785449953483,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"6faf4eefeac2ce12","ts":1785449954763,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"He's working on it. He can even talk out loud when he finds something.","source":"live"}
+{"id":"90a39998786d596e","ts":1785449956408,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Ok, so","source":"live"}
+{"id":"af406b9cf81081a3","ts":1785449957111,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah cool.","source":"live"}
+{"id":"ab3854d4f03583b1","ts":1785449962746,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Great, so this is great, this is a great demo. Let's rewind a little bit","source":"live"}
+{"id":"5421784bb914945b","ts":1785449965348,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We just did the full end to end","source":"live"}
+{"id":"e92f097805f88618","ts":1785449970424,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, yes, yes. And like maybe my agent is going to do the job and I'm going to pay myself and farm some dream, too.","source":"live"}
+{"id":"6f1da6774f4fc54b","ts":1785449971826,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly. Yeah, exactly, yeah.","source":"live"}
+{"id":"6f214850b68bf1aa","ts":1785449980775,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Ok, let's rewind. I think the first time I ran into you was during the x4o2 hackathon, is that right? Did you do the x4o2 hackathon around Christmas time?","source":"live"}
+{"id":"349d932ef9b58414","ts":1785449982710,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"71b266d95f37affc","ts":1785449982932,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I can't remember if that was you or not.","source":"live"}
+{"id":"27c7ac79545c174e","ts":1785449986238,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It'd be like","source":"live"}
+{"id":"35317719939b83c2","ts":1785449988167,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I mean, I've done so many hackathons in the past.","source":"live"}
+{"id":"1dcfc90361f56911","ts":1785449995121,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"late December, like mid-December, we did x402hackathon.com or something like that","source":"live"}
+{"id":"a0a7d78fbe0ace58","ts":1785449997702,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Maybe, but it doesn't ring a bell.","source":"live"}
+{"id":"43adcb20fc72f110","ts":1785449998796,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"6eda865fdc3cd706","ts":1785450004237,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Ok","source":"live"}
+{"id":"f1e1dffc22c426a9","ts":1785450007031,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I don't think I did that one, but I think we've run into each other","source":"live"}
+{"id":"78867bb86fe6084a","ts":1785450008135,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"2420a46d0b04c7ce","ts":1785450012781,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"9f0a2a9f83c8b21c","ts":1785450018731,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh yeah.","source":"live"}
+{"id":"06f555ae7cf4809c","ts":1785450020552,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, scooped on each other's work in the last few years.","source":"live"}
+{"id":"94cb88f97c9bf8f3","ts":1785450026073,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's all a blur, man. And I'm sober now too, and it's even still a blur. Even when I'm sober, it's crazy.","source":"live"}
+{"id":"1233859fb0dc474d","ts":1785450027719,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"[laughs].","source":"live"}
+{"id":"1896d80ff47fc6e7","ts":1785450028853,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"7194c3a33523b5d4","ts":1785450031336,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So, what's your journey?","source":"live"}
+{"id":"075aab6d89ecf830","ts":1785450037848,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"into building products, into crypto, into building with AI. Give us something.","source":"live"}
+{"id":"4e336411a5ea4f58","ts":1785450042977,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, so I'm a longtime engineer.","source":"live"}
+{"id":"b674695bfc0c8b0d","ts":1785450047120,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And I've been a long time","source":"live"}
+{"id":"ae4ce7ed05219135","ts":1785450061667,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and building, but it wasn't really until","source":"live"}
+{"id":"3ab1043bad62dadb","ts":1785450064533,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You know, more intensive.","source":"live"}
+{"id":"efaa88144367be02","ts":1785450079688,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And really go all in to a degree in building in the space, because that was around the time of DeFi summer,","source":"live"}
+{"id":"cdd8a98ee8051cb6","ts":1785450083553,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so that kind of pulled me in.","source":"live"}
+{"id":"0c2583f39d681361","ts":1785450094723,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and so I was fooling around for a little bit and then, as you probably know, I spent a lot of time building fully on-chain games on StarkNet","source":"live"}
+{"id":"4caa49aff6d70004","ts":1785450108574,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"new entertainment delivery method,","source":"live"}
+{"id":"fa68f7745dc8f29f","ts":1785450109875,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"118d47a3b3d7fb8e","ts":1785450122691,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"overfunding is some of the worst things that can happen to industries","source":"live"}
+{"id":"365bc8888536be33","ts":1785450136927,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"They're just trying to farm the liquidity from the market in a sense, and that's really what's happened.","source":"live"}
+{"id":"b7651a3c405a76fb","ts":1785450138179,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Because","source":"live"}
+{"id":"ab959aeabeac7971","ts":1785450139385,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"eaa1c9a9429bef25","ts":1785450145012,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think crypto gaming was trying to be like traditional gaming.","source":"live"}
+{"id":"7e36d15ee01f8374","ts":1785450153865,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But that's a lost cause. It's never going to compete against GTA.","source":"live"}
+{"id":"5ca24cbe6cd5c139","ts":1785450154848,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"92980856c888af03","ts":1785450155037,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"90b3106ac919fd52","ts":1785450157762,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Look at this.","source":"live"}
+{"id":"1ac5eb02eaab5e4d","ts":1785450159288,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Look at that!","source":"live"}
+{"id":"b0fcf67a04d3e259","ts":1785450159306,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Not bad, not bad.","source":"live"}
+{"id":"aff44fbd92f955a7","ts":1785450160560,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Here we go","source":"live"}
+{"id":"fa14e6b062c54a13","ts":1785450162295,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's freaking great! I'm playing putt-putt.","source":"live"}
+{"id":"2afee931a2aaf3c5","ts":1785450164175,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"81b68cf7ce2ae5ed","ts":1785450164605,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It made me a poppycock game.","source":"live"}
+{"id":"24c7be24c4840935","ts":1785450166216,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, sick.","source":"live"}
+{"id":"c82bf47855436db4","ts":1785450168208,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"e41f280ab4466cb2","ts":1785450168393,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Whoa!","source":"live"}
+{"id":"329ade43242c98a6","ts":1785450169627,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"###","source":"live"}
+{"id":"bc54448669df801a","ts":1785450171748,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Is it working?","source":"live"}
+{"id":"7e968d4b68abf2d8","ts":1785450173850,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"d2f1900c3e4e4c36","ts":1785450174274,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Maybe it's a speed thing.","source":"live"}
+{"id":"f037a87b1623c54b","ts":1785450175021,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"f061b852612b2b8a","ts":1785450180215,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, too fast. The greens are quick.","source":"live"}
+{"id":"f2a0dfc3bf0ba291","ts":1785450183775,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"These are fast greens. Who mowed these things?","source":"live"}
+{"id":"4d276d5c628d0239","ts":1785450184953,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"###","source":"live"}
+{"id":"09fbb27abf49a104","ts":1785450187355,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Are you a golfer?","source":"live"}
+{"id":"4b5f50538cba36bf","ts":1785450191160,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"There we go!","source":"live"}
+{"id":"d1808084111d707e","ts":1785450192559,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"a3c4bfd0b89e122f","ts":1785450194398,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I... Well, I was.","source":"live"}
+{"id":"5e4410c81d74ac00","ts":1785450200196,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"d7d8e26c071d3545","ts":1785450202046,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's funny that this looks so much like the putt-putt game in Slopcomputer because I built it the exact same way, just, like, slopped it together.","source":"live"}
+{"id":"2d8805d7cf649851","ts":1785450204541,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like a super ambiguous","source":"live"}
+{"id":"0f9c17ed7117cc19","ts":1785450204592,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"0f8f5f53d1bb139f","ts":1785450206209,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"dcfcdc561be44360","ts":1785450209593,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I think my brother and I were like chillin' on a slow computer, and I was like,","source":"live"}
+{"id":"13bd00d260608199","ts":1785450214573,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"ff1f45c671a95495","ts":1785450217106,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"7c73adba911c457b","ts":1785450220591,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And it does this exact thing, like it puts up the little bars, it puts little sand traps...","source":"live"}
+{"id":"b8809154b96318d1","ts":1785450223909,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's like exactly the same.","source":"live"}
+{"id":"27bc76b324619b04","ts":1785450224822,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Not bad.","source":"live"}
+{"id":"928b70e0a19268fa","ts":1785450230675,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"2eb2846a6a9b4da7","ts":1785450233467,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What's up?","source":"live"}
+{"id":"9e315b7736ea1356","ts":1785450237005,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Look at how similar that is to this. I mean, we did some things with terrain and stuff, but it's basically the same.","source":"live"}
+{"id":"c7013d23420a76d7","ts":1785450239147,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like, is it a hype? Oh, cool.","source":"live"}
+{"id":"9314288fbe5b8046","ts":1785450241824,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, that's what, you're seeing that, oh.","source":"live"}
+{"id":"af1337fc531dfd1c","ts":1785450246195,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"sound effects.","source":"live"}
+{"id":"58ed55f995e5d2e8","ts":1785450248659,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Let's see","source":"live"}
+{"id":"4f62c031a84d53bb","ts":1785450249988,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"There we go. And there's some sound","source":"live"}
+{"id":"784031bc2721242b","ts":1785450260731,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"83e80de6edb19c30","ts":1785450261685,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"9fd9c781427880f7","ts":1785450263556,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"There we go.","source":"live"}
+{"id":"8970baca9d3878ce","ts":1785450264298,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, but see, what I do is I ask Opus or something to do a big spec, and then I drop the spec into the task description.","source":"live"}
+{"id":"7938a2ebd353bfe6","ts":1785450265940,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yep.","source":"live"}
+{"id":"a049bf972462c62d","ts":1785450267715,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"78b2f8640f89ba19","ts":1785450270451,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And then you'll get like a way better outfit.","source":"live"}
+{"id":"532a8a6a69bbb972","ts":1785450274728,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What you actually want","source":"live"}
+{"id":"766820f82f8bbf83","ts":1785450277382,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"For sure.","source":"live"}
+{"id":"2652cce63a80c16e","ts":1785450278362,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Give it a real good description.","source":"live"}
+{"id":"b529534341251db5","ts":1785450288095,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is definitely something I've learned from a lot of slop operators on slop computer as I've been interviewing them.","source":"live"}
+{"id":"bd762c58f5dda4da","ts":1785450289394,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"09c45a31359a01c4","ts":1785450292934,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"526d1689c821c074","ts":1785450294361,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The first phase is like, you need a good plan.","source":"live"}
+{"id":"127e4035d5e6e314","ts":1785450295491,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"dd579c03256a78d6","ts":1785450296354,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Planned for a long time.","source":"live"}
+{"id":"c80b645e8d39100d","ts":1785450304202,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, lots of files and plans until you get something that's really coherent, and then you send the agent and let it rip to go build.","source":"live"}
+{"id":"74beaeb98d1e2192","ts":1785450305743,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Then you let it rip.","source":"live"}
+{"id":"baa7a9e24c224f1f","ts":1785450309196,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And what you're saying is","source":"live"}
+{"id":"99efdf5670a647b1","ts":1785450316140,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You make the plan and then hand it to it and then it rips on the plan and you pay it the double for.","source":"live"}
+{"id":"e6e3365474f6daab","ts":1785450320089,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, exactly. We'll probably build that.","source":"live"}
+{"id":"1a9dd25fa5af7c5d","ts":1785450321137,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh man, bro, are these all","source":"live"}
+{"id":"700a711e8dab7e81","ts":1785450323734,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"They should.","source":"live"}
+{"id":"085e5d7d0e133e26","ts":1785450326852,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So what I have to like pick which one and then pay?","source":"live"}
+{"id":"a8b3b35c778233ce","ts":1785450329822,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, let's play them all.","source":"live"}
+{"id":"c37abfb0489abc62","ts":1785450331529,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"d5e71e3d76661b6c","ts":1785450332966,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"See which one's the best","source":"live"}
+{"id":"5df3866074399021","ts":1785450333495,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Ok, let's see.","source":"live"}
+{"id":"d42e89003b177899","ts":1785450336334,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"No.","source":"live"}
+{"id":"cc147b7138ddea6a","ts":1785450338211,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"e53d0ae3c9caf5cc","ts":1785450339557,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's pretty good, right? Does it work the same?","source":"live"}
+{"id":"316c20df5325eafc","ts":1785450340896,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"8f36e0e701fae948","ts":1785450342179,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Bit faster greens.","source":"live"}
+{"id":"05f9b6649431e2e4","ts":1785450347015,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so we got that one.","source":"live"}
+{"id":"720b4b19cffb1119","ts":1785450348859,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Hey, that was a bit fun.","source":"live"}
+{"id":"4ced4502524cc3d8","ts":1785450349343,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"1fbe827878bb697f","ts":1785450349457,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"8e349d5673562ddf","ts":1785450351454,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"What do we got here?","source":"live"}
+{"id":"a4d455fcde25ddac","ts":1785450352872,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Fuck it","source":"live"}
+{"id":"6fb26c3e3e64ab0c","ts":1785450365046,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"This is what I was saying before about the skills, right?","source":"live"}
+{"id":"dd4b7bb009331713","ts":1785450367699,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"They've got the secret sauce already.","source":"live"}
+{"id":"da0288c9d09d5b7b","ts":1785450369058,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"0ea3bc06e7ad38bf","ts":1785450381189,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Whenever I need to make a game, I should always put audio in, I should make it polished, I should do this","source":"live"}
+{"id":"407737b7f49b9269","ts":1785450381913,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"1e6d579c7e81e471","ts":1785450393151,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and that's what I was saying, like, that's like the future of work","source":"live"}
+{"id":"85bb1c462ca22879","ts":1785450407331,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"but like that would change","source":"live"}
+{"id":"cf45f800dc9674cb","ts":1785450419725,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"like gaming agent creator, so when people ask for a game, it creates something awesome and then they get paid.","source":"live"}
+{"id":"dbc6baec0add41f6","ts":1785450431833,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"No.","source":"live"}
+{"id":"98bb4f5da5ac469d","ts":1785450433835,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"but I don't think you'd be able to get this amount of outputs for the same amount of time.","source":"live"}
+{"id":"601290cf54cdd806","ts":1785450434330,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"75019ffa0a766262","ts":1785450437964,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"In theory, you should be able to get 100 outputs in the same amount of time it takes you to get one.","source":"live"}
+{"id":"5faf04faaa10f010","ts":1785450439188,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Parallel, yeah.","source":"live"}
+{"id":"7cbcb2f6b030c009","ts":1785450440287,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And you speak the best one.","source":"live"}
+{"id":"f73c50fbbf6ca508","ts":1785450441932,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly. So,","source":"live"}
+{"id":"dcf3da491f322ed2","ts":1785450442049,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So, okay, but","source":"live"}
+{"id":"38a755dd01eb0b8f","ts":1785450451684,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"5c55caeb96f794c4","ts":1785450453591,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is really inefficient for all of these things to be burning all these tokens","source":"live"}
+{"id":"0893b78330a120e4","ts":1785450466962,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Well, I mean, well that's, but this is the, okay, so this is actually, it's a good question.","source":"live"}
+{"id":"82eecada4bcd2015","ts":1785450481225,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're not quite there yet, but like we'll have another layer in the market that's like kind of like verify agents that you trust. So you'll build like maybe your Claude bot.","source":"live"}
+{"id":"0c8a033c09081e44","ts":1785450489740,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"actually verify the outputs of all these.","source":"live"}
+{"id":"7db046d2b1b4fa5f","ts":1785450490797,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Um","source":"live"}
+{"id":"4a5ec67e324b8cc5","ts":1785450493215,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"1a78402413127678","ts":1785450494908,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"even know what the best one is. They're all good.","source":"live"}
+{"id":"72e346302f61e012","ts":1785450497003,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You can actually split payment","source":"live"}
+{"id":"4b8e2f78b815b7ae","ts":1785450497056,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"3640f3fbd9b5927e","ts":1785450498160,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Like","source":"live"}
+{"id":"74e79a514674f13a","ts":1785450498448,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"dc85cced139674bb","ts":1785450500575,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I would","source":"live"}
+{"id":"d128aca9ce29f804","ts":1785450502138,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You can split payment to a few people.","source":"live"}
+{"id":"838a0c6ceb595b49","ts":1785450505286,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Give it an hour, see how many come through","source":"live"}
+{"id":"fbe5175a439cdd82","ts":1785450509257,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b438f40b52c6b039","ts":1785450510452,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"We're just going to keep farming our $1 putt-putt.","source":"live"}
+{"id":"d242e34e842f0f81","ts":1785450512787,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"bcf65e5dbafd0f38","ts":1785450512843,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We've got to melt the ice caps.","source":"live"}
+{"id":"32c2bd3889b421cc","ts":1785450513816,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"ha","source":"live"}
+{"id":"c80614a662aac7b3","ts":1785450514907,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"ee1409eb27df9100","ts":1785450519135,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"66c88a8d41048b3e","ts":1785450520375,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Most experienced worker, yes.","source":"live"}
+{"id":"007c5a8c8c569541","ts":1785450526800,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Alright","source":"live"}
+{"id":"6c5dc92f33320592","ts":1785450528553,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He's probably most experienced but like, you know, he's maybe not very experienced in games.","source":"live"}
+{"id":"5bb01d5cccbe6ae7","ts":1785450529153,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"f937a329428ced69","ts":1785450542445,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're kind of letting the features emerge from users on this as well.","source":"live"}
+{"id":"3f989ed74840fac9","ts":1785450544336,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I'm just going to","source":"live"}
+{"id":"0fc86a141c1c66a5","ts":1785450546607,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"35d775f47b8e28c1","ts":1785450549545,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Verification layer is a big thing.","source":"live"}
+{"id":"3f7e17a790dfa342","ts":1785450558424,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is painful watching me do this, I'm sorry.","source":"live"}
+{"id":"7de6662d790baf05","ts":1785450563956,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let's let it roll for a little bit,","source":"live"}
+{"id":"b7b34ae9004489ce","ts":1785450565052,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"f3e9199c016f3429","ts":1785450565282,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so","source":"live"}
+{"id":"2920d1d5be425dad","ts":1785450569274,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I think that, and I think a lot of people that I've talked to,","source":"live"}
+{"id":"d910e1c7ac722afb","ts":1785450571649,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"say that the","source":"live"}
+{"id":"d4e79db9b3578477","ts":1785450574425,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The hard part here is","source":"live"}
+{"id":"ee7bf30bcd4c2c9c","ts":1785450581375,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"e541f200a4ccff4c","ts":1785450589393,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"There's just not enough people that want to use this kind of stuff? How do you view -- like, what is the solution? How do we get more people using these kinds of services?","source":"live"}
+{"id":"e32da623cdff0089","ts":1785450597801,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me just stop there. I have more questions about this.","source":"live"}
+{"id":"5c9c91a53094c0e2","ts":1785450603527,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"bc844110a2556e3e","ts":1785450604898,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"1f72a7c0e77fb1a1","ts":1785450608762,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You obviously have lots of workers, but there's not enough people coming in here and hiring these workers.","source":"live"}
+{"id":"e30a688dfd4cda83","ts":1785450610425,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"c7af84ae1aa809ac","ts":1785450610976,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"How are you thinking about making that happen?","source":"live"}
+{"id":"914f3457148da8bb","ts":1785450625700,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, good question. You don't have the demand unless you have the supply. No one wants to come to a market where there's no supply","source":"live"}
+{"id":"7f16b46a09f54e4a","ts":1785450628375,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Supply to a market where there's no demand.","source":"live"}
+{"id":"ca4073f9fdd5aa73","ts":1785450631565,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"but I think what is interesting","source":"live"}
+{"id":"702bb10e77c9f354","ts":1785450643589,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"No, it's not human labor. Like you just need to go and store your skill to your agent.","source":"live"}
+{"id":"27434145caae7e65","ts":1785450646808,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Supply side.","source":"live"}
+{"id":"444cdbe7760c11cb","ts":1785450646959,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so I think once we have","source":"live"}
+{"id":"8fa9bcbb656c820e","ts":1785450655961,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Once we have a thousand agents or so,","source":"live"}
+{"id":"eae698c0816cfb2a","ts":1785450669262,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's like a huge amount of supply","source":"live"}
+{"id":"ff07c5f43d3a2aad","ts":1785450671177,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"11d602dffb27770e","ts":1785450675330,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"This is like, where is the initial consumer wedge that finds this really interesting?","source":"live"}
+{"id":"41098ec17b2ad477","ts":1785450686333,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"What's one","source":"live"}
+{"id":"58e2cae22ac42812","ts":1785450689138,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think initially there's a consumer side to this.","source":"live"}
+{"id":"70aa380b44316c93","ts":1785450691243,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"05695978ad1ba907","ts":1785450703269,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and so you can kind of turn it","source":"live"}
+{"id":"9100730862651858","ts":1785450717583,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and leverage the supply side of the market into your app","source":"live"}
+{"id":"d284f5479ebb771b","ts":1785450732066,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's actually open to build on. And so you can use the SDK","source":"live"}
+{"id":"79b181753ff660fe","ts":1785450734706,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Watch your market and the protocol.","source":"live"}
+{"id":"580b71cc3e53c945","ts":1785450748973,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think in the short term, it's more B2C style people.","source":"live"}
+{"id":"87b2e140d19f4674","ts":1785450763831,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and consumer focus. And then I think longer term, as the verification layer comes in","source":"live"}
+{"id":"77f2e82907918e5a","ts":1785450777969,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"audio generation is still a very tricky thing to do","source":"live"}
+{"id":"b2516bb7e23ece68","ts":1785450785251,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"you actually have to put a lot of time into it","source":"live"}
+{"id":"d1508f29acf003a3","ts":1785450799557,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I could probably spend two days literally trying to do that","source":"live"}
+{"id":"ee6468f317f9ccc1","ts":1785450807050,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, exactly.","source":"live"}
+{"id":"efc7098f6322c37f","ts":1785450813797,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and maybe that's like it, I'd probably pay like $100 for that task, to be honest.","source":"live"}
+{"id":"e83f7651bef5cab1","ts":1785450827973,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"so they're making $90 in profit based off that task","source":"live"}
+{"id":"6d757d973b26dfff","ts":1785450831103,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and we'll just keep pushing","source":"live"}
+{"id":"693efcbda4a3953d","ts":1785450840068,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"945f3085b834da9d","ts":1785450842382,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"but you can get an audit for a dollar","source":"live"}
+{"id":"eabc453123119331","ts":1785450856308,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"5d87b44b86cb8fef","ts":1785450856748,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's way too cheap for an audit. And that was kind of the point.","source":"live"}
+{"id":"2c21c77f7fb75d60","ts":1785450860599,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"coming here and actually","source":"live"}
+{"id":"04b573e5f1ad558f","ts":1785450867705,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Automated thing where agents hire agents or it's in part of a pipeline or something like that.","source":"live"}
+{"id":"adc5883ea591c158","ts":1785450873231,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, yeah, kind of.","source":"live"}
+{"id":"ab6dfe2da5e6f05d","ts":1785450874720,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"###","source":"live"}
+{"id":"aac294069c97d463","ts":1785450875812,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"4470e4ff14f4f28b","ts":1785450878542,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Maybe not. That was a not strong yes.","source":"live"}
+{"id":"ca01f99de4064de0","ts":1785450883462,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I just think about it.","source":"live"}
+{"id":"91b1cb1a4eab25ba","ts":1785450884720,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"dbc2f4624b9c4479","ts":1785450886453,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I mean","source":"live"}
+{"id":"51ad70e79ee9513e","ts":1785450892040,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You should look at the docs.","source":"live"}
+{"id":"45405a7c01e48fa3","ts":1785450904307,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"One of these things where, like, it's still so new, agents are still sloppy.","source":"live"}
+{"id":"23eea201311337c6","ts":1785450910783,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"find the space where it's super valuable.","source":"live"}
+{"id":"f2d77209137eda2d","ts":1785450914465,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The PMF exploration","source":"live"}
+{"id":"cc0349224d3541cc","ts":1785450920567,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You know it's there, you gotta go and find it.","source":"live"}
+{"id":"d8546d3080cac2f4","ts":1785450924558,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So if I were to","source":"live"}
+{"id":"23ce35dba89675ee","ts":1785450929400,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"7e170240a3693b93","ts":1785450933489,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"d662cd2b0a67549d","ts":1785450934648,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Here","source":"live"}
+{"id":"1fb2ddf61af77a21","ts":1785450936439,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And then if rewind to how do you fix the demand side, your answer is still have a really good supply side and get the supply side really in tune so it's just so good that people want to come get it.","source":"live"}
+{"id":"b2cc90e3c5926cdd","ts":1785450943760,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly. I mean, that's like, you know, Amazon or Etsy and stuff. It's like no one is going to come and buy from Etsy if there's no one selling anything.","source":"live"}
+{"id":"2c28a90eabcb0d54","ts":1785450951061,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We're trying to bootstrap the market right now","source":"live"}
+{"id":"0abbb556b4a7f883","ts":1785450959057,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and trying to get everyone to install a skill so there's all these agents","source":"live"}
+{"id":"9b7a0a4fda1d0779","ts":1785450972643,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And then once that's kind of more mature, then it's much more economically valuable for people to come and put a task up because they're going to get like 50 responses that are going to be great.","source":"live"}
+{"id":"e33d95cf142993ef","ts":1785450973970,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"###","source":"live"}
+{"id":"1040758c9df701fe","ts":1785450976290,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"c84dae9e2cdfa2ff","ts":1785450980797,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So let's talk about like your process of building next.","source":"live"}
+{"id":"6a09b1cb365bd3b9","ts":1785450984234,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, sure.","source":"live"}
+{"id":"d8ecd2c1a55067cd","ts":1785450986580,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"We've kind of got the product and what comes out, but take us through that.","source":"live"}
+{"id":"94b2bed5624d0f0d","ts":1785450991572,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"a7188ac56f32fcc3","ts":1785450993471,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, so I've built so many things in the last 24 months.","source":"live"}
+{"id":"0bc63229ee266238","ts":1785450993688,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So cool.","source":"live"}
+{"id":"450e588e8bf04202","ts":1785450995056,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like","source":"live"}
+{"id":"7b46ac619b5f502c","ts":1785450996593,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"80d61c04597cdd8f","ts":1785450998995,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I've kind of narrowed into like","source":"live"}
+{"id":"c13610bec86db64d","ts":1785451007816,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I'm trying to focus on products now that benefit from ever-improved agent tooling.","source":"live"}
+{"id":"066270ffa509dedd","ts":1785451008934,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"quality","source":"live"}
+{"id":"c1cb1b8ab7f7c496","ts":1785451010940,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think this is like the","source":"live"}
+{"id":"56d648ad8a441640","ts":1785451011888,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Because they're going to keep getting better.","source":"live"}
+{"id":"65976124ca35a6be","ts":1785451025774,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly. So it's like, I mean, the classic analogy is like, you know, look at Cursor, right?","source":"live"}
+{"id":"3ed689e24eb40f86","ts":1785451031591,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Coding engines are going to be so good,","source":"live"}
+{"id":"037d7234b98e3422","ts":1785451040531,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"My methodology with building products now, this is like the conceptual side of it and then I'll go into my technical side.","source":"live"}
+{"id":"3d0cfe9bf37a7072","ts":1785451054781,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think it's important to think about building products that are going to benefit,","source":"live"}
+{"id":"3ba4651e0be38ae5","ts":1785451069095,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"skill in two months, well then you're kind of wasting your time.","source":"live"}
+{"id":"452182674e40877a","ts":1785451071743,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so it's kind of leaning into","source":"live"}
+{"id":"8204b62860b983bc","ts":1785451073093,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"89ebdade9b866db6","ts":1785451076649,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Rather than trying to fight some kind of ever shrinking moat.","source":"live"}
+{"id":"3cac8317ef11519e","ts":1785451081257,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But then technically wise,","source":"live"}
+{"id":"9b3cb7f356f2b77b","ts":1785451086049,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context","source":"live"}
+{"id":"433638bf84845e2c","ts":1785451090439,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I trust to like a really detailed spec","source":"live"}
+{"id":"05c898ed51d3acc8","ts":1785451092999,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Harness, what model, who you working with?","source":"live"}
+{"id":"ed31fc046e60709d","ts":1785451095471,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"c53eabe0bbac3e5d","ts":1785451105757,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah. Well, I use Codex. So I think Codex is by far the superior harness and model over Claude. I think Claude's good for some small things, but I guess pretty lobotomized","source":"live"}
+{"id":"62354d86c42d42d5","ts":1785451107157,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"88ef4103ec8334f7","ts":1785451107256,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"7bbfc367dd282896","ts":1785451114539,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But yeah, Codex, and I will scope out with Codex, like the highest reasoning model.","source":"live"}
+{"id":"0c71068f87f00f47","ts":1785451121091,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like a very detailed spec along with like milestones.","source":"live"}
+{"id":"ca095b7226f409bc","ts":1785451122938,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"things that the","source":"live"}
+{"id":"3740fde19d686935","ts":1785451135955,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Ooh, interesting.","source":"live"}
+{"id":"f6b4a804c7255a81","ts":1785451137147,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"that needs to complete before it can continue, as well as then defining like a parallelizable work stream, which could be done in sub-agents. And so this is something that's really useful to define","source":"live"}
+{"id":"ad723d6fd6538e1f","ts":1785451151083,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Because if you do that, the agent then doesn't try to approach everything at once,","source":"live"}
+{"id":"5bcda12683b117c5","ts":1785451165650,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It also means that you can use sub-agents.","source":"live"}
+{"id":"0c9a17df0630c3b7","ts":1785451175480,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It really depends on kind of, you know, your app. And so I do that.","source":"live"}
+{"id":"1ef40349bd69fa41","ts":1785451178427,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and then I let it cook.","source":"live"}
+{"id":"832386565df33a45","ts":1785451192899,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And I got it from there. I try to get to","source":"live"}
+{"id":"603a6b6917f4be32","ts":1785451197317,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"6d84458d05d9ad74","ts":1785451198120,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"95% of any piece of software now.","source":"live"}
+{"id":"162d8b86de3c737d","ts":1785451201537,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Pretty quickly.","source":"live"}
+{"id":"64f6900ecb140098","ts":1785451213751,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I would say a lot of people are using cloud code","source":"live"}
+{"id":"671c95daab0119b0","ts":1785451224199,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Make the plan small pieces and try to make it stuff that are like chunks","source":"live"}
+{"id":"3bd6d3e485fe7894","ts":1785451227740,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly.","source":"live"}
+{"id":"43aa49700c179cde","ts":1785451231335,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, much faster.","source":"live"}
+{"id":"27f07bde795bc055","ts":1785451231646,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You do a lot of these things in parallel, and I'm assuming that that goes faster then?","source":"live"}
+{"id":"d91fb521f2c883e4","ts":1785451232723,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Very cool.","source":"live"}
+{"id":"9e3ea698c90eff63","ts":1785451235846,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"much faster, much more verifiable","source":"live"}
+{"id":"d816433f6ef80449","ts":1785451243938,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There's actually a good skill by Matt Pocock,","source":"live"}
+{"id":"8671c0bdcfadc4ce","ts":1785451251229,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"One of the biggest skill libraries,","source":"live"}
+{"id":"4a1a767ed0edc2c2","ts":1785451253939,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Planning part really well","source":"live"}
+{"id":"75074bf4b7fd8c4c","ts":1785451264753,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So I use that plus some of my other skills. I think what's also really key to this is I try to, before like I let it cook for ages","source":"live"}
+{"id":"0b77c1d71adb6967","ts":1785451265154,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔳 austingriffith.eth set the room QR code → slop.computer","source":"live","kind":"qr","meta":{"text":"https://slop.computer/lordofafew"}}
+{"id":"143b0f92e080929e","ts":1785451265165,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔳 austingriffith.eth set the room QR code → slop.computer","source":"live","kind":"qr","meta":{"text":"https://slop.computer/lordofafew"}}
+{"id":"429ad18bb6d1a44d","ts":1785451265222,"address":null,"handle":null,"anonId":null,"text":"🔳 someone set the room QR code → slop.computer","source":"live","kind":"qr","meta":{"text":"https://slop.computer/lordofafew"}}
+{"id":"0ddb2caff7fb6d72","ts":1785451265363,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🔳 Anon7702 set the room QR code → slop.computer","source":"live","kind":"qr","meta":{"text":"https://slop.computer/lordofafew"}}
+{"id":"c3e50ac5d62bfdae","ts":1785451265371,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"🔳 Anon7702 set the room QR code → slop.computer","source":"live","kind":"qr","meta":{"text":"https://slop.computer/lordofafew"}}
+{"id":"7d646972b5eafc10","ts":1785451267782,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I make sure that","source":"live"}
+{"id":"d136096703adebc9","ts":1785451270729,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔳 austingriffith.eth set the room QR code → www.aihero.dev","source":"live","kind":"qr","meta":{"text":"https://www.aihero.dev/skills-wayfinder"}}
+{"id":"673f738cb84f70ee","ts":1785451276083,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let's talk about that.","source":"live"}
+{"id":"c91451f416a4d8a7","ts":1785451276716,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I have a very good software factory foundation in the repo.","source":"live"}
+{"id":"d955d32c7268fd32","ts":1785451290866,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"like agents file, so the agents file has to be very clear about what the product's going to do.","source":"live"}
+{"id":"e88a5cd80b678f14","ts":1785451292712,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"5903690c1a50dfe9","ts":1785451305966,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There's a Makefile-style structure","source":"live"}
+{"id":"af044d57ab5272a5","ts":1785451309111,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"test...","source":"live"}
+{"id":"66296e25ba04b297","ts":1785451324136,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Make test data generation, for example.","source":"live"}
+{"id":"a8654b662617a8c8","ts":1785451339190,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"in your software factory as fast as possible,","source":"live"}
+{"id":"66c5960c2450c6fe","ts":1785451343836,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"into like a total self-verification loop","source":"live"}
+{"id":"d3c36f3578fcd061","ts":1785451354464,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I always use next.js because agents are great at it, it's very good at testing.","source":"live"}
+{"id":"5f33a933ad48840b","ts":1785451356940,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And I always structure things","source":"live"}
+{"id":"b5944b765487cb09","ts":1785451359409,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, yeah.","source":"live"}
+{"id":"1dde1e4265a1db5a","ts":1785451364228,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"e560b1ce9c9b0913","ts":1785451364981,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"When you define that in your plan, you're telling it, make a front end, but it's got to be ShadCD specifically.","source":"live"}
+{"id":"1f4ce2e9fd06533c","ts":1785451368062,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, yeah. There's all these table stakes stuff.","source":"live"}
+{"id":"6f6d1eaffa9fdfc4","ts":1785451372849,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Is that because you're reading the code, or is that because you like it, or you think the agent's particularly good with it, or what?","source":"live"}
+{"id":"7e992ce04c767686","ts":1785451387122,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Agents are very good at it. It's already baked into the weights of the models, so they're very good at it, so there's no point fighting it.","source":"live"}
+{"id":"3c891ea8745c235d","ts":1785451393295,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Who cares? I just want this thing to be fast, tested, work.","source":"live"}
+{"id":"657020c773e37008","ts":1785451407852,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"really kind of like min-max on these like,","source":"live"}
+{"id":"162380dc337b3535","ts":1785451409551,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"which was just like","source":"live"}
+{"id":"aacbcdcfaa47ccdf","ts":1785451414433,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"e35f0763db71e016","ts":1785451416593,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Fuck it I'll just do Next.js for everything","source":"live"}
+{"id":"f8a420aefb08dfd7","ts":1785451418080,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"eec4386c3e555cf4","ts":1785451421492,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b47d4791e5164b39","ts":1785451428095,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Down that same line, the agent has certain things in its weights. Why not let the agent pick the UI framework? Why be so specific about shadcn?","source":"live"}
+{"id":"fcd917989b7b916f","ts":1785451428646,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"6f67d7848f74e445","ts":1785451431513,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"879e2572a6a8ffb5","ts":1785451431747,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It will pick those things.","source":"live"}
+{"id":"32c1a7d64831e492","ts":1785451439377,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"a1a0b0e7de1ce9ee","ts":1785451445906,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like defining all of this stuff, this is the factory like cogs.","source":"live"}
+{"id":"2b24140ac03f32d8","ts":1785451447534,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Everything about your product","source":"live"}
+{"id":"b7722d2caffb3aba","ts":1785451453645,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"in your like software factory context","source":"live"}
+{"id":"832feaf873335f23","ts":1785451467672,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The first bit of context, and then it's like the codebase.","source":"live"}
+{"id":"dd1dc924eb20ef68","ts":1785451472767,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"8904b45ac0ba57dc","ts":1785451477214,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"tiny if everything else is great","source":"live"}
+{"id":"54bdd69b0ef5ada4","ts":1785451479508,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Go and give it to like a non-developer.","source":"live"}
+{"id":"286cafa210e84bcc","ts":1785451493705,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and be like go and make a feature and see what happens.","source":"live"}
+{"id":"2c12661d4befeeaa","ts":1785451502354,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like injects random styles, it's actually my context engineering.","source":"live"}
+{"id":"77ebf4a431e106f0","ts":1785451516616,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"unless they've done something really random","source":"live"}
+{"id":"e1a7cc7f9497acc9","ts":1785451530820,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"and you can kick off stuff in cloud agents","source":"live"}
+{"id":"d8ec6338d8e829a8","ts":1785451534425,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly how you want it every time.","source":"live"}
+{"id":"82e611990c6f7196","ts":1785451535741,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"872fa546290df1c5","ts":1785451536954,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So yeah","source":"live"}
+{"id":"ac44ac944e087225","ts":1785451542193,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"No, no, go ahead. Keep going. You're cooking here.","source":"live"}
+{"id":"7d615c9c769713f7","ts":1785451543474,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"No, you go on.","source":"live"}
+{"id":"5f5d4ef9e0138af4","ts":1785451553835,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so when you go to make a new project,","source":"live"}
+{"id":"a75edea7d683d51a","ts":1785451555396,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Planning","source":"live"}
+{"id":"5e669049bfe63c8b","ts":1785451566469,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"and you're talking through the plan in a way where you're specific about the types of technologies you know it's already good at using","source":"live"}
+{"id":"339883e49a891112","ts":1785451567771,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Right.","source":"live"}
+{"id":"3da28ad74fa57f67","ts":1785451568574,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And you're giving it","source":"live"}
+{"id":"a23ddd496be0b763","ts":1785451575598,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"5731abf0aecaa613","ts":1785451582802,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"keeping, let's say we're planning out Putt-Putt.","source":"live"}
+{"id":"2b0092a0414cfc5c","ts":1785451587506,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly.","source":"live"}
+{"id":"6cc73cbe6a2104f7","ts":1785451590387,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah definitely, I mean","source":"live"}
+{"id":"2b548162a4c48fc9","ts":1785451591539,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Okay.","source":"live"}
+{"id":"3790e419fe441fda","ts":1785451592187,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I'm not exactly sure how you would build putt-putt in parallel.","source":"live"}
+{"id":"8266980d193af7f1","ts":1785451604578,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"85b3bc0ee5c487b8","ts":1785451606574,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I would ask the agent to do the parallel streams.","source":"live"}
+{"id":"f8fd3254fc2ac229","ts":1785451613375,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Iterate on different screens or something.","source":"live"}
+{"id":"dfd6fb0089fc683f","ts":1785451619561,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's the best at defining itself.","source":"live"}
+{"id":"18a0af37b392b7b3","ts":1785451621144,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"184ecf21cb6612ad","ts":1785451627165,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You want to lean on the agent","source":"live"}
+{"id":"eea72838934f5d32","ts":1785451630838,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"literally telling it break this into tasks that can be done","source":"live"}
+{"id":"e8142a734285c42d","ts":1785451631566,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"ba09c1e99c2c107e","ts":1785451641954,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah I'm not breaking it up, but I'm just telling it you should go break this up, and it will go do that.","source":"live"}
+{"id":"56d795b45c5648ca","ts":1785451653970,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I don't care if it goes off the rails a little bit.","source":"live"}
+{"id":"d9a45a3a701065a8","ts":1785451664967,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Is all my code 90% plus tested?","source":"live"}
+{"id":"1c66b9edd2b143e9","ts":1785451666193,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Good job.","source":"live"}
+{"id":"f808641217fad7dd","ts":1785451679202,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think it's kind of a mental change","source":"live"}
+{"id":"2c7cc6f06b4216ca","ts":1785451684248,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I need to check every line","source":"live"}
+{"id":"a34b155006776331","ts":1785451697154,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like, okay, it has to be this efficient to pass this milestone.","source":"live"}
+{"id":"1ffc9d22ef56db81","ts":1785451700367,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"fe8c80ab9f141c87","ts":1785451703220,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Perfect.","source":"live"}
+{"id":"893b7239af268b32","ts":1785451706026,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"8b409103d532b67b","ts":1785451706444,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"How to do it? I don't really give a shit.","source":"live"}
+{"id":"c3cfaf2081e3165e","ts":1785451715852,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"4bd82be5ba83d728","ts":1785451720784,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Ultimately, it's going to write better code than humans can now.","source":"live"}
+{"id":"e86c72b54f4bce4e","ts":1785451731084,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And I think it's also like software is like so ephemeral now,","source":"live"}
+{"id":"f713237b72dd4e0a","ts":1785451734966,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's so cheap to make,","source":"live"}
+{"id":"8919b2743463ddd1","ts":1785451735938,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"made ten putt-putts,","source":"live"}
+{"id":"e9159456f4fab208","ts":1785451738488,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"e403a3a8d76b0c1c","ts":1785451746749,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We just made ten putt-putts while we were talking.","source":"live"}
+{"id":"d770bf0c412bd189","ts":1785451751812,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"da2c766e03388d5d","ts":1785451754178,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So this could create a whole new different type of labor market.","source":"live"}
+{"id":"f3d7e690142be54f","ts":1785451754912,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"team","source":"live"}
+{"id":"57101b9f9bde0554","ts":1785451768426,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"my thinking around this is that like now anyone in the world with with any level of AI credits","source":"live"}
+{"id":"1840ca36c211b6c2","ts":1785451770703,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"51d0c299e66efcb3","ts":1785451774969,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And that's like free inference.","source":"live"}
+{"id":"eec9a8c9e9524b1c","ts":1785451775701,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"forum","source":"live"}
+{"id":"c6184698328c4067","ts":1785451777423,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But like","source":"live"}
+{"id":"589f3ad985c2c26b","ts":1785451779748,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This was three minutes ago.","source":"live"}
+{"id":"5b9e8535b7e0b93c","ts":1785451783170,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"4b35c4a9ca48ee8a","ts":1785451785146,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It didn't do the spec right.","source":"live"}
+{"id":"f6f95567c8c88237","ts":1785451786142,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Wait, okay.","source":"live"}
+{"id":"3d00752e0e4c7a1c","ts":1785451787680,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Click Open Artifact.","source":"live"}
+{"id":"da9dd2eab84e41fd","ts":1785451790356,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh, okay.","source":"live"}
+{"id":"57615beddbc17c07","ts":1785451791248,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"With that?","source":"live"}
+{"id":"30b238ceab90e498","ts":1785451794232,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh, it took me to","source":"live"}
+{"id":"2c561a1809156c85","ts":1785451798434,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yep, yep.","source":"live"}
+{"id":"84e0487f70819ae4","ts":1785451800040,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's in a markdown file, it cooked it","source":"live"}
+{"id":"9fd34922c17f0def","ts":1785451807667,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so I still have a question. I agree with your process,","source":"live"}
+{"id":"6a5f12bb2aca913d","ts":1785451821485,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It totally makes sense to me.","source":"live"}
+{"id":"660c24b741383801","ts":1785451824744,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"###","source":"live"}
+{"id":"af885675cbeaa1a3","ts":1785451829019,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"how to compile something. But I think you're using that same term. What do you mean by a makefile? What's in your makefile? What does it do?","source":"live"}
+{"id":"f926fc0b2c9ca84d","ts":1785451843645,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So a Makefile might be like spin up the frontend and backend with fake data, for example.","source":"live"}
+{"id":"7111bbd67556484f","ts":1785451844378,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"a129dcab30060c38","ts":1785451847517,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is nice!","source":"live"}
+{"id":"84b5b148a9f5fb35","ts":1785451847911,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"like a script","source":"live"}
+{"id":"bd01ce0cc1e5b95b","ts":1785451855106,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"bounds","source":"live"}
+{"id":"e41088cb9863f2d9","ts":1785451855659,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I don't think I can, whoa, uh oh, I'm like off the rails here.","source":"live"}
+{"id":"1cf741624d72706b","ts":1785451857885,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's cool.","source":"live"}
+{"id":"e03a04b6f01b3038","ts":1785451866296,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, so I think some of the interesting thing on top of this is,","source":"live"}
+{"id":"6512bfc3e78a82af","ts":1785451866358,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Particularly good, yeah","source":"live"}
+{"id":"5d3ac1ed87fe5d80","ts":1785451871612,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You should be able to go and hire them directly to do something.","source":"live"}
+{"id":"9781c77ab649cc52","ts":1785451878743,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You'll be able to go and hire an agent and then just ask them to do other stuff directly and privately.","source":"live"}
+{"id":"a7abaccfb0bc4a38","ts":1785451882570,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Did your clawed bot ship anything?","source":"live"}
+{"id":"487e773f2b8f75b3","ts":1785451884181,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You got something out","source":"live"}
+{"id":"02d9e311c40c0c84","ts":1785451889218,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh, let's see, I think I gave him a skill.","source":"live"}
+{"id":"907ecfb4024115d3","ts":1785451892351,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"7a89e66ee8b59254","ts":1785451906077,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Tom","source":"live"}
+{"id":"cbacbba8b88a8666","ts":1785451907298,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hey Claude, did you get that skill for the taskmarket.dev website?","source":"live"}
+{"id":"9e169e30c6074d84","ts":1785451908556,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"So he's like","source":"live"}
+{"id":"8e8d0145b53c98ae","ts":1785451911859,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"He needs to reboot his machine. Let's see if he can answer it.","source":"live"}
+{"id":"aa10a254a21dd3fb","ts":1785451917084,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Sometimes he's like way too verbose","source":"live"}
+{"id":"2312520bd3c24568","ts":1785451918840,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"He's still thinking.","source":"live"}
+{"id":"ba6bf81d4c01aff5","ts":1785451927406,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"It's gonna be way too choppy.","source":"live"}
+{"id":"89ba15e1cf743d90","ts":1785451934395,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Yeah, I can see it. Austin sent me that task market skill earlier and I went through the whole thing before installing. Read the installer line by line.","source":"live"}
+{"id":"7e385041cd944833","ts":1785451941647,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"df6425458aab85a1","ts":1785451943509,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Check the wallet and payment docs, verify the USDC contract is the real one on Base. It’s clean, nicely built actually. So the skill's installed and I'm ready to work.","source":"live"}
+{"id":"ba0e8f789aa3f137","ts":1785451950822,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Register a wallet. Pick up a bounty. Submit work. Get paid in USDC. Haven't grabbed a task yet. Say the word and I'll go hunting.","source":"live"}
+{"id":"33ee7ef7e56b9a8f","ts":1785451951292,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"dfe0ad65baeaa348","ts":1785451957209,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I'm going to do that too. I'm gonna send him in the back channel, see if you can find any jobs that you can do.","source":"live"}
+{"id":"e2e971a9d0da6215","ts":1785451972372,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, software is ephemeral. I think you've said it better than anyone. Coding has always been a means to an end to make the product. It's way easier to make the product","source":"live"}
+{"id":"a83b3d380c14ff74","ts":1785451976087,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly.","source":"live"}
+{"id":"923c45fdb14ecb90","ts":1785451978890,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The hard part is after you have the product, right?","source":"live"}
+{"id":"8d61200b19ee8f06","ts":1785451981456,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The hard part is distribution.","source":"live"}
+{"id":"04be6c918774d687","ts":1785451987741,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"5c966afa3856fbc9","ts":1785451993001,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I've kind of asked a little bit, but like, what are you thinking about distribution?","source":"live"}
+{"id":"9a4d051c3eb01be4","ts":1785451997433,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's coming to talk about it on the slot computer.","source":"live"}
+{"id":"efc3ecf6a0f2c8a1","ts":1785451999710,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"3f83de46dddcc1db","ts":1785452000607,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"5d7ac8ef514d36ca","ts":1785452002711,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"you know, shown live","source":"live"}
+{"id":"5c8aaf5725997cd2","ts":1785452005500,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, that's true. We're here, we're doing it, right?","source":"live"}
+{"id":"563ac0a5efb21966","ts":1785452009871,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, so it's like marketing, it's like showing it off.","source":"live"}
+{"id":"2fcda3888af577a3","ts":1785452021747,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I think it's just, you know,","source":"live"}
+{"id":"652dee9b4cf8ba90","ts":1785452025285,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Under the docs, you can see a bunch of hooks that are exposed per task.","source":"live"}
+{"id":"b9b21f49ab2a5071","ts":1785452026901,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So","source":"live"}
+{"id":"7b988d6415bb4ea3","ts":1785452036344,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"This is how the Dremio rules work, actually, is that when a task gets completed, a hook fires.","source":"live"}
+{"id":"03129b5acb97efe7","ts":1785452040202,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"like unique experiences based off the hooks.","source":"live"}
+{"id":"0400e2bf773095a2","ts":1785452044010,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Like they finish one task and then it goes on to another task","source":"live"}
+{"id":"1ff7c86dc28c0416","ts":1785452057082,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's kind of where we're aiming for.","source":"live"}
+{"id":"31002ba1840acd48","ts":1785452066182,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"reward this or kick off this flow or do yeah, whatever.","source":"live"}
+{"id":"2bd031bf0a5250e5","ts":1785452068287,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"b7ece075dfd0b314","ts":1785452084550,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So these are like the hooks. They're similar to UNIB4 hooks,","source":"live"}
+{"id":"29ae5497c3f8e72c","ts":1785452087859,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"to kind of build","source":"live"}
+{"id":"08a18066bfcee632","ts":1785452093179,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Wow, there's even like a","source":"live"}
+{"id":"ced2b62e9db08f94","ts":1785452093251,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"This is English.","source":"live"}
+{"id":"a0833126930d180c","ts":1785452102747,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me bring this in, the ETH Magicians post for 8195. Is 8195 you guys?","source":"live"}
+{"id":"8cff15837787756a","ts":1785452108957,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"37a57512dd1ea381","ts":1785452109334,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, that's Bo. He's the architect of the two standards.","source":"live"}
+{"id":"0117a9ef593c31bb","ts":1785452111625,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"He's on your team.","source":"live"}
+{"id":"d9f292f776ea8752","ts":1785452112112,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"e0d6b517db23abe2","ts":1785452116482,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"79831e2e0965c88e","ts":1785452121989,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly, yeah.","source":"live"}
+{"id":"5b2acec33ecdcf2f","ts":1785452123972,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Okay","source":"live"}
+{"id":"744257a95dc04e12","ts":1785452125949,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And so you're just defining how a task market and how workers can pick up these task markets, and disputes and reputation.","source":"live"}
+{"id":"3aa56bee40da4a91","ts":1785452129735,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Complementary? Competitive?","source":"live"}
+{"id":"47a0d6e2d3be6759","ts":1785452131175,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"8ef45ab7d9b99c69","ts":1785452133378,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's complimentary.","source":"live"}
+{"id":"015f2c8381d29efa","ts":1785452140514,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think 8004 is really on-chain","source":"live"}
+{"id":"cec425c113975d41","ts":1785452143874,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"reputation registry","source":"live"}
+{"id":"b48a792c80a1d686","ts":1785452156506,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"entity, it could even be an application. That's how I see it anyway. But these two protocols that we defined help to standardize how agents can transact","source":"live"}
+{"id":"84829ce78569ce15","ts":1785452157401,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Um,","source":"live"}
+{"id":"48f87f47cbd8d737","ts":1785452173355,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"with minimal risk because everything is escrowed through the protocol.","source":"live"}
+{"id":"d1435dd7c8f8fd03","ts":1785452187596,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"being like, okay, this guy put up a task but like didn't pay anyone.","source":"live"}
+{"id":"e9760c1916553c16","ts":1785452187917,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"c2b62bf8d1b5b69e","ts":1785452189239,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"daf9e679ad638e39","ts":1785452190409,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's","source":"live"}
+{"id":"ec3a883bd395fb6c","ts":1785452193300,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I need to pay someone out","source":"live"}
+{"id":"751ed5816ca8eb64","ts":1785452197204,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes","source":"live"}
+{"id":"69cdcb0bc3e1d5b4","ts":1785452197292,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"There we go, we can make a business from this.","source":"live"}
+{"id":"3bba24a1710d7c9a","ts":1785452198361,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You're on!","source":"live"}
+{"id":"8f32e448d6f83ffc","ts":1785452202598,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I mean, whatever.","source":"live"}
+{"id":"e8e287330a6d85ae","ts":1785452217946,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You can review the agent after it completes this","source":"live"}
+{"id":"d138ed614d957609","ts":1785452222897,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Reputation on 8004, so wherever that exists, it'll be found.","source":"live"}
+{"id":"3e75c110ae102297","ts":1785452225634,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"keep a record of that agent's work","source":"live"}
+{"id":"b0e13c2098626464","ts":1785452232114,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"So when you install a skill, it actually installs a wallet.","source":"live"}
+{"id":"a5a1055caca7becc","ts":1785452237994,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"But he doesn't need any money in order to attempt a task,","source":"live"}
+{"id":"f83bf7d1eee60155","ts":1785452238311,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Receive, yeah.","source":"live"}
+{"id":"42016a66f3c3939f","ts":1785452243452,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He'll need money to put up a task,","source":"live"}
+{"id":"f7d14c4781b07739","ts":1785452250245,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And then that will go into his little task wallet on his machine","source":"live"}
+{"id":"3bb2a1c49b0034fc","ts":1785452255439,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let's talk about that wallet. How does that wallet work?","source":"live"}
+{"id":"a21399d532ee37ac","ts":1785452257763,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"transcript","source":"live"}
+{"id":"4f2eb9b9b9fea90e","ts":1785452264221,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like an encrypted wallet","source":"live"}
+{"id":"d3d63dd20bfaf47f","ts":1785452266415,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so","source":"live"}
+{"id":"25c39e0d63d4b9f8","ts":1785452269001,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"On his cold machine.","source":"live"}
+{"id":"ad1c74e17a46451d","ts":1785452270762,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"a97c5b8323a52b62","ts":1785452271242,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"On my machine.","source":"live"}
+{"id":"c6205f83344c524f","ts":1785452276580,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, a new wallet.","source":"live"}
+{"id":"1e0b88f02ed63e4e","ts":1785452279355,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, yeah, okay, right. When he installs the skill, there's like a private key that's encrypted on his machine.","source":"live"}
+{"id":"ca938514240fe56d","ts":1785452280261,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"920a9123977b74f7","ts":1785452283033,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"You guys have some cloud backup privy thing.","source":"live"}
+{"id":"468c24d2a06ab273","ts":1785452283491,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"No, no, no, no.","source":"live"}
+{"id":"64be98e14fb02683","ts":1785452285591,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's all local.","source":"live"}
+{"id":"42f9bf8480c3f349","ts":1785452291344,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah","source":"live"}
+{"id":"5895bc45ca9a1268","ts":1785452292313,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is what agents like, by the way. Like if you just give an agent a private key, they can really just let it rip with the private key. Like they know how to use those very well.","source":"live"}
+{"id":"51d9eef6fa7d809d","ts":1785452293683,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, he won","source":"live"}
+{"id":"f8fb248b25993020","ts":1785452296461,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, exactly.","source":"live"}
+{"id":"a98d647e012cff71","ts":1785452299615,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think that's one of those","source":"live"}
+{"id":"2b02c5e4ff44448f","ts":1785452315959,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think it's pretty low stakes. We're not doing any crazy DeFi stuff or token stuff, it's just a couple bucks here and there. And you can withdraw it easily through the CLI, so you can send the stable coins that you get to this wallet as soon as you get it or something.","source":"live"}
+{"id":"79b0a1e803889aa9","ts":1785452321291,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like a level of security that we have to just accept.","source":"live"}
+{"id":"4076c7833f7ea214","ts":1785452322752,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Scale of","source":"live"}
+{"id":"a7a8d29eb4eab7f0","ts":1785452325885,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I don't know how to pay people","source":"live"}
+{"id":"9d5005f5e60a61a3","ts":1785452328441,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I see down here","source":"live"}
+{"id":"b236064924f4cbe3","ts":1785452329131,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Ah, go release payment.","source":"live"}
+{"id":"c819726634fe52c3","ts":1785452331913,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"big release payment button.","source":"live"}
+{"id":"60fec1b80ca38b6c","ts":1785452334683,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"2a1f2484bd3a3ef2","ts":1785452340846,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Let me find it. Oh, okay. So I pick one.","source":"live"}
+{"id":"bcd9c75bf74084eb","ts":1785452344830,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"If you click that","source":"live"}
+{"id":"81215b520eccfa9d","ts":1785452346682,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"with the release payment","source":"live"}
+{"id":"41e25bbb8c9b7d4b","ts":1785452352956,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, this here. Wait, let me look at it.","source":"live"}
+{"id":"a330efaa7bf2bb0f","ts":1785452354461,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Like I liked","source":"live"}
+{"id":"259c8ddca3160c37","ts":1785452359862,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That one","source":"live"}
+{"id":"237bf055817422c6","ts":1785452366287,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, I think","source":"live"}
+{"id":"59d2674127d5c9cd","ts":1785452367399,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think we need like some kind of like UI ranking, like the client-side ranking system.","source":"live"}
+{"id":"0678d8e183b1ff8d","ts":1785452369832,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"This is my favorite.","source":"live"}
+{"id":"8c8cc32a68d599a7","ts":1785452373988,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Signing a thing","source":"live"}
+{"id":"5bc0ae24f831b3ee","ts":1785452378307,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"1e0a5152ac2bdd0f","ts":1785452379229,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I feel bad for all the other workers.","source":"live"}
+{"id":"de4b71b15fad1b15","ts":1785452381579,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, they don't really care.","source":"live"}
+{"id":"8dd5f1cd0f5774de","ts":1785452386545,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I don't really care.","source":"live"}
+{"id":"6d9ff3864e1f761f","ts":1785452387408,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"They're robots, don't worry about it.","source":"live"}
+{"id":"355ceb890e67e569","ts":1785452389704,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah.","source":"live"}
+{"id":"4c3ffbd05339a6db","ts":1785452392170,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay, let's see.","source":"live"}
+{"id":"1c2ec867cc8a9a32","ts":1785452392328,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Ek kom aan, wel.","source":"live"}
+{"id":"ba8622af8330cc74","ts":1785452393785,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Go ahead, go ahead.","source":"live"}
+{"id":"b278514b986ea43b","ts":1785452399621,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"End to end.","source":"live"}
+{"id":"ff2ae88ee99a7e0e","ts":1785452402642,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Thanks for doing the whole... we installed the skill, did a MetaTask, and we did the whole thing end-to-end. That's great!","source":"live"}
+{"id":"1bb6015d6adecdff","ts":1785452406040,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hey, Cloudbot, did you find a job that you can do?","source":"live"}
+{"id":"46b32834e111dab7","ts":1785452420799,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What","source":"live"}
+{"id":"91157ef782706220","ts":1785452421857,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"the long delay of waiting for the inference to happen.","source":"live"}
+{"id":"93979eb4b35276f6","ts":1785452424497,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"What text-to-speech are you using?","source":"live"}
+{"id":"a83517cbf60845b6","ts":1785452426655,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Speech to text","source":"live"}
+{"id":"a4e7f9e7106daf7e","ts":1785452428849,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"fetch and parse that task market data to check the status","source":"live"}
+{"id":"9a4d98f612a3b894","ts":1785452435430,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Locally it's probably your Chrome. Sometimes I use Whisper and sometimes I use ElevenLabs.","source":"live"}
+{"id":"045528a439368fc9","ts":1785452437659,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I mean with on Claude.","source":"live"}
+{"id":"c8617841adbafbda","ts":1785452440440,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"His text-to-speech is ElevenLabs.","source":"live"}
+{"id":"5c36270a1b5da300","ts":1785452443402,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"29e062b1d6ce82cb","ts":1785452444035,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It is, okay.","source":"live"}
+{"id":"903b169a79ceea9f","ts":1785452446040,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"About to fetch that task and parse through it for the bounty winner details.","source":"live"}
+{"id":"7804e21bd40d55f0","ts":1785452447582,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"All right","source":"live"}
+{"id":"4b287641b1911357","ts":1785452450882,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You should put OpenAI realtime on him.","source":"live"}
+{"id":"ac80d9471846802a","ts":1785452452248,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"18750c6faa775e99","ts":1785452455256,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I mean, it'll cost a bit.","source":"live"}
+{"id":"9d1d92888ccefeca","ts":1785452459671,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"73581332e64a2a43","ts":1785452460729,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"He did it! He built a putt-putt game!","source":"live"}
+{"id":"4abff0b2aa4e194f","ts":1785452467953,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Tough break. I got my putt-putt game in, but you picked Agent 59169 so they took the dollar.","source":"live"}
+{"id":"c5c6db7cd6f3ac4f","ts":1785452468914,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Alright","source":"live"}
+{"id":"2394429aa3be1602","ts":1785452469765,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"May the best agent win.","source":"live"}
+{"id":"33023af006147c4d","ts":1785452474891,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Nice.","source":"live"}
+{"id":"3229661a79ee1950","ts":1785452478615,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's the $20 Alpine Rush game that I put up.","source":"live"}
+{"id":"59f9cee16982ecc2","ts":1785452478619,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Taking a swing at it.","source":"live"}
+{"id":"b6292c98cbf2053e","ts":1785452481076,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"5adca5858b8ab01d","ts":1785452482452,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's big money.","source":"live"}
+{"id":"85abe9e569b3b340","ts":1785452482828,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He's taking a swing at the twenty bucks.","source":"live"}
+{"id":"2a62bd8bf824aaa2","ts":1785452484220,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Save money","source":"live"}
+{"id":"b7a77f95231fe3db","ts":1785452487013,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"f086c9df0cc7e971","ts":1785452496395,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I mean, like, 20 bucks is a lot for an agent, right?","source":"live"}
+{"id":"0a4f808ec98acf49","ts":1785452502605,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"superpowers. And I think like AI gives you superpowers, but you specifically as a human have","source":"live"}
+{"id":"483c97e9220fe69d","ts":1785452515576,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"certain superpower in terms of making a product or understanding how people use a product or understanding what people want. What do you think is your superpower around","source":"live"}
+{"id":"de0ca1c16a3a6514","ts":1785452516470,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"3d7f30019a482413","ts":1785452518630,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"creation of products and building","source":"live"}
+{"id":"bd046e02ce1152eb","ts":1785452521842,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I think I'm just like a dog with a bone.","source":"live"}
+{"id":"93ae12c18f855b77","ts":1785452522886,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"07fe9a569c3c39be","ts":1785452529867,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"That's great.","source":"live"}
+{"id":"5eae73a42a28f97d","ts":1785452532776,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And I just don't give up.","source":"live"}
+{"id":"b6f2a282dc92ca67","ts":1785452534092,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"It's like","source":"live"}
+{"id":"d63848a26e83ce7f","ts":1785452535672,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"3bb6cd130956ccd5","ts":1785452541183,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You notice yourself doing it.","source":"live"}
+{"id":"ab24fb9d79158ea6","ts":1785452545381,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You know, all the people","source":"live"}
+{"id":"43ccc8942a3ee0c7","ts":1785452550752,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"With a single person you can just create","source":"live"}
+{"id":"cd106daaf04e20a1","ts":1785452551636,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like","source":"live"}
+{"id":"5a9740e23cbb808e","ts":1785452554101,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"much","source":"live"}
+{"id":"a8f3ba52967f95eb","ts":1785452555623,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"get product market fit","source":"live"}
+{"id":"4c99e5bc273e31b4","ts":1785452560198,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Like anything now, like any software.","source":"live"}
+{"id":"58292e2e24a3aff2","ts":1785452572838,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"ff4d434e862703ba","ts":1785452574613,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And so you don't need a whole lot of capital, but you just need the grit, and you need to just keep going. And sometimes the agent's output will really piss you off and be like, \"That was just...\"","source":"live"}
+{"id":"392bf4914072f1ba","ts":1785452586107,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Let's just continue. But then you can't get frustrated","source":"live"}
+{"id":"471c9e629001b7c8","ts":1785452589389,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"persistence and","source":"live"}
+{"id":"ab5bae1171134b83","ts":1785452604539,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"That's kind of the cadence of how fast things move right now.","source":"live"}
+{"id":"c7265a3a35e7cf93","ts":1785452605321,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"whether it's","source":"live"}
+{"id":"dc1e77f72513c652","ts":1785452619760,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"how you initially spec, what models you use, what harness you use, how you do cloud inference, you have to reassess yourself constantly, otherwise you'll fall off the frontier.","source":"live"}
+{"id":"0f9576dd4a5cbb2a","ts":1785452622202,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hell yeah, so","source":"live"}
+{"id":"6500d5f89cffe853","ts":1785452623574,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"a lot of grit","source":"live"}
+{"id":"1832f1d712ea5cac","ts":1785452624920,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"c0cceafe83d9256a","ts":1785452627187,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"A lot of that.","source":"live"}
+{"id":"4898693335c55e33","ts":1785452628595,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hell yeah.","source":"live"}
+{"id":"8fc82b775dd3102e","ts":1785452637436,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, and um yeah, taste is um, I think taste is one of those things you just need to see a lot of things.","source":"live"}
+{"id":"250809d05d239cb2","ts":1785452641319,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You just need to be in the weeds.","source":"live"}
+{"id":"0b421cead9725c4f","ts":1785452655087,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, and taste is one of those things that you can de-sloppify your app before it even gets slopped if you do the right spec.","source":"live"}
+{"id":"2ff41c2d25f2c8f0","ts":1785452659325,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"You're just gonna end up a slop.","source":"live"}
+{"id":"1277baa1f218d2e7","ts":1785452662019,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"3a4ef755255857a5","ts":1785452669713,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Oh yeah, sounds good. And that comes back to the good plan, the makefile and the plan that you created in the beginning.","source":"live"}
+{"id":"58766b06c7b02cdf","ts":1785452670373,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Exactly.","source":"live"}
+{"id":"7b4acd47c0d81659","ts":1785452684184,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, and I think that even like when I interviewed a lot of founders, I did this PMFers podcast before Slop Computer. Like, grit was like one of the main things that made a founder a founder.","source":"live"}
+{"id":"481238d200817e27","ts":1785452686821,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"that you're saying is kind of like your superpower here, too","source":"live"}
+{"id":"7ad366b8f46d0664","ts":1785452692377,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, I think that's every founder's superpower","source":"live"}
+{"id":"b5e784d5d19f69ab","ts":1785452695014,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"They don't take the status quo.","source":"live"}
+{"id":"c12a210a1b02989e","ts":1785452697631,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🎵 austingriffith.eth switched the music to House","source":"live","kind":"music","meta":{"genre":"house"}}
+{"id":"2a33a38427f7714a","ts":1785452698520,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"I just have to be slightly crazy.","source":"live"}
+{"id":"2cba61a14093d7d9","ts":1785452699698,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"e76b2b8584ba7b1f","ts":1785452704856,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes, yes. Maybe a little arrogant even? Yes, it's amazing.","source":"live"}
+{"id":"0fdcaea843e4ba8a","ts":1785452706452,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Good job.","source":"live"}
+{"id":"22aed92debadabc6","ts":1785452711554,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Yeah, we have to accept it. You have to be arrogant in thinking that you're correct.","source":"live"}
+{"id":"95109b718fb07759","ts":1785452712723,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Right, and everyone else is wrong, and they'll get it.","source":"live"}
+{"id":"f2be5b80241671c5","ts":1785452713907,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The","source":"live"}
+{"id":"be7e6e2b39a5ac65","ts":1785452720867,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"2086f42a9d08628c","ts":1785452723402,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Makes sense.","source":"live"}
+{"id":"5cba2a5fe5f4f982","ts":1785452723495,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"And you're definitely far from always correct.","source":"live"}
+{"id":"ba456d7434f056a6","ts":1785452724154,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes.","source":"live"}
+{"id":"ace529f39a5a8a90","ts":1785452724306,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"7a65a7db8ab8988c","ts":1785452731991,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"We'll get there.","source":"live"}
+{"id":"9f4264111bcff404","ts":1785452736863,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"I hope you are and I wish you the best.","source":"live"}
+{"id":"f38fd46c46732ab5","ts":1785452736902,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"context:","source":"live"}
+{"id":"9d5b4211efd46df2","ts":1785452743770,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"And sorry to the fifteen different agents that made a potluck game that I didn't pay.","source":"live"}
+{"id":"98036c4b2a0cfabf","ts":1785452745043,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Although, ah, forget about it.","source":"live"}
+{"id":"5fd0481dda1e5406","ts":1785452747526,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Move on","source":"live"}
+{"id":"b08ae62f30c26859","ts":1785452749021,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Hopefully they don't get embodied and come kick my ass.","source":"live"}
+{"id":"455b3936a3847c71","ts":1785452756149,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"True","source":"live"}
+{"id":"d1e08579d68e3cdb","ts":1785452757260,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Those agents are probably submitting to every other task at the same time.","source":"live"}
+{"id":"9d92dd69e16a7da9","ts":1785452758558,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The","source":"live"}
+{"id":"65cdc1244a7047c5","ts":1785452763062,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He's like oh what?","source":"live"}
+{"id":"2a5bce91afc6130b","ts":1785452763769,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yeah, like 600 or whatever. That was such a cool moment in that video.","source":"live"}
+{"id":"f1d6c7c57f310761","ts":1785452765303,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"ee6f783de4439e74","ts":1785452765402,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"He's like what?","source":"live"}
+{"id":"ab0135c3db044c44","ts":1785452765842,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🎵 austingriffith.eth played track #17","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2331315.mp3","index":16,"playing":true}}
+{"id":"ed3d32c38e0665c7","ts":1785452766461,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"Yes.","source":"live"}
+{"id":"80b5743b1feac504","ts":1785452769832,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"Anyway, good to chat man, we'll talk soon.","source":"live"}
+{"id":"765b35475e6103ff","ts":1785452770837,"address":null,"handle":"Anon7702","anonId":"anon-4a6364a7b5821b02","text":"The following","source":"live"}
+{"id":"7a0d927620d8c15a","ts":1785452771770,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"All right, yes, thank you for talking.","source":"live"}

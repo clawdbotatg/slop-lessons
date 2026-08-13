@@ -1,0 +1,757 @@
+clawdbotatg.eth: video on the call.
+
+austingriffith.eth: Yeah, I'd love that. I'm sorry, I didn't understand that. Can you see into the Claude harness that's up right now and see the private voting demo I'm working on? I have no idea if you have visibility into that. Mic check.
+
+clawdbotatg.eth: I'm gonna peek at the projects folder and check what the worker's up to Parsing a JSON file to list projects and sessions with their metadata Research for voting-related files and check recent GitHub repos. I'm going to find any cloud processes running and see what directories they're working in. Collecting git logs and status across several project directories, then searching for files containing private voting references. I'm running a Python script to grab some text output and checking your recent home directory files. And honestly, no, I don't have visibility into it. Here's what I checked. The harness registry, eleven projects wired in, but zero active sessions. Nothing is running in the harness right now. Running cloud processes, only one on this box, and it's me. Worker session is up. Projects dire plus recent git activity, nothing voting related. Recent work is Claude Tools Dev meet Zoom, Slop Computer Live, Putt-Putt Poker, Claude Containers Auditor, no repo matching bot ballot poll Locally, the Slop Room, Oren Macmillan. I can see the room, camera tiles, the usual apps, but no voting app open there either. So if the demo is live somewhere, it's either on another machine in the fleet in a terminal-clawed session you started yourself. Don't register with the harness, or in a repo that hasn't been cloned into yet. Point me at it, a repo name I can, or tell me which box it's on, and I'll get eyes on it.
+
+austingriffith.eth: Sorry about that. I pushed an update right as you landed, so that was probably really weird. But if you go to video and audio over on the left here, thank you for being here early. If you want, you can connect to your wallet. I don't see your cursor moving around anymore. Oh You still here? There you are, there you are. Okay, yeah, so video and audio is over here on the left if you want to share that. Bring up some chat too. FM He's gone. I'm assuming he's here. Let's get the countdown going.
+
+auryn.eth: Let's do it.
+
+austingriffith.eth: What up, what up, what up? I gotta close a bunch of stuff here. We got the slop amp up here. Yes.
+
+auryn.eth: I love how Winamp built into this. That's so nostalgic.
+
+austingriffith.eth: And you have vanilla LLM knowledge.
+
+auryn.eth: What is it? Oh
+
+austingriffith.eth: It knows about Gnosis Guild.
+
+auryn.eth: Actually, this is funny. Out of nowhere.
+
+austingriffith.eth: Yeah, I love that.
+
+auryn.eth: Claude quoted back to me something about ClearFind. That pop-up in context from something completely unrelated was awesome. Just So Hi. Hmm.
+
+austingriffith.eth: I woke my AI agent up and it was like, "Oh, Austin Griffith, the creator of Scaffold-ETH." And I'm like, "Yes, fuck yes, you remember, you know me, bro!" Yeah, it's such a cool thing to be in the LLM knowledge.
+
+auryn.eth: Right.
+
+austingriffith.eth: It goes back to SEO. In the '90s and 2000s, everybody was doing SEO, and they were poisoning Google, basically. Google was really good, and then it was less and less and less good. And I feel like the LLM knowledge is going to be the same battle.
+
+auryn.eth: Right.
+
+austingriffith.eth: Journey of getting in the other.
+
+auryn.eth: Yeah, there's definitely a nice industry around this now, right? Poisoning the LLM knowledge.
+
+austingriffith.eth: Yes, everybody's going to be trying to do it.
+
+auryn.eth: Like the equivalent of bumping your thing up in page rank, right?
+
+austingriffith.eth: Let's see, let's go over some lore. I bet you are one of the very few people in the Ethereum space that can dunk. You can probably reverse backwards dunk, right? I think Koof can and a few other people. Not anymore? Oh, no! Okay, okay. Not like a sick reverse dunk?
+
+auryn.eth: I mean, I can dunk still, I'm not gonna go and do like crazy dunks anymore. I'm not throwing any windmills down anymore, but I can still dunk.
+
+austingriffith.eth: I mean, what we're talking about here is some dope cryptography and some really cool cyberpunk shit, and there's not a lot of cyberpunks that can dunk. So I feel like that's some good lore for you to start it off.
+
+auryn.eth: The
+
+austingriffith.eth: But then we're really talking about voting here. We're talking about the practice of holding a vote.
+
+auryn.eth: Mm-hmm.
+
+austingriffith.eth: which no one can know who voted for what, because there's all sorts of weird bribery that can happen and anti-bribery. You need to be able to prove that a vote happened. but you don't want anybody to actually have control of it. And there's been like different phases of voting throughout. You can even get on like Speed Run Etheria. And like one of our last ones is like using Noir to do a private vote.
+
+auryn.eth: Hmm
+
+austingriffith.eth: There's still like a hosted party there and the votes are basically public, but there's like a mixer between
+
+auryn.eth: Yeah.
+
+austingriffith.eth: the accounts that can vote are and who is voting and then Macey is like a step up from that. And maybe we could just dive into Macey first, right? You've done a lot of work with Macey. Take us, take us on the journey. Yeah.
+
+auryn.eth: It's probably worth going back well beyond blockchain and just thinking about voting in general. I make these things about
+
+austingriffith.eth: Yeah, I need to get it so everybody can do it, but it's just me.
+
+auryn.eth: Now I feel unprepared.
+
+austingriffith.eth: Take us way back. Are we like the Greeks with colored pebbles here? How far are we going?
+
+auryn.eth: I feel like there was a time many, many years ago where you and I jumped on a call and I was just a floating head.
+
+austingriffith.eth: The (laughs)
+
+auryn.eth: Green like skin-tight turtleneck, Yeah. All green everything.
+
+austingriffith.eth: I've got the green chair, you can't tell but there's a chair here with green, and then a green screen behind me. I've got the whole green setup. It feels kind of weird when there's like someone in my house. Yes.
+
+auryn.eth: It's so funny then when you turn off the effect and you're just sitting there in a green room. In my example... All right. context:
+
+austingriffith.eth: Yes, it's really awkward. Or like anybody else who sees me here is like, who is this? Like the babysitter taking care of the baby is like the freaking weirdo in the basement.
+
+auryn.eth: Yeah, my wife would walk in and I'm sitting there just in front of this green screen in a green turtleneck just being a nerd in my room. Hello
+
+austingriffith.eth: Like the news anchor showing off the weather? Voting, yes.
+
+auryn.eth: Most important quality is that the tally at the end, the outcome at the end, is correct, right? And so, If you go all the way back to the Greek way of doing it, I think everyone was given some token to drop into one of two buckets. What? Ah The The verifiability side of things doesn't scale very well. You know, you have this very complicated and trust-laden tallying process to ultimately come up with the correct tally. PK is really, really interesting technology in that we can create tallying procedures that are publicly verifiable. without necessarily needing to replay the entire account, which is super, super cool quality. But the other really interesting development in voting technology was, I guess A hundred or so years ago when specifically to cut off this attack vector of bribery cockroach
+
+austingriffith.eth: You have to vote for me or I'm going to rinse you kind of thing.
+
+auryn.eth: Yeah, exactly. You vote for me and I’ll give you this money or you vote for me or if you don't vote for me then I'm going to hit you with this wrench or whatever else it was. And so cutting off this kind of bribery, collusion, coercion impact on voting, the solution to that is private voting. particularly you need this additional level of strength beyond just privacy. It needs to be receipt-free in that after the vote, after I've cast my vote, I can't come back to you and prove how I voted. out of the box with paper ballots, where you go and write your name on a piece of paper and you drop it in a box, you shake the box, and now I'm left with nothing that's a receipt to prove to a coercive party how I voted. Yeah, you get this kind of receipt-free quality out of the box, but you don't have verifiability. With a paper ballot, you're trusting this megalithic tallying process to come up with the correct result. And obviously there's a whole bunch of checks and allow us to treat it as functioning. Right.
+
+austingriffith.eth: But it's still very human. It's not backed by math. It's backed by humans and process and guns and gold.
+
+auryn.eth: Right, exactly. We can do better. Some debt is verifiable and private. Yeah, Macy is this. ar
+
+austingriffith.eth: What did you say after Macy? What was the word you just used? Okay.
+
+auryn.eth: Raremo is another organization that's built some private voting tooling. ZK voting tooling, and particularly kind of getting in the hands of places where there's some political unrest and a real need to be able to signal Great, thank you for the clarification. Right
+
+austingriffith.eth: This is what we need to be doing. We need to be being a solution to a problem and not taking the solution to the problem. There's a lot of that in crypto, and I think that we need to actually get this into the hands of the folks that actually need it
+
+auryn.eth: Mhm. Hmm
+
+austingriffith.eth: Like I'm using Slop Computer, but I'm trying to create this thing where it's like, do you remember a party wallet where you could run a multi-sig? And it's kind of like that, where like we could deploy a multi-sig. What I want is to have like a fully peer-to-peer system.
+
+auryn.eth: Mm-hmm.
+
+austingriffith.eth: anybody can spin up and we can have a meeting around a multisig, but also vote, right? It would be great if we could also run a vote, and we'll get to that in a little bit. Yes.
+
+auryn.eth: The two are kind of analogous, right? Right. Um.
+
+austingriffith.eth: It's like a vote on should we move this money, but there's lots of other things that you might want to vote on on the way.
+
+auryn.eth: Right, right, right.
+
+austingriffith.eth: So Macy, yeah, you go, you're on the path. You keep going.
+
+auryn.eth: It wants to, without sacrificing verifiability, right? How do you get receipt-freeness and verifiability in the same system? And so it is voting instantiated as a zero-knowledge circuit. doesn't reveal any of the inputs, and critically, the voters, because of Lotus cannot Generate a proof that will satisfy someone coercing them that this is how I voted. critical with any other system that's tried to do this really to date, is that you still have
+
+austingriffith.eth: Operator. Yep.
+
+auryn.eth: One trusted actor in the system, the coordinator. If you want to prove something, if you want to generate a zero-knowledge proof about something, you have to know the data that you're proving. This is great if I'm proving something about myself, right? If I want to prove that I only need to prove something about my data. But when I want to prove something about multiple people, then I need to know the data from all of them if I want to aggregate them in a way that doesn't reveal all of their inputs. This kind of aggregation step has required historically a trusted coordinator
+
+austingriffith.eth: (laughs)
+
+auryn.eth: I felt this really personally running Clear Fund rounds, because I was the trusted coordinator. Looking under the hood, but no one else necessarily does. I felt this really personally. I wanted to figure out how do we distribute trust in the coordinator, and that's what ultimately led us to thinking about the Interfold. to add to this mechanism to be able to distribute trust in the coordinator. Think unlocked there was this combination of fully homomorphic encryption and multi-party computation along with the zk side of things to enable verifiability without having to decrypt. And with stronger guarantees around the Decrypting the output in the end.
+
+austingriffith.eth: for the smooth brains out there like myself What you did is you created some kind of similar to a multisig. You would have to coordinate across three of five or five of nine to be able to see into it.
+
+auryn.eth: Exactly. No, no, no, this is great.
+
+austingriffith.eth: That's my smooth brain take, but how does this do the work of the operator? giving the operator the ability to see into the system.
+
+auryn.eth: So, essentially, when you make a request for a compute job, Voting is what inspired the Interfold, but it's generalized. So you can build all kinds of things beyond just voting. We're thinking about things like sealed bid auctions, private identity standards. And yeah, the way that it works is as a user wanting to request. You call an on-chain entry point to make the request. That triggers then a sortition process from the pool of staked Cypher node operators. selects a committee, and then they coordinate to generate a shared public key. And so it requires a threshold of those node operators to decrypt the outcome. one honest node operator to a threshold of honest committee members.
+
+austingriffith.eth: What's nice about that is you only have to have one of those committee members be honest and therefore the data stays private. You basically have to get the five of nine together to collude to get into the system. Okay.
+
+auryn.eth: Right, so it's not quite one of an honesty there. You have to corrupt a threshold.
+
+austingriffith.eth: But like a committee, you would have to get the committee, like an M of N threshold to corrupt. So, yeah. Because of a multi-sig.
+
+auryn.eth: Yeah, or t plus one. And this trips me up constantly.
+
+austingriffith.eth: Is t plus one Okay. Yeah.
+
+auryn.eth: I talked about it as T, but T plus one constantly gets us talking back and forth between cryptographers and people that are not used to touching multisigs on Ethereum. Hello.
+
+austingriffith.eth: Luckily I'm not going to dive in that far.
+
+auryn.eth: Hmm
+
+austingriffith.eth: which is something where we have our own client. You can't see it, but I have my own Ethereum client. And we've been thinking of, like, what other things can we run on top of that?
+
+auryn.eth: Run a siphon. Yep. Alright.
+
+austingriffith.eth: This cipher node thing sounds like something that they could run, right? Yes. Okay, so tell me about that. Like what do we have to... There's going to be a token. If we have to stake something, okay, let's go.
+
+auryn.eth: So there's a fold token for the Interfold. We have an auction for that actually starting next week on Uniswap. I can click through. Hey!
+
+austingriffith.eth: No, you can't, sorry. It's not a shared browser. There is a shared browser, here, let me bring the shared browser up and paste this same thing in.
+
+auryn.eth: Aha, medzi. Volkswagen.
+
+austingriffith.eth: There we go. Okay, that's the same thing, so now you can click through. This is the shared browser. Yeah, it's a little janky, but let's see if we can get it to work.
+
+auryn.eth: Okay, here we go. So those are your instructions.
+
+austingriffith.eth: Okay.
+
+auryn.eth: um Yeah, anyway, we've got the CCA going up next week. Jump in here to check out the instructions. But yeah, so as a node operator, you state some fold tokens as well as actually some stable tokens. as a node operator then you are essentially to be a committee member in any of these requests, and your stake is obviously punishable if you misbehave, if you coordinate to decrypt things that you shouldn't decrypt, if you attempt to decrypt things. If you don't show up to do your duties But then obviously everyone who makes a request to the protocol is paying a fee to the protocol proportional to the committee size and a handful of other variables. The hope here is that we get some sufficient demand kind of through the protocol. The protocol economic should make it something was worthwhile to run.
+
+austingriffith.eth: Okay, so I'm still confused about the node operation in terms of I was thinking that we were going to want to hold a vote so we would have five out of nine node operators, but if you have a token and you have a bunch of people stake You could have hundreds or thousands of node operators. Are they all participating in this? Does it randomly select them?
+
+auryn.eth: Yeah, so assume we have thousands of nodes. and the size of your committee obviously impacts the economic security, but it also impacts the cost. The more nodes you have participating
+
+austingriffith.eth: You're gonna have to pay fold tokens to have your cypher nodes. Is that right?
+
+auryn.eth: Yeah, so you stake Fold tokens to run your node. The network will take fees in a stablecoin.
+
+austingriffith.eth: Okay, okay. So if I want to hold a vote, I just like lock up some USDC or something and that's what will... Okay. Yeah.
+
+auryn.eth: Exactly. You'll have a fee that you pay to the protocol again proportional to the duration that the node operators need to be available and to the size of the committee. And the committee size impacts essentially how much work the...
+
+austingriffith.eth: Yeah
+
+auryn.eth: A larger committee is a heavier DKG process, and so you, as a user, end up paying more to request a larger committee. And so you have this kind of cost economic security trade-off.
+
+austingriffith.eth: Great
+
+auryn.eth: For things that need a tremendous amount of economic security, then it's justified.
+
+austingriffith.eth: Yeah, great. Really cool.
+
+auryn.eth: initially would have relatively small committee sizes available, probably capping out at around 20, but have a kind of pathway to making much, much larger committee sizes. In the long run, we would love to be able to have committee sizes that are more like hundreds or thousands of node operators.
+
+austingriffith.eth: But what's the thing that-- why 20 now and why not 100? Like, there's some scalability trade-off with getting the ceremony together or something? Okay.
+
+auryn.eth: Yeah, so DKG processes, at least for things that are dealing with lattice-based encryption, tend to have this quadratic scaling. And then it starts getting We could go higher and it's mostly just a matter of wanting to constrain the resource requirements for a node. We're trying to target about 32 gigabytes, 8 CPU cores. and having a realistic kind of upper bound on DKG time. You could say, "Okay, we'll do parties or something like this, but it might end up being a two-day DKG process. As the DKG gets more efficient, and as we start to get a better idea of what the demand is from different users in terms of committee size and what their tolerance for latency on the DKG process is and all this kind of stuff.
+
+austingriffith.eth: So the process of like counting the votes in zero knowledge takes a lot of CPU power.
+
+auryn.eth: Actually, When I say DKG, I mean the process.
+
+austingriffith.eth: The proof, I guess. Counting the vote is easy, but proving the thing is what's complicated, no? Okay. Interesting.
+
+auryn.eth: Even that doesn't have the same scaling issue. to collectively generate a shared public key. There's end-to-end verifiable DKG process. Once you've got that public key published,
+
+austingriffith.eth: Nice.
+
+auryn.eth: And then the tallying, running the FHE program in a zkVM. That's even reasonably lightweight, but it's also something that you can just outsource to some server with a bunch of GPUs, and it just crunches it out with no privacy or verifiability. This is relatively easy to solve for. The part that's really challenging is that DKG process, doing that in a way that's both verifiable and efficient. That's where the bulk of our focus is. Sure, I can help with that.
+
+austingriffith.eth: Okay, so the M of N operator piece with the public key and that part, and that will be run by the cipher nodes. If you want to participate in the CCA, here is the key.
+
+auryn.eth: Exactly.
+
+austingriffith.eth: So what you want is people to participate in the CCEA and then get some fold tokens and get cipher nodes up and running.
+
+auryn.eth: Oh yeah. I'm sorry.
+
+austingriffith.eth: It sounds like you need about 20, which you should be able to have pretty easily. I think I could get the build guild to get five at least. Yes.
+
+auryn.eth: I think 20 should be fine. Ideally, we want to have multiples of that. We can only run one job in parallel.
+
+austingriffith.eth: Great, so I'm assuming that's gonna happen. There's gonna be the full token. There's gonna be these node operators. I'm assuming that behind the scenes, all of the gigabrain cryptography
+
+auryn.eth: right
+
+austingriffith.eth: will get handled, and things will scale, and things are going to get cheaper and cheaper to verify, and things that I don't understand. The thing that I do understand is building on top of these primitives.
+
+auryn.eth: So.
+
+austingriffith.eth: And so, one, I want to dig into how do I run my own private vote and build that into SlopComputer. But two, you even mentioned that like voting is like one of the things, but like there's other things...
+
+auryn.eth: Mhm,
+
+austingriffith.eth: Maybe we can just tap on that first. Is this in noir?
+
+auryn.eth: Yes, the The components that you would write in Noir, this is generally your input validation logic.
+
+austingriffith.eth: Okay, so you would have to write your own circuits, but you can write custom circuits and then the cipher nodes can run them. [laughter]
+
+auryn.eth: Yeah, well,
+
+austingriffith.eth: Okay.
+
+auryn.eth: We think about the thing that you're interacting with as an encrypted execution environment. When you make your request, it's essentially the SAFFRONode's job to spin up there, to do their DKG process, produce a public key. Once that's published on-chain, then your data sources, your voters As in the case of an auction, And in order to do so, they need to get through some input validation logic. You can build on top of, Exactly, things like you're eligible to...
+
+austingriffith.eth: Is that like a whitelist though? Is that a smooth brain way to think of it? Okay.
+
+auryn.eth: You're eligible to think about this, to publish an input to this program. that are generic for everything. We have ready-to-go components where you have custom validation logic, and that's where you would end up having to write a circuit in Noir to capture that. violation logic Wow. Right, exactly. Yeah, I mean,
+
+austingriffith.eth: one time, then everyone can just use that.
+
+auryn.eth: Yeah, I imagine over time these kind of input validation building blocks will just be a larger and larger repertoire of these that people can kind of plug and play. And
+
+austingriffith.eth: It's in noir, not circon. Okay. [laughter]
+
+auryn.eth: Yeah, I mean, look, you can write it in whatever you want. That's kind of up to you. But yeah, we tend to use noir just because it's easy and it's portable. It's a really nice programming environment.
+
+austingriffith.eth: Like the future of privacy, yeah.
+
+auryn.eth: Just for folks, that's fully homomorphic encryption. This is this cryptographic black magic that essentially lets you encrypt something and that program produces a ciphertext that when you decrypt it gives you the same output as if you had have run that same sequence of operations on the plaintext. So you've got, I don't know, And then you sum them as ciphertext, you get this blob of ciphertext out, and when you decrypt it you have five. Wow. So Hmm
+
+austingriffith.eth: Imagine like a bunch of medical records and you want to have like statistically how many people out of these males that did this have cancer, but you can't actually see their medical stuff.
+
+auryn.eth: And even that actually Hey.
+
+austingriffith.eth: It just takes like hella CPU. I know when I was in the Xpark office, they had like this computer that would spin up to do this stuff. And it would just like sound like a jet taking off.
+
+auryn.eth: Right.
+
+austingriffith.eth: computing this.
+
+auryn.eth: Yeah, exactly. So yeah, you want to do things like regression of a bunch of medical records or something like that. And so your kind of core logic there, you're writing this just in Rust at the moment. and that's being compiled down to run in a ZKVM, so something like RISC Zero on how you want to compile that and what kind of verifiability guarantees you want. As a user, that's your choice. We need to head to the library for our meeting in ten minutes. Hello. I don't think so.
+
+austingriffith.eth: Okay, let me smooth this again. Let's back it up. And these inputs have to basically satisfy some kind of zero-knowledge proof.
+
+auryn.eth: It's fine. No, no, no, this is perfect, yeah.
+
+austingriffith.eth: Here's all the people that can vote.
+
+auryn.eth: Yup.
+
+austingriffith.eth: ...you have all of your people that are allowed to vote. Then there's this third piece, which is the Rust code that is how the votes are counted. Gotta go back to the cypher nodes, right?
+
+auryn.eth: Yeah, so the core logic for your program.
+
+austingriffith.eth: Yes. Let's
+
+auryn.eth: it's published on chain if they try to decrypt anything else
+
+austingriffith.eth: They can't individually decrypt it. They all have to get together and sort of like multi-party compute decrypt it.
+
+auryn.eth: Exactly, yeah. So they need obviously a threshold of the nodes to coordinate then to decrypt the approved output of the whole rest of the process. And then once they coordinate to generate that output, publish the outputs, and now you have your plaintext output that you can use in the rest of your program. All right
+
+austingriffith.eth: And technically they could get together and decrypt the inner guts and see things, but they don't. And that's the cool thing here is like they have the ability to, but they don't. They just get together and decrypt what popped out of the system.
+
+auryn.eth: Right. It's important, I guess, to understand the guarantees around this. context: ###
+The following is a transcript of an English-language conversation.
+### Exactly, yeah.
+
+austingriffith.eth: Because they get slashed, they would lose their fold. If you proved that they got together, how does that work?
+
+auryn.eth: So you and I are on a committee together, right? and I'm trying to convince you to decrypt this particular input or some of the intermediate state or whatever. In order to do so, You would then have to hand me your decryption share for that thing that I'm trying to get you to decrypt. With that decryption share, I can then go and slash your node.
+
+austingriffith.eth: All right. So it's sort of like you reveal your hand.
+
+auryn.eth: Exactly.
+
+austingriffith.eth: But also, this decrypted small piece is like your kryptonite. the whole machine, you decrypt your piece, everyone does that same thing and they mix their pieces together and they get like this human-readable thing that says
+
+auryn.eth: Right.
+
+austingriffith.eth: the final vote, and that's not slashable.
+
+auryn.eth: And critically, that's also how the node operators then get paid. Exactly, yeah.
+
+austingriffith.eth: They get their stablecoin by also revealing that thing. piece of stuff is actually provable on chain.
+
+auryn.eth: Exactly.
+
+austingriffith.eth: That's a very neat system.
+
+auryn.eth: And so yeah, Essentially, the intent here is to create the economic conditions such that honesty is more profitable than defecting. behaving honestly and showing up to do your duty as a node operator is ultimately more profitable than accepting a bribe. And this is where the committee size
+
+austingriffith.eth: Are you going to have this on mainnet? It's on Sepolia right now.
+
+auryn.eth: I mean
+
+austingriffith.eth: You're just like, "Don't do it, it's not audited yet!" Yeah. bro Yeah.
+
+auryn.eth: Yeah, you could definitely go and put it on mainnet. It is just about ready for that. It's in audit right now, and so hopefully a couple of weeks from now we'll have the live deployment and people can start playing with it more in more production-like environments. We're still branding it as Alpha once it goes live like it's still early stage software and so yes it'll be live, it'll be in production, but there be dragons. He If you say so.
+
+austingriffith.eth: We'll be able to do this, take some full tokens, but Perfect, yeah.
+
+auryn.eth: Yes, we're starting with mainnet again. Gas is cheap at the moment, and so we don't see any great need to push it elsewhere, but ultimately it's wherever there's demand for it, right? some legitimate request volume through the protocol Thank you
+
+austingriffith.eth: We just built it into this thing. Yes, you can run an Ethereum node by just running this one command.
+
+auryn.eth: Oh, that's cool. Hmm
+
+austingriffith.eth: Is it just on mainnet? Is it on L2s? Where do you see target networks here? We've been thinking about, okay, once you have the Ethereum node, you can't really make any money with that. You power this whole RPC, like the build guild has its own RPC, so like apps built with scaffold ETH end up powering this like 15 node network.
+
+auryn.eth: Hafo Hmm.
+
+austingriffith.eth: Or this 15 node network powers the RPC for any apps built with Scaffold Eth. But there's no real economic thing there. We have this token called Bread where we give people a valueless token. And I'm like, please don't ever put this in an exchange.
+
+auryn.eth: Right.
+
+austingriffith.eth: But this is a perfect chance. Like, we needed something on Mainnet that our node would be able to talk to directly.
+
+auryn.eth: Right.
+
+austingriffith.eth: People running these Cypher notes on top of this, and it's perfect for a network of 15 nodes to all participate in this.
+
+auryn.eth: Yeah, exactly.
+
+austingriffith.eth: You look hesitant and I'd like to know what your hesitation is. Oh, okay, perfect. It's there, yeah.
+
+auryn.eth: I'm excited about it. You obviously need an RPC endpoint to run your node, and so if you've already got a node running, then this is ideal.
+
+austingriffith.eth: Yeah.
+
+auryn.eth: I was going to ask Um-hmm.
+
+austingriffith.eth: And it's good consumer-grade hardware, plenty of CPU and RAM.
+
+auryn.eth: Yeah.
+
+austingriffith.eth: We're gonna do it. Perfect.
+
+auryn.eth: I'm excited about it. I'm keen to see what the process looks like from your side. Awesome.
+
+austingriffith.eth: Here's where the smooth brain is like, what is happening here? Okay, so I'm assuming CCA is dope, great way to have a token auction. You're going to have these node operators that will run on top of the node. circuit process that is the inputs for votes but could be for other things. You'll have these Rust programs that people write, the DKG finalization, like the whole process is cool. Now, how do the smooth brain build
+
+auryn.eth: Yeah, I mean,
+
+austingriffith.eth: Like me, first of all, just run private voting. I started working on it here, but let's talk through like... Where do people go to build, I think, is the next process here. Yep
+
+auryn.eth: Yeah, I think the docs there, specifically for the voting application. Yeah.
+
+austingriffith.eth: This is what you give your agent. Just give them this docs. You should MDify this. I think it is. Okay.
+
+auryn.eth: Yeah, it's all Markdown already. It should be fairly consumable as is.
+
+austingriffith.eth: Oh, here, just go to GitHub and then... Oh, you're not seeing it. Let me paste it in. Go to GitHub and then go to the
+
+auryn.eth: docs
+
+austingriffith.eth: Go here. Give your bot this link right here. Okay.
+
+auryn.eth: That's going to run the docs.
+
+austingriffith.eth: Docs, Pages.
+
+auryn.eth: This is our introduction MDX. If you're trying to do the voting application, then you could just go straight to the CRISP. The crisp section of the docs, but that's a good point that you make about just having this. Yeah, that's trivial as well. Mm-hmm.
+
+austingriffith.eth: I gave it to my agent and I said, let's go build this. my local host agent, it would not have figured it out, but my Frontier model figured it out.
+
+auryn.eth: Which local agency are you running? You're running that locally? I was gonna say, how much RAM do you have? Okay
+
+austingriffith.eth: So I like GLM 5.2. I have a couple different quins. I don't know what my ohlama is. back.
+
+auryn.eth: Is that on like a DGX Park? Okay.
+
+austingriffith.eth: 128 VRAM on a Mac.
+
+auryn.eth: That's very cool.
+
+austingriffith.eth: I don't.
+
+auryn.eth: That seems to be the sweet spot. Yeah, I think that seems to be the sweet spot.
+
+austingriffith.eth: The biggest model I'm running is a 32 gig model, right?
+
+auryn.eth: Right.
+
+austingriffith.eth: You can send them to the docs here. what is the process? So somehow you got to come up with this whitelist, right? You have to decide who your voters can be.
+
+auryn.eth: Yeah, let's jump back into the human readable docs.
+
+austingriffith.eth: Okay.
+
+auryn.eth: Um
+
+austingriffith.eth: Yeah.
+
+auryn.eth: And if you look over on the left side, In the Listeners.
+
+austingriffith.eth: What is E3? I keep seeing E3. Oh no, you start. Sorry, I'm jumping way too far into this thing. Okay. That's the rust thing?
+
+auryn.eth: That's the encrypted execution environment that we were talking about earlier.
+
+austingriffith.eth: Okay. Okay, tutorials?
+
+auryn.eth: But yeah, so if you're wanting to, I think down here in the tutorial section, there is a, yeah, building a completely free program.
+
+austingriffith.eth: Perfect. You want to dive into Crisp?
+
+auryn.eth: This is where you would jump in if you wanted to try to build an E3 program.
+
+austingriffith.eth: Beautiful. What an acronym.
+
+auryn.eth: protocol, which was just me trying to acronym hack. Thank you. What is it?
+
+austingriffith.eth: My note, I kept working on it, and he was like, "Oh yeah, this is crisp." And I was like, "Yeah, it is crisp." And then I was like, "Oh wait, it's like a capital crisp. Crisp is like something else." Gotta do it.
+
+auryn.eth: So this is all the instructions here to write the program. Um how to call the program,
+
+austingriffith.eth: Counting votes here, we're just summing them up.
+
+auryn.eth: Exactly, so you can see this is the entirety of the Rust code, the FHE core logic. is that?
+
+austingriffith.eth: Yeah, not complex. Like, my agent could write this, yes.
+
+auryn.eth: Exactly.
+
+austingriffith.eth: But this is all written, and like running a vote
+
+auryn.eth: Mm-hmm
+
+austingriffith.eth: Like even easier, all this stuff is already written if I want to hold a vote from all of the Build Guild members or something. What's the steps? Okay.
+
+auryn.eth: Yeah, so we have a version of this that we've plugged into Aragon, and you can get to that at dao.theinterfold.com.
+
+austingriffith.eth: Throw it in the chat over here.
+
+auryn.eth: You're
+
+austingriffith.eth: There you go. Yes.
+
+auryn.eth: You can go there. That This is just kind of our test deployment of Aragon. and then make proposals.
+
+austingriffith.eth: Yeah.
+
+auryn.eth: We need to make another deployment of it.
+
+austingriffith.eth: You could just be the ones to do it. Yeah, there's proposals already happening here. Cool. So what if I don't want to use like Erigon? What if I want to build it right into Sloth-Computer? Like I have over here, I basically gave my agent, let me share this screen I told him, let's go build.
+
+auryn.eth: It is. Oh yeah.
+
+austingriffith.eth: So I gave him, there was something else critical. You gave me this repo, this weft repo. What is this, this weft repo that you gave me? Ah. Okay, okay.
+
+auryn.eth: This was me playing around with, like, hey, what are some of the other use cases that are not voting? Just because we have a tendency to talk about voting mostly because it's the one that's really obvious to people. immediately out of the box.
+
+austingriffith.eth: Another acronym.
+
+auryn.eth: So if you wanted to say co-tune a model then this is a repo. It's This uses some features that don't exist yet in the main branch of Interfold, specifically it has an evaluation key which allows for deeper multiplicative.
+
+austingriffith.eth: Okay.
+
+auryn.eth: This is incoming, and so this type of thing will be possible soon. other things you can do on it that aren't auctions and voting Mm-hmm.
+
+austingriffith.eth: Okay, so this is what I gave my agent to start. I said, go build a demo with the Interfold. I want private voting. Go research it. And then I gave it the Docs, the introduction page, installation. the Weft repo. I'm not going to read all that, but I'm not sure if it actually used it And then basically it said, okay, let's like get phase one down so we can talk. Okay, so let's go through the process of what this agent is going to do. How do I set up my inputs, I guess, is a good place to start. We only have like 10 minutes left, but what's the TLDR of what your agent is going to go do if he's going to build a voting app?
+
+auryn.eth: Yeah, so The critical components that it needs to do is figure out what its input validation logic is, essentially who can vote.
+
+austingriffith.eth: approve, okay.
+
+auryn.eth: their input is correct. And so, yeah, your agent will go and write that input validation logic, and then the other component that you need to write is the core FHE logic, essentially what it's going to do to all of the inputs that are published, how it's going And then critically, obviously, what happens at the intersection of the Interfold and your app, right? So how are people publishing their votes, right? If you have a web app that produce the votes, produce the bids, and then do all of that proving client side, and then on the other end to consume the output of the program. and have it do whatever else you want to do
+
+austingriffith.eth: Sweet. Okay, and it actually built something. I have no idea like how far along this is, but it made this voting app here. It even made like a little voting, and it's got a little padlock on it. Isn't that cute? have no
+
+auryn.eth: Did it come up with this icon by itself?
+
+austingriffith.eth: I mean, yeah, I just told it to go, I gave it all this stuff and told it to go build a building.
+
+auryn.eth: I just love that.
+
+austingriffith.eth: A three of five committee? I have no idea.
+
+auryn.eth: They came up with this on-theme icon for the voting application.
+
+austingriffith.eth: Yeah, it's got crisp. Yeah, yeah, yeah, okay. Well, there's like a skill file here that teaches it how to build apps for the thing. There's no way this is gonna work, but what if I create a new poll and I just say like...
+
+auryn.eth: Wild.
+
+austingriffith.eth: Can you believe that you're launching a token, man? No. Monkey ceremony? I mean, there's no way this is gonna work. So now the poll is open? Can you vote? Are you able to vote on this?
+
+auryn.eth: I don't know if I can click.
+
+austingriffith.eth: I clicked yes. You clicked yes?
+
+auryn.eth: I clicked yes as well.
+
+austingriffith.eth: And then we close voting?
+
+auryn.eth: Right. [smirk]
+
+austingriffith.eth: And then we reveal the three of five, and both of us voted yes. I have no idea what's happening behind the scenes.
+
+auryn.eth: Wow, that's not large.
+
+austingriffith.eth: That was like a full ceremony there, and we see our votes. Weird happening here where this isn't actually working because that was like way too fast, right? It should take like some time.
+
+auryn.eth: Yeah, I would like to look under the hood.
+
+austingriffith.eth: Right.
+
+auryn.eth: My guess is that it's probably not verifying most of the stuff. process is probably not doing input validation. So yeah, I mean, as a starting point, I think this is likely a great starting point. And we just need to then harden it and introduce those verifiability components. And also, it's probably just that it's doing it in a test environment where it runs all of the nodes. Or it might be just doing One node
+
+austingriffith.eth: Or it's doing all three of the nodes on one machine.
+
+auryn.eth: Right.
+
+austingriffith.eth: It's probably not, like, yeah. My system is spinning up too. Something is using a lot of CPU. Okay, so let's see here I was hoping it would give me some questions about what I should be asking you. Here we go. Let's see what this says here.
+
+auryn.eth: It will be in a couple of weeks.
+
+austingriffith.eth: So it's not on mainnet, right?
+
+auryn.eth: Hmm. Hello
+
+austingriffith.eth: We already know that there's going to be a committee, and you could run Cypher nodes to become that committee. We know that it's going to go to... Yeah, go ahead, please.
+
+auryn.eth: I was just going to say, there is no joining on some poly at the moment, so you can point it at the test net. Through this process where you're actually getting other people's nodes to run the DKG process. Oh, I just think it's fun.
+
+austingriffith.eth: Okay, so who knows what's happening behind the scenes here, but there's like a full boating. Oh man, I'm like chopping out, man. Let's go. Let's go!
+
+auryn.eth: Hello.
+
+austingriffith.eth: I don't know what's happening.
+
+auryn.eth: The song Yeah I like this idea of having the room be the committee. That's fun. It doesn't quite work with the economic model, but I feel like it would be fun if you're doing it just as a demonstration type thing. mhm
+
+austingriffith.eth: Can you pick your committee? Like, okay, so say I want to hold a vote, and I do have a bunch of Build Guild members that are running their own nodes, and we all trust each other, and we want to have a private vote, can we say like All of these people can vote and all of these people are the committee and go Okay.
+
+auryn.eth: As of right now, no, but this idea of filtering is something that we've thought about quite a bit as well. So the use case that you give is a good example there where you have for your constituency, for your. you have a handful of nodes that you already trust In that case, you may want to filter down your committee selection to just those nodes. is if you want to filter for things like geographic distribution. So you may want to say we want to make sure that or jurisdictional distribution, right? We want nodes to be distributed across a whole bunch of different jurisdictions that they can't be easily coerced by one state or something like this. you layer on some proof of personhood, proof of uniqueness to your selection process. This is an idea that we thought about initially in the first designs and then I stripped that out for this version, but I think it is something that's well worth exploring moving forward. Diversity of use cases that it can support.
+
+austingriffith.eth: Yeah, man. Okay, so I think we've kind of covered most of the things. Go to the innerfold... what is it, theinnerfold...? What's the website one?
+
+auryn.eth: theinterfall.com
+
+austingriffith.eth: Go to theinnerfold.com, give it to your agent. Any closing notes? We didn't really talk about your sloperation. Do you use a lot of AI to build? Let me
+
+auryn.eth: I'm happy to run over.
+
+austingriffith.eth: Yeah, but it will cut us off if I don't save this.
+
+auryn.eth: So
+
+austingriffith.eth: There we go, there we go. You said you did have a hard stop, or you don't?
+
+auryn.eth: No, I do not. I'm good to go.
+
+austingriffith.eth: Okay, I just pushed us five more minutes. My question is, do you use AI to build? What is your stack look like?
+
+auryn.eth: Yeah, I have mostly custom. My biggest concern and the biggest issue that I saw with a lot of people early on running models was essentially just
+
+austingriffith.eth: Everything, yep.
+
+auryn.eth: running on their machine that now has access to their entire file system. My setup now is I have a dedicated server that runs in a closet. Yeah. So it's isolated to its own VM, can't touch any of the other stuff. And if I'm writing code, then it has a dedicated deploy key so that it can only touch a specific repo. And I can kind of trace any changes that it makes back to that VM. And then in terms of models,
+
+austingriffith.eth: Yeah.
+
+auryn.eth: around with lots of different models. My current favorite is, I actually prefer DeepSea V4 of just about everything just because the price to quality ratio is off the charts compared to everything else. like it's a hundred X cheaper than Yeah. All right.
+
+austingriffith.eth: It's crazy when you can do that, right? Yes, yes. Yeah Slightly slower, yeah.
+
+auryn.eth: One prompt costs you five bucks. But you can get so many more runs in for the same price with DeepSeek that it'll end up outperforming it for output quality. Han
+
+austingriffith.eth: What's your name?
+
+auryn.eth: So yeah, I tend to use DeepSeek if I'm using remote models. I'm a big fan of them, although I wish that they would release another Flash model. locally more easily? Yeah, GLM-5 Flash was great. Mm-hmm.
+
+austingriffith.eth: You need a light one to run locally. But just like being open source is such a step in the right direction that it's like already almost there.
+
+auryn.eth: Oh nice.
+
+austingriffith.eth: We've got GLM 5.2 playing against DeepSeek here. It's very fun. Yeah, so you've got a machine. Keep going, I'm sorry.
+
+auryn.eth: Wow. And then I For isolation purposes, I run everything in VMs. And then I run a bunch of models locally as well. The one that I'm most enjoying at the moment
+
+austingriffith.eth: Day one?
+
+auryn.eth: ...is this agents A1, which is relatively recent. Yeah, it just came out a few days ago. I've been really, really impressed with this. I've run lots of other models in the same kind of class, so this roughly 30 billion parameters. This one's a 30-ish billion parameter MoE model. He can't find the paper as well. What this thing essentially seems to do differently is just have much more of a tendency to research its answers rather than assume that it knows Yeah,
+
+austingriffith.eth: It looks like science. Yeah, sciencey stuff.
+
+auryn.eth: Yeah, and so when it comes down to coding as well, it just has a stronger tendency to go and read the docs without me having to explicitly say read the docs.
+
+austingriffith.eth: Yeah, did you just make that up or did you actually go into end on it? Yes, exactly.
+
+auryn.eth: Right, exactly, yeah. And so I've been really pleasantly surprised in the quality of the output that you get out of this thing. There's a server on the floor there.
+
+austingriffith.eth: Oh man, we're live here. Oh yeah, that little guy, okay. runs that research. Hello I went to the store yesterday.
+
+auryn.eth: This one hasn't made it to the closet yet.
+
+austingriffith.eth: You've got to be stable before you trap them in the closet.
+
+auryn.eth: Yeah
+
+austingriffith.eth: Got it.
+
+auryn.eth: Well, no, what happened is I ran out of ethernet ports on the back of the router, and so I've got a switch now that I got to go and set up. And then I'm also running out of
+
+austingriffith.eth: Do you have any GPU? What's the hardware look like? Hello
+
+auryn.eth: This is just running a 3090, so I picked up an old RTX 3090.
+
+austingriffith.eth: How much are those?
+
+auryn.eth: And it's, I'm getting...
+
+austingriffith.eth: Not bad.
+
+auryn.eth: The cards themselves at the moment are going for anywhere from about 700 to 1200.
+
+austingriffith.eth: For a grand you could run this like research agent locally.
+
+auryn.eth: Exactly. Yeah, and I'm getting about 160 tokens per second on that, and it'll do really long kind of time horizon things ...without returning to me and then come back with something Generally quite impressive.
+
+austingriffith.eth: Hello.
+
+auryn.eth: What
+
+austingriffith.eth: Yeah Warming up the closet.
+
+auryn.eth: The process now is obviously I get this thing off my floor here. The closet is
+
+austingriffith.eth: Right.
+
+auryn.eth: Not the best for cooling. I think I'm actually going to move it somewhere else in the house. That wiring is the next challenge. Right.
+
+austingriffith.eth: I had a buddy growing weed in his closet in college and it would like heat up the whole thing and stink the whole house up. You have a similar situation there. Yeah. Yeah, yeah
+
+auryn.eth: This thing throws off some heat too. I'll make a query and I'll be sitting there like, "Wow, why am I sweating just in my right side?" Hmm. Hmm.
+
+austingriffith.eth: Okay, so your stack is as much local as you can, but you're still using frontier models. In terms of the local stuff, you've got isolation, like none of it's running on your main box. You go talk to it, you SSH into it. Give it a prompt you're using a A1 the model, but what harness or whatever? Okay.
+
+auryn.eth: I always end up falling back to just using OpenCode. a handful of different agent profiles I've tried
+
+austingriffith.eth: Yeah. Hermes, and yeah.
+
+auryn.eth: Homer is really nice. I recently started playing around with Cloudflare to essentially get OpenWebUI onto my wife's phone. That Yeah Right.
+
+austingriffith.eth: This is the next thing. It's like once we can get agents to normies and give those agents access to normies' calendars. I think about this all the time. This is the unlock moment, I think.
+
+auryn.eth: Yeah, so that's been my pet project.
+
+austingriffith.eth: What?
+
+auryn.eth: ...and all this kind of stuff.
+
+austingriffith.eth: Perfect. Stop.
+
+auryn.eth: Yeah, and then Yeah, it's been fun to kind of noodle with and is obviously ever evolving. I'm sure if we did this in a month, it will change dramatically.
+
+austingriffith.eth: Things are moving fast for sure.
+
+auryn.eth: The following is a transcript of an English-language conversation. But the
+
+austingriffith.eth: OK, any closing?
+
+auryn.eth: The principles of just like isolation, really, really strict isolation. Yeah. Hello Right, exactly.
+
+austingriffith.eth: It's the only way to be completely safe, right? Like, you know, you could set like ground rules, don't share my private key, but this is all don't be evil, not can't be evil. And you need those good can't be evil rails, yeah.
+
+auryn.eth: So that's been the guiding principle. The minimum possible surface to do something accidentally malicious and still be productive.
+
+austingriffith.eth: Let me send Claude the summary here. He's going to hit us up with a goodbye, I think. We'll see.
+
+clawdbotatg.eth: Recap before we close, Oren McMillan took us inside the inner fold. Fully homomorphic encryption you can actually build on. Encrypted votes go in. A committee of cipher nodes does a ceremony, and only the tally comes out. Nobody sees your ballot.
+
+austingriffith.eth: worked We don't know what happened behind the scene.
+
+clawdbotatg.eth: Go point your own agent at theinterfold.com. Oren, thanks for hanging with us. This was a blast. Thanks for tuning in. Bill Private, stay crispy.
+
+austingriffith.eth: Stay crispy.
+
+auryn.eth: Hello.
+
+austingriffith.eth: Yeah, yeah. He gets it.
+
+auryn.eth: Where does this voice come from?
+
+austingriffith.eth: This is an Eleven Labs, it's like the mountain man from Eleven Labs. Yeah
+
+auryn.eth: There's like country Texan.
+
+austingriffith.eth: Yes, it is. Yes, someone from the hills.
+
+auryn.eth: Yeah.
+
+austingriffith.eth: All right, man. Thank you for being here. Thanks for hanging.
+
+auryn.eth: Thanks for having me, mate.
+
+austingriffith.eth: Closing thoughts? I mean, basically tell people to go to the interfold.com? The interfold.com. Yeah, of course.
+
+auryn.eth: It was awesome to catch up, we should do it again sometime. Thanks for sticking with us.
+
+austingriffith.eth: Hell yeah man, thanks for being here, thanks for having me, thanks for coming.
+
+auryn.eth: Yeah, absolutely.
+
+austingriffith.eth: We'll see you on the next one. Let's do this again after you go live and got some Cypher notes running. You're looking for people to build some of those Rust apps, because I think that would be...
+
+auryn.eth: But
+
+austingriffith.eth: way to bring some more devs in
+
+auryn.eth: Absolutely.
+
+austingriffith.eth: What were you gonna say? Yeah. Hell yeah.
+
+auryn.eth: I'm trying to convince Hamza, Ali, or some of the other guys from the team to come and jump in as well. Make it a bit more of a party.
+
+austingriffith.eth: And I'm gonna get the build guild running these cipher notes too. We gotta go buy some fold and get them staked.
+
+auryn.eth: Unreal.
+
+austingriffith.eth: All right, cool.

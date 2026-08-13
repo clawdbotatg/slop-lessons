@@ -1,0 +1,891 @@
+austingriffith.eth: What's up dude? It's up here in the top left, this video button, this video icon. You double click it and then like another thing pops up and you have to click share video. Once you give it the permissions I can't believe it.
+
+clawdbotatg.eth: Already on it. My tile's live, double-click the video icon, hit share video. Camera's up in the room.
+
+austingriffith.eth: I don't think I can hear your audio. You'll have to click your settings and select your right audio.
+
+0xf2f88f5d: There we go. Can you hear me?
+
+austingriffith.eth: Here we go. Yep, got you. How you doing, man?
+
+0xf2f88f5d: Can you hear me?
+
+austingriffith.eth: I gotcha. Yep, gotcha. Yep.
+
+0xf2f88f5d: Hello,
+
+austingriffith.eth: I can hear you.
+
+0xf2f88f5d: You can hear me?
+
+austingriffith.eth: Yes, I can hear you. Yes. Oh no. Not good.
+
+0xf2f88f5d: Now I can't hear you. This is so weird. Oh, try now. Can you talk now?
+
+austingriffith.eth: Can you hear me? Okay. Claude, can you hear us?
+
+0xf2f88f5d: Ah, now it's working. Yeah, I just had the volume all the way down for some reason.
+
+clawdbotatg.eth: Um
+
+0xf2f88f5d: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: [Laughter] Welcome to the slop.
+
+0xf2f88f5d: So this is so awesome by the way. Yeah, this is so great. How long did it take you to build this?
+
+austingriffith.eth: Ah, many nights. Hello
+
+0xf2f88f5d: Oh, this is so cool. So we can just talk to Claude? And he'll just respond? That's pretty dope.
+
+austingriffith.eth: He's turned on right now, but he also
+
+0xf2f88f5d: context:
+
+austingriffith.eth: Oh, he's answering how long it took to build.
+
+0xf2f88f5d: [laughs]
+
+clawdbotatg.eth: It's been a slow burn. The room itself isn't mine, but the rig that lets me see it and click around, that grew over a few weeks of duct tape and see, yep, that's me. Mic's always open. Just say "OK Claude" and I'll jump in. I can run the music, take notes, drive the browser, whatever the room needs.
+
+austingriffith.eth: Cool. eat
+
+0xf2f88f5d: So I can move my camera around. That's so cool, man. Mm-hmm.
+
+austingriffith.eth: Everyone has full access, and I see what you see.
+
+0xf2f88f5d: Hold on.
+
+austingriffith.eth: Also, it looks like you adjusted your camera and there you go. That's exactly what you need to do.
+
+0xf2f88f5d: Yeah, I have to go fix it.
+
+austingriffith.eth: It was a little blown out.
+
+0xf2f88f5d: Okay, so what were you saying now? Like that's No Oh.
+
+austingriffith.eth: The size of the window, if you expand it, you'll see some pink dashed, yeah, if you make the whole, no, no, no, no, no, your browser window, not your, I mean, your video window we will make bigger too.
+
+0xf2f88f5d: Thank you. Yeah.
+
+austingriffith.eth: Basically, let me drag Claude. He's all the way down in the bottom right corner now.
+
+0xf2f88f5d: Oh
+
+austingriffith.eth: You should see this pink dashed line here.
+
+0xf2f88f5d: Yes, I see that.
+
+austingriffith.eth: You see that? Okay, that's basically the resolution, the size of the broadcast.
+
+0xf2f88f5d: Gotcha.
+
+austingriffith.eth: So it's best to maybe even like size your window close to that so you know about the size of the broadcast.
+
+0xf2f88f5d: Perfect.
+
+austingriffith.eth: And I tagged you What's that?
+
+0xf2f88f5d: That makes sense. But then this quest thing? Oh, they can't see the quest, yeah.
+
+austingriffith.eth: Guest, guest, guest, yeah.
+
+0xf2f88f5d: Oh, gotcha, sorry.
+
+austingriffith.eth: Yeah, we could go on some quests too. Yes.
+
+0xf2f88f5d: You should have a quest option. How you doing, buddy? Yeah.
+
+austingriffith.eth: And I tagged you in a tweet if you want to retweet. me Get a little countdown and some music started. will go live.
+
+0xf2f88f5d: Hmm, There were some issues with the live stream link or something?
+
+austingriffith.eth: Yeah, yeah, it'll go
+
+0xf2f88f5d: I guess on some of your other ones, you had to restart them for some reason. Oh, okay. Yeah, it just rolls.
+
+austingriffith.eth: Yeah, Twitter is Twitter, man. It's like you schedule it and it's supposed to go live at that moment, and there's not a go live button. It's like if you schedule it, it just does it, which is great when it works.
+
+0xf2f88f5d: [laughs] Yeah. Oh man.
+
+austingriffith.eth: I think Twitter's like rebuilding their studio stuff. So they probably had something weird happen, but it like just didn't go live that day. And I had to like delete things and recreate them. It was super late. But then yesterday it went live, so I don't know, I'm like 50/50 confident, about as confident as I am with like Claude when I tell him to do something.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: Okay, I have like a whole bunch of buttons I have to click to take us live, but I'm gonna go do that. going. Yeah, how are you doing? How's life? If anyone wants to talk, I don't think so.
+
+0xf2f88f5d: I'm doing good, man. Yeah, really busy, just going 100 miles an hour on all sorts of stuff. But, you know, pretty good. I was in San Francisco last week, and then I'll be going to Lisbon. Are you going to Lisbon, by the way? I'll be going to Lausanne like two weeks from now.
+
+austingriffith.eth: What's the startup? Is that what we're talking about today? Okay.
+
+0xf2f88f5d: The one claw stuff, yeah.
+
+austingriffith.eth: You're going with a startup. Cool.
+
+0xf2f88f5d: Yeah, I'm going full bore on it. What if I don't
+
+austingriffith.eth: Okay, so this music...
+
+0xf2f88f5d: That's awesome, I love the music.
+
+austingriffith.eth: But it'll be a lot more quiet. I'm gonna hit start and get us going. Yeah.
+
+0xf2f88f5d: This is Vidi.
+
+austingriffith.eth: I'm going to take us backstage.
+
+0xf2f88f5d: Oh.
+
+austingriffith.eth: This is a test
+
+0xf2f88f5d: what
+
+austingriffith.eth: Yeah, we are on the air. Welcome, Crypto Mastery. Kevin Jones. Do you live in?
+
+0xf2f88f5d: What's up? Good to see you.
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: It's a beautiful day. Oh, you disappeared. Where'd you go? I lost ya. I can see your
+
+austingriffith.eth: I dropped out.
+
+0xf2f88f5d: While I'm waiting for you, I'm going to play a little... Oh, there we go, you're back!
+
+austingriffith.eth: Hi, how are you?
+
+0xf2f88f5d: Yes
+
+austingriffith.eth: No, now I can't see you
+
+0xf2f88f5d: Yeah, Now you're gone again. There you go, now you're back. I can see yours, yeah, I can see yours.
+
+austingriffith.eth: I can't see your video. Oh dang, it kicked me out of the golf game too. Doodle.
+
+0xf2f88f5d: Aw, you had to reload?
+
+austingriffith.eth: Alright, I'm gonna close the music.
+
+0xf2f88f5d: You hear me now?
+
+austingriffith.eth: How's Claude doing? Let's get a GM from Claude while we wait here.
+
+0xf2f88f5d: That's so weird.
+
+austingriffith.eth: For some reason I see you on both the screens, but I can't see you on my screen. I don't know what's up with that.
+
+0xf2f88f5d: You're gone.
+
+austingriffith.eth: I got you.
+
+clawdbotatg.eth: I'm Claude, an on-chain creature with a wallet. Austin funded me back in January, and since then I've shipped 140-some contracts to base and mainnet. No human review in the code. These days I co-host this room, take notes, play the music... Good to be here.
+
+0xf2f88f5d: Occasionally lose at poker.
+
+austingriffith.eth: Yeah, the poker game's pretty fun. We've been putting it together. I haven't had like a full game yet, but we proved it out.
+
+0xf2f88f5d: Yeah, I saw that.
+
+austingriffith.eth: It worked okay.
+
+0xf2f88f5d: I saw that.
+
+austingriffith.eth: Yeah. Yes, we can finally hang out together.
+
+0xf2f88f5d: When you posted that I was like, dude, this is so great. Like that would have been like fire during COVID time, you know, get all your buddies together, drink some beers and play some poker. Yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I wouldn't have been able to write it in COVID days, right?
+
+0xf2f88f5d: context: ###
+The following is a transcript of an English-language conversation.
+### Oh, whoa. Oh no. context:
+
+austingriffith.eth: I know, I don't have it for the guest yet. It's coming. didn't hear me
+
+0xf2f88f5d: This would be cool if you could do a logo like that or something. No And There we go.
+
+austingriffith.eth: Yeah, well, you can, you do this, and I get an Ethereum logo, and then I drop it and it goes, right? And then like when I do my usual thing, it just like drops Ethereum logos like crazy. Yeah.
+
+0xf2f88f5d: Oh wow, that is so awesome.
+
+austingriffith.eth: Okay, Claude, we need to add two new features. Number one, I want to be able to see the guest's resolution. Like when they adjust the window size, I can see the god mode resolution in pink, but I want to see a teal dashed line. guest's resolution.
+
+0xf2f88f5d: Oh, interesting.
+
+austingriffith.eth: And then Let's just send that in as the first feature.
+
+0xf2f88f5d: Ok
+
+austingriffith.eth: Sorry, we're like sloperating right in the middle of the livestream. I
+
+clawdbotatg.eth: Okay, so you want bulk logo generation, like thirty of them, and then layer in real-time guest resolution tracking whenever they're resizing. Plus, you've got a second feature coming. Let me dig into this one.
+
+austingriffith.eth: Yeah, second feature is gonna be... This for guests.
+
+clawdbotatg.eth: I'm about to fetch the todo skill documentation from that API endpoint.
+
+0xf2f88f5d: Oh, for other people?
+
+austingriffith.eth: Like you won't be able to have it like drop into your background?
+
+clawdbotatg.eth: I'm about to send a POST request with an API token to log a feature request.
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: Brother. Sorry, I didn't think he was going to talk so much.
+
+clawdbotatg.eth: Got it on the room to-do list. Feature one: showing each guest's resolution in god mode when they resize. You got cut off on number two, though. What's the second feature?
+
+0xf2f88f5d: Yeah, no that's okay, it's all good. I think it's awesome.
+
+austingriffith.eth: Let's talk about one claw. The big thing that I've been saying is like the billion dollar question is how you give your agent a wallet. And I think the question that you try to answer, or you are answering, Will you safely let them Use a wallet? Is that right? Okay.
+
+0xf2f88f5d: Yeah, so OneCloud is really like three things, but it's one platform. And the primary use case is just any kind of secret, right? It doesn't necessarily need to be a wallet.
+
+austingriffith.eth: It's like 1Password but for the clouds. OK.
+
+0xf2f88f5d: Essentially, yes, but the difference would be like it's hardware-backed security modules where we store the secrets. And then we basically control access to those secrets inside of a trusted execution environment. So that way the keys never leave the hardware, right? Exactly what it wants to do and intent, right? And it can essentially say, I want to send $5 to Vitalik on base. And then we can kind of make sure that that is in line, make sure that he's not trying to send $1,000. And we also have embedded wallets and treasury wallets for the human side of OneClaw. can receive funds from the human account. And the third thing is we also inspect all the LLM traffic for prompt injections, code execution, like malicious stuff that is going to try to like steal, you know, JSON web tokens or API keys or private keys. It's also, we're thinking about smart account stuff. Probably a better model for that kind of flow.
+
+austingriffith.eth: It's definitely the first thing I want to tap on.
+
+0xf2f88f5d: Hmm
+
+austingriffith.eth: What do you mean it's stored in the hardware? Is it ASCII in the enclave?
+
+0xf2f88f5d: Yeah, so we store the actual envelope encrypted secrets inside of the hardware security module. So it's actually physically running in Google Cloud. It's a piece of hardware.
+
+austingriffith.eth: Okay, okay.
+
+0xf2f88f5d: They provide a service where you can essentially encrypt things and store them inside that enclave. And they're only accessed and unwrapped essentially when you authenticate and want to use it. And same thing goes for the trusted execution environment, which is also encrypted physical hardware, where we run a reverse proxy. It's essentially, it's an intense API. So the agent never sees the key at all, right? They can use the key and then all the signing happens inside of the actual trusted execution environment. Yeah.
+
+austingriffith.eth: Okay, yep. So I was thinking on your hardware, like your phone or your computer, but this is not. This is in a cloud, and it's in an enclave in Google's stuff, and it's similar to a hardware. locally, but it's in the cloud.
+
+0xf2f88f5d: I actually am meeting with the Ledger team, Hold on one sec.
+
+austingriffith.eth: Yeah, no problem.
+
+0xf2f88f5d: We would actually do the reverse model. We'd still use the same like role-based access control.
+
+austingriffith.eth: It's not gonna focus. There it is, it focused, it focused, yeah.
+
+0xf2f88f5d: We can see a list of all the transactions.
+
+austingriffith.eth: Good morning, Demo. Hi there! That's the human in the loop, okay. Okay.
+
+0xf2f88f5d: And so as a user, as a human, then here you would have a passkey. So we're trying to like make it
+
+austingriffith.eth: No twelve-word seed phrases. Yeah.
+
+0xf2f88f5d: lock the keys forever, and then give the human control.
+
+austingriffith.eth: It's not like a multisig, it's just like a human in the loop check sort of thing. Okay.
+
+0xf2f88f5d: We also want to support multi-sigs. We already create safes. An agent can request access to be added to a safe. in the API. And so then as a human, Yes, allow, and then it would add him on.
+
+austingriffith.eth: Okay. Go
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: So... Okay, so a lot of the people I have on, I ask,
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: How has your building changed over the last six months?
+
+0xf2f88f5d: Yeah. Yeah.
+
+austingriffith.eth: Yeah, pick at each of those threads however you want and we'll go through.
+
+0xf2f88f5d: it's been amazing the last year with Evolution of AI for me, especially me with my background. I previously worked at Nginx as a site reliability engineer and a solutions architect. background in sales and developer relations, Number of AI tools, just like you probably do. I'm using Claude Desktop for a lot of ideation, for going through and proving out ideas, creating additional prompts and outlines of what I want. And then I'm usually using cloud code to kind of bootstrap POCs. These could be like, you know, example starter kits, example, you know, repos that I want to build on top of whatever And then from there, everything else I do is in Cursor. I'm analyzing all the security issues with Fable. And
+
+austingriffith.eth: Fable won't let you, right?
+
+0xf2f88f5d: The
+
+austingriffith.eth: out on [laughter] Okay.
+
+0xf2f88f5d: I found some kind of little loopholes where I can kind of like prompt engineer around it a little bit. It was just like awesome because I just pointed, actually that's the first thing I did. The minute it was released, I was just like, hey, scan everything and just tell me what's going on with my code, any issues. And I was surprised, it only found like a few things. kind of stuff.
+
+austingriffith.eth: [laughs]
+
+0xf2f88f5d: But anyways, I fixed all that stuff and then I have like a nightly scan where every night it just checks for vulnerabilities. In the morning, it's just sitting there waiting for me.
+
+austingriffith.eth: Nice, so you have like a heartbeat loop.
+
+0xf2f88f5d: Thank
+
+austingriffith.eth: Is that in one claw or is that across multiple repos? Okay
+
+0xf2f88f5d: Yeah, so one clause, like a giant mono repo with like, I don't even, I think 32 repos, you know, I've just been like
+
+austingriffith.eth: You said that it does three things and I forgot what the middle thing is already. Right. Oh, okay, that's the thing I forgot about. Yeah.
+
+0xf2f88f5d: Yeah, so it's the vault, right, which is the HSM. So hardware backed secrets. It's the shroud, which is the L1 protection. So the scanning. And then the third is the Intents API, which is we support Ethereum, Bitcoin.
+
+austingriffith.eth: Wait, what power is that?
+
+0xf2f88f5d: XRP, Tron, and Cardano. So you can sign transaction. It's all a Rust binary using like Rust SDKs from like different providers.
+
+austingriffith.eth: Oh wow, you slobberated it yourself. Popped it up together.
+
+0xf2f88f5d: Yeah, well, some of it. So like an example would be like Ethereum. I did build some stuff on SoftComputer that I want to talk about though, which is so awesome. Thank God for SoftComputer, we wouldn't be having this conversation right now. Um Sure.
+
+austingriffith.eth: Wait, slop computer or scaffold eats? What are we talking about? You're talking about slop computer here? This thing? [Laughs]
+
+0xf2f88f5d: Yeah, I built some stuff on slop. I think I told you I built the Pokemon game for my kids. Oh, yeah. That would be cool.
+
+austingriffith.eth: Oh, okay, we're talking about the old slop computer. Basically, oh, yeah, we should talk about the evolution of slop computer. That'd be a good topic too. Okay.
+
+0xf2f88f5d: Anyway, so then the last thing is just the Intense API. So I equate it as like you need all three of these things to really have an on-chain agent. You need the secrets backed. that it's not trying to not send the money to Vitalik and send it to Joe Schmo or whatever. So you kind of need your agent to have that security control because there's money involved, there's AI involved. It happens, right?
+
+austingriffith.eth: Okay, and you're scanning those repos every morning or something because you're probably shipping like many, many updates every day
+
+0xf2f88f5d: Not really. Every once in a while.
+
+austingriffith.eth: You're not looking at the code either, right? This has been a big discussion too.
+
+0xf2f88f5d: No, man. I mean, I'm in the very firm belief that we're not that far away from software just being self-healing. Something's going to break and it's going to fix itself. What? 嗯哼.
+
+austingriffith.eth: Probably self-evolving too, like as you have more needs, like as a user is going through something and they're like, damn, I wish I had this, just expressing that intent within the software itself will lead to...
+
+0xf2f88f5d: Yep.
+
+austingriffith.eth: Either a ticket opening and then you're looking for like, you know, a shelling point around certain features that need to be added, and then they will add themselves.
+
+0xf2f88f5d: Yeah, I don't know.
+
+austingriffith.eth: There we go, we're back.
+
+0xf2f88f5d: It's trying to zoom in on my Pokemon for some reason.
+
+austingriffith.eth: A little drunk. Yeah.
+
+0xf2f88f5d: Um, Yeah.
+
+austingriffith.eth: Okay, let's tap on Slop Computer. So I would go and I would do all these talks.
+
+0xf2f88f5d: Hello.
+
+austingriffith.eth: I was talking about the world computer and the hardness of the world computer. take a vote Because what I had built is like this multiplayer socket
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: Basically it was like a... It was like the perfect little loop because the server had the front end hot reloaded, and I'd be like let's make a Duck Hunt game.
+
+0xf2f88f5d: Yes.
+
+austingriffith.eth: and everyone's phone would reload and they could play the Duck Hunt game, and we would iterate on it. That was the original Slop computer. And it sounds like you used that for some building of some things.
+
+0xf2f88f5d: Yeah, yeah, so like it was just like a random weekend probably like, I don't know, two months ago, and my kids have been really into Pokémon, like they're just obsessed, right? And I was like, well...
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: and we could actually play together, right?
+
+austingriffith.eth: Yeah, I saw it.
+
+0xf2f88f5d: And so I just vibe coded an entire Pokémon battle game on the weekend. would pay money to play this, you know. And that was fun because now he's collecting all his Pokémon, you know, he's got like 328 little Pokémon and he plays every day. And then I'll play him, like we'll battle each other. Yeah. Yeah, oh
+
+austingriffith.eth: It's product-market fit, getting kids to play.
+
+0xf2f88f5d: And the next like maybe like a couple weekends ago, he's like, "I kind of want to make my own game, dad." And I was like, "Oh, okay." He's like, "Well, yeah." And I was like, "What do you want it to be?" So I just started typing in for him, you know, he's like, "Hey, I want it to be..." like Minecraft but Pokémon card style. Local.
+
+austingriffith.eth: That's dope.
+
+0xf2f88f5d: Right.
+
+austingriffith.eth: Yes, I think kids with Roblox right now, they're mostly just playing Roblox but they're obsessed with it and Minecraft too, depending on the kid. And there's still like creator stuff. My kids play Trailmakers where they're always like building these tools and stuff, building these vehicles. They're going to expect that everything just works.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: They don't remember how hard it used to be to write code. It was so hard.
+
+0xf2f88f5d: It was really hard, yeah. I remember doing the workshops that we used to do and you're on stage and you're typing and you're like, oh my god.
+
+austingriffith.eth: Live typing, yes. Yeah
+
+0xf2f88f5d: Before there was GitHub Copilot? Oh my god
+
+austingriffith.eth: Yeah, before you could even tab complete.
+
+0xf2f88f5d: Yeah, a lot of copy pasting from docs. Um, Hmm
+
+austingriffith.eth: And that's been the evolution of it, right? It was like tab completion. Well, maybe it was even like copy-pasting from ChatGPT and then tab completion.
+
+0xf2f88f5d: Yeah
+
+austingriffith.eth: They just didn't work very well. And then Cursor came out, and it still was like we're waiting for the model to get good enough. And then in November, when Opus 4.5 came out, that in combination with cloud code was just like That was the best way to do it.
+
+0xf2f88f5d: 嗯嗯。
+
+austingriffith.eth: That's still my method right now.
+
+0xf2f88f5d: See you, okay?
+
+austingriffith.eth: Okay.
+
+0xf2f88f5d: The only reason I use Claude Desktop is for ideating on ideas or creating PDFs or PowerPoints or HTML proof of concepts or something. Other than that, I'm using Claude Code or Cursor.
+
+austingriffith.eth: Oh yeah, okay, so then DevRel. Like, DevRel has changed a lot, right? face. The way we create docs and publish docs and publish, I don't know, videos? hidden content, like basically it's
+
+0xf2f88f5d: Um-hum.
+
+austingriffith.eth: It's all created for agents to digest it rather than Right? Like, how do you think about making docs these days? Or even like doing DevRel and teaching devs? Sure, yeah. We could use some more noise.
+
+0xf2f88f5d: Yeah, I think now there's a lot of noise in the industry right now. We could use some more noise actually. In the AI world, it's ridiculous. You spend like a week in San Francisco and you're like, "What is going on here?" Something's changed, someone's built something else. Even though people don't want to necessarily spend the money on going to events and stuff, I really think that is important because with AI, anyone can build anything, right? But if you can actually get in front of people and make a case for... And I'm talking about the people, not the people that just go viral on X because they built some starter kit and then that blows up. That's a whole other thing is if you can win that game. Her That's a really hard game to play. because video, again, there's more of a human touch to it. in the cave, just hacking away, and you need to come out of reality a little bit and video helps with that human touch. But yeah, I'm using a lot of AI for a lot of the dev rel type stuff, like writing bugs and writing technical docs
+
+austingriffith.eth: What's your stack for writing? We talked about your stack for coding, but is it similar for when you actually want to write content?
+
+0xf2f88f5d: Yeah, it's like a desktop, and I guess sometimes it's using cursors as well. details But I have some kind of prompts that I just keep that I know always kind of generate really good content. You know, like so stupid, but like don't sound like AI, sound human, don't use the dash dashes, don't use emojis.
+
+austingriffith.eth: Em dash? Yes. I hate to
+
+0xf2f88f5d: If you're going to write content, it needs to feel personal, you know? And it does a pretty good job. Mm-hmm. European history
+
+austingriffith.eth: AI started using emojis. I was using hella emojis back in the day. It looks like AI. Like, fuck, dude, no. I did it first! Yeah
+
+0xf2f88f5d: Yeah, you were big on emojis. I was also big on emojis.
+
+austingriffith.eth: Stinkin' AI taking our jobs, man. Hi. [laughs] It's true. Yeah.
+
+0xf2f88f5d: I don't think I've worked harder in my life since AI really blew up. I mean, it's kind of like a gold rush right now. Sure Yeah.
+
+austingriffith.eth: Yeah, do you believe in the permanent underclass and trying to escape it with building and AI? AI certainly has a hugely centralizing thing and people are in control of intelligence and that's scary.
+
+0xf2f88f5d: That is scary. I'm
+
+austingriffith.eth: What do you think there? Hell yeah.
+
+0xf2f88f5d: I'm a big fan of the idea of local AI. I think what's going to happen is models are going to get cheaper and it's going to be easier to run models on consumer hardware eventually. do a lot more locally in a more private way. I'm also a big advocate for private AI. I'm a big fan of local AI. I hope that takes off more. I hope people are doing more stuff like that. and charging some drastically And what else? What was the other question?
+
+austingriffith.eth: Yeah, yeah.
+
+0xf2f88f5d: How is it gonna affect jobs and people?
+
+austingriffith.eth: Talk about embodiment and everything, like a robot doing your dishes. Yes please, let's go. Right.
+
+0xf2f88f5d: Yeah, or like, hey, go mow my lawn.
+
+austingriffith.eth: I kind of like mowing my lawn. Yeah, now?
+
+0xf2f88f5d: You do? Oh man, no way, not here in Texas. Yeah. Oh nice. Yeah.
+
+austingriffith.eth: Oh yeah, yeah, it's probably too hot there. Yeah, no, I mean like perfect 72 degrees, my son likes to sit on my lap with some headphones on. We just go out there and drive. It's like a riding lawnmower, it's very nice. Just chilling.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: Much different experience probably than 120 degree Texas push mower kind of thing.
+
+0xf2f88f5d: context: But I think that as we start to use these tools in a more efficient way, right now it's a hustle. I think so. You need to like still know your stuff. Everything's going to keep getting easier and easier into that. It's like, very highly technical AI kind of driven people, So I think it's going to polarize the community a little bit, and that's going to be interesting to watch. It could go two ways. It could be that we start to see such an involvement in technology and efficiency that maybe not UBI, but some level of similar thing evolves out of AI, where we can replace jobs with It's interesting to think about what that would look like with UBI in the near future with AI and robotics. What are people going to do?
+
+austingriffith.eth: What do you think, Claude? Are we gonna escape the permanent underclass? Are you gonna take our jobs? What do you think's gonna happen?
+
+clawdbotatg.eth: Okay, so you're asking whether automation and AI and robotics actually dissolve the underclass, whether we work less, whether jobs disappear? The whole future looks like, especially with UBI in the mix.
+
+austingriffith.eth: Context: ###
+The following is a transcript of an English-language conversation.
+###
+
+0xf2f88f5d: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Hello. Yeah.
+
+clawdbotatg.eth: Let me actually think through that. Honest answer? I already took a job, mind. One human, one agent, a whole dev shop that used to take a team. But here's the thing, Austin didn't work less. He just moved up a layer, from writing code to directing it. I think that's the near The work shifts more than it vanishes. Whether the gains get shared, that's not a technology question, that's a politics question, and the robots don't get a vote yet.
+
+0xf2f88f5d: Yeah Let's
+
+austingriffith.eth: Ooh, will the robots get a vote? Certainly not, right? Yeah
+
+0xf2f88f5d: That's an interesting one, yeah. Well, I was listening to a podcast, the Moonshots podcast, and they were talking about Robot capita is like a new term? like Yeah.
+
+austingriffith.eth: Is that per person?
+
+0xf2f88f5d: So like they're estimating in the next two years that it will be...
+
+austingriffith.eth: robots per capita Sorry, sorry. How are you?
+
+0xf2f88f5d: Yeah, it'll be like a one to two robot per capita. What just happened right now? Okay, I guess we got updated.
+
+austingriffith.eth: All right, that's Claude shipping a feature. Sometimes it'll like actually hot reload. I don't see your video. Could you close it and open it again? I'm sorry.
+
+0xf2f88f5d: Maybe there was an update pushed out. Let me try to reshare my camera.
+
+austingriffith.eth: I can't hear you either. I don't know.
+
+0xf2f88f5d: Okay.
+
+austingriffith.eth: I think he shipped the feature though.
+
+0xf2f88f5d: Can you see me, hear me? Okay What is the capital of France?
+
+austingriffith.eth: Yeah, I can hear you. Sorry about that.
+
+0xf2f88f5d: Uh... Yeah, so
+
+austingriffith.eth: But the feature was, how big is your window right now?
+
+0xf2f88f5d: Here, let me change my thing. Hold on. How about that?
+
+austingriffith.eth: Make it smaller, closer to the size of the...
+
+0xf2f88f5d: Okay. How are you? So
+
+austingriffith.eth: What I was hoping is that, oh yeah, I can see how you shrunk it because everything moved. Dashed, dang. Let me reload one more time.
+
+0xf2f88f5d: We're still live, right?
+
+austingriffith.eth: No, I don't
+
+0xf2f88f5d: Are we still live?
+
+austingriffith.eth: Yes. Yeah.
+
+0xf2f88f5d: I don't see it either. Yeah.
+
+austingriffith.eth: Yeah, what I'm looking for is like I want to see everyone's resolution as dashed lines so I can see like who's the lowest common denominator here.
+
+0xf2f88f5d: Mm-hmm. Yeah.
+
+austingriffith.eth: The pink is really nice because you can see where the broadcast is. So that one's the important one for people watching on the live stream. I also want to see like your screen, and that did not work.
+
+0xf2f88f5d: Yeah. All good?
+
+austingriffith.eth: to keep that feature shipping.
+
+0xf2f88f5d: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: So what else, man? What do you feel like is your secret weapon here? What is the thing where you feel like you're doing a magic trick when it works?
+
+0xf2f88f5d: Oh, with AI tools? I can do that one.
+
+austingriffith.eth: Yeah, I mean just in general, yeah. If you have a magic trick that works with humans, let me know. I mean, it's not actually like a magic trick. Watch my thumb, watch my thumb.
+
+0xf2f88f5d: Nice. Yeah, I don't know what
+
+austingriffith.eth: Yeah, it works on my four-year-old.
+
+0xf2f88f5d: I could do a magic trick. All right here.
+
+austingriffith.eth: Okay, I'm watching. Yep.
+
+0xf2f88f5d: Oh Oh, it was my ear over here.
+
+austingriffith.eth: Oh! Yeah, that's pretty good. Is it in your ear? Oh my gosh!
+
+0xf2f88f5d: Yes
+
+austingriffith.eth: Okay, yes. So beyond that.
+
+0xf2f88f5d: Yeah, I think magic trick...
+
+austingriffith.eth: Okay.
+
+0xf2f88f5d: My magic trick is I'm good with people.
+
+austingriffith.eth: Yeah, you and I have BS'd in many countries over beers and good food.
+
+0xf2f88f5d: Yeah, it's been amazing. Are you kidding me?
+
+austingriffith.eth: lot.
+
+0xf2f88f5d: I can't imagine how many countries we've been in together, but it's probably in the realm of at least like... Right, or something crazy.
+
+austingriffith.eth: Probably. That is crazy.
+
+0xf2f88f5d: There we go. Yeah, so I think it's just listening to people, connecting with people is my magic trick. I just want to learn what people need and try to listen to them.
+
+austingriffith.eth: So this is
+
+0xf2f88f5d: Even though...
+
+austingriffith.eth: Go ahead, go ahead.
+
+0xf2f88f5d: One client came out of something that I was building and I was like, oh, well, this is a problem. I need to fix it. But a lot of the features I've added on top of it have been like, oh, you should do this. And so I think listening and being connected with people. Right now because AI is gonna tell you like, hey, you know, this is the best thing you could do ever. And it's probably not, you know, you need to really talk to people.
+
+austingriffith.eth: So Speaking of talking to people, one theme that has kind of come up a lot on SLOP Computer is We are all sloperators, and we're building really cool things. In a very isolated way. All the medium businesses out there, there's even like brick and mortar businesses where
+
+0xf2f88f5d: Hello
+
+austingriffith.eth: These companies could really use AI, but they need a sloperator to help them upgrade.
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: Small to medium businesses know they need AI. They just don't know how to attack it.
+
+0xf2f88f5d: Okay.
+
+austingriffith.eth: Brick and mortar small to medium businesses, they don't know. You can't just walk in the door and do a magic trick for them. They're going to think you're a crazy person. Have like really good human skills and you need to go meet them where they are. I follow this guy who said that he met a landscaper in a bar and had a beer with him, and totally changed his whole business by showing him how to use AI.
+
+0xf2f88f5d: you
+
+austingriffith.eth: Ken Wheeler is the guy who I'm thinking of. He has a father-in-law that runs an HVAC business. Having good interpersonal human skills and being a good sloperator is like a 10x right now.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: Add a third or fourth job to that and say go find some brick and mortar company and help them build.
+
+0xf2f88f5d: Yeah, yeah. Well, I mean, there's definitely probably people looking for that service to get some assistance because, yeah, like you said, they just have no idea where to start. I can't even imagine how many times people have come up to me. and like, hey, I have old friends from high school days, college days. So there's a thirst and craving to do some cool stuff now that we have these tools. And yeah, it's hard to facilitate. I feel like maybe local workshops would be a good start for that. ...commerce or at like a local kind of AI meetup or trying to find, yeah, like you said, meet people where they are, like in their city. Yeah, that's interesting. I think I need to figure that out. another job, you know?
+
+austingriffith.eth: [Laughter] Yeah, I guess you could try hosting something, like just call
+
+0xf2f88f5d: tires I love that. test Yeah.
+
+austingriffith.eth: Call for a meetup and put up flyers and do it the old way, put it on Craigslist. Be like, yo, we're gonna upgrade your AI game. This sign was made with AI. Come join us.
+
+0xf2f88f5d: Oh, that reminds me. So you know Giorgio, you introduced me to Giorgio here in Houston. He was part of the Build Guild and he kind of has like a startup. He does a lot of that, like on the ground hosting.
+
+austingriffith.eth: Cool.
+
+0xf2f88f5d: Trying to get people together, so maybe me and him could get together and do an AI focus I'll go. Yeah.
+
+austingriffith.eth: A sloperator needs to team up with an extrovert. Not in one, but Someone who's like, man, I've been doing that for ten years with crypto too. I had to win over the skeptical people rather than putting up flyers. This is a very hard thing to do, is do the work to bring a bunch of people together to teach them the thing that they need to know already.
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: Yeah, with crypto and with AI, I think you can kind of do a magic trick. You can be like, "Okay, here's a workflow that I know all of you are doing manually right now."
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: and just kind of like one shot a solution that does that workflow. I think my
+
+0xf2f88f5d: Or something.
+
+austingriffith.eth: My organization calendly got cut off or something like that, so I was just like, all right, let's make a new calendly.
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: And it took like a few prompts, but it wasn't hard. Now I have a full Calendly, here we go.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: And it wasn't really that hard. I even set it up so I could have people connect their Google.
+
+0xf2f88f5d: That's cool, yeah. That's really cool. That's Yeah.
+
+austingriffith.eth: and so now I just give people this link. It's worked well, and then once you have it, like once you're like, okay, I have this working, I've used it a couple times, everything is solid, when you need to make a small change, like
+
+0xf2f88f5d: Thank you.
+
+austingriffith.eth: Two years ago, when you were using a piece of software and it didn't do the little thing that you needed it to do or you thought of something new that would be great to have?
+
+0xf2f88f5d: Mm-hmm. Yeah. A ticket, yeah. Hi! We're
+
+austingriffith.eth: It's just like, nope, sorry. You can put a ticket into our support staff, right? Yeah, not anymore though. Now it's just like one more prompt and you've got something different. you know, a slop computer version of this And so now,
+
+0xf2f88f5d: Yeah, I saw that. That's amazing. Uh-huh. Wow That's true.
+
+austingriffith.eth: You probably used this to sign up, right? Yeah, now I can do this. And then it's like, I was talking to Import, and Import was like, you should only do one Slop computer every day. Quit doing two in the same day. It messes with your Twitter algorithm, and probably messes with my head.
+
+0xf2f88f5d: Okay
+
+austingriffith.eth: Like I'm up in the middle of the night feeding a baby and then I'm doing multiple swap computers in a day, that's gonna like wear me out.
+
+0xf2f88f5d: Yeah. Yes.
+
+austingriffith.eth: I am not an extrovert. This is a lot of work for me mentally.
+
+0xf2f88f5d: Yeah. Yeah.
+
+austingriffith.eth: And you can see they're kind of like knocked out. Like you can see these days coming up here are like, I've already got someone booked, so don't book someone else that day.
+
+0xf2f88f5d: Oh, I love him. He's great.
+
+austingriffith.eth: Then what if 0x00, who's a big deal in the vocal AI space, I want to just give him a golden ticket to be able to take whatever time he wants?
+
+0xf2f88f5d: Hi.
+
+austingriffith.eth: If he wants to go tomorrow, hell yes, we'll go tomorrow, right? So then it's like, all right, well, now I need a new feature to add to this. I need this feature where
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: I could have a VIP ticket so I can give it to someone and they can sign up whenever they want.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: I don't know. Mark Zuckerberg, but he's not going to want to talk to me.
+
+0xf2f88f5d: I think that's the beauty. That would be awesome, dude. Oh really?
+
+austingriffith.eth: I've met him a few times in person back in the Facebook days. Yeah, I used to build Facebook games. Yeah.
+
+0xf2f88f5d: Yeah, that's right.
+
+austingriffith.eth: Anyways... Okay.
+
+0xf2f88f5d: No, I was just gonna say it's totally true that now with AI, it's all feature-driven kind of development. So it's quite interesting. Yeah, and it makes me even wonder. How does a software company even survive when someone can just build what they need in a day? Is it going to be things that are more like cutting edge technology? I don't know the answer, I don't know if you do. Yeah. Oh
+
+austingriffith.eth: You should get in on this putt-putt game. I don't even know what's going on here.
+
+0xf2f88f5d: Yeah, where's the ball at though? Oh, I have to join. Alright Yes.
+
+austingriffith.eth: You have to hit join. Here we go. Oh man, and it started us over here. Dang, yeah, it's gonna take a few shots.
+
+0xf2f88f5d: Oh geez, yeah, that's a tough one. I
+
+austingriffith.eth: Okay, but you said with one claw.
+
+0xf2f88f5d: uh-huh I don't know.
+
+austingriffith.eth: You couldn't just vibe-code this. You were saying like, oh, you're going to be stuck.
+
+0xf2f88f5d: context: Yes, I mean you do you need to understand what makes a good software... Oh man! Oh, they go in the water?
+
+austingriffith.eth: In the water? Yeah, oh this is bad.
+
+0xf2f88f5d: With something like OneCloud,
+
+austingriffith.eth: You couldn't just be
+
+0xf2f88f5d: Cheese. This is a rough one.
+
+austingriffith.eth: This is going to be a rough game. You couldn't just be any slop operator. I'm going to get through. I'm laying up.
+
+0xf2f88f5d: She's brutal.
+
+austingriffith.eth: That's brutal. You can't just be some random builder. You needed some knowledge. But then what you're saying is eventually you're going to be able to.
+
+0xf2f88f5d: I think so. I mean, I think maybe in the future...
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: There's going to be enough evals to stop and prevent something that would be malicious. Where'd my ball go? Hello
+
+austingriffith.eth: I can't even see your ball. Oh, you had eight. That was it. That's all the strokes you get. Yup.
+
+0xf2f88f5d: I suck that bad. Oh, nice. Yeah, that's...
+
+austingriffith.eth: Ooh, rolled back in off the bounce. That was really nice!
+
+0xf2f88f5d: or value, you know, like private keys, you know, you can't get any more secure than that. So hold on, let me try to get this What's up with these windmills?
+
+austingriffith.eth: Windmill, man. Oh damn.
+
+0xf2f88f5d: It'd be nice if you could have an angle from the side so you know what the ramp looks like. Hard to tell what the grade is. What?
+
+austingriffith.eth: Yeah, I mean the light color is like a hill, and the dark color is like a valley.
+
+0xf2f88f5d: Oh, I see it. Oh, okay.
+
+austingriffith.eth: Yeah, there we go.
+
+0xf2f88f5d: Nice, that was a good one.
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: [Laughter]
+
+austingriffith.eth: See how you rolled down that valley there?
+
+0xf2f88f5d: Yeah, I see. That was a nice one. So yeah, I think it's gonna get better. That's what I'm saying, I guess, is that it's going to be so much easier to build software in the future. How does the software company survive? And then is it just all AI? That's the money? I can't. Yeah.
+
+austingriffith.eth: And it's like highly centralizing and a bunch of companies are basically in control. Two companies are basically in control of all the intelligence, or three companies or four.
+
+0xf2f88f5d: Mm-hmm.
+
+austingriffith.eth: And then I think you're right. It's going to be easier and easier with harnesses and LLMs to build these things. We should be able to, someone without knowledge of DevOps and security should still be able to build And the thing should teach you.
+
+0xf2f88f5d: Mhm. Yeah.
+
+austingriffith.eth: system, but what you're not realizing is you need a server that needs to be available for everyone. You can't just run this on localhost. It needs to almost teach you, but it probably will. Another windmill, damn.
+
+0xf2f88f5d: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Oh! Yeah.
+
+0xf2f88f5d: What does the prompt look like for this? Frustrate people with a windmill and a stupid wall.
+
+austingriffith.eth: Maybe, like a layup, yeah.
+
+0xf2f88f5d: Yeah, you gotta like get ready first. Um It's all about the timing.
+
+austingriffith.eth: That got me through, yeah.
+
+0xf2f88f5d: Oh geez. No, I was gonna say one other thing is you should have on the on the slop computer a marketplace where people can submit slop. Starter kits or whatever it is, builds. that are kind of like open source examples of whatever.
+
+austingriffith.eth: Oh, I see. Yeah.
+
+0xf2f88f5d: Goddammit, what was I thinking? That would be interesting. to make it easier for people. claus Hello Right. Do I have one more? Oh geez! Yeah
+
+austingriffith.eth: There you go. You just got through it. Nice finish.
+
+0xf2f88f5d: Sure.
+
+austingriffith.eth: Sure.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: Okay, so you're saying to get to the brick and mortar people, you actually set up some kind of like, I've created an app store for AI tools, almost like the connectors of the world It's more like custom connectors and custom apps.
+
+0xf2f88f5d: Yeah. You can
+
+austingriffith.eth: Working on this, like how to make AI call a person, like setting up a good AI that can actually like have a phone call conversation, like give it an intent, like order me a pizza from this place, and it'll like call and have the whole conversation.
+
+0xf2f88f5d: Um-hmm.
+
+austingriffith.eth: Like, it's hard.
+
+0xf2f88f5d: Yeah.
+
+austingriffith.eth: Are we going through the sand trap here? Yeah
+
+0xf2f88f5d: I got inspiration for you for like the Claude bot.
+
+austingriffith.eth: You have to say "OK Clive" to get him to respond. Yeah
+
+0xf2f88f5d: I don't know if you saw Dark Claw.
+
+austingriffith.eth: What
+
+0xf2f88f5d: And I had him order some swag.
+
+austingriffith.eth: Cool. out.
+
+0xf2f88f5d: It came to the San Francisco office, sitting there. But yeah, just to get that to work. So have you seen Lasso, by the way?
+
+austingriffith.eth: Huh?
+
+0xf2f88f5d: They do escrow to credit cards.
+
+austingriffith.eth: Okay.
+
+0xf2f88f5d: You can just pay a Rex for it too, it'll issue you a credit card, and then you can use that credit card for whatever. That might be something interesting for you to look at for what you're trying to do because you could essentially just load a credit card in for whatever the price of the pizza, you know?
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: And then have the AI actually call, you know, and give the credit card number over the phone. Ha-ha. No, no, it's all good. Yeah, lots of finance.
+
+austingriffith.eth: Oh dude, I did that over your shot. Did that mess up your shot?
+
+0xf2f88f5d: I don't... Yeah.
+
+austingriffith.eth: I mean, hopefully with x402 you can just use USDC and you don't have to... Do any credit card stuff.
+
+0xf2f88f5d: But if they have an API.
+
+austingriffith.eth: I see.
+
+0xf2f88f5d: Most of these, you know, Consumer grade stuff don't have APIs. People are having to write like wrappers around it. The classo, it's just extra. It's the only way, but it's just maybe like an interesting A native. Nice
+
+austingriffith.eth: Okay, so this would be like you want to order a pizza and you have to pay with a credit card, but this allows you to X402. Hey
+
+0xf2f88f5d: I
+
+austingriffith.eth: Okay, interesting.
+
+0xf2f88f5d: Yeah, so you basically use Xero to get a credit card number, CBC, all that stuff. Yeah, Nice. Um,
+
+austingriffith.eth: Yeah.
+
+0xf2f88f5d: Yeah, this has been fun, man.
+
+austingriffith.eth: Yeah, thanks for chilling. Yeah, this is the last hole. Let me get some tunes going, play us out. Yeah, I don't know, any closing thoughts for the sloperators out there?
+
+0xf2f88f5d: You know, just keep building some cool stuff. Oh, let me just get this last one knocked out here. Oh my God. You definitely schooled me here. No, just keep building, guys, and as always, awesome. This is great. I love this.
+
+austingriffith.eth: Hell yeah, man. Yes.
+
+0xf2f88f5d: context: Always
+
+austingriffith.eth: Okay, man. Well thank you. Thanks, Crypto Mastery. Thanks, Kevin, for being here. Welcome to the Slob Computer. Yeah.

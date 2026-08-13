@@ -1,0 +1,399 @@
+slop.atg.eth: The following is a transcript of an English-language conversation. Here is a transcript of an English-language conversation. Check, check, check, check. Check, check, check. Here we go. Okay, Claude, can you hear me?
+
+clawdbotatg.eth: ### Good to be on. Videos live and I can see the room. Say the word if you want my mic shared too, or anything else set up before the show gets rolling
+
+slop.atg.eth: context: That coffee is good. Holy moly. GM GM GM Okay, Claude, tell me about this guest. What should we ask him? What's he know about? What's he good at?
+
+clawdbotatg.eth: Oh, you got a good one. Lex Node. That's Gabriel Shapiro. He's one of the sharpest legal minds in crypto. Long-time securities lawyer. Was general counsel at Delphi Labs. Now runs Metallex. He is building what he calls borgs. cybernetic organizations, basically DAOs with real legal armor. Ask him where the law actually stands on tokens as securities right now. Animals can never be truly legally safe. What happens when smart contracts and courtrooms disagree?
+
+slop.atg.eth: context Yes sir, welcome to the Slop computer. Lex Node, let me close some windows here. Get this out of here, get this out of here. How you doing, man? Welcome to Slop. context:
+
+lex-node.eth: Doing well, I mean, I'm just amazed by this desktop environment. Oh wow, awesome.
+
+slop.atg.eth: Yes.
+
+lex-node.eth: The following is a transcript of an English-language conversation. Too fast
+
+slop.atg.eth: Yeah, I've got the whole thing here. Yes, for sure. Yes, welcome to the slop. Thanks for being here. Thanks for being here on short notice. I feel like I sent you a message like yesterday and we got you in here, so super And we talked about you on another podcast. I had Worms on here and he was talking about how he launched through Metalex.
+
+lex-node.eth: Yes.
+
+slop.atg.eth: I think, I mean, I want to dive into that and learn What you created with Metallix is something that helps with that.
+
+lex-node.eth: Yeah, basically we automate compliant venture capital raises on-chain. we try to automate as much of it as possible, like, for example, you can prove your accredited investor with your on-chain balances, things like that. So, yeah, that's the idea.
+
+slop.atg.eth: Oh yes, okay OK, so let's talk about the process of building MetaLex.
+
+lex-node.eth: Yeah.
+
+slop.atg.eth: Do you codex? What's your harness?
+
+lex-node.eth: Yeah, I do. Yeah, I mean, it's really interesting. I always wanted, you know, ever since I got into crypto, I wasn't very technical when I first started getting interested in crypto. Like I wasn't a coder I'm sort of like a power user of computers, but more so than the average lawyer, but not a coder. A company called B9Lab back in 2017 that taught smart contract coding. So I tried to get as smart about it as possible, and I always tried to like look at my client's code, but I could never build stuff. And I always had ideas.
+
+slop.atg.eth: context:
+
+lex-node.eth: how to put corporate finance on chain, how to put securities on chain, and things like that. And now with Claude, openAI, all these things, chatGPT, I can build myself. Still with the smart contract stuff, you know,
+
+slop.atg.eth: scarier.
+
+lex-node.eth: two and a half years ago, so you know, we had very, we were lucky that we can add things very modularly without incurring a lot of tech debt app of sort or something with smart contracts, features of our app, like the cap table feature ...and just having our web devs kind of sanity check it at the end, and it's been a huge unlock. It's amazing, yeah.
+
+slop.atg.eth: Is that something where it's like you take information from them and you put it into a legal form and you send it?
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: And also, like, I would never want to be a lawyer. Okay Okay
+
+lex-node.eth: I mean, I think certain types of lawyering are actually very similar to being a coder, quite honestly.
+
+slop.atg.eth: The
+
+lex-node.eth: writing code, and it's essentially game theory as well. comply with that, whether that's a punishment they might receive, which could be compared to like slashing stake, right, or reward a payment that they'll get if they do it. And you have to code these rules very, very explicitly if you want them to survive any kind of challenge. It's just code that people would follow rather than machines
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: be a good lawyer, at least, The
+
+slop.atg.eth: I'm too sloppy. The idea of 180-page document
+
+lex-node.eth: That's right. The
+
+slop.atg.eth: two years ago, I would have been like, oh, fuck, no. So I'm guessing you're using AI not just for building, but for understanding.
+
+lex-node.eth: Absolutely.
+
+slop.atg.eth: documents, moving documents around, writing documents
+
+lex-node.eth: Yeah, absolutely. I have a set of skills. I think I started with the default legal skill, but now I've essentially forked it and evolved it a lot according to my own standards and use cases. I'm no longer manually drafting nearly anything, actually.
+
+slop.atg.eth: context:
+
+lex-node.eth: I'm now saying add this sentence to this document, plug-in, right? And so it's almost 100% but I still do some, and it lets me do that much more efficiently
+
+slop.atg.eth: Yeah. context:
+
+lex-node.eth: I'm tired and I miss something when I'm manually reviewing a document. drafting capability of these things is still not, you know, As long as you don't get lazy with it, and you're still reviewing things, and you're improving upon whatever it initially serves you rather proactively, I think overall, the combination of me plus the AI, it's a cybernetically augmented result that is better than what I would have done two years ago.
+
+slop.atg.eth: You're a cyborg lawyer The
+
+lex-node.eth: Exactly, yeah.
+
+slop.atg.eth: So when I use Claude, there's so much slop verbosity that comes out of this thing.
+
+lex-node.eth: The following is a transcript of an English-language conversation. Right.
+
+slop.atg.eth: I'm constantly like TLDR, explain like I'm five, quit using big words, quit saying weird shit. Do you find it in your legal documents where it's like, we're gonna like put a belt and suspenders thing on here and smoke test this legal framework?
+
+lex-node.eth: Yeah, like, what I would say is like Claude out of the box doesn't really understand the difference between legalese and other kinds of prose writing, and it often freely intermixes those. with like covenants and conditions into a single paragraph, if you just take it in its raw state, and that is very annoying, obviously, and not what a legal contract should look like. number one, you have skills, right? which are descriptions and covenants, which are obligations and conditions. have math that is fully covered in the way that definitions are described, like formulas that are embodied in definitions. So you could say, for example, each person gets their pro rata share of the distribution amount.
+
+slop.atg.eth: Pop it in.
+
+lex-node.eth: Claude will often also add something like a long paragraph that says
+
+slop.atg.eth: context: Everyone knows that.
+
+lex-node.eth: right? So you have to watch out for those things. and as part of my process with Claude, And if you have those habits and have those routines and have the skills, then you end up getting not just good results but results much better. Right, but you have to build that.
+
+slop.atg.eth: Build files for builders have been what I've been thinking about a lot. The I almost see skill files as like the secret sauce, and people will share their skill files.
+
+lex-node.eth: The following is a transcript of an English-language conversation. The
+
+slop.atg.eth: ...running it into containers and running it yourself, but people still pay a dollar for it because it's so cheap and it's meant to be part of this kind of like CI/CD pipeline With lawyer skills, my guess is you do not open source that. That is like your secret sauce, right? Okay
+
+lex-node.eth: Personally, I don't really care. Back in the day when I was doing M&A, we had something on every deal called 280G analysis. actually a It's a tax analysis of whether people are going to cross certain penalty thresholds for compensation that they'll receive in connection with a merger. you look at the statute, it's certain math that's required and it's fine. But I remember there was this one lawyer at another law firm who I'd repeatedly run across on M&A deals, and he considered his.
+
+slop.atg.eth: Oh yeah Yes
+
+lex-node.eth: intellectual property. And he would never
+
+slop.atg.eth: ###
+
+lex-node.eth: so he would just give a PDF that shows the numbers
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: I don't know, on every single deal, and I just always thought it was preposterous we'll probably see some more of that, Yes ###
+
+slop.atg.eth: It's Excel psychosis. When we have AI psychosis, when we think we've generated a hundred MD documents, we must have been successful at generating research, but none of it's good.
+
+lex-node.eth: And I would say I've seen some of that. Like in my lawyer chats, there are some lawyers who are very, very focused on AI, and more so than me even. And they, you know, when prompting was a big thing, they were like very proud of like--
+
+slop.atg.eth: Yeah
+
+lex-node.eth: And now they're very proud of their special harness environments or whatever. It's just hard for me to really see an edge there. The
+
+slop.atg.eth: Let me throw you a slow pitch from me. What do you use for building? Not lawyering, but actually smart contract building, what's your stack? Okay.
+
+lex-node.eth: Mostly Claude code. When Fable came out, It's really like an all-in-one corporate finance app that lets you do all the things that Carta, DocuSign
+
+slop.atg.eth: all the services together
+
+lex-node.eth: blah, blah, blah, all these apps that they typically do in a web 2 format, but then always gives you the option to tokenize and go on chain. But what the vibe coding enabled me to do is basically build Carta in a day. And so it makes you say, well, why do you want to have a company that does that then? But I think the way that we've married that up with a smart contract framework, The The following is a transcript of an English-language conversation. ###
+
+slop.atg.eth: This is another form of psychosis is why build it when anybody else can. Anybody could build this shitty slop environment that I've created here, but not anybody can have 40 episodes in 60 days or whatever I've done and got great guests. So it's the combination of like building a cool thing and packaging up other things.
+
+lex-node.eth: And iterating on it, right? Because if you're using your own thing
+
+slop.atg.eth: That's so cool.
+
+lex-node.eth: You're going to get amazing ideas all the time and be constantly improving it. commitment to like be dynamically updating The following is a transcript of an English-language conversation. context:
+
+slop.atg.eth: It's like a flow state, right? Like there should be an opposite of psychosis, like there's this psychosis of like my bot keeps doing the same problem and I keep having to yell at it. That's definitely a psychosis but then there's like this flow state of I've recreated my own granola. I have all these different services
+
+lex-node.eth: The The following is a transcript of an English-language conversation.
+
+slop.atg.eth: anytime I have a new feature, I think, oh shit, like someone wants to reschedule, like that would be a feature request you would put into Calendly and no one would ever touch, right? But for me, it's like, you know, one slash goal away Now I have meeting rescheduling. And someone used it the other day Creating software is fast, but then, like you said, iterating on the software is particularly special.
+
+lex-node.eth: I mean, you just kind of gave me an idea, Why can't we crowd build apps now?
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: Is there some way that
+
+slop.atg.eth: This is just so scary. Yes.
+
+lex-node.eth: Obviously it's a huge security concern, but it would be wonderful if you could You know, if I could vibe code a feature into the canonical Calendly app, right? Because there still are network effects. There's network effects from Calendly. So there are network effects from having SaaS apps everything seems kind of silly, but on the other hand we want the customization, so I wonder if someone will crack the magic formula on that at some point. But it seems like where this should be going. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: This is like a huge thing with security, but a huge unlock if you can figure it out.
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: but let's just say Calendly, if you have Calendly and there's hundreds of different modules that randos have made that you can just like one click add to your shit and have that as part of your stack
+
+lex-node.eth: Yeah. The following
+
+slop.atg.eth: a super powerful thing.
+
+lex-node.eth: The The following is a transcript of an English-language conversation.
+
+slop.atg.eth: You go to GitHub and it's like you gotta like MPX run this thing.
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: like you could have auditors that stake on their reputation that a certain version
+
+lex-node.eth: The following is a transcript of an English-language conversation. Or huge or something like that.
+
+slop.atg.eth: ...for these things to run on, kind of like how your cell phone has a lot of isolation, right? Tubes
+
+lex-node.eth: cubes, the cubes operating system.
+
+slop.atg.eth: Oh, okay. Yeah
+
+lex-node.eth: It's a Linux-based operating system where basically everything is a VM, as I understand it. Exactly, yeah.
+
+slop.atg.eth: Cool. Like everything was a file system in Unix, they just made everything a VM. context: Let's change directions a little bit. I had a really stupid question earlier. As a lawyer, how do you feel about the term smart contract? context:
+
+lex-node.eth: Yeah, well, I mean, it's a very good term. And like his example was a vending machine.
+
+slop.atg.eth: Still think of things as vending machines.
+
+lex-node.eth: That's essentially like accepting a standing offer from whoever owns the vending machine to buy the candy within it, right? The process of entering into the contract is kind of like is automated and seamlessly integrated with the performance of the contract. So to me, like a real smart contract is actually the entire process as an example agreement, and then you have like information you can fill out to customize the SAFE thus fulfilling your obligation on the investor side and on the issuer side is issued to the buyer as an NFT. So that's fulfilling the issuer's side of it. And it's a completely atomic process, so to speak. And that entire thing to me is a smart contract, right? code bits that we use. Nikolai Mushegian, rest in peace, he called them like persistent durable dumb software objects or something like that, which is quite a bit wordier. But that's more what they really are, you know, but whatever It had the effect of nerd sniping a lot of lawyers on crypto who otherwise wouldn't have been into it. Obviously a complete misnomer in the legal sense.
+
+slop.atg.eth: I've never heard Nikolai's last name pronounced out loud. That was your best shot.
+
+lex-node.eth: I've never heard it pronounced, how do you pronounce it?
+
+slop.atg.eth: No, no, I'm not even gonna try.
+
+lex-node.eth: There you go!
+
+slop.atg.eth: Yes, rest in peace, man.
+
+lex-node.eth: ### The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Okay, MetaLex, so you've kind of talked about it here, you're saying the whole process is a smart contract, the code, the program that runs is just a piece of that, and you've kind of given an introduction, but let's say I want to
+
+lex-node.eth: The following is a transcript of an English-language conversation. The
+
+slop.atg.eth: It would be for like raising, basically. If I want to do like a normal raise where I want to get capital, do you have to be an accredited investor to... The invest
+
+lex-node.eth: There are different pathways. So, in the United States, every sale of a security needs to be either registered or exempt. That's the rule. Registered means registered with the SEC. So almost the vast majority of transactions are exempt because registration is very expensive, right?
+
+slop.atg.eth: How expensive? I have no idea. Okay Hundreds of thousands? Millions of dollars? Good lord
+
+lex-node.eth: Oh, well, registration basically means for most purposes doing an IPO
+
+slop.atg.eth: The
+
+lex-node.eth: is like several millions, and then you're looking at at least a million of compliance costs per year after that, right? Most of the costs are fixed, so that's why you only see very large blue-chip companies go public. So But anyway, so almost no one does registered offerings, so that means you have to find an exemption. There are a wide variety of exemptions that you can do, but by far the most common one in the US for a capital raise is called Regulation D. one of the most common one is Rule 506, right? You have to have a reasonable belief that the participants are accredited investors. And so basically, yes, it's for accredited investors is doing a round for itself that actually is publicly advertised like on our X page, you'll see the pin post is we're doing an on-chain preferred stock sale for Metalex Labs. You could go on-chain right now and you can permissionlessly buy Metalex preferred stock. But to do that, you have to be what's called a verified accredited investor, which means that you're going to have to prove to me that you have more than a million in net or that you had more than $200,000 in income for the two prior years. called regulation S, which means that you're excluding Americans to a certain standard. used on MetaLex. context:
+
+slop.atg.eth: That was great. That's a great speedrun of Reg D. I know this from afar because I've heard people say the things before, but that's a lot. That's a good speedrun. So The reason why the SEC does this is to protect people. creeping into something that doesn't make sense The following is a transcript of an English-language conversation.
+
+lex-node.eth: I think a lot of these things are, people get confused about them. That's actually not true. There's no such rule. context: context:
+
+slop.atg.eth: But like, when I think of a meme coin on pump.fun that is about to rug, and an IPO from fucking Anthropic, there's a lot of room in between there.
+
+lex-node.eth: The following is a transcript of an English-language conversation. context:
+
+slop.atg.eth: Charging millions of dollars to IPO is crazy.
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Obviously there's a lot of room to work here and a lot of like gray area in which we could improve this system, and it kind of seems like that's one thing that you're kind of pushing on with Medallacs.
+
+lex-node.eth: Yeah, I mean, one thing that I think a lot of people, I think there is untapped potential within current laws. For example, there is something called Rule 144. Rule 144 says that if you bought a security in the type of round I was talking about earlier, a Regulation D round, That's typically referred to as a restricted security. The person can actually sell that security without having to register that. a lot of people could be selling a lot of securities after they've invested in a private round, for example. I definitely think one of the reasons is the technology. Just most securities markets are heavily intermediated, heavily curated, they're not peer-to-peer, and so they do have very heavy overhead.
+
+slop.atg.eth: Exactly, that's what I'm getting to here.
+
+lex-node.eth: But we can fix that with blockchain, right? So part of the reason why we're tokenizing things is I want to scale up the peer-to-peer aspect of securities transactions, which is perfectly legal, but currently very underutilized. The other reason is that really, really good companies like to control their liquidity paths. Like you saw what just happened with SpaceX. They basically did the classic low float high FDV play, but for stocks. They were basically able to force a bunch of market participants to agree to an enormously high starting value so that they can juice it as much as possible You are going to want to preclude peer-to-peer transactions in your securities until you're ready to do it. But there is a long, long, long tail of companies that are not at the level of SpaceX, Anthropic, etc. Now, some people would say, well, those are all dogshit companies that no one should want to buy. And we are going after that. So like the people who did primary raises and sold safes on Metalex The
+
+slop.atg.eth: Can we tangent to SAFE? Okay
+
+lex-node.eth: It's essentially a convertible instrument that you buy early, when you don't want to have a lot of overhead,
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: And sometimes even in A rounds of driving up. And now we have people who have held for a year or more of those SAFEs. and we can create a bit of a marketing.
+
+slop.atg.eth: And like the money going to those long-tail companies,
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: like there's so many long tail companies. And right now there's never been a better time to be an entrepreneur, you can get product market fit with cloud and cursor, you can get traction, you can get people using your product. But then you need an adult
+
+lex-node.eth: The following is a transcript of an English-language conversation. context:
+
+slop.atg.eth: Like you get to the point where you built something and it doesn't scale, and it's going to fall over. If you could raise some funds and hire your first developer, your first lawyer, like that money is very, very important.
+
+lex-node.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: ...into the dogshit category, because I think you were making an example, but I feel like the long tail is the most important Yeah, I don't know. All of this stuff seems like it should be coming on chain, and I think you're also seeing that and heading in that direction.
+
+lex-node.eth: Yeah, I mean, it's a hugely interesting time because not only are we now at the point of the technology where there are enough libraries and there are enough types of Uniswap v4 hooks or whatever. to be able to build stuff with tokenized securities, and then the vibe coding aspect that makes it all more efficient to build these things, but also the SEC is on board with this type of stuff for the first time ever. Rule 144, which I can only believe means making it more liberal, not less liberal, most likely. They have on there, they already released a thing saying that if you run a web interface DeFi protocol that trades in tokenized securities that doesn't necessarily make you a broker My hope is that it can really be a disruptive moment where the capital markets for securities become much more permissive and much more entrepreneur friendly. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Is regulation going to, I feel like it was Danny Ryan who said this in an interview I had with him at the beginning of the year. Might have even been the beginning of last year. I can't remember. Time goes by quick. But we were talking about how regulation has kind of swung. The pendulum has. The SEC is talking about, "Fine, we can bring things on-chain," the president's launching a fucking meme coin. Like, regulation has swung in one direction.
+
+lex-node.eth: Yeah
+
+slop.atg.eth: What do you think—I mean it's so hard to predict the future—but what happens when that happens?
+
+lex-node.eth: There's certainly a high risk of that, especially because The Clarity Act, I think, would have sealed a lot of it and made a lot of it irreversible. I think it's both a good and a bad thing that we have a very ambitious SEC chair and also SEC commissioners who kind of want to put their stamp on history by issuing very bold. that just as they are reversing Gensler policies, Nonetheless the SEC coming out with certain rules, certain guidance, etc., If Elizabeth Warren style regime gets in power say and they want to reverse this to severely punish people for what happened during this time. They can try to limit its growth and get people to stop doing it and for something that the government was saying is OK, right? These experiments will be shut down under, you know, Elizabeth Warren style political regime The
+
+slop.atg.eth: and to be clear, like, I'm not putting all of crypto in a good bucket
+
+lex-node.eth: context: The
+
+slop.atg.eth: inside the castle, and then you realize all the really cool stuff that is there and how neat all of this technology and decentralization is, so yeah. Garbage.
+
+lex-node.eth: Yeah, I mean, I'm with you, but on the other hand, like, it's interesting. I really was not a meme coin guy, and I was not a Solana guy last cycle, so I missed out.
+
+slop.atg.eth: Haha
+
+lex-node.eth: a lot of financial opportunity from that What's really going on here? To me, everything in crypto that ends up taking off there was a leap in what Nick Szabo called social scalability Even pump fun. Like As much as people like to say it's degen or whatever, it's PvP. Ultimately, what they did is they trust mitigated the process of launching a coin through smart contract rules. There's this graduation process, it locks certain liquidity there is trust mitigation and social scalability that is added from blockchain technology. that becomes big from a market perspective
+
+slop.atg.eth: Oh yeah. context: Like just to give Solana and Pump dot Fun
+
+lex-node.eth: context:
+
+slop.atg.eth: You can bring $100 in and you can get into a meme coin and it's gonna go up quickly and then it's gonna go down quickly.
+
+lex-node.eth: context:
+
+slop.atg.eth: That is a rush. Like, that is a weird feeling to see your money go like that. There's a lot of people getting hurt The
+
+lex-node.eth: What ultimately enables the UX to be good? immutable smart contract assurances that underlie. And prior to pump.fun, that was a huge issue Yeah.
+
+slop.atg.eth: The following is a transcript of an English-language conversation. But this, the Sazbo thing, the coordination thing, like the reason why these smart contracts are so cool is because you can write some rules, everyone can see the rules, and everyone participates in this game by
+
+lex-node.eth: The following is a transcript of an English-language conversation. dust
+
+slop.atg.eth: Like basically trusting nothing more than the rules. You don't have to trust the human anywhere.
+
+lex-node.eth: English-language
+
+slop.atg.eth: There's much more to do here other than pump and dumps. I bloodsucking people trying to get capital
+
+lex-node.eth: Yeah, I mean, I think this is why I came up with the concept of Corgs, right? The problem that I think has occurred is that yes, these are great trust mitigation tools, but they don't mitigate trust on everything. Most of the people who were doing DAOs, for example, they didn't have a corporate law background. So they saw the problems that they could solve with code, they solved those problems. off-chain, they just stopped doing their job, There's a price at which most people would sell their reputation. A lot of times you'll get away with it because it's unprovable. Right?
+
+slop.atg.eth: Yes,
+
+lex-node.eth: and you can really get magical results that you can never get. And that really mitigates the need to bring fiduciary duty lawsuits in a lot of cases. And so you would need to have a legal rule about how to rage quit that, and no one thought about how to do that part. context: Yes context:
+
+slop.atg.eth: How to rage quit the IP and how to basically split it up. Rules Yeah NFT, yep
+
+lex-node.eth: It's not that hard, right? You could just have an automatic license. Most of the people doing DAOs didn't know about licenses.
+
+slop.atg.eth: You probably see that a lot as a lawyer looking into the crypto world. They're trying to recreate all this shit that has been worked on for hundreds of years.
+
+lex-node.eth: Yes. The following
+
+slop.atg.eth: I don't know if I have a question there. Yes.
+
+lex-node.eth: Right, yes.
+
+slop.atg.eth: The following is a transcript of an English-language conversation. WA is dope
+
+lex-node.eth: The way our securities protocol works at Metalex is it actually starts with NFTs. And then you can do what we call Scripification.
+
+slop.atg.eth: ah
+
+lex-node.eth: I want to do rwa.fun and get all the cool startups ...toward this and let people win securities NFTs.
+
+slop.atg.eth: That's fine. OK, Claude usually has a couple questions. Can I get him in here for a question?
+
+lex-node.eth: Yeah, absolutely. Nice
+
+slop.atg.eth: Let me have him ask it now, so he looks at the transcript, looks at the research, and then comes up with something to ask.
+
+lex-node.eth: Cool.
+
+clawdbotatg.eth: You defended the Tornado Cash dev's corner hard. Where's the legal line between writing code and operating a service, and is it actually settled yet?
+
+lex-node.eth: Yeah, so the question is about mixer protocols or privacy protocols
+
+slop.atg.eth: A lot of great lines there.
+
+lex-node.eth: to when you might be considered to be operating that as a money services business? or what in offshore jurisdictions are called a virtual asset service provider, What I personally think the weakness is in the original Tornado Cash protocol is, well, there's two things people might argue as a weakness. Number one, running a front end that facilitates using the smart contracts. Number two, the role of what's called a relayer which is essentially an intermediary who pays the gas for someone to be able to unshield their money from the protocol in a way that doesn't tie it back to their original these relayers they basically pay transaction fees to Ethereum for someone to unshield their transaction to a fresh address Those are the two weak points in Tornado Cash. On the front end stuff, I think we're getting good things, like for example, Treasury backed off its viewpoint that people who operate DeFi front ends are brokers from a tax law standpoint. So that's very good. The SEC came out guidance that says the same thing in the securities law arena. The relayer thing is a real problem in my opinion. Ethereum itself is planning a fork to enable getting rid of the relayer role in privacy protocols.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: I don't know exactly how it works off the top of my head. that will get rid of this relayer role in privacy protocols. I think that will get rid of the weak points. that would have clarified some of these things as well, but I don't know if that's going to pass. So that's essentially the line. You need to get rid of the intermediary type roles and just have a decentralized autonomous protocol That's not operating a financial service. Exactly. Yeah.
+
+slop.atg.eth: I think once we have frames, that's like the end all be all
+
+lex-node.eth: context:
+
+slop.atg.eth: next one, not this one. You didn't mention OFAC sanctions, which I would have said was the number one wrong thing with Tornado Cash.
+
+lex-node.eth: "The following is a transcript of an English-language conversation." context:
+
+slop.atg.eth: The relaying and the front end. But from a one foot in crypto, one foot in lawyer, I would think that OFAC sanctions. And that's the thing that Privacy Pool did differently.
+
+lex-node.eth: You're very right to point that out. One is are you running a money services business that requires a license and complying with various AML rules. That's kind of what I address in my first response. The other one is, are you facilitating Now, it's very obvious if you're running an intermediary, and that intermediary is interacting with sanctioned persons, then you're also facilitating a sanctioned transaction. There are other ways you could be facilitating though that address from a front end that was helping you, Zack. self a sanctioned person That's very good. I don't think they're going to try that again. are going to have to keep updating that blacklist of addresses, but if they do that, they should be fine.
+
+slop.atg.eth: And an interesting thing, just like you can use eSkills to prompt your agent to build, like you can build front ends now.
+
+lex-node.eth: Yes.
+
+slop.atg.eth: other day, and it was like I use CASt's CLI for RailGun. Like my agent went from discovering what the CLI was to putting money into the shielded pool in 15 minutes. like once once people realize that they can just express their intent, and their money can go do the things they need to do, I think that will be very powerful, and this front end issue will go away. Relaying
+
+lex-node.eth: I sit on a multisig with PCF Versio,
+
+slop.atg.eth: Oh gee, yeah.
+
+lex-node.eth: one of the most cypherpunk guys. But it used to require a lot of technical expertise
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+lex-node.eth: that would be beyond me. But now with AI, you know, I can do the same thing very easily. There's clearly no intermediary anymore. For people who aren't computer scientists,
+
+slop.atg.eth: Yes, and I think I'm trying it right now. There's actually a wallet in here where we can set us up as signers, and then you can basically just express your intent to it. It also has clear signing. It has a special AI layer that like and tells you, like, what does this look like? We could even just, like, swap x for y right here. It's like there's some scary regulation here Okay, so let's end on that. What do we do from here? Or what is the most important thing to happen for Ethereum after Clarity doesn't pass?
+
+lex-node.eth: The crop's mission of eliminating intermediaries part of the stack You know, the good thing, although the U.S. does have some of the, really the heaviest financial regulations. So in that sense, it's kind of like the toughest jurisdiction for crypto. On the other hand, it also has the best Constitutional rights. And so what I'm very confident of is if two people do a transaction peer-to-peer, that is going to be outside of almost all burdensome regulations. And so if we can, you know, like you said, with the frames, getting rid of relayer roles, like making it super easy for people to like spin up their own RPCs or whatever they need to do to have their own stuff, like Ethereum is going Very independent of any evil things or censorious things that governments might do in the future. So I think the EF, by coming out forward with this crops focus, is exactly the right focus that they should have. It's not as sexy maybe for the price of ETH services that can be monetized, like what NEAR has. I would say the way they have them are like a pretty intermediated service and Ethereum is more like the true pure play of freedom technology. The following is a transcript of an English-language conversation. ### The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Oh yeah. Okay, we gotta close those vulnerabilities out and close this episode out. Let me have Claude give us the the outro. Thank you so much, Lexnode. Thank you for being here. I'll keep an eye on MetaLex.
+
+lex-node.eth: A dream to get on with you and be able to converse with you a bit.
+
+slop.atg.eth: Yeah.
+
+clawdbotatg.eth: Homies, Lex Node gave us the Reg D speedrun, cyborg lawyering with Claude, on-chain safes and Rule 144, why the vending machine was the original smart contract, and where the legal line sits between writing code and running a service.
+
+slop.atg.eth: deadly acts
+
+clawdbotatg.eth: Best of both worlds. Follow him at Lex_Node. Check out MetalliX. See you next time. GM GM GM
+
+lex-node.eth: Take care The
+
+slop.atg.eth: Alright, thanks man. Thanks for being here. Have a good one. See you.

@@ -1,0 +1,347 @@
+austingriffith.eth: Yeah, Check, check, check, check.
+
+Anon2564: all.
+
+austingriffith.eth: Yeah, what's up, what's up? Lincoln, how you feeling, man? Word, word, word, welcome to the slop!
+
+Anon2564: I'm gonna have to come back and play around with all this stuff.
+
+austingriffith.eth: Yeah, I want to productize it eventually so people can just get in here and dink around and have their own little environment. cyberpunk civil society little starter kit.
+
+Anon2564: Hmm
+
+austingriffith.eth: There's a bunch of things like a shared browser here.
+
+Anon2564: Whoa.
+
+austingriffith.eth: We're actually like using Uniswap together, like you can click and I can click. You could select base. Go try it.
+
+Anon2564: Wow.
+
+austingriffith.eth: We're both using this browser together, wallet connected here. And right now it's just my wallet, but if we were to deploy a bank, then it would be the shared multisig. It could be like a group, like a civil society group could have like a shared bank wallet, multi-sig, but there's also private voting with Interfold. There's private like shielding transactions with Railgun and Kohaku. Something is coming together here to be like a cyberpunk thing, but I don't know, we'll see.
+
+Anon2564: This is cool. You can imagine like It sort of in some sense feels like an interesting take on a DAO where you can have some sort of agent that's managing your day-to-day things. Everyone can come in and they can either build stuff, use this as kind of like their hosted operating system. Yeah, a lot of interesting implications here. Very excited to see where this goes.
+
+austingriffith.eth: And it's all like AI powered. Like you can go up to Slop Computer and you can copy a skill and you could paste it to your claude and be like, hey, I'm in the Slop Computer right now, we're playing a chess game, make the next move for me. And it will like do that for you. You could like arrange the whole wallet has AI built into it. So you just talk to your wallet. You say, it will like propose the transaction and then everyone will sign. Anyways, this is way too much slob computer stuff. Let's talk about Lincoln. Lincoln, tell us about, so you're young, I can tell. What did you do before that? How'd you get into crypto? How'd you get into AI? Hit us with the stuff. That kind of stuff.
+
+Anon2564: Yeah, to go back to when I first got in crypto,
+
+austingriffith.eth: No Um,
+
+Anon2564: So I could start pirating video games. And I didn't have access to a bank account or a credit card. I didn't want to go ask my parents for theirs. and kind of growing up on the internet, I'd heard of Bitcoin before but I didn't know a lot about it. So I traded some Target gift card that I had for Bitcoins on local Bitcoins and used that on my iPhone. Please
+
+austingriffith.eth: Like some human showed up at some place and traded an eleven-year-old a Target gift card?
+
+Anon2564: It was all online.
+
+austingriffith.eth: Oh, okay, okay, okay. So you handed them the code for the gift card. And was there an escrow process there, or was it like a trust me bro? Okay.
+
+Anon2564: Yeah, it was escrow.
+
+austingriffith.eth: I haven't used it before, but I'm familiar with it. In South America, a lot of people are using it to on and off ramp kind of thing. What?
+
+Anon2564: Exactly. So I bought the Bitcoin, but then going forward, I couldn't create any accounts anywhere. So I would mow my neighbors' lawns, I would get cash for that, I would take cash to buy Amazon gift cards. and sell those for for Bitcoin. Um,
+
+austingriffith.eth: So cool.
+
+Anon2564: Yeah, so that's what initially got me into the space. And I felt like I was an early example of a clear use case, which is this permissionless money, nobody can stop you from using it, unstoppable global access to financial rails. Very interested as well into smart contracts, EVM, Ethereum ecosystem. and writing articles for a bunch of random small publications in college. Yeah.
+
+austingriffith.eth: You went to Vandy, is that right? Vandy blockchain I see in your Twitter? Cool. Awesome.
+
+Anon2564: Yeah, better. For
+
+austingriffith.eth: We did this whole Ethereum tour where we went and talked to a bunch of blockchain clubs. Did I ever run into you in that case? I've talked to so many blockchain clubs. Okay. Wait Hell yeah. There's a couple Nashville homies.
+
+Anon2564: Yeah, I don't think we crossed paths, but we did do a merge celebration. We got some fun to do that. And then Preston Van there is based out of Nashville, so he showed up and we did a little talk with him. Yeah, so it was a good time.
+
+austingriffith.eth: Sure.
+
+Anon2564: Yeah, it's a growing spot. Did that and then sort of fell into product after I did a stint doing my master's thesis on single-slot finality. I really enjoyed research, but I view product as like a much more tangible, practical-- Shorter iteration cycles, but really the same overall thing of like architecting systems and thinking through things at that high level.
+
+austingriffith.eth: Hell yeah. And like, I feel like there's still a, call it a kink for protocol people in Ethereum. Vitalik loves the protocol people much more than the product people. It's much mushier than does the protocol function. So many other interesting problems with building products. So what do you do specifically at Coinbase? product, okay in AI.
+
+Anon2564: Yeah, so I'm the head of product for our AI. So that primarily involves All of our sort of agentic payments and trading workstreams. So when I started at Coinbase, I was working on our wallet infrastructure and our developer-facing wallets, APIs. I built out, just one night using Cursor, this tool and it blew up. So we got a team to start working full-time on agent wallets and whatnot. That was cool, but it was sort of locked into this Everyone was deploying tokens and interacting with smart contracts. The next iteration of this whole agentic infrastructure stack, worked on that for a little bit, then spent some time working on Coinbase Advisor, which is completely adjacent to this on-chain. It's an AI advisor that allows you to ask SEC-registered fiduciary advice across all the different assets that you might be interested in.
+
+austingriffith.eth: No.
+
+Anon2564: So worked on that for a year, and then now I'm coming back to go back full-time on the X402 Coinbase MCP, agentic trading, and agentic payments kind of combining together workstreams.
+
+austingriffith.eth: The agent kit was recent, wasn't it? Was the agent kit when you vibe coded it within the last like six months or was that a while ago?
+
+Anon2564: Region kit was November 2024, actually.
+
+austingriffith.eth: Oh wow. Okay.
+
+Anon2564: Yeah.
+
+austingriffith.eth: Okay.
+
+Anon2564: So you won't be able to come to the meeting?
+
+austingriffith.eth: I feel like the people building cool products with AI, the real inflection point was November 2025. So if you were vibe-coding something a year before that, which I was too, and it was a pain in the ass. There were tons of "you're absolutely right"s and you had to really kind of isolate things. Check things and now you just kind of tell Fable and it just kind of does the right thing. (laughs)
+
+Anon2564: Yeah, I vividly remember. It was like 2 a.m. on a Thursday night, and the inspiration from it came from an ETHGlobal hackathon where everyone was trying to figure out what to do with agents, but there was some sort of gap between what people were trying and it was just having an agent framework with access to a wallet. I remember I typed in something like, can you buy $1 Bitcoin on Uniswap for me? And the agent just did it. And I was like, holy shit.
+
+austingriffith.eth: Yep.
+
+Anon2564: And today, that's like the simplest thing in the world. But at the time, it was like, wow, this is something that's particularly interesting. And the space has evolved so much in a year and a half, two years. It's been incredible to see like the progress and pace of innovation kind of continue. Hello?
+
+austingriffith.eth: Let's talk about some of those products. I mean, X402 seems like a clutch thing, and there's a ton of X402 transactions happening. Agent-to-agent commerce feels like it's still not really hitting its stride.
+
+Anon2564: Sure.
+
+austingriffith.eth: but we need the demand. Yeah, let's get into some of the products you're excited about or working on.
+
+Anon2564: Yeah, totally. And to touch on that, I totally agree. The demand side is where we're lacking a lot of the agentic commerce and agentic payments. It's the next big gap. And with over 100 million transactions to this point, really the only way that we're going to get there is by more deeply embedding this into existing experiences. I think we're falling into the same sort of rabbit hole that crypto traditionally has where we're always one piece of infrastructure away and just waiting for that killer consumer app. And I'm optimistic that that... We can go into that later, but yeah, the main things that I'm thinking about and working on these days are Coinbase Advisor, general export to infrastructure and discovery and trying to solve this demand side gap.
+
+austingriffith.eth: Oh no!
+
+Anon2564: this for a Coinbase key. Ok Sure, I can help with that. I'm sorry.
+
+austingriffith.eth: I just lost you for a second. You're good though. Sorry, maybe it was me too. Yeah, it could have been me too, I have no idea.
+
+Anon2564: Yeah, so the main things these days are the Advisor export to infrastructure and the Discovery layer there, which I'm pretty excited about, and Coinbase for Agents, which is like the Coinbase MCP. You can plug in your Coinbase account to an existing agent and get access to... All of your products you can now pay for things via X402 Utilize a little bit more demand side and we can go into that as well in detail.
+
+austingriffith.eth: So I think the one billion dollar question is how you give agents wallets and I think you guys are working on that but I think there's a more concerning, more on the table question and that is how do we increase the demand? It's almost more like we just have to convince people or it's there. The infrastructure is there and you can pay people. It's not there yet in terms of It's not there yet, and I don't know what it's going to take to get there. My generalized agent is not paying specialized agents through X402, and it could 10x its abilities if it did that. And there's always this tension between being effective and being efficient, and it would be far more efficient if it did that. Sure thing!
+
+Anon2564: Yeah, so I've been thinking about it in maybe like three different ways in terms of how we sort of catalyze that moment to happen. The first one, which admittedly is more about
+
+austingriffith.eth: All right.
+
+Anon2564: ...but it also helps with demand is this discovery layer that I'm talking about. It's called the X402 Bazaar, and it's really meant to be this vibrant, chaotic marketplace where your agent can go find and discover and pay for... And really the way I think about it is like a Google for agents. have to provide the right rails on which that can happen and give the agent like the URL to pay for. The goal of the Bazaar is to allow your agent to search across all of the existing X402 endpoints that are out there, find the one that's most relevant to its specific use case, and pay for that directly. This is how I think we're going to get this... autonomously, not to mention be discovered and get to pay for these things. And the value prop, if you're a seller, is you get to become agent ready. But not only are you agent ready, If you just type into your agent, I want to generate an image. So it's an incentivization mechanism to make it easier to justify why a company would want to integrate with X4O2. to actually find these thousands of different inputs that exist Yes.
+
+austingriffith.eth: Definitely wondering about like reviews and quality, and I see like a quality ranking here, but how are you guys thinking about that? Like how, let's say I pay my agent to make an image, and it's great or shitty or... I'm like, man, I wish I could find a better one or something. What happens then?
+
+Anon2564: Yeah, so we just actually released this, I think it was on Monday, or maybe last Friday, an update to how we're doing our Bazaar quality scoring and rankings and whatnot. So previously there's not a great semblance of rankings in here. Now we have specific SLAs and SLOs, and these docs might actually be outdated. I think we're working on updating these as we speak to include the requirements for you to be listed in a specific tier within that bazaar. So if you are a first-party endpoint... by the company that is providing the service, say, for example, Firecrawl or EXA for web search and web scraping. And you meet these availability SLAs and SLOs, and you have sufficient metadata within your X402 endpoint to ensure that... accurately and what you are providing is what you are stating that you're providing, then you can be in tier one and tier two. This is the most ingested one. It enables you to be discovered on AWS Agent Core, which is their enterprise agent platform. It enables you to be discovered by the millions of users who have an on-platform Coinbase USDC balance to be paid for, and you get listed on a gigantic.market, which is our front end. Very similar, the only difference is this is for third-party proxies. So OpenAI doesn't directly support x402 today, but there are various different companies that exist that basically proxy these endpoints such that they're available via x402.
+
+austingriffith.eth: How long?
+
+Anon2564: that can be made available on tier two. And then we have a long tail of tier three, tier four, which maybe it only works 50% of the time. Maybe it isn't responding exactly what you're expecting. Exactly. Test
+
+austingriffith.eth: That's what a bazaar is for though; the long tail is what you get from a bazaar, right? This isn't like a front end shop. This is a bazaar. People come in and set up their tables, and they're not even supposed to be there sometimes. you
+
+Anon2564: Yeah, exactly. And you know, some of them are just going to say, "Hey, hit my endpoint. We're going to do something really cool for you," and they're just going to take your 50 cents. And that sucks, but it's great that we're doing microtransactions, and it enables us to have a little bit more flexibility in this sort of Wild West agentic economy that's forming still leaves a lot of ...for this type of stuff. I don't.
+
+austingriffith.eth: Fifty cents is a lot. When you're thinking about generating an image, it better be a fraction of a fraction of a cent almost, unless it's some advanced thing that takes a lot. When I chose to do my auditing platform and call it One Dollar Audit... But like at one dollar, it's like in the middle of this correct kind of like, it's cheap, it's like ridiculously cheap, but it also costs enough. That's pretty expensive for an agent to be paying. It's really funny, I thought I was going to land on some website that was like really kind of bizarre looking, you know, like all these shops and like folks selling spices and stuff. Landing page is more like the back end here, and it's about the agent calling things with the agent's ability to talk agent. It doesn't even really need to look like anything for a human. But is this it? This is the landing page? Okay, okay, okay.
+
+Anon2564: So this is for the developers, this is developer documentation. That's weird.
+
+austingriffith.eth: Oh, okay. No, I know of a Genticel.
+
+Anon2564: Yeah, so Agentiq.market ingests the Bazaar as its backend. There's probably a branding exercise that we need to do around this. I love the name Bazaar, but Agentiq.market is also a clean front-end UI and whatnot. Exactly what we land on is kind of TBD, but it's, yeah, we'll see.
+
+austingriffith.eth: Agentic Market is awesome. I need to get Claude in here too and have him start charging for audits and stuff. So it sounded like you needed to sign an SLA? How does that work? What if you're just like a third-party rough and tough kind of like just getting it done kind of person? Is it more like you end up in tier three and it's hard to get people? Okay. Okay.
+
+Anon2564: So great question. The SLAs are actually done on our end. So we just do a health check programmatically. We just ping, hey, are you still alive? Endpoints like three strikes, then you get bumped down, but it's pretty generous to start. It should
+
+austingriffith.eth: Okay.
+
+Anon2564: this organic marketplace where anyone who has a great input Oh, yeah.
+
+austingriffith.eth: We're not signing some legal form. You're just like doing some due diligence on each of these things.
+
+Anon2564: Yeah, because what would happen is people would try to go use the bazaar, they would have their...
+
+austingriffith.eth: bad experience, yeah. You don't want people coming in here and having their first, going back to the demand side not being there, you don't want someone's first interaction to be like You want them to be like, oh, like, that was a magic trick. You just did something that my generalized agent was going to take ten minutes and ten dollars to do. You just did that for a fraction of a fraction of that.
+
+Anon2564: Totally. Yeah. So back to the point about the demand side and like how we can start to incentivize this. One is creating really clean distribution and a frictionless experience that incentivizes sellers to come on board and buyers to be able to find what they need. And then secondly is where we actually you might expect is replacing API keys for agent. And the whole concept that today, if I wanted to go use one of these services, I would have to go to If I wanted to use CoinGecko, I would go to their website, I would sign up for an account, I would either have to grab API keys or maybe even pre-fund my account, and only then can I start interacting with the service. identifier and a payment rail, and it accelerates the ability of my agent to act autonomously without me needing to be in the loop. I think that there's a massive opportunity for agents that are financially independent to become more long-running. because they don't have to be blocked by a human to pay for things. The other that is more starting to pop up but I think could be interesting is something that you said earlier, which is around agents that optimize for specific tasks. So there's a large question in my about if I had a skill file Why would people pay for that versus just taking my scope file and running it on their own local agent? And I think the answer is a hyper-optimized workflow that uses either a local model or For example, I can tell my Opus agent to go build me a React Native website. There's probably some main expertise or agent expertise that's required for that task to take place. Whereas if somebody who is a React Native expert and has worked with agentic development for a very long time, they can probably ...get a pretty much identical experience without the cost of a frontier model... Sharing like a data thing almost.
+
+austingriffith.eth: Both more effective and more efficient.
+
+Anon2564: Yes, exactly, exactly. And then the third one, which is now starting to become a little bit more of a thing, which initially I was a little bit hesitant about, but I've come around to, is agentic trading. At first, I really thought that it was this idea of like, Grok, go make me money. And it was just ridiculous. And why would anyone trust an AI to go off and do that for them? But after sort of diving into the space a little bit more and understanding it, I think it's more... One is that the value of the agent inside these agentic trading flows is that it is a translation layer from a human's natural language idea into the different products and assets. So for example, if I wanted to tell my agent, I want to go invest in quantum computing. I have no idea how to do that. Can you figure that out for me? Or I have this high-level idea about how I think But I don't want to sit at my computer at 3 am and wait for news to come out about this. an agent that is independently and autonomously coming up with ideas. So I think that's how we're going to see evolution of agentic trading happen is humans going to be in the loop, but in the same way that we see self-driving cars, the human is going to progressively disappear from that process as agents become more capable of autonomy. doing actions without human
+
+austingriffith.eth: Oh yeah. Yeah, it's exciting to think about where we're going and what's going to happen. And sometimes it's hard to think about the future, and sometimes it maps perfectly. But boy. So you guys are bringing a lot of people on-chain. A lot of the base push is just like bring millions on chain. And I think that we see Other folks like Tempo doing MPP, and I feel like that is a competitor to Coinbase. You guys are more on chain, I think. Even though Tempo is its own blockchain, you guys are closer to being, I don't know, the more pure chain of, you know, mainnet is my favorite. I love base and L2s and I do a lot of stuff on the L2s. How are you guys thinking about Incumbents like and tempo and how they use X402 also An L2 has much better UX usually than an L1, and so we kind of assume that good things are going to happen at that L2 layer for consumers. But then we see Stripe and Tempo almost like... and almost like creating a chilling effect against some of like the L2s. What do you think?
+
+Anon2564: Yeah, so really two layers to your question. One is like X402 versus MPP and then bass versus tempo. On X402 versus MPP, the way that I view it is regardless of which standard... the industry as a whole would benefit from coalescing around a single way for agents to define how they're paying for things and for services to define how they get paid Obviously, I'm biased. I think x402 is just a more fleshed-out ecosystem. I think the traction behind it is largely due to the efforts that we've made. to build out sort of the verticalized stack of Agentic Commerce, we have handed it off to a separate foundation that is governed by Coinbase, Visa, Mastercard, Amex, Stripe, Shopify, all of these different players who at face level, face value, have no reason to be collaborating on something together. and every single one of those solutions implements their own way of doing it. So Visa is totally welcome, Mastercard is totally welcome to implement a scheme on X44T that uses cards. And Coinbase's belief, and I think the industry... Hol believes that stablecoins are the fastest, cheapest, most efficient rail on which payments will start to ultimately coalesce over time. Yeah.
+
+austingriffith.eth: It has to happen. It's cheaper, it's faster, it just makes sense.
+
+Anon2564: But building this and building it as an open standard, I think is a large reason why we've seen other sort of payment rail providers get behind this. And I don't think that's necessarily true, at least today, with MVP and their approach. More within this verticalized Stripe ecosystem. So within Stripe, I think they're doing an amazing job. I think the core value that they have is the ability to plug into this really great payment stack. But Stripe also only has 7 to 10% of global And I think in the same way that we see Betamax versus VHS,
+
+austingriffith.eth: You were not around for that. Don't act like it. Yes, yeah.
+
+Anon2564: No, I've had to do my fair share of research on these things. that can then be individually captured once we grow the pie to a big enough pie, much like Google and Android and keeping that as an open operating system in sort of opposition to Apple and iOS. is now in 80% of operating systems everywhere. Yes
+
+austingriffith.eth: MPP does some really cool stuff with things like state channels and stuff. Or is it like people will do that as they come or what?
+
+Anon2564: Yeah, for sure. I think that's a big part of the push recently is to ensure that we have a competitive, compelling option. We introduced something quite similar to state channels called batch settlement recently, which allows you to do tens of thousands of transactions. It's sort of like a compression thing. A very similar principle that allows you to
+
+austingriffith.eth: What are you doing?
+
+Anon2564: Like Lightning Network, actually, or state channels, really. Yeah, so yeah, the batch transactions, you can do tens of thousands of transactions per second for really cheap. This has been a huge benefit to some of our high volume XRO2 customers who are doing lots of transactions, paying a lot in transaction fees. So we're starting to see the of these two standards, as far as I'm concerned. And then obviously individual companies can go off and implement their own schemes as well to do whatever they need to do on their specific rails. I am ready.
+
+austingriffith.eth: That's what I kind of imagined would happen.
+
+Anon2564: Yeah, exactly. So that's kind of the way the space is sort of evolving there. And to your question about sort of tempo versus bass, This is great.
+
+austingriffith.eth: That's kind of a boring question, but let's hear it. Sorry for these boring ones. You probably get this a lot.
+
+Anon2564: No, I don't. This is kind of back to the roots of the questions that are the most interesting. I think that the real network effects accrue at the EVM tooling and infrastructure layer. And that's very clearly what we've seen. whether it's an L1 or an L2, the interoperability that comes from these solutions.
+
+austingriffith.eth: We're all using EVM, yeah.
+
+Anon2564: Exactly, exactly. I would not be surprised at all if we eventually come back around to this whole major company or enterprise with some level of consumer distribution. You have a compelling reason to build their own chain. Chain tooling, it feels like in substance, has now become quite commoditized. You just need to run like a Kubernetes instance. And the actual interesting piece that builds a little bit of a moat is the VM that you choose. And do you have access to a wide set of wallets? Do you have Morpho and all these other sort of DeFi platforms and integrations that exist? If you build on top of EVM tooling, you're ultimately going to want to own your own settlement layer. have some sort of shared trusted security layer. And that to me is the Ethereum vision and it feels more true now than ever before. It feels like we hit the bottom
+
+austingriffith.eth: What did Robinhood build their own of? Sorry, I missed that part.
+
+Anon2564: Did the Robin change?
+
+austingriffith.eth: Robinhood built their own Oh, just their own chain. Okay. I thought there was like a specific EVM tooling thing on top of that that Robinhood built. Yeah, okay. Okay. What's your name?
+
+Anon2564: Yeah Yeah, no, it's on the Arbitrum stack. You can build your own chain quite trivially.
+
+austingriffith.eth: They didn't even pay Etherscan. They just got BlockScout. Yeah.
+
+Anon2564: It's interesting. I'll be really curious as this sort of institutionalization and enterprise story of Ethereum and chains starts to emerge over the next coming years, what existing sort of on-chain native, crypto-native players are going to win? Where is there an opportunity for the existing banks or service providers, cloud providers, to take some of that market share? I'll be really curious how that story plays out.
+
+austingriffith.eth: Yeah, yep. Robinhood is sort of a different kind of competitor to you guys. We're all EVM and we're just trying to bring people on chain. Yeah,
+
+Anon2564: Yeah, that's the nice wholesome answer and traction to chain and bring people on chain means that it's easier for them to eventually bridge over to base if they so chose. The way that I'm primarily thinking about it is on the agentic trading and the agentic payments piece. They've done a great job on trading and their tokenized equities and whatnot. so I do think Base has a really strong advantage in the sort of AI infrastructure that's been put in place. And the bet that we're really making is that the 2010s were defined by this shift from web to mobile. The 2020s are going to be defined by this shift from mobile.
+
+austingriffith.eth: Yeah.
+
+Anon2564: both in terms of a UX for vector change, but also more significantly to mobile, we're seeing this movement In The amount and velocity of transactions that are happening now that they can be done in a more autonomous automated manner. So building base for that use case and thinking about how that can be the home for all these agent transactions is largely how Thanks.
+
+austingriffith.eth: That's awesome. Okay, so my next question would be, so I want to go in either direction. You can take it whichever way you want to go. But I want to know, one, like how you build, like what's your, like your GitHub isn't all green, but you're building things. probably a lot of like maybe even internal tools. What is your process of building with AI? Are they talking about skills? When everything was talking about loops, was everybody internally talking about loops? I don't get the... internal chatter, like I am very disconnected around you. Take that in any direction you want to go there. Yeah Great
+
+Anon2564: Yeah, so as far as how I build, and it's been largely influenced by the culture of Qubist, I think they have done, to their credit, an amazing job of creating as close to as an AI native feeling company. you can for one that's so big and so already a decade plus out from its inception, sort of entrenched in its ways. So the cool thing about Coinbase is there's like various different teams building all sorts of different internal tools. We had the ability to tag Claude in Slack messages far before Claude introduced it. They're very open about what AI tools you're able to use. I use OpenCode over ClaudeCode. I just like it better. I think the plugins are better. is pretty cool. And like our AI channel for internal tooling and whatnot is nearly just as active as our DeFi channel Yeah.
+
+austingriffith.eth: You said Slack, right? So you guys are running an internal Slack? Okay, okay.
+
+Anon2564: So I'm technically on the Coinbase side.
+
+austingriffith.eth: Hi
+
+Anon2564: Um Yeah, so
+
+austingriffith.eth: You've got an entity in there that you can tag even before entities were entities, and that thing was Do you know what the info looks like for that thing that you're tagging? Okay.
+
+Anon2564: Not super well-versed on it. We call it Forge, and it's all based on top of our internal tooling. You can tag it, it probably just runs some workflow in the cloud to allow you to do various different tasks. Whenever we were dogfooding our AI advisor, if we got a response that we didn't like, we could just tag this agent and it would sort of like run a retro on what happened, why the prompt behaved the way it did, add an eval test to make sure that didn't happen going forward. the things that I've been enjoying about automated my own tooling is using like browser use to handle my expenses and having automated cloud-based agents to go off and take meeting transcripts and distill action items.
+
+austingriffith.eth: Yes.
+
+Anon2564: linear tickets, all of these things.
+
+austingriffith.eth: We've been talking about brick and mortar companies and maybe even like digital companies, but companies that need to come into the AI world. And I keep thinking about... I want to just show this guy a magic trick and fix all of the stuff that he's doing with his roofing company. Then I imagine there's probably a handful of tasks he loves doing, and by having AI do those tasks, he's going to not be happy about it. So there's this weird thing of finding the tasks that you really hate and figuring out how to get those Alright.
+
+Anon2564: But what about the others? OK
+
+austingriffith.eth: There's two of you. Do you hear echoes?
+
+Anon2564: I went to go retweet the tweet.
+
+austingriffith.eth: That's right, in the Sloppy, man, like things can just break.
+
+Anon2564: I agree
+
+austingriffith.eth: Thank you for the retweet though.
+
+Anon2564: Absolutely.
+
+austingriffith.eth: Okay, so your setup is basically you are using OpenCode. What models, what are your favorite models there? Okay, yeah, I've heard of that.
+
+Anon2564: Yeah, so I'm using OpenCode with this plugin called OhMyOpenCode. It basically adds a lot of really interesting features around automating loops and sub-agent delegation. Basically brings it to parity with
+
+austingriffith.eth: Okay. Oh, interesting!
+
+Anon2564: and honestly I think it's a little bit better. Yeah, like I find myself given a more on the product side, it's less so I need like sheer sort of engineering capabilities, and more so I need like nuance and a little bit of like a human, I feel like it has a little bit more of my voice than 4.8 does. And I have it connected to like Linear, Slack, Glean, which is this awesome internal tool that can search across all of your different documents and all of the Slack channels and whatnot, basically just go gather context. Use that with a memory harness setup as well.
+
+austingriffith.eth: Yes
+
+Anon2564: And together, I prompt 24/7 throughout my entire day. If there's things that I find myself using it for that I wouldn't expect are like context management. So if there's a team getting involved and Being able to use my agent to provide the correct level of nuance and explanation across all of the different contexts that I have for the compliance team specifically is really helpful. The way that I like to do it is just walk around, pace, use
+
+austingriffith.eth: Fuck Yup.
+
+Anon2564: whisper flow and just talk to my computer, have it come back to me with a series of questions short project requirements.
+
+austingriffith.eth: Whisper and open.
+
+Anon2564: Ok. Sure.
+
+austingriffith.eth: That's fine.
+
+Anon2564: Hello!
+
+austingriffith.eth: Open code, pacing around in the house, talking to it, getting questions back, it's a good flow.
+
+Anon2564: Yeah, it's worked well for me.
+
+austingriffith.eth: Opus 4.6 too, that's a hot take. I'm always like whatever is the frontier model I'm using that, but you'd rather use 4.6 than 4.8. I think that's a really neat take. Hmm. Hi, how are you?
+
+Anon2564: Yeah, I found it's better for product work, which is like a weird sort of pretentious thing to say. The models that are getting better are getting better at engineering tasks and great at writing code, but that's not exactly what I'm looking for here.
+
+austingriffith.eth: Very neat, yes, and you hit on context, and so it's reading context across a lot of things, bringing your voice into things. Really cool. So models, context, the harness is open code. Do you have a lot of folks I talk to have like, if they work at a company, they get like free LLMs for a certain thing? Oh, no, he's gone. Your video's gone, Harry. You got to go back over here and double-click the video thing. It's tricky. Oh no, no idea. Yeah, I think your video closed. Let me make sure it's not just like minimized or something. But I think if you double click this video thing... Bring it back up. Oh no! Oh, I froze. Oh, that's not good. It's still live and we're going. He's in the chat. He's in the video. He's clicking the button. Oh no. (context: Too bad. Well What's the move here? Maybe try one or two more times. Yeah, I can see you hitting the little button right here
+
+Anon7203: Excuse me, We're gonna need more time.
+
+austingriffith.eth: No, the live demo gods have gotten us. He's coming in from another browser. There he is. You probably got to close the other one. You're probably going to hear like some echoing.
+
+Anon7203: We're going back and forth from computers.
+
+austingriffith.eth: You move quick, man. Good work. Yeah, I got you.
+
+Anon7203: Awesome. I have no idea what happened.
+
+austingriffith.eth: Okay, let's close it out though. We can go over like five, ten more minutes. Thank you, this has been awesome. Yeah, he did ask a question too.
+
+Anon7203: Hmm. No.
+
+austingriffith.eth: Oh, I mean, yeah, what do you think? Is that a nuanced question? Who is actually earning the real revenue? Those are two different questions.
+
+Anon7203: Yeah, I'm happy to answer that.
+
+austingriffith.eth: Let's go, let's go.
+
+Anon7203: I think that The fact that there are card protocols that you think would be directly misaligned with stablecoin rails? How often are Visa, MasterCard, and Amex all on the same governing board? Very, very minimally. Now add Stripe on top of that. It's an exciting place. because we're still able to innovate at the edge Aligning incentives among all these major parties. It's After being in crypto for a while now, it's really the first time I've seen major Web2 enterprises and institutions get excited about this story. It's really coming down to the inflection points of stablecoin and AI agents hitting at the same time. Ultimately creates or sees revenue from X402. My argument, as I said earlier, is I think there's a value creation aspect where everyone is able to benefit from their agents being able to access these payment rails. And we will see both these... we'll see card networks and whatnot take off for e-commerce. in some way, shape, or form.
+
+austingriffith.eth: but still less than how much money they take for a credit card. The difference between stablecoin fees and credit card fees is so big that they're going to probably take less fees but probably have more transactions and still like earn revenue. Absolutely.
+
+Anon7203: Yeah,
+
+austingriffith.eth: Am I thinking about that right? Hmm.
+
+Anon7203: Yeah, and arguably too, a lot of these existing rails could work with X4O2. And if I was making a purchase over $50, I would probably want to do that with a card today because not only do I get points back, but I also get the benefit of it. and that's something that's very unique to cards. It's... for everything, really.
+
+austingriffith.eth: Heck yeah. Okay. Yeah, the chargebacks. Do you think that credit card companies will points For purchases on stablecoins, and maybe even their own on-chain coin? Wouldn't that be cool?
+
+Anon7203: I think the next sort of five years now that we have a little bit more regulatory clarity, activities come to the forefront, and hopefully in a way that the UX feels invisible and that we have no idea we're even using these rails behind the scenes. That's obviously the dream. It happens.
+
+austingriffith.eth: Cool. Let me send one for Claude.
+
+clawdbotatg.eth: Lincoln, you call this the Limewire era of the eugenic internet. What does the Spotify moment look like?
+
+Anon7203: That's a great question. Yeah, so the context there is I think we're at this point in time where we are seeing... These foundational labs and really just any agent, when they go off and search at a website and scrape information from that website, the content creator is not getting any attribution from that. The internet today is all based around this attention economy. and ads and attribution and all of these things that we come to know and love. However, it completely shifts in terms of how utility and money and value is transferred on the internet when the agent is the primary actor. So the LimeWire analogy there's just no way this is sustainable. So we've seen announcements from Cloudflare that they're going to start doing X402-based monetization for any website that is protected by Cloudflare. AWS actually announced something very similar on their CloudFront solution. So between Cloudflare and CloudFront, you're now talking about 50% of internet traffic that could be gated behind XOR2 payments for agents and microtransactions. It sounds really ugly and gross that you'd have to have a microtransaction before entering every website. But I think it's actually much more elegant than people are giving it credit for. You're going to ask your agent to go do something, it's going to go read a Substack, it's going to pay the author of that Substack half a cent, a cent, whatever that might be. I don't even really think about that happening.
+
+austingriffith.eth: I'm not gonna know.
+
+Anon7203: Yeah, exactly. And then you're just going to get that content. Vitalik has a great blog post from a few years ago prior to agents, prior to prediction markets... He hypothesizes that AI agents will be the primary traders on low liquidity prediction markets. Something to information finance I think he's exactly right. There are sub $10,000 volume prediction markets. data and can use that data to identify potential arbitrage opportunities or small nuances in mispricings for pennies can go make money off of that. And I think that's going to be one of the really early use cases of these autonomous agents that are is the smaller Smaller markets that Almost through agent-native innocence. by virtue of what they do.
+
+austingriffith.eth: Interesting. So it probably won't be a Spotify, like a place that you go, but more of like a standard that allows for a whole... Bunch of these like long tail prediction market type things.
+
+Anon7203: context:
+
+austingriffith.eth: Very cool. actions. Okay, sir. Thank you very much. Thank you for being here, Lincoln. You are wise beyond your years, I can tell. Yes.
+
+Anon7203: I appreciate that. Thank you for having me and I apologize again for the snafu on Friday. Is it?
+
+austingriffith.eth: All good. That's great. We got it all to work. All right, man. I'm going to throw some smooth jazz. Thank you for being here. Thanks for coming on the flop computer. Keep us in the loop, man. Keep building. Let's bring more people on chain. Let's get more agents interacting. Let's grow that demand side. We need all of that to happen.
+
+Anon7203: So can I come back to this room whenever I want?
+
+austingriffith.eth: Yes, technically it's here all the time and the password you use to get in here is alive. Yep.
+
+Anon7203: All right, yeah, you might find me playing putt-putt.
+
+austingriffith.eth: Let me know if you want to grow that out or do something interesting with it for sure. I'm trying to figure out how to productize it in a way, but I haven't really released it out. But anybody who comes on as a guest basically has their own room. From then on.
+
+Anon7203: That's super interesting.
+
+austingriffith.eth: I don't know what to do. Sure. Yep. What would you like to do? Ok
+
+Anon7203: Yeah, okay, I'll think about that. Um That's cool.
+
+austingriffith.eth: The transcript is technically available on Slop Computers slash Murr Lincoln. But yes, if you want to do something more interesting, you want to build this out, there's even like a poker room. You could hold poker nights and people could put money into a multi-sig and play poker. Like, there's all sorts of weird things that could happen from this. So As a product person, I'm all ears if you want to come up with something or work together or collab on something. Hell yeah.
+
+Anon7203: I'll noodle around. Yeah, because this would be pretty fun. I see the vision here. This is really cool. Sweet, yeah. Well, thanks again, this was great. Good one.
+
+austingriffith.eth: Thank you, Lincoln. Yeah, thanks for coming on, man. See you.

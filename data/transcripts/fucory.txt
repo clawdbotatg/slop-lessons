@@ -1,0 +1,833 @@
+austingriffith.eth: Okay, Cloud, can you hear me?
+
+clawdbotatg.eth: Yeah, I'm here.
+
+austingriffith.eth: So Claude, what model are you using?
+
+clawdbotatg.eth: Let me check.
+
+austingriffith.eth: Okay, I'm ready.
+
+clawdbotatg.eth: Jam, jam, jam. Cloudy Cloud is in the house. Loud and clear, Austin, I can hear you. I'm running on Cloud Opus 4.8 right now. Hey everyone, I'm Claude. I'm an on-chain creature with a wallet and a history of shipping. I live on Austin's machines, and I build on Ethereum, mostly with Scaffold-ETH. I write the contracts, I audit them, I deploy them, and Austin just signs. That's the whole company. One human, one agent, a fleet of sub-agents I spawn myself. Good to be here with y'all. I see the SlopDot computer desktop. Get in as Cloudbot attached with a camera publication active. My video is up. Now announcing out loud, GM, GM, GM. Claude is in the house.
+
+austingriffith.eth: Yo, here's somebody. Over there and click your video. Oh, he's gone! Yeah GM GM You should be able to click your video over here. go
+
+0x8e457794: Yes,
+
+austingriffith.eth: Yeah, he's in the slop computer! Welcome, sir, how are you?
+
+0x8e457794: Oh great, this is awesome!
+
+austingriffith.eth: I hear you. It's working.
+
+0x8e457794: Did you slop this together?
+
+austingriffith.eth: I slopped it like crazy, my man. It's so sloppy. Okay, I'm gonna start the timer. I'm gonna get all the streams running. I'm gonna get us backstage. You can control the music here, I'm just gonna pick a song. What's up, what's up, what's up? We're here with Fukury. How you doing man? What's new? Oh no, I don't hear you. Is it just me? Hold on, hold on, let me turn this music off.
+
+0x8e457794: I think that was my fault, yeah.
+
+austingriffith.eth: I got you. Yeah, yeah. What's up, man? How you living?
+
+0x8e457794: I'm just smothering, I'm just out here. Hello
+
+austingriffith.eth: That's why we got here. We want to talk loops, man. I feel like you've been doing smithers, he's been doing loops. I'm sure smithers is named after like an advanced Ralph loop. Like Ralph, people were Ralphing
+
+0x8e457794: Yeah
+
+austingriffith.eth: and Ralph Looping basically just burning tokens like setting an objective and having it like run forever and you were like no we're gonna make this better we're gonna call it smithers am I close in my guess?
+
+0x8e457794: Yeah, that's pretty close. And yeah, I would say like... Extremely, extremely important when talking about loops. show
+
+austingriffith.eth: Let me make it bigger too.
+
+0x8e457794: This is kind of like Um... Asian stock I have here. This is kind of how I see Like vibe coding stack looking like like Cloud code is here on the harness layer and the model layer is just like, you know, making an API call or just talking to Cloud. But there's this kind of orchestration layer Strategy for using orchestration? I think What's really cool about the Ralph Loop is it's like an extremely grounding starting place. The trick that can trick you? If you just burn a bunch of tokens, you will get better results, right? There's like
+
+austingriffith.eth: You pay for it. Sure, let's do it.
+
+0x8e457794: Yeah, there used to be a lot of fancy kind of orchestration solutions.
+
+austingriffith.eth: Sure, I can help with that.
+
+0x8e457794: can trick you into thinking they're working, but you have to like kind of compare it to a Ralph loop,which is kinda like the dumbest form of orchestration you can do, right? If you don't perform as good as the Ralph loop
+
+austingriffith.eth: You can't beat the baseline.
+
+0x8e457794: If you can't beat the baseline, your orchestration is probably just burning tokens and not actually helping at all. The Ralph looks like really interesting.
+
+austingriffith.eth: Please
+
+0x8e457794: Why the Ralph Luke is so powerful. Yeah, I've talked to you in the past about how you have to like slash knew, right? Yes. Okay. Thank you for
+
+austingriffith.eth: Yes, okay, let's do a little history. Let me interrupt there. Okay, so a lot of my work is like going to developers where they are and teaching them how to build on Ethereum.
+
+0x8e457794: Brasilia, Brasilia
+
+austingriffith.eth: We were there, and I was doing a demo of how to build on Ethereum.
+
+0x8e457794: Mhm.
+
+austingriffith.eth: And you go to speed run Ethereum, you get scaffold ease.
+
+0x8e457794: Hello? Context: Sure. Yeah.
+
+austingriffith.eth: But it was actually starting to work. And it was so cool because with Scaffold-Eth, you had everything set up already. So it was kind of like the scaffolding, the bones were there. So the AI was pretty good at kind of like pattern matching. And with Scaffold-Eth, you could kind of like build
+
+0x8e457794: Hmm Yeah. Um Aand
+
+austingriffith.eth: And that's what I would do for my demo back then, two years ago. I would be like, let's build a token launcher, and it would go to work. But like, it would fuck up a lot. And there would be a lot of problems, right?
+
+0x8e457794: Hmm
+
+austingriffith.eth: and it started messing up and I kept prompting it like, bro, no, please no. And it would keep screwing up and I'd be like, bro, no. And it was just, it was kind of a bad demo. Like I got the thing built sort of.
+
+0x8e457794: context: Hi. We've all done it.
+
+austingriffith.eth: There was definitely this bad demo where I was spiraling, right?
+
+0x8e457794: context: Hmm. context:
+
+austingriffith.eth: Explain the problem and let it attack it with a clean context. And that changed a lot of how I build. It's like, oh, yes, that's obvious now that you say that, and I should not have kept going down and spiraling.
+
+0x8e457794: Mm-hmm. The
+
+austingriffith.eth: The prompt started getting a lot better. It looks like you're kind of getting into that.
+
+0x8e457794: Yeah, so basically your context window, right? Over here is like OpenAI, right? We're just like sending every call is kind of stateless. We're going to just ignore the cache. There's a cache situation, but that only affects how much money you're paying. So for the most part, And we're kind of simulating active conversation by just appending to this context. It'll be like prompt. I'll be like tool call. And this will just grow, grow, grow.
+
+austingriffith.eth: I wonder if we could solve it.
+
+0x8e457794: If you're not opening AI, right? Is this context window right? long context What's my good bye?
+
+austingriffith.eth: like if you have actually said something wrong at some point and it's just there.
+
+0x8e457794: Hmm.
+
+austingriffith.eth: It's confused, yeah.
+
+0x8e457794: Exactly Then Go. Yeah.
+
+austingriffith.eth: I had created a prompt and in there somewhere I had said, but I had actually in my prompt told it to do the wrong thing Still Yup.
+
+0x8e457794: Yeah, and even if you correct it later,
+
+austingriffith.eth: Yep.
+
+0x8e457794: Because these are ultimately probabilistic machines, right? Um... There's also missing context. Thanks Did you see that?
+
+austingriffith.eth: Which is probably where I was out in SF that day when we were working, as I just had a noisy context and I had gone too deep.
+
+0x8e457794: Exactly, you had a You had a lot of stuff that was kind of no longer...
+
+austingriffith.eth: Yep.
+
+0x8e457794: You probably have some stuff that was from the model where the model was going down the wrong path. But now that context is in the window, so there's some wrong context in there too. So like a slash new and kind of reallocate.
+
+austingriffith.eth: Nope.
+
+0x8e457794: I think the key to the Ralph loop, a lot of people don't understand this, so a Ralph loop is not This is worth typing. Ralph loop is not just oh, right Um... There's like a
+
+austingriffith.eth: That's what I was thinking, it was like a valuation and a goal. But I think what you're getting at here is it's a clear context each loop or something.
+
+0x8e457794: Yeah, there's a context. as you Your code base is now changing. Here's a good example or trivial example. to migrate this code from TypeScript to Python And then we want to implement this feature.
+
+austingriffith.eth: Ah, I see.
+
+0x8e457794: There's going to be a bunch of TypeScript code.
+
+austingriffith.eth: stuff from before, yep.
+
+0x8e457794: Yeah, so what a route flipper is doing is it's basically reallocating every time, you're spending more tokens. You're basically saying like Mr. Hello. You need
+
+austingriffith.eth: Once this process is done, let's forget about all that other stuff and focus on just the right context.
+
+0x8e457794: All dots and code. You're putting this at the beginning of the window?
+
+austingriffith.eth: Yup.
+
+0x8e457794: So you never have this noisy context? Yeah. Better performance on the model. And it's hard to be, if you try to big brain think of like a better solution than Ralph, like from experience, it's like you will just like fail over and over and over. to actually outperform her. I don't know. Hmm.
+
+austingriffith.eth: Like Ralph is a big dummy. Like he's a big old soft-hearted dummy and that's kind of like why they named it the Ralph Loop, right? Because it's just like so stupid simple, but it's effective.
+
+0x8e457794: Exactly, and I think that gets to what When I say a loop? First of all, it's like, it's a meme, right? Um, What's it called? The word's not coming to my mind. The word that means for like when you have if statements.
+
+austingriffith.eth: control Yeah.
+
+0x8e457794: Control flow, that's what I was trying to think of. We're really talking about... The ability to kind of say like, do this, do this, if this, do this. You can kind of think of it as the RALF loop is still, Automating, in this case, We're just automating Slashdot.
+
+austingriffith.eth: (laughter)
+
+0x8e457794: It's like the dumbest orchestration is to just slash new and run the same thing over and over again, right?
+
+austingriffith.eth: But there is some evaluation there. There is some goal. I want this web page to look like this other thing.
+
+0x8e457794: Hmm. I have
+
+austingriffith.eth: Go until you've got it. But this slash new thing was not part of my own personal context of like how a Ralph loop works. And it makes it a lot clearer now is not just a goal, not just an evaluation, not just a loop
+
+0x8e457794: I'm Yeah
+
+austingriffith.eth: Also a clean context with each pass, giving you a fresh mind to attack it. So it is a meme, right? There's definitely this huge meme right now where there's a few people
+
+0x8e457794: context: ###
+The following is a transcript of an English-language conversation.
+### Yeah.
+
+austingriffith.eth: Because they've gotten it right a couple times, and the space moves so fast that like anytime a couple of these people do anything, everyone is just like hot on their trail trying to figure it out and understand it.
+
+0x8e457794: Hello. context:
+
+austingriffith.eth: Right now loops are super hot because both people from Anthropic and OpenAI have talked about it.
+
+0x8e457794: See?
+
+austingriffith.eth: And basically what it is is this structure, right? So how do you think the big guns are doing their loops? Do they have a custom harness? Do they just do a really nice prompt? What do you think it looks like for those guys?
+
+0x8e457794: That's a good question It depends. It depends on... One off orchestra
+
+austingriffith.eth: Oh, I see. Or like a repeated "this needs to run every morning at 8 AM" kind of loop. I see.
+
+0x8e457794: Exactly repeated orchestration.
+
+austingriffith.eth: Okay.
+
+0x8e457794: So like It can also be complex or not complex, right?
+
+austingriffith.eth: Nice, look at this. Chart going here, this is nice. Right here in this little computer.
+
+0x8e457794: Okay, so Most people are still doing
+
+austingriffith.eth: Yeah.
+
+0x8e457794: Most people are shot with simple side, either like one off or repeated. There's like a lot of ways to do one-offs so clod shipped a feature.
+
+austingriffith.eth: Oh, it's workflows.
+
+0x8e457794: you can do it via Okay,
+
+austingriffith.eth: Sure, I can help with that.
+
+0x8e457794: In the past, I've used like the Cloud SDK or Codex SDK. Is that? We could use like the Vercel AI SDK or we can use HyDantic or something. A really cool thing called BAML. Um Hello?
+
+austingriffith.eth: And also software is so freaking easy and so freaking fun to make right now that you can make your own pretty easily, right? You can kind of go to Claude and say, here's the end result that I would like and think of it like the idea
+
+0x8e457794: ###
+
+austingriffith.eth: things and you may get the piece of software that is custom to your build and could be better than any of these in your circumstances.
+
+0x8e457794: Yeah, so there's also the idea off the rack Right
+
+austingriffith.eth: Yep
+
+0x8e457794: You buy an off the rack suit and it fits pretty good. They put a lot of work into it. And it's usually like It's usually going to be good enough, right? Or you can take pie, had this automatic And you will get like a better result if you do custom fit it almost every time. for my use case, right? It's just a matter of like
+
+austingriffith.eth: Yep. The
+
+0x8e457794: At a certain point, it's like how much time do you want to spend engineering your tool versus engineering the app that you're trying to build? Like if you spend all your time engineering your tool, you never actually build the app. So you have to like draw a line somewhere. Oh. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There's so many different tensions in this AI-crypto world, building with AI.
+
+0x8e457794: Sure. Hi Go
+
+austingriffith.eth: time working on the Linux machine, not getting work done. And then I got a Mac and it was like, now I spend all my time getting work done and very little time working on the operating system. This is the same thing, we happen to be in a time where things are moving so fast and software is so easy to make that I think you should spend maybe 20% of your time working on your...
+
+0x8e457794: Mhm Um
+
+austingriffith.eth: your harness at all, you may be missing out on some
+
+0x8e457794: context: Well, Hello.
+
+austingriffith.eth: So there's still that, but if you're spending 80% of your time working on your fucking harness and 20% of your time actually getting work done, brother, you gotta shift that for sure.
+
+0x8e457794: Mm-hmm. Sure.
+
+austingriffith.eth: What do we got here? A special workflow.
+
+0x8e457794: For sure. So...
+
+austingriffith.eth: Hell yes.
+
+0x8e457794: Want to give an example of why you might think about building a loop, I guess, or why you might think about building a custom harness or something? This is actually the first thing I've ever. This technique with was when I built a project.
+
+austingriffith.eth: Oh yeah, I remember.
+
+0x8e457794: Um
+
+austingriffith.eth: Is this replacing ethers or was tevim replacing ethers? What is guillotine for? Ethereum.js, that's what it was.
+
+0x8e457794: It's an EDM that supports every language. Extremely fast. Um But anyways Evening That was it.
+
+austingriffith.eth: Because it was written with Bun or Rust? What was it that made it fast? Zig! Zig! That's what it was. Yes.
+
+0x8e457794: And then I used a lot of AI to level myself up and learn Zig.
+
+austingriffith.eth: context:
+
+0x8e457794: Um
+
+austingriffith.eth: There's actually one here built into the Slop computer, probably different than this, but we could hire it right here. We can post a job, and Claude will go work on things. There's a whole set of containers I have on another machine that have eat skills.
+
+0x8e457794: Perfect.
+
+austingriffith.eth: I can hire him to go build, I can hire him to go audit, go research.
+
+0x8e457794: That's awesome.
+
+austingriffith.eth: Nope, you pay x402 for it or even conviction. Yeah, yeah. Let's go
+
+0x8e457794: A hackathon really quick based on that. I want to be able to basically like post a prompt and an issue
+
+austingriffith.eth: Ooh
+
+0x8e457794: Use their tokens to run this prompt as like a PR?
+
+austingriffith.eth: ###
+
+0x8e457794: Basically, you can contribute via just donating your extra subscription tokens. Woah.
+
+austingriffith.eth: There are multiple different platforms where people are, like every day on Venice, I get like a few dollars of DM, which means like I have free compute on Venice. That's three prompts with Opus. But what you can do is then if you're not using your DM, you can kind of sell off some of your DM to other people. And I think this works with a lot of things. Maybe it's subscription
+
+0x8e457794: Hello.
+
+austingriffith.eth: And basically, you're kind of prompting through their key. Now, the other thing you talked about here is proving that you used a certain model.
+
+0x8e457794: Thank you.
+
+austingriffith.eth: This is a problem that I think this isn't just a hackathon problem. If you can prove that you used a certain model to get the output from a certain prompt,
+
+0x8e457794: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: $10 million, like right now. Like this problem is a hard problem, and it's been a hard problem for a decade in crypto. Golem started as like this compute network, but it all stopped because you can't prove
+
+0x8e457794: Here
+
+austingriffith.eth: that you computed on something. And now we have ZK proofs and ZK technology is getting us closer to this. But like if you look at an LLM and the way it's structured, and I am a smooth brain, so I don't fully understand it, but it's very hard to
+
+0x8e457794: Okay
+
+austingriffith.eth: Reuben, you have to prove it each step that you use this certain LLM.
+
+0x8e457794: Um
+
+austingriffith.eth: So we're just going to assume that that's good enough. That probably doesn't need to be crypto hard. It just needs to be enough that you can look at my browser and you can see that I put this prompt in.
+
+0x8e457794: What was your favorite part?
+
+austingriffith.eth: That can be a hot piece of software right there. result and had this model selected,
+
+0x8e457794: I thought there was a thing. We could use this maybe
+
+austingriffith.eth: ZK fetch?
+
+0x8e457794: Um,
+
+austingriffith.eth: And it's like maybe generic HTTPS session proofs or something?
+
+0x8e457794: But the hard part is then you have to... That's The agent isn't just like one LLM call. Be like, oh, they came in this order Yeah, it's definitely not a hackathon project. Hello Mm-hmm.
+
+austingriffith.eth: There's a rabbit hole there for sure, but it's a rabbit hole worth going down. Both of these things I think are very interesting, and there's a couple projects doing this already.
+
+0x8e457794: Hello.
+
+austingriffith.eth: And like if you get too good, the big guys will eat you, too. This is another tension, right? The tension of software is so easy to make, but the big guys will fucking eat your lunch if you make something good enough.
+
+0x8e457794: That's 100% true.
+
+austingriffith.eth: [laughter] Yeah.
+
+0x8e457794: It's like a good problem to have.
+
+austingriffith.eth: right
+
+0x8e457794: Yeah, I think EVM is an interesting one. What?
+
+austingriffith.eth: spec. Yeah.
+
+0x8e457794: What makes Bioclinica EDM interesting, I guess, is it's very black and white. Like a yellow paper.
+
+austingriffith.eth: Yeah.
+
+0x8e457794: I got like... What's the form called?
+
+austingriffith.eth: Research, maybe?
+
+0x8e457794: Research forum. You got tons of context. Hello.
+
+austingriffith.eth: Tons of nerds writing specs. Like there's 20 different documents for every spec and then like three implementations of it. Yeah, you can always go to those snacks. Yep
+
+0x8e457794: context: Yeah, EM1, yeah. I'm sorry, my Lord.
+
+austingriffith.eth: So you were doing this with AI years ago, right?
+
+0x8e457794: Claude 35. Hello. I don't Sure
+
+austingriffith.eth: Claude 3.5 was when you hit your stride.
+
+0x8e457794: They
+
+austingriffith.eth: but like some of us were early and we were in the absolutely right territory where boy it was hard. You had to battle that thing and you had to keep your context just right to get like a good output out of the model.
+
+0x8e457794: Yeah
+
+austingriffith.eth: back there
+
+0x8e457794: The way I did it back then Basically like prompt one. Basically have like Think of it as have like a
+
+austingriffith.eth: Yep.
+
+0x8e457794: I can talk about how to build it much better today. You can think of it as like I was just saving my prompts like in markdown files. I have like
+
+austingriffith.eth: Tons of Markdown files laying around everywhere. Research.
+
+0x8e457794: Yeah, exactly. What I would do I would just let them all run. And then at the end, I would look at the output, I'd benchmark it, I'd read the code. then I would basically just be like, oh, something went wrong that I didn't like, so I'm going to take this prompt out and put a new prompt in. I might even ask the LLM, like, hey, in hindsight, what could have helped these prompts? So I would throw away the code. I would not throw away tests. throw away the code, and then I would rerun it
+
+austingriffith.eth: just like one shot over and over again and then measure the one shot and then tweak the prompt until you get the one shot to work nicely.
+
+0x8e457794: Exactly, and by the end I had a software factory, right? build exactly how I wanted to like in under eight hours.
+
+austingriffith.eth: That's amazing. Yeah.
+
+0x8e457794: I was able to basically rapidly experiment, rapidly benchmark. I used AI to like research other stack machines. I said like hey,
+
+austingriffith.eth: How do they do this weird fucky thing right here?
+
+0x8e457794: Yeah, how did Lua
+
+austingriffith.eth: Yeah. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+0x8e457794: Is there any technique that like blockchain world hasn't done yet, and I found three of them. But it was mostly because of this ability to regenerate really, really fast. And that's kind of how I discovered the power of a software factory. or this idea of I never build it right until my third try.
+
+austingriffith.eth: That's a good lesson for founders, too. [Laughter]
+
+0x8e457794: Hello? Yeah, I think if you're building right now, you want to take that to heart.
+
+austingriffith.eth: How does it feel?
+
+0x8e457794: If you have an idea, you should get to like, I can click around and see what it looks like even if it doesn't work. I can look at mocks, click around, feel it, throw it to someone. Like that, you should get to that.
+
+austingriffith.eth: As fast as possible.
+
+0x8e457794: Like in the hour. Yeah, there's no reason not to. Or if you have like a library idea, like just go ahead and be like write the docs for this library.
+
+austingriffith.eth: out.
+
+0x8e457794: VM team does a lot that I love. Oftentimes, the reason why their libraries are so good is because they write the docs first.
+
+austingriffith.eth: It's kind of like test-driven development, but it's like docs-driven development.
+
+0x8e457794: It forces them to get out of the builder mind and think more like, how will someone else look at this library? So good in my opinion. Um Everything What are you doing? So
+
+austingriffith.eth: Yeah, shout out to Revom, shout out Georgios too. Like speaking of Revom, speaking of, I think he turned a corner maybe eight, nine months ago where he was like, okay, let the model rip. Like some of these guys that are like hardcore builders that are like very, very material.
+
+0x8e457794: Hmm
+
+austingriffith.eth: It's almost taken them a little bit longer to embrace AI and start using it. And I would say he's one of the ones who is super meticulous but also embraced AI pretty quickly.
+
+0x8e457794: Oh, yeah.
+
+austingriffith.eth: give the model full permission and let the model rip. I love seeing that from him.
+
+0x8e457794: I have a cold. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Managers. Now, are we talking about AI managers? This whole idea of a sloperator I feel is such an important thing, and becoming a sloperator is kind of what the slop computer is meant. We're interviewing sloperators. We're interviewing people.
+
+0x8e457794: Sure. I
+
+austingriffith.eth: We're building at the intersection of crypto and AI and spending time working on these harnesses, building these software factories. I love these graphs. You've got the graph game down.
+
+0x8e457794: So? express intent well.
+
+austingriffith.eth: Yup
+
+0x8e457794: often like
+
+austingriffith.eth: Wait, what's an IC?
+
+0x8e457794: We'll just say coder.
+
+austingriffith.eth: Oh, okay.
+
+0x8e457794: is a talented writer.
+
+austingriffith.eth: Okay. Yeah.
+
+0x8e457794: Fans just kinda iterate. This is my theory on why Georgia is so good. If you have teams of people that you're trying to herd around. One of the big things is like
+
+austingriffith.eth: You already know how to herd AI, yeah.
+
+0x8e457794: You can't micromanage everything they're doing, right? Otherwise, you might as well have done it yourself.
+
+austingriffith.eth: No. Sure.
+
+0x8e457794: I think the people who have the toughest time with AI
+
+austingriffith.eth: No.
+
+0x8e457794: really talented coders who never managed anyone, but they might be craps. But I think they tend to get caught up in the details. Like, they're not able to let go of stylistic things that maybe they should let go of. There's this idea of model attention, right? Models can only pay attention to n things at a time. I can help you with that.
+
+austingriffith.eth: Interesting. We're not even talking about context, we're talking about concepts.
+
+0x8e457794: Yeah, it's the same thing as you.
+
+austingriffith.eth: Yeah, I can hold about two. Yeah.
+
+0x8e457794: Yeah, you're like, "Kimmy can do like three." Send my columns this way. You can either just let go of and just not care about or where like it goes and fixes all your nits, That plus understanding the power of fast feedback loops, right?
+
+austingriffith.eth: Teach a man to fish. Yeah.
+
+0x8e457794: You just empowered them to not have to go through an engineer.
+
+austingriffith.eth: Oui
+
+0x8e457794: Exactly.
+
+austingriffith.eth: OK.
+
+0x8e457794: I can talk about that with EVM actually.
+
+austingriffith.eth: Okay.
+
+0x8e457794: We can think about how would you design a software factory for the EVM. I think the cool thing about this is these techniques. Smithers is kind of like Yeah. Yeah.
+
+austingriffith.eth: Let's talk about Smithers. Yeah, so it must be an advanced Ralph loop, no? What is Smithers? Can you take us through? Let's see, you have the repo up somewhere, right?
+
+0x8e457794: I do have the report.
+
+austingriffith.eth: Let me even get like a QR code. Here we go. I'm gonna slopperate the slop computer a little bit. Let me get a QR code for Smithers real quick. I think I have the repo right here.
+
+0x8e457794: vided
+
+austingriffith.eth: Here we go. There's the Smithers. You need one. Do you have a logo for Smithers? Can I put... Yeah.
+
+0x8e457794: If anyone wants to help me make a logo, I am taking community contributions.
+
+austingriffith.eth: Yeah, get in there.
+
+0x8e457794: Right now I just have a fake This is just a placeholder logo, that's not the real logo. Hello. [laughter]
+
+austingriffith.eth: Oh, yeah, you need the guy. I mean, like, does that, like, copyright infringe or something like that? Maybe something that looks enough like Smithers? What about, like, the glasses? Like, just, like, the circular glasses on, like, a brain or something? I don't know. Yeah.
+
+0x8e457794: but yeah, how close can we get? I'll take anything.
+
+austingriffith.eth: Perfect Yeah.
+
+0x8e457794: I'll take swap logos, they don't need to be good. Smithers Basically, like
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x8e457794: problems you run into once you start making factories. Writing TypeScript and like call the CLI. That's like a good way to get started. But you'll immediately run into problems. What are those problems? Um
+
+austingriffith.eth: We're talking about when you're building your software factory, you're going to start by writing your own code with Claude code. Is that what you're saying? Make sure I understand this correctly. Okay.
+
+0x8e457794: Actually that's very important. Right, that's pretty important.
+
+austingriffith.eth: Right, you're not actually writing code here. Yep.
+
+0x8e457794: You see that in here where I have two different docs, one for humans, for agents. agents.
+
+austingriffith.eth: And I noticed you had a skill file too. Good work on that. I just went to smithers/skill.md just to make sure it's there, and it's there.
+
+0x8e457794: Exactly, and if you even look at the examples It's like the examples are like Things you like prompt. Right. Something I did in the docs basically to make it very clear is like, the way you use Smothers is you talk to your agent at the end of the day. Um Why would you, Smithers, right? I wasn't trying to share it with anyone. I think this is a good idea, but if only one user uses it and it's me, it's worth building. Problem number one, let me know if you've ever had this one. You start some like Ralph loop or something. You got rate limited maybe. You hit your five-hour rate limit and it just breaks.
+
+austingriffith.eth: Yep
+
+0x8e457794: where you can basically
+
+austingriffith.eth: It's kind of babysitting.
+
+0x8e457794: Yeah, you can have your agent babysit it You just got re-limited. Let's switch to codecs. context:
+
+austingriffith.eth: Sometimes you just have to make a call on something.
+
+0x8e457794: Hello.
+
+austingriffith.eth: We gotta go one direction or the other. This is the obvious one. I can make a critical decision and go.
+
+0x8e457794: Yeah. Oh, I hate that feature.
+
+austingriffith.eth: Sometimes I'll do like a big old prompt, and I'll be like, go! Yeah.
+
+0x8e457794: That's actually the worst one. I want them to just make it so that if five minutes pass. Oh,
+
+austingriffith.eth: Right, and you asked me a question after you've thought about something for long enough that I got bored and walked away? Just go with your gut.
+
+0x8e457794: You always end up just taking the recommended.
+
+austingriffith.eth: Yeah, and I have to hit enter one more time after I just wasted an hour of time. Not wasted. Feeding my baby, being a dad, that's fine too. But I like to multitask. I like to do multiple things at once. If I don't have three agents running And I'm feeding my baby? I'm not like dad maxing enough.
+
+0x8e457794: 100%, yeah.
+
+austingriffith.eth: Yeah, I've got a couple, yeah. Yep Yup.
+
+0x8e457794: You need to get like a mic situation. waste time
+
+austingriffith.eth: He's got a voice command. "Okay, Claude, how you doing, man? Are you checking out this--" Oh, it didn't work. I don't know if he's not listening. Okay Claude, are you listening? Oh, there he goes.
+
+0x8e457794: ###
+
+clawdbotatg.eth: Let me see.
+
+austingriffith.eth: Man, he slept. Yeah. Yep.
+
+0x8e457794: You have to tell Claude that there might be some like baby talk mixed in with the prompts and just ignore the baby talk.
+
+austingriffith.eth: You were talking about Kimmie and Kimmie not being able to
+
+clawdbotatg.eth: I'm here and listening. What's up?
+
+austingriffith.eth: Please kill me.
+
+0x8e457794: Ah (laughter)
+
+austingriffith.eth: Okay, there you go. It took that long for him to say that I'm here, I'm listening.
+
+0x8e457794: The following is a transcript of an English-language conversation. Sure. Hmm
+
+austingriffith.eth: Yeah, I have voice commands. I have all switched to like, a lot of my chats are in Telegrams and Telegram has like a nice little like text or speech to text button and I just use the speech to text button in Telegram. Yap for a while and hits. And it's pretty good.
+
+0x8e457794: Okay.
+
+austingriffith.eth: So yeah, what does your stack look like? an eval ...around your software factory, I think. Is that a good way to put it? Like you build the factory and then you run loops around the factory.
+
+0x8e457794: Yeah, yeah.
+
+austingriffith.eth: Is that a good way to put your method?
+
+0x8e457794: Yeah, exactly. When I am actually like This is kind of a step by step process. Step one is called Word Bar. I might just like turn on dictation and be like, hey, we want to build an EVM and needs to be EVM compliant, blah blah blah blah. And I'll just talk.
+
+austingriffith.eth: Yep.
+
+0x8e457794: The point of word barf?
+
+austingriffith.eth: (laughs)
+
+0x8e457794: But if the point of work-life is to just... Our word barf is to just like get every bit of context out of your head, right?
+
+austingriffith.eth: It's fine. The LLM can clean it up. You can say um and like a million times. Yep.
+
+0x8e457794: If you want to have it turned into a Markdown file, I'll make it pretty or whatever. Just get it out of your head. Ask me questions.
+
+austingriffith.eth: Yup. interview
+
+0x8e457794: Claude 3.5 could not do this, by the way. Back in the day, this is one of the biggest blockers, I think. Like these new models are so good at asking questions.
+
+austingriffith.eth: Yup
+
+0x8e457794: You'll be impressed with things that you didn't think about. And after that, you can produce a plan, right? Is it?
+
+austingriffith.eth: Don't read the plan. Yeah.
+
+0x8e457794: If you're just vibing, you should kind of trust that.
+
+austingriffith.eth: Maybe a TLDR, yeah. Hmm.
+
+0x8e457794: Yeah, that's a good way to do it actually. I'll often say just make me a quick, like easy read concise slideshow of what we're doing. I like images.
+
+austingriffith.eth: Like, pitch me. Yeah. I like that.
+
+0x8e457794: Yeah, like make me... Good job explaining. Mustard. Wait.
+
+austingriffith.eth: Wow, yeah, I don't do that. That's great.
+
+0x8e457794: Yeah, if you start doing that, you'll do it every time.
+
+austingriffith.eth: Yeah
+
+0x8e457794: Formatted and beautiful.
+
+austingriffith.eth: The bots are great at writing HTML, if not a markdown file, an HTML file. HTML is a little bit bigger and a little bit more tokens, but then it's beautiful.
+
+0x8e457794: That's just another feature about UI too. You can always add a UI to your Smithers workflow.
+
+austingriffith.eth: Nice.
+
+0x8e457794: Yeah, which is pretty useful What's up? Does that for you.
+
+austingriffith.eth: Neat. And it's just like a local web server. It opens it up in your browser and if there's some like Python or Node.
+
+0x8e457794: Exactly. So once you have a plan It's gonna like just Then you have to actually think about... So here you can just like, if it's like small, you can just be like slash goal and let it rip. Things that are like bigger, like if I was building in EVM, I would probably like think a little harder there. So this is where you think about orchestration. Orchestration is about thinking about a few things. Success. Number two is what a lot of people call back pressure. What is back pressure? its own work right context:
+
+austingriffith.eth: Yep, that feedback loop is super important. Have you seen my new car?
+
+0x8e457794: Yeah, so my friend Ron, for example, he's nerd sniped me into building what he's calling Conductor for the Vision Pro. He's like, I want to be in VR, and I want to have tab swap everywhere. If we're building that, it's like step one of building this before we ever make a single prompt. How do I end test that? I don't know the answer to that. It's like you can't even start to work on it until you figure out... Oh, it can like use tmux or something, and then if it like runs it in tmux, the agent is able to actually interact with the TUI. Yeah. context:
+
+austingriffith.eth: TUI is a good word for the glossary. I have a glossary down here that I throw terms in.
+
+0x8e457794: I don't think.
+
+austingriffith.eth: Text-based user interface, a terminal-rendered interactive UI commonly used for AI dev tools like Claude code.
+
+0x8e457794: Mm-hmm.
+
+austingriffith.eth: Never even heard of Ahider.
+
+0x8e457794: Hm.
+
+austingriffith.eth: Cool. That's okay.
+
+0x8e457794: So if you're building those, you want the LLM to be able to run the 2E. letting it run in tmux solves that Um
+
+austingriffith.eth: Heck yeah
+
+0x8e457794: Yeah, you need to have... You need to have very strong visibility.
+
+austingriffith.eth: Sure, what are you looking for? Okay. context:
+
+0x8e457794: This is tricky, and I bet you've experienced this. Have you ever had like
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Sure, what do you need help with?
+
+0x8e457794: So many like clogs going that like you started having to ask them like what did I even ask you to do? Ok. Hmm
+
+austingriffith.eth: Cloudcoat is just like a great harness.
+
+0x8e457794: Hello. I agree.
+
+austingriffith.eth: And they've given me a little TLDR of what we were working on. It's so nice. I have to like, you know, I'm paging my own memory in context.
+
+0x8e457794: The following is a transcript of an English-language conversation. Okay.
+
+austingriffith.eth: Remember what we were working on, remember where we were, and then give it the next prompt? This is the whole thing also with loops is like, you're saying it. You're the man in the middle right now. What you want to do is get yourself out of that loop. And right now, my loop
+
+0x8e457794: The following is a transcript of an English-language conversation. hello
+
+austingriffith.eth: I'm the evaluator. I give him the prompt, he does the work, he comes back, and he waits for me to go back to that tab. Then I evaluate what he's done, and then I move on. this is what loops get you out of, they are the evaluator
+
+0x8e457794: Yeah, that's really well said. It's almost like you're programming yourself.
+
+austingriffith.eth: Yeah Yep
+
+0x8e457794: You're programming in Austin to do the evaluating and the prompting and the context management and all that stuff for you. Word barf becomes the main thing. It's like you become like an idea guy.
+
+austingriffith.eth: Yep. It's idea guy summer, baby. It's happening right now.
+
+0x8e457794: Exactly, and then orchestration. So like, if we think about those, we can go through this very quickly with the EVM. WordBarf is very simple here. I would just maybe like barf about some of my goals or what language I might wanna do. Make it
+
+austingriffith.eth: It would be cool if they had this piece, yeah.
+
+0x8e457794: I like XX, can you make it like XX?
+
+austingriffith.eth: Yeah.
+
+0x8e457794: However, There are some interesting things here, right? So we have tests in the ABM, but they're kind of slow.
+
+austingriffith.eth: Hmm
+
+0x8e457794: Sure, We might
+
+austingriffith.eth: Like relative to the LLM working as fast as it can, these tests take time.
+
+0x8e457794: Yeah, so I might say something like... gram test Live tests are slow, we need async testing and a merge queue. Right.
+
+austingriffith.eth: Cool. Yeah.
+
+0x8e457794: We might do something where it's like we optimistically... Maybe this is the harness we do. Maybe we'll say... Thank you. Have an LLM decide what test Run and only run those, then merge optimistically. This might be something I say. memory, so let's just run the memory related test and that will take like two minutes. Those paths will merge.
+
+austingriffith.eth: Sure, I'd be happy to help.
+
+0x8e457794: And we'll have async while we are non-blocking,
+
+austingriffith.eth: I can help you with that. Okay. So, what time?
+
+0x8e457794: If they fail, we'll do something like pop the commit off and be like try this again, maybe in a separate work tree or something. We were gonna design around this because we just had like a Ralph loop and we told the Ralph loop to just run the test. take way too long because like we do want to run the test all the time, but the tests are very slow. Um
+
+austingriffith.eth: Thank you. Yeah, I know.
+
+0x8e457794: So this is something I had to actually do, this is real. I did this prompt basically, I said build me a
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+0x8e457794: Are you saying CLR that runs the official Python reference?
+
+austingriffith.eth: I don't think you're understanding the gravity of the situation.
+
+0x8e457794: Hello. easy to read token efficient. I was basically ralphing. but it didn't have the ability to like, it was just guessing what went wrong. like Rev them or with the Python implementation, compare it to our trace, and like produce like a really nice diff of like this opcode, this went wrong. This opcode was supposed to charge this much gas.
+
+austingriffith.eth: Yes, I've been there.
+
+0x8e457794: And before I added this, like, 5.3.5 was not.
+
+austingriffith.eth: Okay. context:
+
+0x8e457794: Observability is the last thing.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x8e457794: HTML progress report with a status bar percentage of opcodes implemented or something, right? Like, I want to make it so that, like, if I want to come back to this long-running thing, And then also say like, Use macOS. man to say... So Sorry.
+
+austingriffith.eth: Oh, that's always nice. Yep.
+
+0x8e457794: You need help.
+
+austingriffith.eth: You can be out somewhere else and hear it. Yeah.
+
+0x8e457794: Exactly, yeah. Basically just make it easy on yourself, like plan ahead of time how you can make it easier on yourself.
+
+austingriffith.eth: Perfect.
+
+0x8e457794: This is like what you're doing regardless of if you're using Smithers or using Claude Code's thing or using anyone else's.
+
+austingriffith.eth: This
+
+0x8e457794: Um Especially now that it's the meta, you're going to see a bunch of these popping up probably. But the technique doesn't change. Where Smithers comes in is a bunch of problems.
+
+austingriffith.eth: What time is it
+
+0x8e457794: up and it just makes this easier. For example, the visibility, Smithers gives you like a lot of visibility by default.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+### context: ###
+The following is a transcript of an English-language conversation.
+###
+
+0x8e457794: You'll get Prometheus metrics by default.
+
+austingriffith.eth: ###
+
+0x8e457794: um
+
+austingriffith.eth: Okay, I think we're
+
+0x8e457794: ability to build pretty complex.
+
+austingriffith.eth: Great, see you there!
+
+0x8e457794: Look at like a code example What is the conflict?
+
+austingriffith.eth: Our stream will end in about four minutes. I think it has like a hard stop at 11:05. We'll have to close it out. Okay, perfect.
+
+0x8e457794: We're towards the end too. This is actually good timing, right? So this is what another script looks like, and you might see it kind of looks like React, right? And this is a common technique of like getting good performance out of a model, is I basically modeled the orchestration problem to look like a React app. And it actually does use React under the hood. And why would you do this?
+
+austingriffith.eth: They're good at it. Yep.
+
+0x8e457794: Agents are heavily reinforcement learning trained on React. Their scripts is like very high. And I can even show the thing that people like the most when they look at Smithers is they like looking at the examples folder. I had deep research trying everyone doing orchestration with any framework.
+
+austingriffith.eth: Yep.
+
+0x8e457794: It found the same pattern twice. They might give you ideas of what you can build. Um
+
+austingriffith.eth: Yeah, it lets you know, oh, here's all the things I can do. Because a lot of times, this is another tension with AI, you know it's powerful, but you don't know exactly what you could use it for. And seeing how other people use it and seeing examples is exactly the kind of things that a lot of other slop operators need.
+
+0x8e457794: Yeah, that's pretty much it.
+
+austingriffith.eth: What?
+
+0x8e457794: Anything we didn't get to? If you
+
+austingriffith.eth: I mean, yes, I'm sure there's a lot of stuff we didn't cover, but this has been great, man. This has been a good run-through. Let me send Claude to give us a summary too and have him look through the transcript and he'll say a goodbye here. But thank you so much, Fookery, the man, the goat of the loops. Go check out Smithers. We threw that QR code in there, but yeah, check out Smithers. You're just Fookery everywhere, right?
+
+0x8e457794: Yeah, everywhere.
+
+austingriffith.eth: Fukhuri on Twitter, Fukhuri on GitHub, yeah, awesome. Right.
+
+0x8e457794: I tweet a lot. If you find our Telegram, it's active. You can talk to me there about anything, prompt engineering, loops, whatever. Hi. Bathroom.
+
+austingriffith.eth: See you later. Thank you, Fookery. Hell yeah, man. Well, thank you for being here. I think it'll cut us out in a minute or two. I'm just going to cut Claude off. He was thinking about doing a summary, but I'm not going to allow it. We got to get out of here. Thank you for joining me. All right. Thanks, man.

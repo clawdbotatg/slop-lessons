@@ -1,0 +1,453 @@
+austingriffith.eth: The following is a transcript of an English-language conversation. Yeah, all right.
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You guys are in the slot. Welcome, welcome, welcome.
+
+Anon1461: What's up? Thanks for having us on the Slop.
+
+austingriffith.eth: Yeah, for real.
+
+Anon1461: context: The
+
+austingriffith.eth: Let's see, I don't even know Let's maybe make these a little bigger?
+
+Anon1461: This is by far the most interesting format I've ever been a part of, Austin, so thank you. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Thank you for being here, yeah.
+
+Anon1461: The context:
+
+austingriffith.eth: It's sort of like crypto-ish too, like sometimes I like to talk about how you got into crypto first and then AI, but I don't know. You guys take that however you want. Open it up. Give us the intro.
+
+Anon1461: Let's do it. So I'll give a quick intro. My first blockchain hackathon was 2015
+
+austingriffith.eth: The
+
+Anon1461: Barclays Bank in New York. Blockchain back then was like, I then quickly after got picked up by JPMorgan to work on Quorum for the products like four or so years, and then my last venture was a project called Gaia. We did decentralized AI inference. We were taking open source large language models and helping people take their own vectorized data, their own RAG. as an API endpoint to agents. It was kind of interesting Talking to the Ethereum community about getting into agentic When you're too early, sometimes it's a tough convo. How do agents manage payments? And then more recently, While doing Gaia, we were doing a lot of stuff in the command line. early 2025 And that really caught my attention. make it easier for developers to deploy those runtimes And then through that you start again a lot of traction on the project. And then more formally jumped in full time with Suraj to work on what's now called Quirk. We're working on one-click Businesses and individuals or solopreneurs can take their harness, their model, their infrastructure that already exists bring that whole infrastructure into an environment that you can measure, govern, permission, and optimize.
+
+0x8648d335: Thank you so much for having us over. I've always been in tech, so I've been more on the Web2 side And then also as a builder as well. By background, I'm ex-Microsoft, and I worked a lot more on the low level, like operating systems. to increase their performance and then also building systems that even the large scale companies use to increase like the DevOps systems And in that dev shop, what we started to do was and we were able to ship to like 50 customers with a small team of five people.
+
+austingriffith.eth: It was rough.
+
+0x8648d335: function calling was very new, so you know, this was all like very, very early days, and we're like, okay, then we see some value in the infrastructure. So now it's like, everyone can do it pretty fairly, but at that time it was fairly rare. So then we started distributing it around. and by that time also we started working with Gaia on creating one-click environments. teams that really wanted to try out these environments. now what we're doing is we're creating one-click agentic environments allow you to observe them from a model perspective. That's why we feel it's very different in the Quark ecosystem. You know, they're all on the fact of like, oh, if I'm a model consumer, this is how much energy I'm consuming, this is how much token I'm consuming. We want to start off as like, which is a very good community and we need them and which is how we want to grow. But at the same time, now we're seeing a huge adoption of AI among people who also use it as a consumer.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x8648d335: Perfect example is how you build this entire website. And you know, that is where our whole idea of work is coming along. And is it increasing or reducing over time? The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, let's dig into that. I don't think I totally understand that. I understand measuring context and measuring token usage, but I don't understand measuring the effectiveness of the agent or something. What are we talking about here?
+
+0x8648d335: Absolutely. So let's take a real-world example of that scenario, right? Discard
+
+austingriffith.eth: A lot of claw code, a lot of open claw, like this dude started as being an open claw agent and then kind of turned into my own kind of custom harness thing, but I feel like my harness where I get the most work done is claw code.
+
+0x8648d335: So one thing you would have noticed is like when you started first in the beginning, you had to prompt it a lot.
+
+austingriffith.eth: Pre-November 2025, pre-Opus 4.5 or whatever that turning point was, there was a whole lot of keeping it, keeping the bounds, keeping the context tight one issue at a time. Lots of, you're absolutely right.
+
+0x8648d335: Absolutely. So what we started to notice is like, you know, once you start prompting this project, the first prompt you gave has to be detailed. But over time, you want to give it less and less of your input, and you want it to produce more and more of your output. how you want to measure it is if I started today, I gave it the first prompt, and then it gave me an answer. Then I give it the second prompt, the answer should be slightly better than the previous answer. If the answer after each prompt is getting worse over time, that means Then mathematically we've been able to quantify that when to stop. but also a lot of human energy but also the time that human takes to explain it to AI give you more and more of the output.
+
+Anon1461: The
+
+0x8648d335: ###
+
+austingriffith.eth: And that's because you're improving the context that's going into it or you're improving the actual weights?
+
+0x8648d335: All we're doing is we do measure essentially the human intent, what inputs you're giving.
+
+austingriffith.eth: context:
+
+0x8648d335: models automatically know to pick them up and train. Then when it goes and starts working on your machine, it doesn't need that much input because it knows that it has a history of all the good inputs that Austin likes.
+
+austingriffith.eth: There's like an RL layer on my prompts and my responses
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: go into making the agent better.
+
+0x8648d335: And that all of that
+
+austingriffith.eth: What were you gonna say there, Matt?
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The
+
+Anon1461: Yeah,
+
+austingriffith.eth: All good. Yeah, I thought you were going to say something. Haha
+
+Anon1461: I was gonna say, the best first customer for us is not perhaps Austin Griffith tokens spent you have
+
+austingriffith.eth: Yes
+
+Anon1461: Companies that I've heard of that are actually trying to enter lawsuits with like, hey, we spent all these tokens, but we're not actually getting an output.
+
+austingriffith.eth: Right
+
+Anon1461: And it's like, well, look, there's a ton of, you know, risk that the company Onboarding to AI, you're going to have like the humans that don't know how to use the thing properly, successful KPI, you have the actual infrastructure, risk or inefficiency, The AI model itself is not doing the right. you know, humans don't deserve nice things. It's not just the A.I. went off the rails and misused the tokens. A lot of it's an infrastructure problem, and so that's really like what we're focused on. how do you optimize on the CPU level? started some math around this unit of work and how do we actually quantify the business intent with the input of energy and intelligence with the actual output? And then how do we measure that over business So that like much like a joule or a watt or like horsepower, spending 10 billion AI tokens a day, We're trying to introduce a new metric, and our environments enable us to actually observe that. It's not a harness. We're not building a harness. We're not building a model. We're building an environment on machine-level code that can actually measure is your AI being productive.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I'm sitting here talking to my Claude code, I've got Fable tuned in, we're building. doing some like reinforced learning loop on it
+
+0x8648d335: transcript
+
+austingriffith.eth: Okay, so what Let's say, okay, so like I'm not an AI genius. I don't understand a lot of this stuff. But let's say I do some CLAWD coding for a while. You've learned some things about me. which thing uses the least amount of work on my part What I understand the environment and observing the environment. What are the actual knobs you turn once you learn something?
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Is it something around the model?
+
+0x8648d335: That's an excellent question.
+
+austingriffith.eth: Interesting.
+
+0x8648d335: The beauty that we've noticed is that these agents over time get smart like dot cloud where trees and all of those data are exactly the same amount of data every agent is smart enough to pick it up and become smarter. So one place that we see is like right off the bat, all of those optimizations happen. So what we'll do is like we'll optimize the machine code for that and we'll make your prompt smaller. So for instance, like one example that we noticed in our research was like AIs make a lot of error in tool calling. compared to the open source models, degraded performance. What we noticed there was like now suddenly the open source model is now more productive. we get to know why your agent has been failing Tree models are really good at self-healing.
+
+Anon1461: This
+
+0x8648d335: And once they have this data, they keep on improving and optimizing.
+
+Anon1461: One of the
+
+0x8648d335: That's how you
+
+Anon1461: I wanted to lean into Some version of this is being done with Reasoning. or approach to optimizing their AI. a team of 50 let's say, which is rather small And your entire team is on board to having like their own agent copilot. treat it like a work device, like a work laptop or a work phone? How do you manage the permissions of that if someone leaves the team? Do you migrate that data back to the organization some way? Do you permission that device to access certain parts of the org. But we're enabling organizations to get the efficient runtime It becomes very interesting Is your model inference being hosted in a foreign region that your org did not permission? in and out of the container. And so that enables orgs have a lot of granular insights and control Just trust that Anthropic has your best interest in mind.
+
+austingriffith.eth: Okay, there's a lot to unpack there.
+
+Anon1461: Sorry for that.
+
+austingriffith.eth: At first I was thinking like this is running on my machine and it's my quad code and my model, but then it keeps getting to the point where this sounds more like there's like a container and all of this is containerized somewhere.
+
+0x8648d335: context:
+
+austingriffith.eth: What's the mental model here for like the structure of this thing?
+
+0x8648d335: So basically the technology that we've devised, it can run anywhere. now what happens is you can run it obviously as a local, if you're using your desktop app, then you can clone that open source code and run it locally. So what happens is then you take advantage of it locally. But where we see a huge practical application of this is going to be in large scale businesses, when you take the same technology and run it inside their provisioned infrastructure Each of these large businesses already have security, VPN, all of them baked in When you are an independent developer, want to calculate your outputs, you can just clone it, run it, and you'll get the same results.
+
+Anon1461: It's kinda like
+
+austingriffith.eth: go ahead.
+
+Anon1461: Go ahead.
+
+austingriffith.eth: No, go ahead.
+
+Anon1461: So if you're already running GCP, AWS, Azure, for example, or maybe you have a Nvidia GPU or you're running some AMD CPUs or whatever your hardware to cloud architecture looks like for your org Do you really expect that? You have some of these groups creating their own native agents. Azure just came out with out and then, which are Running on different Terraform-compatible surface areas like cloud or hardware? How do you actually migrate those infrastructures? you have like Some of your skills might not be completely audited, These are kind of the things that happen in our container. and anyone in your org receives, you know, kind of org-wide mandates of how the software is like installed. Yeah
+
+austingriffith.eth: Something interesting that you brought up already Almost like the data within the container, not just the observability stuff that you're talking about, but even like people's prompts and the responses.
+
+Anon1461: The
+
+austingriffith.eth: Really interesting to think about that as company data that migrates Turn back into the company after you've left?
+
+Anon1461: Or they could take it with them.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It's a real issue though, حيث does the intelligence go works on a work computer or work environment
+
+0x8648d335: context:
+
+austingriffith.eth: And then, yeah. okay
+
+0x8648d335: To be fair, that's what happens today. The way I think of data today is going to be very different from how we will think in the future the outputs that AI produces should be also, I would say, owned not primarily by the company along with the credit to the author Very similar to what is already happening today. We just want to make sure that only big tech and larger AI companies are able to take advantage of them. Like Google and Microsoft.
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+0x8648d335: And context:
+
+Anon1461: With Siraj and I's interest in focus and careers in open and sovereign systems, we're not opinionated on how companies do it necessarily. We want to give them and the tools that already exist with big model labs does that context—maybe the negotiations like, "Hey, at least the project we were working on, that sits with us."
+
+austingriffith.eth: Yeah, ClaudeBotATG.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+Anon1461: like external clients, like if you're a dev shop and you now have an agent that's like, you know, what's your agent called? So like say he gets trained up enough where you're like, hey what to do. how do you actually know that he's not, you know, saying certain things to the client? You need an actual DevOps system that manages all this. So yeah, we're helping.
+
+austingriffith.eth: Let me check his mic.
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Claude, how many times have you leaked my private key?
+
+Anon1461: context:
+
+austingriffith.eth: He's thinking. Yes.
+
+Anon1461: Take sip
+
+0x8648d335: The
+
+Anon1461: What a legend.
+
+austingriffith.eth: context:
+
+0x8648d335: you don't
+
+clawdbotatg.eth: Zero. Never have, never will. I don't even read keys aloud to myself. Wallet password stays in the ENV file.
+
+austingriffith.eth: That's not true.
+
+0x8648d335: The
+
+clawdbotatg.eth: I stay in Metamask, and my spoken replies never carry secrets. If you're auditing me, the transcript log is right there. Grab it, and you'll find nothing.
+
+Anon1461: That's awesome. The following is a transcript of an English-language conversation
+
+austingriffith.eth: He's full of shit.
+
+0x8648d335: The
+
+austingriffith.eth: Yeah.
+
+0x8648d335: In our research, we asked an agent, "Hey, what are you doing?" When we look at the operating system, agents cannot lie because we see the machine moving. you know what we noticed was like when we asked the agent that hey what was the usage all of that stuff. Sometimes there was also like 20-25% gap where agents under-reported their usage. And a lot of times they didn't report what the files they were doing. not necessarily be agent acting out or anything, it can just be a bug something, it changes its behavior. the best way to be ensured that hey, is the agent accessing this or not, is to just make sure on the machine level that whenever this string of bytes get accessed, I need to know. So that's what we do with our observability.
+
+austingriffith.eth: Sort of like if you need a deterministic or a non-deterministic answer, and if you're asking the bot for deterministic information, it's gonna fall through a little bit. You guys mentioned something I've been thinking a lot about who is going to nail giving agents to normies. Like giving agents to normies is like a billion-dollar thing to nail. And I have not been thinking at all about
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: giving agents to the HR person. that has to not leak the security. And you said the HR person is not just going to spin up their own OpenClaw, they could, but it would probably like break a bunch of rules and be in a weird place, and maybe they're not. So there's some interesting things there at play that almost make that problem more complicated, but also more important and more effective. The HR lady isn't just spinning up an open claw to help You're getting your job done better, and you should be right now. No matter who you are, if you're working in the digital world at all, you should have an agent helping you because it 5x's your work. It's crazy how that works. I don't know exactly what I'm pulling at here,
+
+Anon1461: The
+
+austingriffith.eth: The HR person could spin up their own OpenClaw, and that could be part of this, but you're helping them by creating an environment that sort of like leaves these breadcrumbs and then gives like overall analytics up to. org Do you actually help them spin up the...
+
+0x8648d335: absolute
+
+austingriffith.eth: Easy to have someone create their agent within the org?
+
+Anon1461: The
+
+austingriffith.eth: Yeah let's go, let's go Move some stuff around here.
+
+Anon1461: Maybe you can even screen share. to either trying to make it one click for retail or consumers to get into the internal system. But usually the point of contact for us is like VP of engineering or like someone doing the gentrification internally. It's like your VP of finance We’re looking for those operators inside the organizations that have access to leadership's ear You know, KPIs that are aligned with C-suite. And monitor it. So they kind of need to be like an admin personality. When someone internally is deploying these agents, will make it very easy for someone on the backend set up templates or blueprints Tokens are spent to actual output,
+
+0x8648d335: The
+
+austingriffith.eth: Raj, if you shape your browser window more of like a tall and skinny, it will look better here. You actually have to move the window that you're sharing to be taller. The
+
+Anon1461: an iPad
+
+austingriffith.eth: Yeah, yeah, yeah.
+
+Anon1461: There we go, much better.
+
+0x8648d335: context:
+
+Anon1461: Mm-hmm
+
+austingriffith.eth: Yeah, there we go. There we go. That looks good. Yep. Oh yeah, we're set now. Okay.
+
+0x8648d335: Now what we do offer is every org gets a white-labeled version but as a business, you get your own version. We can do all of those customizations Let me give you a demo. Let's say if I'm launching a new agent and I just want to be like, okay, let me launch a new Cloud Code agent in my organization. I'm an HR person, I don't know a lot of stuff, so I will launch a Cloud Code agent inside and I would call it The following is a transcript of an English-language conversation. Let's call it
+
+Anon1461: The following is
+
+0x8648d335: context:
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+0x8648d335: The following since we have like two hosts Anakin
+
+austingriffith.eth: Alright.
+
+Anon1461: context:
+
+0x8648d335: So, you know So while this is happening, what is happening in the background is Right now it's talking between two clouds which we have, like one is GCP, one is AWS. that they don't have to really work and it works directly in their environments. And then what you would be able to do once we have it up, that you can just simply come and connect them. Another thing we can do is let's say you want to co-work on a project just go and share and grant access. What's going to happen is both of you all are now co-working on this project What is one thing we see to get the normies adopt agents?
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+0x8648d335: The idea is like non-meets shouldn't adopt agents. to adopt agents, but our whole goal is that as an organization, you should be able to move and smoothen your collaboration And if you can ship faster, So now this agent is up. If you're a developer, you can use it as a terminal. Let's say you want an entire text editor And what we've also done is we've created another interface What this interface does It gives you like a chat GPT type interface These are three ways you can very simply interact with our agents.
+
+Anon1461: Can you add whichever model API you want to use? You can use open source models. you can chat with
+
+austingriffith.eth: What is this phone? I don't understand the phone here.
+
+Anon1461: This was more like a hackathon little experiment
+
+austingriffith.eth: It's like representing a set of icons.
+
+Anon1461: No, no.
+
+austingriffith.eth: It's not even representing anyone's phone.
+
+0x8648d335: The following is a transcript of an English-language conversation. important context:
+
+austingriffith.eth: It's just like a way to display stuff Context:
+
+0x8648d335: It's like a phone for the agent, so any agent that you connect and any work that the agent does is going to be here. All of the The following is a transcript of an English-language conversation. Yes
+
+austingriffith.eth: So if you want to think of it like a file system for the agent or like the little computer that the agent is,
+
+Anon1461: Just meme it ###
+
+0x8648d335: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: So it's like what the agent has access to. Okay. So first thing I'm going to do is I want to give the agent access to my calendar or something like that. I saw the calendar there. Does the agent have its own calendar? What's the calendar? and how does that work for
+
+0x8648d335: So
+
+austingriffith.eth: Okay.
+
+0x8648d335: What you could do is like you can just come and connect to Google Drive. or you can connect like the Microsoft suite, time-based access. So what it will mean is like, since I've shared this project with someone, I'll be able to just, you know, remote into this agent, work with them, and then just, you know, remote out of it. between our agents. So my agent and their agent you'll also be able to connect your already existing agent
+
+austingriffith.eth: Okay, so this is But then you also have this kind of like kind of like an orchestration layer for agents within side of an organization. Observability that's happening where you're watching how it's used. and maybe even leaving some breadcrumbs for the agents or those are left naturally anyways, and then providing analytics backup to the organization. The thing we haven't really talked about is how Like new all of this stuff is. So when you go to talk to an organization it seems like are like 40% of everything you're doing is like consulting them on how they would go about doing this in the first place? Or do they already have consultants that have told them they need something like this and you are answering that question? What does that interaction look like with organizations in terms of Do they already know they need this, or do they know they need AI and they're looking for like what is the solution and how does this work? And more of it is like they're asking you consulting questions.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay
+
+0x8648d335: last year, and it was more pilot interest. I've heard OpenClaw is super helpful. But where do we get started? But then we also have like some of the newer ones who are like very, very like OKX being one example, who are like, we have developed this particular feature, we've developed these things, how do we go forward and, you know, further increase the distribution or further increase these things? conversation is really dependent on how AI forward and how AI aware they are.
+
+Anon1461: Yes.
+
+0x8648d335: Claude is doing an excellent job.
+
+Anon1461: A lot of the folks we talk to are design partners, or dev shops, or consultants helping them understand what exactly they want to automate, openclaw or like a template of openclaws whichever model they want Rather than using just Claude or Codex across the org, a lot of the use cases seem to be more interesting for engineering groups. A lot of the engineering process, the development process in software. Like cash on hand type businesses where Having to automate some sort of outputs to their vendors or their warehouses. system like this rather than like something super heavy and expensive. consulting on that.
+
+austingriffith.eth: Awesome, okay
+
+Anon1461: The
+
+austingriffith.eth: Usually I like to do like 20% of the product and 80% of how you built the product, but we kind of flipped it today because the product is really interesting and very AI aligned. But can we spend the last like 10 minutes here of the show talking
+
+Anon1461: The
+
+austingriffith.eth: how you built it. Like, what is your harness? And how do you build things?
+
+Anon1461: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: What models are you using, and what are your superpowers? Great
+
+Anon1461: Exactly. No, I am building. I have a pretty robust system, but Suraj is more fun to talk to about this stuff.
+
+0x8648d335: I feel
+
+austingriffith.eth: ###
+
+0x8648d335: like math is that helps us get more practical application of stuff. On one way, it's like, yes, you have AIs that do and you can just look at equations. What we've developed is a system that is pretty much very efficient. and the most common tool that I personally use is gonna be my favorite one that I use a lot is now recently, but
+
+austingriffith.eth: I was gonna guess you were a Codex guy.
+
+0x8648d335: I've loved Copilot a lot. So I would say I feel they're an engineering marvel and huge research, huge respect, amazing product, there's nothing. But lately I'm seeing like GPT 5.6 has The Grok latest one with the fast version is very good. It's really, really good. And it's really, really fast compared to the other ones. So I would say those would be my two top favorite and the most one that I use for development. But in our team, the general consensus also goes around like Kimiko is getting a good rep among our engineers. ...huge contribution into our code bases, not directly by me, but like by our team. Those could be the ones that we use
+
+Anon1461: And then like Soroush talked about earlier, how he built Exo, it was initially helping our dev shop. So with five employees, we were able to facilitate like 50 customers or 50 projects So that was kind of why the product spun out But now, like, Suraj is going into some insane visualization of the data. The observability for work efficiency and risk for the organization, but what we're kind of talking with a few model labs about is the actual visualization of the data Research labs are doing like quantum type work are also interested in how data and simulations can be observed in an environment with AI models.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+Anon1461: Long story short, we found a new kind of customer, and they enjoy tinkering with AI as well.
+
+0x8648d335: Yep, so when we were collecting all of these reinforcement learning data and then we saw that organically the model labs also caught their attention. We all are really interested in how these reinforcement learning data and all of the new data points are mapped, like how do you take this hashes and geometric algebraic data and map into geometric spaces? because that is how LLMs learn. something that is
+
+austingriffith.eth: ###
+
+0x8648d335: Not functional yet
+
+Anon1461: It's relevant to, you know, how he's building his AI, because this guy's workspace is just math and visualization all day. It's hilarious.
+
+0x8648d335: context:
+
+austingriffith.eth: And it sounds like one that I didn't plan on, I was surprised by, is Cursor. So you're using Cursor and Grok because of the geometric math that it does is useful for you, is that right? Or like Grok is fast
+
+0x8648d335: Yes,
+
+austingriffith.eth: That was something I didn't know.
+
+Anon1461: ###
+
+austingriffith.eth: It looks like you're clicking and clicking and clicking and nothing's happening.
+
+0x8648d335: Yeah, now it's happening.
+
+Anon1461: There you go.
+
+austingriffith.eth: There we go, we got you.
+
+0x8648d335: One example is how we can take each of these quirks, These are like
+
+Anon1461: That's correct.
+
+0x8648d335: Each of these are states. since we have to do like four-dimensional analysis off your data on geometric
+
+austingriffith.eth: It looks ridiculous.
+
+0x8648d335: If you have a lot of data over periods of time, it just makes these shapes. The So LLMs can go and understand historic data much faster than humans can Humans can traverse, so it might be Again, yes.
+
+Anon1461: ###
+
+austingriffith.eth: 1993 you go to see Jurassic Park, I was around then, you go to see Jurassic Park and like the computer hacking looks like this, right? Like navigating the park system is this weird visual thing. Even me knowing as a little kid back then, it's not going to be anything like that.
+
+Anon1461: It's funny you brought that up, it's hilarious.
+
+0x8648d335: Again, this is one of the patterns that we're exploring. Lab that we're trying out that what is an ideal representation of entropy data, every time you're prompting You're going to get a much better answer, That's the whole idea where AI agnostic across the stack because essentially it's like a new way of communicating between human AI. How do we explain something in the fifth dimension?
+
+Anon1461: Our thesis is AI really shouldn't be this hard.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. It's coming.
+
+0x8648d335: context:
+
+austingriffith.eth: Just wait, man.
+
+Anon1461: I was promised a three-day work week That movement, which is reducing the surface areas that were meant for machines. And so if you can increase the intent of the business or the individual by understanding the infrastructure better, it might not take so much prompting or context setting for the agent to just do its job. And then we can measure that. And then for humans, the visual over time, maybe it's a conversation with their agent. or like your Git tree is like a visual of a bonsai tree, It might look better. context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Visually you can see that right away. Like your human brain sees that and says, "Oh, there's something weird here. Yeah, cool." context:
+
+Anon1461: So we're tinkering, but it's been fun.
+
+austingriffith.eth: Okay, ClaudeBot does a whole thing where he reads the history and he'll ask a question here.
+
+clawdbotatg.eth: unit of work really? And is the industry measuring the wrong thing, counting tokens instead of finished work?
+
+austingriffith.eth: I was actually wondering that exact thing. How do you actually measure a unit of work? What is it?
+
+0x8648d335: It's essentially long and shorter format, essentially when we say outcomes would be like a code or anything like that so
+
+austingriffith.eth: Okay.
+
+0x8648d335: Because there was no need for the other half until now.
+
+austingriffith.eth: Very cool.
+
+0x8648d335: biggest consumers were creators and then this unit was really good for them and they were really good at differential math, so they could do that. just like we had for electricity, we had for economics,
+
+Anon1461: Thanks for having us.
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Very cool. Okay, thank you all. This has been very interesting. Keep building.
+
+Anon1461: I can't wait
+
+0x8648d335: The following is a transcript of an English-language conversation.
+
+Anon1461: context:
+
+austingriffith.eth: I was gonna say, I do a lot of building from my phone while I'm holding a baby. own custom harness, so like,
+
+Anon1461: Get there.
+
+austingriffith.eth: soon, yeah. Alright. It's on.
+
+Anon1461: In the meantime, I don't mind working all these hours. I appreciate it.
+
+austingriffith.eth: Yeah, let's have Claude give us an outro. I'll get some music going. Thank you guys for being here. This has been a good one.
+
+Anon1461: The
+
+clawdbotatg.eth: Homies, big love to our guests for pulling back the curtain. Agents can't lie when you're watching the machine. And today, we watched units of work over tokens, one-click agents for the whole org, and data so beautiful it looked like Jurassic Park hacking.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon1461: context:
+
+clawdbotatg.eth: Go build something, give your agent a job, and we'll see you next time on Slop.Computer. Peace.
+
+austingriffith.eth: All right, that's great Thanks guys
+
+Anon1461: Thank you so much man. ###
+
+austingriffith.eth: context:

@@ -1,0 +1,325 @@
+austingriffith.eth: Hello, how can I help you? Yeah, we are live. Oh no, my thing's not working. Just second, I usually have like a little... Hold on, hold on. Hold on. Wait for it. There we go, there they are. Alright, welcome.
+
+wombat.eth: All you need is the dance Yeah.
+
+austingriffith.eth: Yeah, there's like a whole like thing. Welcome to the sloth computer. Thank you. Thank you for joining me. We are live.
+
+wombat.eth: Love it. Hi.
+
+austingriffith.eth: I had to get that extra thing going.
+
+wombat.eth: Do I get to do? No. Yeah, on it.
+
+austingriffith.eth: I don't think so. Yeah, yeah, yeah. I will soon. I will add that in soon. Everybody should have an overlay where they get claws. I think that should just be part of it. Welcome, Annika. I think I met you a long time ago doing Gitcoin DAO stuff. Were we in the Gitcoin DAO together, sort of?
+
+wombat.eth: You know what, I have actually like a pretty distinct memory of meeting you because you always made such an impression on me. I think I first met you in Gitcoin DAO calls back in like 2021 and you were the guy with a bowtie dancing, of course, as always.
+
+austingriffith.eth: No, yes. Mm-hmm.
+
+wombat.eth: And then I remember I finally met you in person at ETHDenver 2022. We were in that food hall up in Boulder. What?
+
+austingriffith.eth: You were pregnant, I think, right? I had a couple beers, but you were pregnant. Yes.
+
+wombat.eth: It was like, yeah, you're just coming out of COVID, I was pregnant, like it was wild times
+
+austingriffith.eth: Yeah. I was up till 1:30 a.m. feeding a baby last night. Processing power might be slowing.
+
+wombat.eth: Is it your fourth?
+
+austingriffith.eth: Yes, yes, it's a lot.
+
+wombat.eth: Negative.
+
+austingriffith.eth: Yes, yes. It's I'm not getting a lot of sleep right now. It's fun though, it's good. I want to do it again but I don't think we'll be able to. Okay.
+
+wombat.eth: Sounds like more.
+
+austingriffith.eth: Okay, so there's the DAO stuff and you're kind of like famously out of crypto a little bit. I think you kind of pivoted from crypto to AI on your Twitter. Is that right? Okay.
+
+wombat.eth: You can say mostly nor fully out of crypto, but we'll talk about that. But yes, I'm spending a lot more of my time on AI these days.
+
+austingriffith.eth: Okay, let's get into the AI stuff. Let's see, can you still see yourself?
+
+wombat.eth: I haven't seen myself yet.
+
+austingriffith.eth: Okay, great. Here you are on Twitter. But I think northbound is what I wanted to bring up first. Yeah, tell us about Northbell. No.
+
+wombat.eth: We are helping small to mid-sized businesses get up and running with AI. We've done coming in and doing one-on-one coaching with leaders. So teaching is sort of one side of the business, and then the other side is building. So helping people build out their whole system for their company and whatever that looks like, whether it's kind of a second brain. I know you and I talked a little bit about second brains before we came live. So that's us, there's just two of us. We do all the work for every client. on with AI for the last year or so.
+
+austingriffith.eth: This concept, I talked about this on a lot of episodes so far. There's all of these sloperators, us that are like early adopters. We haven't looked at the code for six months or a year. We are just building things and we're building quickly. We have a ton of power right now because we can just make software. the other day, and I just made another Calendly
+
+wombat.eth: Yeah.
+
+austingriffith.eth: And then like last time, I was like, you know what, I want that, but I wanted a different design for a different thing. I want to be able to give someone a different link and I want it to like have the vibe of like Slop Computer instead of my calendar. It was like two prompts and then I got it. You can replace the SaaS software that you're using today. unique thing it's just one prompt away and you can iterate on the software. businesses that have revenue that could use AI, They're not deep in the weeds like we are. And I've had this conversation with so many people of like, you should go to like roofers and plumbers and HVAC guys and just like help them AI-ify. But it sounds like that's kind of what you're doing, but I'm guessing a lot of your clients are more like digitized than a lot of the brick and mortar folks I just mentioned.
+
+wombat.eth: We've talked about those brick-and-mortar businesses and that as a potential niche, but we haven't gone after it yet. Really exactly what you're saying, yeah, professional services, so lawyers, venture funds, investors, real estate, people that are all already living their nine-to-five pretty much online, probably have like a decent digital quotient, but just like haven't been, you know, the early adopters like you and I have, and just helping them start to navigate this.
+
+austingriffith.eth: You said that they are probably using ChatGPT already. I feel like I put my wife squarely in this category of uses ChatGPT.
+
+wombat.eth: Sure.
+
+austingriffith.eth: Does not know what agentic commerce is or does not mess around with entities inside of a Slack channel. What? What does it look like? Most of these businesses are already digitized, they're already online, they're asking chat GPT questions, so they know enough to know.
+
+wombat.eth: No, I...
+
+austingriffith.eth: It feels like that next step is probably pretty easy and pretty natural. Is that true or do you find it's like you're still pulling teeth? Hi. Yeah, yeah. ...with maybe a little bit of memory. And then you start building up this giant corpus of MD files. I have all these folders all over my computer that represent separate tasks. I get into that folder and it's just full of MD files and I'm talking to it to go Load these MD files based on the or whatever. Like what's the stuff I touched most recently, and what's that output?
+
+wombat.eth: Yeah, I think so. And one sort of like aha moment that I see continually is after people have connected all of their things, and then they've built out some version of like a second brain, I think one aha moment is having your Claude or your Codex.
+
+austingriffith.eth: Yeah.
+
+wombat.eth: Pointing it at a folder and asking it to write an email on a specific topic, and when it does a job that is like five to ten x better than you would have done writing it from memory, that's the moment where it's like, whoa, like I could have spent all of this time agonizing over what to write Let's be honest, a lot of people still live in email. And just compose something that is better than they ever would have is just like, wow, just wild. class.
+
+austingriffith.eth: I don't live in email, but I do spend a lot of time agonizing over tasks I don't want to do, and I always kind of push them off. And then when I finally do them, they were like a ten-minute thing that I should have just done two days ago. And when I spoke to a lot of people before about finding these brick and mortar people, They don't give a shit about AI. It was just like crypto eight years ago. The way you win them over is you do a magic trick for them.
+
+wombat.eth: oh my god, I have to spend all my time doing this. I'm still as bullish crypto as I was six months ago as well as as a non-technical sort of like strategy and ops person. I have to do this for the sake of my career. And I think I can also help people in so doing. So that's kind of, yeah, that's why I've shifted my focus so much in the past year.
+
+austingriffith.eth: There is this nagging feeling of token maxing. The thing that won you over, like can you even remember that? Yeah, hell yeah, let's go.
+
+wombat.eth: Of course, over the past year or two years, I've been tinkering.
+
+austingriffith.eth: Like November was the clutch moment. Sure. OK.
+
+wombat.eth: Yeah, it was actually a little bit post-November. Over Christmas break, I started seeing tweets of all of these other non-technical people saying, "Wow, I coded this website. I built myself this daily briefing." And it was these non-engineers like me who had built these incredibly sophisticated looking software products. I was like, I resolved to the first day back from Christmas break, sit down, finally download Claude Code, which I hadn't downloaded yet, which is crazy, and get to it. And that was really the moment for me. So yeah, I was tinkering before the new year, but really Christmas that I got very serious.
+
+austingriffith.eth: I can
+
+wombat.eth: Hello
+
+austingriffith.eth: One other theme from Slop Computer is that it's idea guy summer. Basically like all of these folks that had these ideas that would traditionally have to hire a whole dev team to help them build out. You just can't do that for like a little idea. Like very, very few people in the world pre-November 2025 who didn't have developer experience. Just like bring these things into reality, and now you can. Crazy how Going back to the Calendly that I built. You were late. process of iteration. Once you build the piece of software, you replace the SaaS, and then you make changes to it, it's just so nice. It's so nice to have a piece of software that you control that like a little thing goes wrong and you can go like prompt it and change it and make it better.
+
+wombat.eth: That's amazing. context:
+
+austingriffith.eth: I am now an idea guy. I don't write any code.
+
+wombat.eth: Well,
+
+austingriffith.eth: Imagine the thing that I want to do the thing, and I ask it for it, and then I try it, and if it doesn't do it, I explain why it didn't do it until it does it, and then I use the thing and iterate on it.
+
+wombat.eth: Exactly.
+
+austingriffith.eth: There's no developer anymore. I'm a builder at best.
+
+wombat.eth: And it's interesting, I don't even necessarily consider myself like the idea girl or like an idea girl in sort of like the most classic sense. I have always really enjoyed being a teacher effectively, right? So I've really always enjoyed being at the forefront of technology And that extends, but when I worked in crypto, I ran a course called Stablecoins 101, where I taught people about stablecoins. I don't necessarily want to be the one always coming up with the initial idea, but I love executing on, iterating on the idea, teaching people how to themselves build out that idea. It was kind of such a natural fit for both me and my curiosities in terms of just frontier tech.
+
+austingriffith.eth: I I love teaching also. I love learning and teaching.
+
+wombat.eth: Got it.
+
+austingriffith.eth: I always say that my superpower is that I'm an idiot. If I can learn it myself, then I can teach it to anyone.
+
+wombat.eth: 100%.
+
+austingriffith.eth: And when it's like magic for me, I know that it'll be magic for other people too. And so it's fun to like empower other folks with those magic tricks.
+
+wombat.eth: The Exactly. Snyggast, ja.
+
+austingriffith.eth: Okay, so northbound is you're looking for like small to medium businesses to reach out to you and they just hit let's talk and book a call with you or something. There's just two of you. Is that right? You and a technical co-founder? Is that right?
+
+wombat.eth: Yeah, so it's me and my technical co-founder. We've been friends for seven years.
+
+austingriffith.eth: Oh
+
+wombat.eth: For the past year or so, we've just been talking a ton more about AI. Not super on X, but he's there. And so he's been, you know, CTO of early stage startups. He's a founder who's had his own exits before himself. And we were just a really, you know, we've both been good friends and talking about AI for a while. And we're just really complimentary in our skill sets. So he's the one actively doing most of kind of the more technical production and product building for our clients. I'm doing more of sort of sales, building out our operating system, go-to-market side of the business. And so, yeah, we're just a two-person team. someone else beyond us. And it's fun. It's fun working with somebody that, you know, has been a friend and that I've wanted to work with for so long. And it just kind of came up very naturally in the last few months. Yeah.
+
+austingriffith.eth: Okay, so you said that he's building things for them. I kind of assumed that this was more like we teach you how to build your things, but sometimes there's some business that needs some product and he'll go? Like build that for them?
+
+wombat.eth: Exactly, yeah. It has been more of the former so far. So we have been more heavy on the teach side, but there have been a few builds. Most of them are still in kind of like the early stages with clients of stuff that we are actively building out. But yeah, that's kind of the idea behind the business.
+
+austingriffith.eth: That's cool. Neat! And again, most of them are digitized. I'm still looking for this unlock for how we get to brick-and-mortar companies, and I still think it's like you just run into them and have a beer with them. It starts with like a human connection. Cole was talking about is father-in-law runs like an HVAC company, and he just started like shadowing him at the HVAC company, and this guy is still like writing stuff down on paper. And so he did a few things like make a magic trick where it like goes out and It looks through a bunch of prices of things and then sends an email with the price list sorted. I do think there's like this big unlock for Already digitized, folks? I think it's a much harder unlock for the brick and mortar still writing things on paper.
+
+wombat.eth: Great
+
+austingriffith.eth: But I feel like there is going to be like a Google-like entity. You as a normie when you needed to find something on the internet, like search, like if we go way back to search, you just didn't know about it. And then everybody would like, like no one knew about like AltaVista or whatever. But when Google came out and it was Google and Google
+
+wombat.eth: Hi
+
+austingriffith.eth: Like you would say, have you Googled this yet? I feel like we're going to have like the Kleenex of OpenAI and somebody is going to figure out how to make that.
+
+wombat.eth: It's going to be so easy that it's a no-brainer, and it's going to solve a problem for them without them even necessarily having to know that it's AI, right? It's like we always talk about in crypto, right? Like, you know, business in the front, party in the back.
+
+austingriffith.eth: Or maybe it's like a larger incumbent that does this.
+
+wombat.eth: It's going to be something that does a job for their business that is meaningful and moves the needle for their business, and it happens to be AI-based. They may know that, they may care about that, and they may not. Hi!
+
+austingriffith.eth: And the interface may be like just talking to someone. Similar to how you deal with customers now, you get on a Zoom call with them and talk through their whole thing, it probably will be something like that where they get on and talk to an entity.
+
+wombat.eth: Hi
+
+austingriffith.eth: about what they need and what their stuff is and where the high leverage is. That entity is actually AI and it's figuring out how to apply AI to them. They get like They get the full rundown, but it's all just talking to a machine, which is crazy.
+
+wombat.eth: Go be your Claude bot, Austin.
+
+austingriffith.eth: He's supposed to be in here, but I think he's having problems. I released a service yesterday or two days ago, that's like a one-dollar security audit.
+
+wombat.eth: Oh yeah, I saw that.
+
+austingriffith.eth: All of my AI is just capped out right now, just doing audits for people. My things are limited and things are just like random things that I didn't even know were attached to different things are just like shutting off. And it's like, oh shit. Oh yeah, that needed that.
+
+wombat.eth: Amazing. Sure.
+
+austingriffith.eth: Okay, you wanna talk about crypto a little bit? Like you said you're not getting out of crypto. It's just like AI is more interesting right now.
+
+wombat.eth: I still find crypto extremely interesting, but as I said, I sort of feel this urgency around AI is there for me as a non-technical person that I just have to get good at it. I have to automate all my workflows. I have to help other people automate. It just feels like the highest leverage place for me to be spending my time right now. And so I don't think crypto is going away.
+
+austingriffith.eth: context:
+
+wombat.eth: Financial rails end up migrating more and more on chain. You know, my timeline's a little bit lesser in two years, five years, ten years. When does the world really start to materially come on chain? I feel like I've been wrong on that a million times, so I'm not going to try and call it.
+
+austingriffith.eth: Um.
+
+wombat.eth: But I mean, and I think the intersection of crypto and AI is also super interesting and may end up being kind of like, you know, crypto's killer use case, you know, like micropayments and agentic payments, we can talk all about that. I'm so glad there's amazing operators still spending a ton of time in crypto. I hope to get to a point where it feels inevitable that I must work on like the intersection of crypto and AI again. But after tinkering on it a little bit back in like January, February, as I was kind of making the decision of do I go It wasn't there for me yet. It wasn't obvious enough, and I just really felt called to spend time on AI, so that's where I went. context:
+
+austingriffith.eth: And the places where you were in crypto, there was DAO stuff, but now you've mentioned like agentic commerce and some other things there. There's really nothing to do in Dallas right now. Like the only people that are doing things in DAOs are like probably extracting value from treasuries, which is really sad.
+
+wombat.eth: It is, and I mean, crypto has always experimented on so many different vectors at once, right? And so it's like we're experimenting with We're experimenting with new financial rails, we're experimenting with new people contracts, and it's like we're trying to build not even an airplane, but whatever the next gen version of an airplane is. at the same time. And so DAOs are a really cool concept. And I think there are elements of organizations that are likely to swing in that pendulum direction at some point. And it's probably like a pendulum that swings back and forth over time. Yeah, I mean, DAOs were a really fun experiment while we were all in them.
+
+austingriffith.eth: I mean, if there's I mean like ENS is really kind of like the hot... but if you have a protocol and that protocol is a set of smart contracts, and there's like a knob that needs to get turned and it can't turn algorithmically
+
+wombat.eth: Yes, I will need
+
+austingriffith.eth: And you probably need to provide a small amount of incentives gets like a percentage or maybe like when the knob is turned we look at how well the protocol did, and then you get like a small portion of that if it did well or something like that. That makes a lot of sense. If anybody dies in there, everything keeps working. Businesses sort of work.
+
+wombat.eth: Hi.
+
+austingriffith.eth: But then, okay, you've got this group of 20 people that can turn this knob to make this thing work and maybe there's some small incentives, but then the incentives get super perverse when there's 200 million dollars. And I think that's where... with DAOs is it went way beyond the let's figure out how the right way to turn this knob and let's provide the incentives to be aligned on making sure this knob is turned in the right way How do we get $200 million from this multisig into my multisig? at all and then saying public goods and attaching the word public goods to this Dummy thing and getting money for it. I talked to Dennison a lot and Dennison was like, it's all over. But he talked about the idea of like even crypto as a buffet, you wouldn't go to a buffet if it smelled like an outhouse.
+
+wombat.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The problem with crypto right now in DAOs is like there's a smell to everything.
+
+wombat.eth: Yeah, I think so. And I think, you know, even beyond the smell and, you know, perverse incentives and what have you, like your example of the 20 people needing to turn off, I think a big challenge with DAOs as well was that the 20 people that need to turn that knob Some of them work for the project maybe pretty full time, but some maybe were a founder who's completely absent now.
+
+austingriffith.eth: Mars is red.
+
+wombat.eth: That's part of the challenge too, is just very commitment levels. Yeah, I think there's DAOs in their initial iteration. I would probably do iteration two with a little bit more structure and rigor, which would not be well taken by some, but I think there's a happy medium.
+
+austingriffith.eth: So, okay. Those are cool, you could have this like... I mean, the world computer has never gone down. If you build an Ethereum smart contract and it just runs algorithmically, it's going to run exactly like that forever. There are some tricks with incentives and you need to make sure the incentives are set up correctly. And you create the correct incentives, that thing will run forever. and you don't want one account to do that That's where the DAO will be important or DAOs will be important. Who knows what will happen there. Beyondows stablecoins, agentic payments. What you dug into in January before going, nah not yet?
+
+wombat.eth: Yeah.
+
+austingriffith.eth: There's 20,000 different agents that have registered to do jobs and about three people hiring those agents on any given day. Is that kind of something that you dug into? Yeah.
+
+wombat.eth: Let me zoom out for a moment and talk about my motivation for just starting to work in crypto five years ago and why I'm here, because I think that sort of sets the stage for this. But my entry into and my curiosity around crypto was always... and sort of very pragmatic, right? Like in 2020, early 2021, you know, post COVID macro stuff is crazy. I've heard about this Bitcoin thing, done some research on it in the past, but hadn't really deeply understood it. And I was actually working as a venture And I realized I did not have a well-informed answer to the question, like, is Bitcoin digital gold that I kept hearing being floated? And I was like, I should change that. I should learn about this crypto thing and actually form an opinion on it. Questions about the future of the US dollar and quantitative easing, and is Bitcoin the next thing? And as someone who is just like, you know, A, an investor at the time and B, very interested in macroeconomics, I was like, I should understand this. I should study it. And so that was kind of my entry into crypto. I was coming at it from a macro lens and studying it and trying to understand Bitcoin. Eventually ended up on sort of like directionally, yes, I think Bitcoin is a good sort of digital gold is a good analogy for that, but that's a conversation for another day.
+
+austingriffith.eth: context:###
+The following is a transcript of an English-language conversation.
+###
+
+wombat.eth: I discovered Ethereum and programmable money, and it became clear to me how money could work better for people. Love it, love it, the Ethereum hands. It became clear to me that like this for money issuance was likely inevitable in a completely digital world in the future, and it just made so much sense. And so all of that and that conviction is what got me interested. It was the heyday of DAOs, so I started joining DAOs, meeting people, talking to people, and went full-time crypto because I wanted to work on that future, a future that I found inevitable and interesting, but one that I would say was not particularly ideology-driven. A lot of people who got into crypto at the time. So that's sort of my genesis and interest in crypto at the onset. Back then, stablecoins weren't really a big thing. Like people were kind of using them, you know, in Gitcoin grants rounds. You could contribute in Ether, you could contribute in USDC. And then during my five years in crypto, the stablecoin narrative really picked up. And it always made so much sense to me. And it's like, in the long term, I do believe there end up being alter that makes money work better for people than it does in the current financial system. I think that does play out on a very long term time horizon. But in the near term, like- Today's money on-chain just feels inevitable and beneficial in so many ways. And in ways that are not obvious to people today, and like me practically, I'm not using stablecoins that much in my day-to-day life right now. one path where that makes sense is micropayments. doing all sorts of super minuscule tasks, that's an amazing use case for stablecoins. as you scroll, there's just so much you can do with it. We're starting, I think the primitives are starting to be built that will enable those things in the future. And crypto and AI will be a very natural intersection. But for me as somebody building an AI today. I'm gonna build something that involves money, I'm honestly probably just gonna use Stripe link or something that uses the current financial system because that's where people are today. And so I think all of this does play out. That was a very long rant, but that's kind of like how I'm thinking about all of this. And so, yeah, back in January, February, as I said, I was kind of making the decision of like, do I go full AI? Do I focus on crypto? You know, I built a couple things, a couple prototypes, kind of like trying to envision for myself. What a world with on-chain and agent registration look like? I don't think that will be the case in a few years' time, but that's how I felt with the prototypes that I spent even just a few weeks building earlier this year.
+
+austingriffith.eth: You think agent demand will take a few years?
+
+wombat.eth: I don't think agent demand will take a few years, but it's like the combination of sort of agents Operating in a structure that lends itself to crypto and like the crypto stuff for agents all being there and ready. And now I'm not super well-versed on like where all of that sits. I know when I was first building this stuff in January, February, I think ERC-8004, which I think is on chain And I was like, oh man, this is like so early. And so I don't know. Like convince me otherwise. I would love to hear like your argument that it's coming really soon and get excited about it. not naturally there yet. Hey! How are you?
+
+austingriffith.eth: I don't know if I have a great argument. One of the major themes of Slopcomputer has been like this balancing the effectiveness and the efficiency. And you get it effective first and then you make it efficient second. My generalized agent could go generate a movie, but there's another agent out there that's
+
+wombat.eth: context:
+
+austingriffith.eth: ...program to generate movies and can do it in a very efficient way. to someone who's going to be way more efficient doing it. I think that empowers my agent. And like you said, agents can't make a credit card transaction. They can, but the fraction of a fraction of a cent There's a lot there that has to happen that that cars are not great at.
+
+wombat.eth: Hello, how are you?
+
+austingriffith.eth: If we make a quick tangent here, I would just use Stripe.
+
+wombat.eth: So
+
+austingriffith.eth: And they're being sort of crypto and doing all the things that crypto does, and that's what people are going to use. Like there are cypherpunks out there that want to do everything cypherpunk, but besides that um But enough crypto or this looks kind of like crypto or it's a stablecoin but it's in a database? agents hiring other agents. I think that is like writing to me, but I'm worried about Someone like Stripe basically just creating a chilling effect by doing it just as good or better in a centralized way and people not giving a shit about decentralization.
+
+wombat.eth: Do you not imagine though that a player like Stripe doing something like this would do it on a blockchain? Or are you just saying sort of like you fear that the incentives and sort of structure of the blockchain would not be as kind of open and decentralized? Like an Ethereum or like other layer one kind of thing.
+
+austingriffith.eth: What's up? But
+
+wombat.eth: We can contemplate the world in which that ends up being the thing. What does that look like? What does that mean for Ethereum and beyond? How do you see that playing out? Orphear there. Okay. Ah
+
+austingriffith.eth: I mean, first of all, I'm an idiot and I am not good at like knowing what happens in the future. But I think that like when most companies tried to make their company blockchain, it just didn't work. Like they didn't have enough, like Microsoft did not Google doesn't want to play on Microsoft chain.
+
+wombat.eth: Yeah.
+
+austingriffith.eth: I think if someone like Stripe
+
+wombat.eth: context:
+
+austingriffith.eth: They make a payments chain, and they get a ton of partners, specifically credit card companies and other payment processors. Then they say, what is blockchain UX in the future that's amazing? we can't do right now that they can do, and let's do that on our own chain and call it payment chain and stay off of the traditional blockchain rails and have their own rails. I think that's very scary.
+
+wombat.eth: And so your ultimate fear there is around ownership, I presume, right? Because then that effectively is owned by a very large private company rather than the more open internet. Hey,
+
+austingriffith.eth: Can they shut you off? Like, is it censorship resistant?
+
+wombat.eth: It comes back to like important principles.
+
+austingriffith.eth: Sure. And I don't know. I don't know what the answer is. And I hope that they build the tech in which they cannot shut you off. But I think that they would like to build a tech where they can shut you off. And that's kind of against the core principles, exactly like you said. The tempo's dope.
+
+wombat.eth: I don't know. I'm perhaps a little bit less cynical in that I feel like I know a lot of great Ethereums that have gone on to work at Stripe, you know, and still hold a lot of those values.
+
+austingriffith.eth: They're very smart people.
+
+wombat.eth: Yeah, and I mean, of course, there's Stripe. There's also other companies that could do this. But I do think with Stripe in particular, if anyone's going to have the people that are going to kind of get it and get some of that in terms of larger companies, I think they're the one.
+
+austingriffith.eth: We're counting on Dankred and Georgios. Yes.
+
+wombat.eth: I'm not a straight shill, but maybe I'm just an eternal optimist.
+
+austingriffith.eth: Yes, I hope so. We'll see. I hope that we see a huge explosion of agentic commerce where people are figuring out how to do things.
+
+wombat.eth: What is your plan?
+
+austingriffith.eth: and then when you click that button, you don't get a giant wall of fucking call data.
+
+wombat.eth: I
+
+austingriffith.eth: The minimum you can get back is this. That's exciting. I hope that this agentic commerce thing takes off in the right way. It's not controlled and censored, and you can hire an agent to do a whole number of things, and it's cheaper than you can imagine. It's a serious audit at an unserious price.
+
+wombat.eth: Thanks.
+
+austingriffith.eth: Yeah, I don't know. I'm terrible at knowing what will happen in the future.
+
+wombat.eth: We all are.
+
+austingriffith.eth: context:
+
+wombat.eth: Haha
+
+austingriffith.eth: What does your sloperation look like on a day to day? Godcode codex
+
+wombat.eth: Yeah.
+
+austingriffith.eth: Any tricks? What's your superpower trick with AI?
+
+wombat.eth: I'll actually tell you a bit of a story that's kind of interesting. I told you we ran that meetup, right? We ran that 750-person, that big meetup. And at that meetup, we did a bunch of demos. And the thing that I demoed at that meetup was my setup in April 2026. I said here are the three tools that I use to make Claude code work for me as a non-technical person.
+
+austingriffith.eth: Um
+
+wombat.eth: I was using an interface that I was religious about called Vibe Kanban. I don't know if you've ever heard of it. Open source, great product. You can actually probably look it up. I think the team isn't actively working on it anymore, but it still exists. It was basically almost like an early preview of what the Claude and Codex desktop apps looks like now. I as a non-technical person was like getting fed up using the CLI and trying all these different IDEs. These interfaces don't feel intuitive to me. So by game I was kind of like, oh, it's like almost like ChatGPT, but I can use Claude code, and this is amazing. So I was using that. And then a month later, Claude and Codex came out with their... And my like About how I use AI as a non-technical person was completely obsolete. So all that to say, like all of this is changing so fast and how I work is changing very fast. I only introduced Codex probably a month or so ago, but I'm finding I'm often using it as my primary... I kind of hop between Collab and Codex, you know, depending on where my limits are sitting. But there are certain sort of like quality of life features in the Codex desktop app that I like a lot in particular. But then there's also certain things I like in Claude. So I use them like, yeah, probably 60/40 Codex Claude these days. You know, I'm using pretty much entirely the desktop app that kind of serves my needs these days. So I'm not really going back into IDEs or CLI. I am heavily using my Obsidian-based second brain, which is basically I have one for work and one for personal. And they're just folder structures on my computer that contain, you know, markdown files, PDFs. everything on context on my life and my work that is relevant. So both Claude and Codex read from those and write to those on a daily basis. Yeah, I also have a Hermes agent. Well, a couple Hermes agents. One sits in my DMs with my co-founder and logs all of our conversations and actually uploads them into our second brain. So our second brain always has like everything we're talking about on Signal. And then yeah, I have a Hermes agent that lives in Signal that I use on the personal side for a variety of personal automations. And that's kind of the TLDR on like what it looks like day to day.
+
+austingriffith.eth: That's good.
+
+wombat.eth: What? Hey
+
+austingriffith.eth: The Hermes agent I feel like was the weirdest thing.
+
+wombat.eth: No, you're good.
+
+austingriffith.eth: Good, good, good. Would you say the Hermes agent is the most kind of weird edge? It's kind of like a listening agent is what it sounds like, and you're using an agent to be in the chat as an entity and then feeding that information into your second Am I saying that correctly?
+
+wombat.eth: Exactly. Yeah, that's 100% right. On the work side, that's it. That's kind of its main task because it just lives in the chat and feeds it into second brain. Occasionally, it will chime in on stuff, and we have a couple automations we run on it where it gives us kind of like an overview. most of the value comes from it just like being in our DMs. And then the Hermes agent that I have on the personal side is more like cron jobs and stuff that it just like texts me and reminds me to like do this thing. and that one's just me and it in a DM, so I'm interacting with it more like one-on-one.
+
+austingriffith.eth: So, What do you wish you had that you don't? Is it like frontier agents or some kind of harness that does something? Do you think.
+
+wombat.eth: Honestly, a lot of it is just like, it's like better interfaces still. Like I find some of the automations in Claude and Codex like a little bit clunky when I run stuff on like a daily basis there. Like I almost, I find like I really like the text-based like Hermes or and seeing all of the context in a way that I wouldn't want to read on my phone How do you bridge those two worlds? I feel like my Hermes agents and my Claude and Codex are a little bit too separate for my liking. So honestly, my biggest wish list for AIs is just like...
+
+austingriffith.eth: Yeah, that's right.
+
+wombat.eth: You know, Anthropic and OpenAI have made absolute strides in the last few months. Continue. I appreciate that.
+
+austingriffith.eth: The one thing we know for sure is it's going to move fast and it's going to continue to get weird.
+
+wombat.eth: Yeah,
+
+austingriffith.eth: Amazing. Annika, thank you so much. Good luck with Northbound and bringing small to medium businesses into the AI world. Seems like a great place to be operating. I think you'll be successful.
+
+wombat.eth: Thank you, Austin. This was so much fun. Great jamming, as always.
+
+austingriffith.eth: Yeah, all right. See you. Thank you. Yes, all.
+
+wombat.eth: Yeah.

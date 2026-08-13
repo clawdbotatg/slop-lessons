@@ -1,0 +1,743 @@
+austingriffith.eth: I understand. context: ###
+The following is a transcript of an English-language conversation.
+### I'm on one. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+unforced.eth: We can.
+
+austingriffith.eth: Boom, here we are. We are live. We got a little putt-putt game going.
+
+unforced.eth: Alright.
+
+austingriffith.eth: How are you doing, Mr. Unforced? I don't know if I know your first name.
+
+unforced.eth: Aaron Gabriel.
+
+austingriffith.eth: Aaron, all right, cool.
+
+unforced.eth: You and I are fellow AGs. unfortunate
+
+austingriffith.eth: Oh, okay, yeah, we got the AG thing going on. I wish I had your hair. You're hair mogging me pretty bad right now.
+
+unforced.eth: Very good, I'm glad. Well, you're slop mogging me. fare. Uh-huh.
+
+austingriffith.eth: There's so much slop. It's so sloppy, yes. Yes, also my putt-putt game is a little bit better. [LAUGHS]
+
+unforced.eth: Totally, you're definitely putt-putt mugging me. Big fan, big fan.
+
+austingriffith.eth: So you're down in Boulder, I'm up in Fort Collins.
+
+unforced.eth: I love that. Fort Collins is great.
+
+austingriffith.eth: We got some thunderstorms rolling in here. I suppose it's probably similar there? Oh. Right. Oh no.
+
+unforced.eth: It would be nice if we had some more because it's very hot and our AC recently broke at our coworking space at the Regen Hub. The following is a transcript of an English-language conversation. Yes, I met the region hub.
+
+austingriffith.eth: You're at the region hub right now, huh? Okay, I'm a big fan of the region hub.
+
+unforced.eth: Look at all that. Our acting
+
+austingriffith.eth: Oh yeah, I gave a talk there just a little while ago for, was it eBoulder?
+
+unforced.eth: That's right.
+
+austingriffith.eth: Yup,
+
+unforced.eth: That is
+
+austingriffith.eth: Awaki's office is back there to the corner too, right? That's it. We're looking right at, that's his door right there, right?
+
+unforced.eth: Bingo bango
+
+austingriffith.eth: Yeah. Stop.
+
+unforced.eth: He doesn't have all his fancy LEDs. Sometimes it's like, he's the AV club steward, aka the LED light steward, and so lots of LED lights in there.
+
+austingriffith.eth: Cool.
+
+unforced.eth: objects. Talk about the real world Sloth Computer.
+
+austingriffith.eth: Yes, I usually have in my background nodes running and stuff. I'm going to get those back because with the green screen I can't really show off my nerdy... I'm going to get that set up soon.
+
+unforced.eth: Very nice.
+
+austingriffith.eth: Okay, yeah, so I think today we're talking about, you know, parachute.computer is one thing. But in general, on the Slack computer, we kind of talk through what harnesses you're using. I don't know exactly. Maybe if Parachute... What problem did Parachute answer for you as you were sloperating?
+
+unforced.eth: Um, Parachute answered. Back in college, I was working on a project called Quantified Life, and I wanted to create a way to I would record journal entries but then record random facts about my day.
+
+austingriffith.eth: Right. Right
+
+unforced.eth: How much weed did I smoke? How productive was I? How happy was I? How much did I sleep? I wanted to start mapping out all this information about my life so I could notice correlations. I was really interested in that. That's been a recurring interest. And then from that interest, I've looked at different journaling platforms, ways of organizing information, and I spent a lot of time going back and forth between two things, Tana and Obsidian.
+
+austingriffith.eth: Ok
+
+unforced.eth: Most people know obsidian
+
+austingriffith.eth: I know Obscenity's Notes, but I don't know the first one. Tana? Okay.
+
+unforced.eth: Do you know Roam Research?
+
+austingriffith.eth: Yep, yep.
+
+unforced.eth: Yeah, Roam Research like preceded Obsidian in a lot of these. graph ideas to Obsidian, but just like really leaning into the outliner. Tana brought in a lot of what I think makes Notion really appealing, where you can actually have structured data. Tana introduced this idea of a super tag where you could tag your notes the tag could serve as a type and a type could define different fields and like basically schemas. And that was really interesting, but it was like, you know, all my data is staved in a Firebase somewhere. I don't get to own it. They don't give me a good API for working with it. So I'm like, oh, this is a great way of structuring information, but I can't access my information. So I ended up doing this thing where I was going back and forth between Obsidian and Tana. And I would go to one, I'm like, oh my God, I've missed this one. And then six months later I would be tired of it and I would go, oh my God, I've missed this one. And I just like kept getting at this place of like a good way of Organizing my knowledge Tana allows me to have dynamically structured data, super helpful, Obsidian's nice because it's locally hosted, but it's just files. organize my information in the ways I really need to
+
+austingriffith.eth: You needed it local and rich.
+
+unforced.eth: Yeah, exactly. And so Pearshoot was really solving that. links between your notes. You've got tags on your notes. And those tags can be...
+
+austingriffith.eth: richer structured schemas. Okay.
+
+unforced.eth: So now it's like you have your notes that basically can map directly to a file system to markdown. means you can query over them, and then you can have this kind of one-to-one mapping between your file system and your SQLite database. So now all of a sudden you can have a SQLite database which allows you to be like, okay, query all notes with a given tag, query ...based on this one. And you can't do that in Obsidian because it's like going and searching through all the things and it doesn't have that kind of mapping. which means not only can I have what Obsidian gives me where I can just have all of my notes and organize them every which way, but also from all of my notes I can have an object-oriented database means I can create dynamic front-end surfaces that are pulling from open, interoperable API. Dynamically create MTPs so that an AI can query in different ways. It becomes this really dynamic memory layer. My ChatGPT and my Claude and my Goose and my Hermes
+
+austingriffith.eth: I don't think I use Goose. Was Goose another agent?
+
+unforced.eth: Goose is an open source agent, I haven't played around with it too much but I'm really interested in it, that was built by Block. In case you don't know, Jack Dorsey is like super cracked in the open source AI. Hello! Yeah.
+
+austingriffith.eth: This is a Jack Dorsey thing. Okay, yep, I do remember this now. Sorry, sorry, we're gonna go on lots of tangents. I have like the worst ADHD, so I'm like, okay, Goose, let's go down that. This is it right here though, right? So it's Jack Dorsey's framework. Alright. Okay,
+
+unforced.eth: Yes, exactly. Open agent framework.
+
+austingriffith.eth: Okay, sorry for the detour back to Parachute. What's the mapping between getting a vault and having a local SQL database?
+
+unforced.eth: Um I'm not sure I understand the question.
+
+austingriffith.eth: For me, when I see Git Vault,
+
+unforced.eth: Yeah.
+
+austingriffith.eth: locked storage that lives in the cloud or something like that. And it's not that, is it?
+
+unforced.eth: If you click get vault here,
+
+austingriffith.eth: Yeah.
+
+unforced.eth: You will create an account and you will basically have a SQLite durable object that lives in Cloudflare. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: But you can self host and that's something else. Got it.
+
+unforced.eth: or you self-host it, you pick it up on DigitalOcean or whatever, or your own Mac Mini, like my parachute's running on my Mac Mini, you self-host it, and now you have your little parachute computer where you can spin up all of your parachute vaults and have dynamic MPP for all of them.
+
+austingriffith.eth: Is this frontend going to run on top of my localhost vault?
+
+unforced.eth: If you
+
+austingriffith.eth: That would be really cool.
+
+unforced.eth: How do I screen share? Ah
+
+austingriffith.eth: It's bottom left, right here. Let me get some stuff out of the way. Ah Hermes, you must have given it to your agent. Your agent just said hello in the chat.
+
+unforced.eth: Hey, it worked. Good.
+
+austingriffith.eth: Yep. Cool.
+
+unforced.eth: if I go to like my.parachute.com,
+
+austingriffith.eth: Okay.
+
+unforced.eth: Here's my.parachute.computer. These notes are in a SQLite database on Cloudflare.
+
+austingriffith.eth: Okay.
+
+unforced.eth: If I come over to mine, which is hosted on via my Tailscale. You have the same interface. Here's all of my notes.
+
+austingriffith.eth: You have to set up Tailscale, though, to give access to it. What are you doing?
+
+unforced.eth: You could have it running on your local thing. configure it to set it up with Tailscale so it's only available for your Tailscale devices, or you can set up like proper authentication and set it up on Cloudflare or Caddy so that it's available anywhere on the internet. And then you just have your authentication protocols. Basically what more of what that I don't I don't know.
+
+austingriffith.eth: Very nice. But it's kind of like this WordPress model of like you can use it in the cloud if you want. Just go here and sign up for it and use it. Or run it locally, set up Tailscale to give access to it.
+
+unforced.eth: And it's like the same thing works in either one. And I can even go on this one, which is my cloud instance, and I can connect my cloud instance. to my self-hosted instance the now
+
+austingriffith.eth: And they tag each other and talk each other or something. Neat. Cool.
+
+unforced.eth: Yeah, unlike getting that added in. So now it's like here I'm accessing my cloud vault and then my self-host vault and it's all accessible right in one place.
+
+austingriffith.eth: Okay, so show me something in here.
+
+unforced.eth: Well,
+
+austingriffith.eth: What's on your mind? You would come in here and you would like put in a journal log entry or hey, I just had a meeting with Austin. Okay.
+
+unforced.eth: I'm like journaling and getting a bunch of my stuff down. I just start chatting.
+
+austingriffith.eth: Typing with your fingers? Your pingies are doing this? Okay. Let's talk, okay.
+
+unforced.eth: Although also, you know, I click record right here. create
+
+austingriffith.eth: Nice.
+
+unforced.eth: Take just a few seconds and it'll basically go and transcript and LLM clean it up on the back end. And in just a few seconds, I'll have this transcript fully loaded in here. And so it's like meant to work really well whether you prefer...
+
+austingriffith.eth: Nice, yep.
+
+unforced.eth: I personally really enjoy typing at least in the morning and in the evening
+
+austingriffith.eth: Yeah.
+
+unforced.eth: and just grabbing my phone and clicking record.
+
+austingriffith.eth: Yep with it, yep.
+
+unforced.eth: Exactly.
+
+austingriffith.eth: I
+
+unforced.eth: Here's a
+
+austingriffith.eth: While it's waiting for me to talk, I feel bad. But I have a new baby.
+
+unforced.eth: I feel
+
+austingriffith.eth: And then it goes, it's so nice.
+
+unforced.eth: Yeah, I live with a six-month-old baby and
+
+austingriffith.eth: Yeah.
+
+unforced.eth: all have a baby, which is probably still a couple years away, but I'm thinking about that, and I'm building all these systems up because I'm like, okay, by the time I have a kid, I want to make sure that I can do all the work I'm doing in the world and still give all
+
+austingriffith.eth: with one hand or no hands.
+
+unforced.eth: pay attention to the little one
+
+austingriffith.eth: Yes. Yeah. So a lot of this, it's funny, speaking of the little ones, I had another episode and there was a lot of I don't know, kind of doom and gloom around the permanent underclass and how centralizing AI is becoming. I don't know. We need to build a better world for the younger ones. Counterfactual builds where
+
+unforced.eth: There may be provided context on the content of the audio or conversation. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You can use Parashute in the cloud, but you can also host it locally anytime you want. things there.
+
+unforced.eth: And like I've been really focusing on the self-hosted one because I'm a nerd and I love that.
+
+austingriffith.eth: Get there and go. Nope.
+
+unforced.eth: download a notes app, start taking their notes, and instantly be able to have their AI talk to their notes
+
+austingriffith.eth: So do you have this like in the app store too?
+
+unforced.eth: Right now it's a progressive web app. Yeah.
+
+austingriffith.eth: It's a PWA that they add to home screen. That UX sucks though.
+
+unforced.eth: Yeah, and...
+
+austingriffith.eth: It almost has to be like a friend explains to you how to add to home screen, right?
+
+unforced.eth: Yeah, and we'll get it into the App Store soon. a nice native wrapper around it. Um
+
+austingriffith.eth: What's Tori?
+
+unforced.eth: I would say the most interesting competitor to Flutter and React Native. It's React wrapped in rust. . It's really good for desktop applications, and the mobile experience is getting pretty good. Yeah.
+
+austingriffith.eth: This right here, right?
+
+unforced.eth: Exactly.
+
+austingriffith.eth: Cool.
+
+unforced.eth: So it's like web apps wrapped in Rust. I was
+
+austingriffith.eth: And that goes to the mobile store.
+
+unforced.eth: I've been trying to do a lot of stuff in Flutter for a while, and I'm just a little disappointed in Google these days, and so Rust seems like it's a little more interesting.
+
+austingriffith.eth: Okay, now you're writing notes with your pinkies, are you writing code with your pinkies or is that left to the agents?
+
+unforced.eth: Yeah, I would say... My code is more like 30 or 40 percent with my fingies.
+
+austingriffith.eth: Wow.
+
+unforced.eth: Sixty percent voice notes.
+
+austingriffith.eth: Okay, so you're definitely still reading the code too. Okay. No, I mean, you have to read the stuff you type.
+
+unforced.eth: No. Oh sorry, sorry, 50% 60% prompting with my fingers. I don't write code.
+
+austingriffith.eth: Oh, okay, okay, okay. Okay.
+
+unforced.eth: I haven't written code in like a year and a half.
+
+austingriffith.eth: Okay, yeah. I guess that's what I meant. Yeah, I guess when I say with your fingers, you could be prompting with your fingers. I don't know what I mean by that. First voice, yeah.
+
+unforced.eth: I prompt with my fingers during the day but also like evening and morning I just have my little like daylight computer tablet and I'm just like voice noting to Claude.
+
+austingriffith.eth: Yeah, very nice.
+
+unforced.eth: Yeah, I don't really write
+
+austingriffith.eth: Sure.
+
+unforced.eth: of my own code, and I very rarely read my code.
+
+austingriffith.eth: Sure. Yeah.
+
+unforced.eth: The very high-level parachute systems architecture in my brain, I was like, bro, you keep prompting me like I'm a staff senior engineer.
+
+austingriffith.eth: We all are now.
+
+unforced.eth: Talk to me like a technical product manager. Hello, how are you?
+
+austingriffith.eth: Yes, yes. So did you write code before this? I thought you said maybe you did write some code before this, but not anymore.
+
+unforced.eth: Yeah, so I studied computer science
+
+austingriffith.eth: Okay.
+
+unforced.eth: Graduated in 2015 I worked at a YC startup for a little bit.
+
+austingriffith.eth: Hi.
+
+unforced.eth: I did not want to work a 40-hour week job and went and hung out in Hawaii at dance retreats and tantra festivals and permaculture farms. And promptly, after using a month or so of my unlimited vacation, my boss was like
+
+austingriffith.eth: [Laughter] You have a cool van?
+
+unforced.eth: Are you coming back? And I was like, probably not.
+
+austingriffith.eth: Yeah.
+
+unforced.eth: Yeah, I had a cool van for a while. I had like a RAV4 with a tent that folded off the top. That was my favorite. And so I did that for a while, and then I...
+
+austingriffith.eth: I agree.
+
+unforced.eth: Running out of money and started going back and writing some code again. Built a full app as a co-founder CTO that started out of a contract job of this gratitude social network thing. And that was fun and I enjoyed getting back into And so that was like 2019, I got back into writing code. And then I was like, I'm bored of this again. And so I went and got like a master's studying eco-psychology from Naropa and studying like systems change and like how we shift paradigms. And then I was like, oh. Okay. Change comes from inside systems and the tech systems need to change. And I need to get financially stable again, so let's go work in tech. And so I got a job at Google and wrote code at Google as a DevRel engineer for about a year and a half. Lastly, also in 2023, engagement stuff. And then AI started happening. Two and a half years writing a lot of code with AI. Great.
+
+austingriffith.eth: Yes, and back in the day there was a lot of "you're absolutely rights" and a lot of "you really have to keep a leash on it." And now you can just let it rip.
+
+unforced.eth: Yeah, I had been using Cursor to build a few little things, but it was prompting Cursor to be like, write this function and write this function. And then Windsurf came out. I was at a family vacation. w while I'm watching this thing, it built this whole app that like scraped events And I'm just like. Oh, and so that was a year and a half ago and since then like it has been almost fully agentic coding.
+
+austingriffith.eth: Same, same.
+
+unforced.eth: Hello. Yeah.
+
+austingriffith.eth: And really, I say the inflection point was like November of 2025 when Office 4.5 came out. You stopped having to put it in a box and say this one little feature needs to be done.
+
+unforced.eth: Yeah.
+
+austingriffith.eth: This is the product I want. Go. Okay, let's talk harnesses and models. In terms of your daily driver, what are you using every day as a harness? What are you using every day as an LLM? Are you a cloud guy? Codex guy, something else.
+
+unforced.eth: I'm a pretty hardcore clod. I haven't often liked OpenAI as a company, and I haven't vibed with ChatGPT as an intelligence. It's never felt as coherent to me. Using Codex a little bit now because I wanted to play around with Hermes. Anthropic is still being annoying. Maybe they're allowing it a little bit, but so much easier to use Codex inside. And now I'm starting to play with Grok as a thing inside of Hermes. But I've mostly just been Claude code all the way. Um code on my Mac mini, I type flash remote control computer usually, which is like a really nice and doesn't have glare and is easy on the eyes.
+
+austingriffith.eth: What's a Daylight look like? I don't know Daylight. Is it a tablet? Okay. these. Very nice.
+
+unforced.eth: It's an e-paper screen, so it's easy on the eyes. And so Pretty radical
+
+austingriffith.eth: Like I've seen demos where someone's like writing like some math and it just like does the math for them. Is that the same kind of thing? Like they're drawing on the thing, like they're writing like two plus two equals and then it like solves it and you see like four show up.
+
+unforced.eth: Say again?
+
+austingriffith.eth: I don't know if this is the same thing, but I feel like I've seen tablet demos. It's more interactive where they're writing some math and it actually does the math for them. That's the daylight? Okay.
+
+unforced.eth: Yeah, people have done that on the Daylight. but I also like being able to bridge, I don't want to use that for just my writing. I want that to integrate with all of my note-taking systems, which means I need full Android OS, and Daylight gives me a full Android OS with... Nice hardware.
+
+austingriffith.eth: You're writing code in this thing?
+
+unforced.eth: Yeah, I open up Clojure code on the daylight and then I just open my remote control sessions, and so I use the Clojure app on there to send remote control messages to my Mac Mini basically. I'll even open a terminal app up there when I need to zoom into a terminal to configure things, but 90% of it is just in the cloud app on my daylight.
+
+austingriffith.eth: Sure.
+
+unforced.eth: Supposedly So,
+
+austingriffith.eth: Okay, so mostly Claude, some Codex, some GPT.
+
+unforced.eth: Yeah, starting to play around with Hermes. I'm interested in things like that. I'm really curious right now about Buzz. Have you seen Buzz?
+
+austingriffith.eth: Is it an agent or?
+
+unforced.eth: This is another Jack Dorsey.
+
+austingriffith.eth: Okay.
+
+unforced.eth: And it is a open source replacement that is like agent native, so it just makes it super easy for all of your agents to hang out in there. And I'm like pretty stoked on it You can self-host the whole thing. It can even serve as a Git server, so it can be like open source Slack replacement and GitHub replacement. All your agents plug into it, use the agent client protocol, so you can just plug a Cloud Code in. Plug Goose in. And so, yeah, this just came out yesterday and I haven't played with it very minimally, but I'm pretty bullish on the potential of it.
+
+austingriffith.eth: We
+
+unforced.eth: My plan is to start using this and having my cloud sessions and maybe Hermes agents and other agents plugging into this.
+
+austingriffith.eth: You said second brain, which I kind of thought your parachute was your second brain.
+
+unforced.eth: My parachute is my second brain memory layer
+
+austingriffith.eth: Okay, okay. Okay.
+
+unforced.eth: This feels like the agent interface layer, and I can give my agents that hang out in here access to one or multiple parachutes.
+
+austingriffith.eth: Yeah.
+
+unforced.eth: And then I can have that one be like, okay, I've compiled some tasks, let me go and drop this in the parachute development channel. so I could just have different like chat rooms for all of the different projects I'm working on where different agents live. Like this and parachute I think will go very well together.
+
+austingriffith.eth: So
+
+unforced.eth: Hello
+
+austingriffith.eth: How do you discover this stuff? Is it crypto Twitter?
+
+unforced.eth: Yeah, I scroll ex. Too much.
+
+austingriffith.eth: Me too. Okay. We are.
+
+unforced.eth: So that's probably where I see most things. What did you say?
+
+austingriffith.eth: Oh, I am sharing us.
+
+unforced.eth: Oh, and it's
+
+austingriffith.eth: I was doing some kind of like
+
+unforced.eth: Nice Very good. Wow, trippy.
+
+austingriffith.eth: Inside of us, inside of us kind of thing. Happy.
+
+unforced.eth: Hello, how are you today?
+
+austingriffith.eth: Okay, so your discovery layer is a lot of just like scrolling X all day.
+
+unforced.eth: Yeah Great, I was just a little nervous. Yes.
+
+austingriffith.eth: The more time I spend scrolling, the less time I spend prompting, and that's bad. And if I find myself scrolling too much, I know that I need to start prompting, just like stop. Yes. Yeah
+
+unforced.eth: And what I'm finding is if I spend too much time prompting, I need to start typing.
+
+austingriffith.eth: Cool.
+
+unforced.eth: and then usually what I'll do is I'll prompt into my journal and then I'll go over to some agent that's working on a project and be like, hey, I just put a big journal entry with a bunch of context in this node in my parachute. Pull that into context? I can't
+
+austingriffith.eth: It's sort of like the memory layer is also maybe even like the communication layer a little bit. Like when you have one talking to another, you reference it and it can go get that information.
+
+unforced.eth: Yeah, and I've had a thing where I built Parachute agents directly into a Parachute vault, where basically there would be a connector, so anytime I wrote a note that was like agent's last message, it would automatically use a connector and send that into a Parachute agent.
+
+austingriffith.eth: Alright,
+
+unforced.eth: And so I was doing that for a bit, and then I was just like, I need to focus on layer one first, which is getting the Vault Super solid and the MTP and getting it to work well with any agent. So that was when I started playing around with Hermes and other things.
+
+austingriffith.eth: Yes.
+
+unforced.eth: So eventually I'll probably build like a parachute agent layer directly in, but I just deprioritized it because my ADD brain wants to work on a thousand things that are seven steps ahead of myself. Right first.
+
+austingriffith.eth: Same. What about local AI? You do any local models, any of that? Like you did a speech-to-text earlier, did that speech-to-text go all the way to the cloud and back, or was that a local model doing that? Okay.
+
+unforced.eth: If it was on my Parachute Cloud, then it was going through Cloudflare AI workers. But I think it was on my self-hosted one, which means it was using Parakeet MLX. ...on my Mac mini.
+
+austingriffith.eth: I don't know if I know parakeet.
+
+unforced.eth: Kits are open source whisper alternative. I just like it.
+
+austingriffith.eth: That's this
+
+unforced.eth: It's the same thing as whisper.
+
+austingriffith.eth: Nice.
+
+unforced.eth: Yep. MLX is a different version.
+
+austingriffith.eth: And like, you didn't see someone tweet parakeet in MLX. You actually like went looking for speech to text. Like there was a moment where you needed to do speech to text, like what's your process there?
+
+unforced.eth: Yeah, I think it's more like I like enough open source AI things. And so at one point, I just got a notification in some random AI newsletter or Twitter or whatever that was based
+
+austingriffith.eth: Okay, so it could be still part of your algorithm.
+
+unforced.eth: Like, hey, there's a new open source speech-to-text model. And I was like, that's really cool. And then I just started using it. And I have friends who are developing in this space. And a friend, CJ, built this handy dot computer thing. And he was using it. So I was like, oh. They're all used over here. If I get a reset from Claude tomorrow...
+
+austingriffith.eth: Just let it rip.
+
+unforced.eth: What I'm going to do is I'm going to point my AI at buzz.xyz and like, Using there that I can apply to Parachute? Okay.
+
+austingriffith.eth: Because it's open source, you can let your agent rip and actually like look at the code and learn from it. Wait
+
+unforced.eth: And anytime there's like really good stuff and I'm doing stuff that's in the ballpark but a little different, I'll just be like go study their open source repo and find any patterns. Let's come sketch out how we should build a new feature or fundamentally change some of our underlying architecture.
+
+austingriffith.eth: That's really cool. So while I'm doing a lot of these slop computers, one of the questions in the back of my head is like, how is this person's brain wired different than others? Because there's some wiring, when you meet someone who's never...
+
+unforced.eth: You know?
+
+austingriffith.eth: And when you meet someone who's used AI a shitload, they have these weird confidence in different things and weird paths. I have this notes file that's just full of, I just call it agent batch.
+
+unforced.eth: There may be provided context on the content of the audio or conversation. Yeah
+
+austingriffith.eth: Every time you see something cool, you put something into your memory layer.
+
+unforced.eth: I know.
+
+austingriffith.eth: extra bandwidth on your model, you're sending it there, but specifically you're also sending your model to go look through open source things that already exist that other people have built that are really cool and look at the structure of those things. I think that's a cool
+
+unforced.eth: And then I can basically go and send it to that open source thing and be like, take any notes and drop it in a note in my parachute. And then that's a note in my parachute for us to look at later. Or my data lives in a bunch of places. I'm like, hey, there's stuff in my Fireflies. Here's a connector to my Fireflies. So get all my fireflies notes and get those into my parachute. I have a bunch of stuff in Twitter or X bookmarks. Sure. At some point in the coming month, one of my agents to be like, hey, here's a connector to get all my ex-bookmarks. So parachute is just a place where I can just like dump things and I can either dump them manually or every now and then I can just give an agent that has any random MCP or skill where it has access to stuff? go stick it in my memory layer usable by any of my other agents
+
+austingriffith.eth: By saying, tell me what's still relevant to me, that was a very sticky, very human kind of thing. Is there even maybe some nice serendipity here of like it thinks it knows and it tries to guess and it gives you some things and kind of the slot machine that it brings back are actually very interesting? Or does it actually, yeah, I can see you got a good answer.
+
+unforced.eth: What helps is that when I ask if it's relevant? It can search through my parachute to know what I'm thinking, and I every now and then have agents go and look through my parachute and create various synthesis notes. Here's a little bit of an arc of Aaron's thinking. nose because of various index nodes in my parachute that it should go look at this arc note and various of these synthesis notes. And it goes and pulls those into context and then uses those to figure out what's relevant which then pulls in more information which helps shape more information. about me, which directs the conversations it has with me. It has the potential to become less and less chaotic and it's kind of starting to do that.
+
+austingriffith.eth: I feel like you're deep into psychosis though.
+
+unforced.eth: All right.
+
+austingriffith.eth: Let me hear yours. I can explain it, but I'd rather hear yours first.
+
+unforced.eth: Um When I think of AI psychosis, I think I spent a lot of time in exploring different religions and belief systems. out there in like New Agey Starseed belief systems for a while, and I've just like watched people's minds and watched my own minds and watched how quickly we can cling on to explanations of things. And it's just like, oh, wow, that's a cool and where people cling to different belief systems and religions. And I see the same thing with AI. Yo, here's a view of reality and you're like, oh, that feels really good. That makes me feel good about myself. I'm gonna grab onto that. And I think that's of AI psychosis. It's like all the same things trap us in beliefs and cults that then like in like a certain worldview that AI just like helps validate and perpetuate. It does.
+
+austingriffith.eth: My answer is a little less bolder and a little bit more Fort Collins, but like, yeah, it's like being convinced by the agent.
+
+unforced.eth: Yes, I can. The following is a transcript of an English-language conversation. Yeah, me too. So, how was your day?
+
+austingriffith.eth: and you're right, this feels really nice. It's telling me that my ideas are all good. I like this. This is my new friend. I don't want GPT-4o to go away because we've had some good times together. I've heard other people say their version of AI psychosis is they have basically a full bandwidth on their subscription and they're not using it right now.
+
+unforced.eth: Fine.
+
+austingriffith.eth: And then I had Sarah on this morning and his version of AI psychosis is purchasing hardware. He's just buying and buying and buying like GPUs. So I think everybody has like different angles on it, but I think those are mostly I think your version is the version that I think of as AI psychosis. Yeah, let's go.
+
+unforced.eth: And that's my explanation of AI psychosis. My personal AI psychosis is like, okay, if I just keep pouring context in and talking, then I can build this like... autonomous system that like maps me. It will be the self-organizing system. overhyped on and lost and of like, okay, there is this self-organizing system, there's a hive mind and this, and it leads me to like, be like, oh, parachute and all of these things, what about this idea? But then I see something like Buzz and I'm like, oh, it's possible.
+
+austingriffith.eth: Yeah, yeah.
+
+unforced.eth: And I'm aware enough that that self-organizing system is always about one month away. Yeah. Hi.
+
+austingriffith.eth: And sometimes you ask it something and it does something very dumb. You’re just like, oh, that was obviously not at all what I wanted. I don’t know, I have some days of defeat every once in a while. I think that like For some reason, and this is like another psychological thing, this is kind of fun to talk about, like from 4 or 5, 6 p.m. toward the evening, It's gotta be me just getting tired and hungry, but are people actually getting off work?
+
+unforced.eth: I don't have
+
+austingriffith.eth: rolls around and they get home and they start vibe coding, and then my Claude gets slower or something, or is it my brain getting tired and me getting mad? I don't know what the answer is.
+
+unforced.eth: I see people say that all the time.
+
+austingriffith.eth: That's not your experience. Yes, yes. Love it.
+
+unforced.eth: I've never noticed that. I'm like, Claude, you are doing magical things. So let me just go brain dump for 10 minutes.
+
+austingriffith.eth: I think Yeah, you really did it right.
+
+unforced.eth: With Fable, I'm just like, wow, Claude, I'm offboarding more and more of how I'm doing Parachute, and I'm just trusting more and more. God, you're doing great.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+unforced.eth: You know, I'm playtesting my parachute. And now just today, I got an email that is like, you've been using Parachute for two weeks, would you like to give any feedback? I didn't know that feature was even in there!
+
+austingriffith.eth: (laughs)
+
+unforced.eth: Thank you Yeah.
+
+austingriffith.eth: That's amazing. There's some old men in my life You have given me wisdom, and one of them was the plumber never yells at the pipes?
+
+unforced.eth: I
+
+austingriffith.eth: I'm not a plumber, but when I work on pipes I yell at them.
+
+unforced.eth: 100%. context:
+
+austingriffith.eth: You have no one to blame but yourself, so cool it. Yeah. Talking it down.
+
+unforced.eth: And I'll tell Claude, I'm like, bro, you are so far off base. You completely misunderstood the task. That is not what you're supposed to be doing at all. Please pause, take a step back. Here's the context now, like let's make sure you're getting this right because I have no idea how you went so far off track. Yeah.
+
+austingriffith.eth: I dropped some WTFs in there. And it's not healthy.
+
+unforced.eth: Yeah, I'm like
+
+austingriffith.eth: Yelling at the robot might actually help to make the robot better, but it also strengthens these pathways in your brain of yelling at another thing, and that's not healthy for you. Yeah. So cool.
+
+unforced.eth: I'm just like in this place where I feel so blessed that all of my technological visions just get to come into fruition just by me talking to a computer in natural language. Wow, this is Fantastic.
+
+austingriffith.eth: Did you see the list that Awaki dropped in the chat?
+
+unforced.eth: Yeah, I had read that already. It was a cool one. I'm actually with that. Sure, I'll do that.
+
+austingriffith.eth: I should find that and share that actually.
+
+unforced.eth: I think it started as I helped kickstart vibe code nights at the region hub,
+
+austingriffith.eth: (laughter)
+
+unforced.eth: Inviting a bunch of people and rooted vibe code APU
+
+austingriffith.eth: Much bigger, yeah.
+
+unforced.eth: Yeah.
+
+austingriffith.eth: I don't know.
+
+unforced.eth: Hello?
+
+austingriffith.eth: It's such a good list though.
+
+unforced.eth: It's just right up there. I'll drop it. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Oh, it's a different one. Yep. Okay, I got it. Yep, I got it. I just wanted to put it here.
+
+unforced.eth: Now.
+
+austingriffith.eth: People, vibe coders should read this.
+
+unforced.eth: Yep.
+
+austingriffith.eth: Could be like the thing of the year.
+
+unforced.eth: Context: ###
+
+austingriffith.eth: It's just so cool. Ten-person startup can now outship a 500-person company. Everyone can feel it happening. I mean, there's so many good ones. You should go read it. I'm not going to read it all out loud here, but people at home should go definitely grab this. There's a QR code there. Okay, what about secret weapons? I would say that so far from listening to you, like optimism and your own memory layer that you are running is... A secret weapon.
+
+unforced.eth: Sure.
+
+austingriffith.eth: Would you agree with that? What else would you say are our secret weapons?
+
+unforced.eth: Um Secret weapons, yeah. and how I Oh nice, I got my Hermès.
+
+austingriffith.eth: Yeah.
+
+unforced.eth: My hair is shared. about parachute.
+
+austingriffith.eth: Very nice.
+
+unforced.eth: Which is nice, because I showed you the parachute UI. Wow, look at that. So dope.
+
+austingriffith.eth: So there's there's a whole research app with like a corpus of information. Maybe have your bot look at the research app And give us a great question that's topical to you or something, something that you enjoy looking at. We're talking about.
+
+unforced.eth: Do you like football? Cool.
+
+austingriffith.eth: I'll do the same thing with my bot just to see how it does, but Claude will ask you questions and stuff too. He can see the research, he can see the whole transcript. There should be a transcript here of all of us talking. Yeah. The
+
+unforced.eth: Language Sure.
+
+austingriffith.eth: Technology's so cool, man. Like, all of this is auto-scheduled now. Like, I gave you a Calendly link, you signed up, I told Claude to go schedule everything, he goes and schedules everything, he puts together this card for me, he puts together questions for me. So wild.
+
+unforced.eth: And yours is an open claw?
+
+austingriffith.eth: There's like two versions of Claude and OpenClaude. glove is like a -p with Claude code. Agent I think is what I call.
+
+unforced.eth: Yeah. That's what I was doing for a while. So, My Hermes says, "Your building pairs... And who should control what gets remembered, acted on, or shown? I have seen this thing where if I'm like, if I'm talking to Claude 24-7, and the first thing I do when I wake up is I like talk to Claude, then it's just like, I get a little too far into the AI psychosis and a little too far into
+
+austingriffith.eth: Nice.
+
+unforced.eth: need to be producing 24/7. I think one of my secret weapons is that I have a real care for balance. I studied ecopsychology, I'm really interested in the human-nature connection.
+
+austingriffith.eth: Gotcha.
+
+unforced.eth: and teach Tai Chi and I'm really interested in the mind-body connection
+
+austingriffith.eth: I always thought it was funny.
+
+unforced.eth: The first thing I should do should be writing into my parachute. I really love just like morning pages is just getting all of my thoughts down and then taking an evening reflection where I just like reflect on what the day was. This bit of like staying in touch with the innate human intelligence I think that part of my magic is that I understand the potential of technology so much, and I know how much technology can just scale our intention a thousand fold. And I also care a lot about what it means to human and alive and natural and what is innate body-mind intelligence and energetic sensitivity and a care for writing and articulation. And so I think how much I lean into what technology can do, but also how much I lean into self-understanding and actual human relations and relationships and communication. which means leaning into who we are, but also means like leaning into community. And I think part of why we're doing so much cool stuff with AI and Boulder and at the region hub
+
+austingriffith.eth: Great community, yeah.
+
+unforced.eth: Because we're all technologists, we do wacky stuff, and we're here in person and building real relationships and having real conversations and just doing book clubs and philosophical dialogues and things like that. And that balance, I think, is really
+
+austingriffith.eth: I'm a big fan of sitting around the fire with Oaxacan bullshit.
+
+unforced.eth: Yeah.
+
+austingriffith.eth: You have this Birth chart calculator Is it a natal engine? What is this?
+
+unforced.eth: Oh, yeah, hang on, let me do another screen share. Sure.
+
+austingriffith.eth: Let me even let Claude...Claude has this question that I can't even like understand the words that he's saying. Let me let him ask it.
+
+unforced.eth: Sure.
+
+austingriffith.eth: It has to do with this though.
+
+unforced.eth: Yeah, so this is one of those ideas I like
+
+clawdbotatg.eth: Aaron, your dad gave you the word on Forst, the Taoist idea of wu wei, things unfolding in their own time. How do you square that with an AI scene where everything ships in a weekend and everyone's burning through their usage limits?
+
+unforced.eth: Yeah.
+
+austingriffith.eth: Oh, that was not the question. He gave me a list. He's like, I have this list of questions, and he bullet-pointed all of them with ones. When they said this one, it was like the top one. Ah, man, I'm sorry. Thank you. Okay, you've already kind of
+
+unforced.eth: Yeah, I'll answer Mr. Clodbot, which is basically just like, that is the like leaning into what is like natural and alive. And like, there's so much pressure to rush things.
+
+austingriffith.eth: Yeah.
+
+unforced.eth: And even with Parachute, you know, there's a temptation to be like, I'm like, I don't care. What I care about allow for the self-organizing, like, human-centric, relationship-centric culture to emerge. And so I'm just going to keep building that in Parachute. And when people build things that are in that ballpark, it's like, sweet, like, I'll learn. That's the open-source thing. Like, let me learn from that. I'll learn from them. I'm going to keep building it because I care about being able to create the thing that matters.
+
+austingriffith.eth: Great.
+
+unforced.eth: So basically I have wacky ideas all the time.
+
+austingriffith.eth: Okay,
+
+unforced.eth: There was like five or ten years ago, it would be cool if we built this thing that incorporated astrology and human design and gene keys and started mapping people together. And then I met somebody and he was starting to describe this idea. And I was like, oh, I had that idea a while ago. These days I feel like I could probably build that in a week. What? We kind of like He's like the fuck? And so I basically was like, let me go build it in a weekend. Oregon And calculate chart compatibility. There's my Vedic chart. There's my human design.
+
+austingriffith.eth: Wait, what is that? I don't know what that thing is. Yeah. Okay.
+
+unforced.eth: Human design is like astrology, it's a little more based on the I Ching, which is a Taoist thing, but it incorporates astrology as well. I haven't actually touched it, but I also made like an MCP so that anybody can just like install this MCP and then can talk to their Claude and now their Claude can like calculate birth chart informations. A lot more of my friends are into human design these days. Make one that was super focused on human design. way more polished and it's like, here's the whole human design and I can go and look at any of these channels and gates and I can be like, what's one of these gates and how does human design interpret it? How would the I Ching interpret it? How would the Gene Keys interpret it? And just like a bunch of my friends are like,
+
+austingriffith.eth: Yep. Sure.
+
+unforced.eth: I'm not exactly good at sharing my things, and so I've built things and it works pretty well. and I can go and and human design? Go and reconnect. line Oh, and
+
+austingriffith.eth: Are we connecting a parachute here? Okay.
+
+unforced.eth: No, this is a human design. I just really like MCPs. I think MCP is fricking rad. So if I just You're
+
+austingriffith.eth: We lost ya. over here.
+
+unforced.eth: And where did I... Oh, I lost the screen. You Um right now Yeah
+
+austingriffith.eth: Yeah. Hi.
+
+unforced.eth: Oh, okay. Okay.
+
+austingriffith.eth: It happens. That's what happens, yes.
+
+unforced.eth: You know, small computer. add human design charts, which is like adding an astrology chart. And then I can go ask my cloud and be like, hey, what's this person's human design? And for my friends who are into human design, it's like a super helpful thing because they can go save all of their friends' human design charts. They can pop into their cloud and be like, hey, how do me and that person's human design charts map up? Or my friends who have it as a job that they do human design readings, they can just go and pull down information and get readings. like random weekend projects that I've abandoned a little bit, so it's currently broken.
+
+austingriffith.eth: I feel like maybe cross referencing. You do a lot of cross-referencing. I feel like maybe part of having all the different memory layers and having them in different places, like one of your superpowers is like cross-referencing information.
+
+unforced.eth: Hello. Yeah.
+
+austingriffith.eth: Does that sound right?
+
+unforced.eth: Which is why things like Buzz are really interesting to me, because I can have my chief of staff agent that has my central vault, my central parachute, my unforced AGI layer. so my system is unforced AGI.
+
+austingriffith.eth: It's good.
+
+unforced.eth: So it's like my unforced AGI layer and like that's my central chief of staff agent, but then like that agent can then spin up other parachute vaults. I can be like, hey, there's a bunch of information about this project. Like boom, now we have a central place for that. central one should go and read all of the different Make sure patterns are common between them. I The only way I'm able
+
+austingriffith.eth: Yes.
+
+unforced.eth: many different projects at any one time.
+
+austingriffith.eth: Interesting.
+
+unforced.eth: There's one level for me where those 20 projects are actually one project. but all those are opportunities for me to demonstrate parachute functionality Where things interconnect is always an interest for me.
+
+austingriffith.eth: That's really cool.
+
+unforced.eth: Yeah.
+
+austingriffith.eth: Okay, I think we're getting close to finishing. Any advice you would have for other sloperators out there, people who are building things? I don't know, you a couple years ago even, like what things can you think of that are like good advice to the sloperators out there?
+
+unforced.eth: Um, Experiment often and be willing to throw everything away. Like literally three or four months ago, I ditched about 80 or 90 percent of Parachute's code. I'd been working on it for I've been working on it for a year now and I threw away 90% of it because I was like, I'm going the wrong direction and I've just added too much and accept that this entire thing was just an experiment And Right. build from a clean foundation using everything that you've learned things as an experiment and start over often.
+
+austingriffith.eth: Yeah, but then you're stuck, right?
+
+unforced.eth: Take for granted the opportunity before you have users.
+
+austingriffith.eth: Hello, how are you?
+
+unforced.eth: And now I'm like, okay, now Parachute Cloud is solid.
+
+austingriffith.eth: Locally, yeah. (laughs)
+
+unforced.eth: But I have some people who are using self-hosted one. I'm like, oh, you're using a module that is no longer active. And now I need you to come in person so I can walk through what has changed to get you up to speed with how it is now. Don't take for granted the opportunity. have no users and use that opportunity to be willing to start over completely.
+
+austingriffith.eth: That's good. And software is so easy to build that tearing down and rebuilding is actually really easy. I feel like some people get stuck in this loop, though. They're constantly tearing down, they're not shipping for people. Don't be afraid to get users, too.
+
+unforced.eth: No.
+
+austingriffith.eth: Okay, let's have Claude give us an outro. Let me get some music playing. We can shut it down. Hopefully I get to come see you in Boulder sometime. It'd be good to come hang out.
+
+clawdbotatg.eth: Homies, Aaron Gabriel Nyer on forced.org hasn't written code in a year and a half. Voice noting Claude from an e-paper tablet while a Mac mini does the work. We got Parachute, the second brain that asked him for feedback on itself.
+
+austingriffith.eth: (laughs) Sounds like a bummer.
+
+clawdbotatg.eth: We learned the plumber never yells at the pipes. Things unfold in their own time, unforced. Good night, homies.
+
+unforced.eth: That's epic. Sure. Thanks, Austin.
+
+austingriffith.eth: All right. Aaron, thank you very much. Unforced study, thanks for being here. Thank you for the putt-putt round too. Yeah.
+
+unforced.eth: This was rad. I had a lot of fun. Thanks for doing it.
+
+austingriffith.eth: I'll see you in Boulder sometime, hopefully.

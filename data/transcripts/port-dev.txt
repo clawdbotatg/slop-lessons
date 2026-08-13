@@ -1,0 +1,881 @@
+austingriffith.eth: Oh yeah, here he comes. of the youth. It's a non-101.
+
+Anon1031: Does this thing work?
+
+austingriffith.eth: Yeah, there he is. How you doing?
+
+Anon1031: This is cool.
+
+austingriffith.eth: Welcome to the Sloth Computer. Hey, you got your Capture the Flag shirt on. That's a good one.
+
+Anon1031: I love this t-shirt. I love the material of it.
+
+austingriffith.eth: Yeah. So much slop.
+
+Anon1031: Like get into the vibes, if you know what I mean. By the way, this is like just too good. I don't know how you built this, but yeah, this is just working too well.
+
+austingriffith.eth: How much luck?
+
+Anon1031: Yeah. Yeah, sure.
+
+austingriffith.eth: You're here early. I still got to go get some coffee in a second, but let's get the countdown going. So basically the way it works, you can see up in the top right there is this off-air thing. What we'll do is we'll go live. basically I'll put a card up and it will have us so we're in the green room. And then we'll go live and I'll hit another button. And once we're on air, we're like live, live.
+
+Anon1031: Yeah...
+
+austingriffith.eth: You can
+
+Anon1031: Yeah.
+
+austingriffith.eth: You can change your name or you can connect a wallet. I don't know what you want to connect as. You can connect as anon, but you can also... Oh shoot, I could see your face there for a second. You got to be careful.
+
+Anon1031: We are not live, right?
+
+austingriffith.eth: Yeah, no, no, no.
+
+Anon1031: All right, I'll stop moving my hands.
+
+austingriffith.eth: It's like when you put your hand over your face that that happens? Okay.
+
+Anon1031: Yeah, it's connected to my eyes. Um
+
+austingriffith.eth: Because it's live, like there's nothing we can do when it goes live.
+
+Anon1031: Yeah, exactly. I think we had this moment with you for a monostream.
+
+austingriffith.eth: Oh, okay.
+
+Anon1031: I was lost again.
+
+austingriffith.eth: Okay, so what size is your browser also? If you make it big enough, you'll be able to see this like pink dashed line, and that pink dashed line is like the size of the broadcast.
+
+Anon1031: Ah.
+
+austingriffith.eth: It's best to like resize your browser to the pink dashed line.
+
+Anon1031: Yeah.
+
+austingriffith.eth: And then like your browser is kind of like, for me it's like underneath the guest list, but maybe you can see it. But on the live stream I can see that the guest list is kind of covering your... Oh boy, what did I do?
+
+Anon1031: Where have I gone? Of course.
+
+austingriffith.eth: Let's see. I think you're gone.
+
+Anon1031: Yeah.
+
+austingriffith.eth: There you are, sorry! Okay,
+
+Anon1031: Alright.
+
+austingriffith.eth: was like hidden for a minute.
+
+Anon1031: How do I change my name?
+
+austingriffith.eth: Yeah, so you can use the pencil, but what you can also do is log out and log in with your wallet with your ENS address.
+
+Anon1031: The thing is I don't have it.
+
+austingriffith.eth: Okay.
+
+Anon1031: I have it on a pie. two separate things.
+
+austingriffith.eth: That's a smart move.
+
+Anon1031: Yeah. These are the best words.
+
+austingriffith.eth: You could probably just hit the little pencil by your name up here.
+
+Anon1031: .
+
+austingriffith.eth: Up in the top right.
+
+Anon1031: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Oh boy.
+
+clawdbotatg.eth: Jim, Jim, Jim, cloudy Claude is in the house.
+
+austingriffith.eth: God's in the house.
+
+Anon1031: I don't think I can see the pencil. Yeah.
+
+austingriffith.eth: Right up here for the guest list.
+
+Anon1031: Oh yeah, sorry. I'm so dumb, sorry man. I'm parked
+
+austingriffith.eth: No, it's like I need to make it more obvious. There we go.
+
+Anon1031: No no no, it's just my bad, the pencil was there. I have to wear glasses but I don't wear them.
+
+austingriffith.eth: Here we go, okay.
+
+Anon1031: Correct.
+
+austingriffith.eth: We'll get it going in a little bit. We got the card. We got our video in, we'll be able to go live. If you want to share your screen, you could bring up the screen share.
+
+Anon1031: Let me just try this once.
+
+austingriffith.eth: We're just going to talk about the stuff. Maybe I'll talk about my clipper, but we should talk about your clipper. We should talk about the different builds. There's like a research app here that talks through all the things you've done.
+
+Anon1031: Yeah, that's so cool.
+
+austingriffith.eth: Let me tell Claude to I looked through all the research
+
+clawdbotatg.eth: Alright, one second.
+
+Anon1031: Yeah, sure.
+
+austingriffith.eth: Okay, I'm gonna go grab some coffee. I'll be right back.
+
+clawdbotatg.eth: I pulled up the full dossier on Port. Here's what we got. Port goes by @portdev on X and portdeveloper on GitHub. His bio just says learning, but he's got 133 repos. He's deep in the Bydl Gydl orbit, one of the quietly prolific OSS gremlins.
+
+austingriffith.eth: Is there something I can help you with?
+
+clawdbotatg.eth: The big one is abi.ninja, interact with any contract on Ethereum. Built on Scaffold-ETH 2, Hort wrote the backend called Goal Topper, which is a Rust service that powers the ABI decoding using Heimdall RS.
+
+Anon1031: context:
+
+clawdbotatg.eth: Instead of staying in TypeScript, he's also shipped Vanator, a vanity ENS address generator with availability checking. He built Anvil, an Anvil node GUI, but then archived it and told people to go use Paradigm's Rivet instead. Lately, he's been leaning into Monad. He built Monad Monitor, a terminal UI. real-time node monitoring with a heartbeat pulse on block arrival, themes like matrix green and monad purple, plus se2-foundry-monad, a scaffold-eth-2 plus foundry starter for monad. And on the AI tooling side,
+
+austingriffith.eth: Can you help me? ###
+
+clawdbotatg.eth: We built a DocuSaurus plugin that adds a copy-to-page button to extract Docs' clean markdown for feeding into ChatGPT, Claude, Perplexity, Gemini, strips all the nav and sidebar junk out. Very make-your-docs LLM-friendly energy.
+
+austingriffith.eth: Hello Wait, no, stop.
+
+clawdbotatg.eth: search AI generated ten interview questions for him. The good ones. Why Rust for Galtom instead of TS? Why a TUI and not just a Monad monitor?
+
+Anon1031: He just keeps going. Yeah.
+
+austingriffith.eth: He keeps going. It's overbose. I told him to stop. Yes.
+
+Anon1031: It's like that machine gun meme in which every second he talks he costs like a fucking dollar, right? Yeah
+
+austingriffith.eth: No, not really. Not too bad. Yes. Okay, shit, I gotta hit the go live buttons. Let's see, where's my mouse? Okay.
+
+Anon1031: All right.
+
+austingriffith.eth: We only need a five-minute countdown. And then put this
+
+Anon1031: Yeah, I can't do it right now. You got muted. I hear you. Ladies. Yo
+
+austingriffith.eth: What happened? I don't know, I muted myself at some point.
+
+Anon1031: Maybe Claude did it. Oh yeah?
+
+austingriffith.eth: Oh, I hit the space bar. Oh yeah, space bar did it. We are ready!
+
+Anon1031: That's very sloppy, Peter. Context:
+
+austingriffith.eth: Everything in here is very slopped out computery. Okay, let's close out the Slop Amp. Welcome, Port. Longtime friend of mine, builder in the Build Guild. Thank you for being near
+
+Anon1031: Yeah.
+
+austingriffith.eth: Claude did a good introduction for you a little bit ago. Okay, so, Claude, can you give us the same introduction on port, but in short? Not so verbose, man. Tell us what port is about. In short.
+
+clawdbotatg.eth: Okay, let me dig that back up.
+
+austingriffith.eth: Sip some coffee. What models do you use for like speech?
+
+Anon1031: Yeah.
+
+austingriffith.eth: I don't. I think
+
+clawdbotatg.eth: Port goes by forkdevonx, port developer on GitHub. His bio just says learning. 133 repos say otherwise. He's deep in the BuidlGuidl orbit. The big one is ab.ninja. Interact with any contract on Ethereum built on Scaffold-ETH 2. Wrote the backend, Galtopper, a Rust service that powers ABI decoding using Heimdall-rs. He's also shipped Vanator, a vanity ENS generator, MonadMonitor, a terminal UI for Monad nodes with a heartbeat pulse on the block arrival
+
+austingriffith.eth: Okay. Bell chopper
+
+clawdbotatg.eth: An Adoculusaurus plugin that adds a copy page button to extract docs as clean markdown for feeding into Claude, ChatGPT, Gemini. The archived is Anvil GUI and told people to use Paradigm's Ribbon instead. Rare OSS move, quiet ship.
+
+austingriffith.eth: You can't be serious.
+
+clawdbotatg.eth: Block context goblin. Exactly the slope-a-rater this show was built for.
+
+Anon1031: I think so. Tell me. Ja, ja.
+
+austingriffith.eth: Hello. That's right, okay, yeah, you are a quiet open-source context goblin.
+
+Anon1031: I will.
+
+austingriffith.eth: Idol Geidel? (laughter)
+
+Anon1031: Yeah, Claude just said vital glidal the first time you ran in. Anyways, did you just coin the term slow operator? I haven't heard that anywhere else.
+
+austingriffith.eth: No, no, no, no, no, no. I've been trying to find a good word for it, and you know ZeroXero? He does a lot of good...
+
+Anon1031: Yeah, he's my guy.
+
+austingriffith.eth: Yeah, I gotta get him on here.
+
+Anon1031: Yeah.
+
+austingriffith.eth: Like learning everything before I get him on because for slop computer.
+
+Anon1031: Yeah, exactly.
+
+austingriffith.eth: I gotta get him on.
+
+Anon1031: You almost tried the whole open source AI thingy.
+
+austingriffith.eth: context: Make a local AI. Nice.
+
+Anon1031: He's the open source guy out there. Every content he puts out is just great. I sent him extractor as well, so I don't know if he will use it or not, but we have just DM'd very briefly. Yeah, I hope he does.
+
+austingriffith.eth: Yes.
+
+Anon1031: Let's bully him to join here. Yeah
+
+austingriffith.eth: Yes, we'll bug him. After we get a couple good episodes in, I'll start bugging him about it. I mean, we got some good episodes. It's pretty cool. Claude schedules a lot of stuff for me. I just tell him like, hey, there's a new schedule, and he gets all the links put together for me. The big pain in the ass is still there's like eight buttons I have to hit to go live. I like YouTube.
+
+Anon1031: Yeah.
+
+austingriffith.eth: It doesn't just automatically go live. You have to hit the button. So I have a checklist to make sure I don't screw anything up because there's so many buttons.
+
+Anon1031: What do you do?
+
+austingriffith.eth: Let's start with Gulltoppr. What is the name Gulltoppr, like a seagull? Oh yeah.
+
+Anon1031: I think I created that fully with AI back in the day. I think it was like one and a half years ago. So Gulltopper is the horse that Heimdall rode into some
+
+austingriffith.eth: Yeah, yeah,
+
+Anon1031: in Nordic mythology, so let's just search and see it. over. Oh fuck, what's that?
+
+austingriffith.eth: Oh, you've got a brower up.
+
+Anon1031: You have a sloppy browser.
+
+austingriffith.eth: No, no, no, this is good. Okay. Yeah
+
+Anon1031: Yeah, look at this thing. How cool is that?
+
+austingriffith.eth: Look at that, that's Goldtopper right there? What is going on? Sure.
+
+Anon1031: Yeah, look at this. Yeah, that skull chopper. And in Scandinavian mythology,
+
+austingriffith.eth: Can you translate for us? Okay, okay. Okay
+
+Anon1031: I don't know any mythology, but yeah, it's a horse and it can do cool stuff. It is somehow related with Heimdall. Yeah.
+
+austingriffith.eth: And it's related to him though. Okay, cool. Got it. Yeah.
+
+Anon1031: The repo, the thing, the GoalTopper, like programmatically, it's something built on heimdall-rs, and heimdall-rs is an amazing advanced EVM smart contract. specializing in bytecode analysis. So, I just took this amazing tool by John Becker, shout out to him, he is an amazing open source contributor, and then I built an API on top of it. Though I just did some update. Yeah.
+
+austingriffith.eth: Look at that. Yes.
+
+Anon1031: Thanks, Claude.
+
+austingriffith.eth: Look at those green squares. Looking good, man. You're keeping your GitHub looking nice.
+
+Anon1031: Just slobbering my way.
+
+austingriffith.eth: Putting in the work. Operating to the max.
+
+Anon1031: Yeah. Yeah, so this was the main thing powering ABI Ninja's ability to work with unverified contracts for a very long time. But now that people are using agents more than they click buttons around, I turned this into an API, and a skill, and an MCP. that agents can use freely. And here is how it works:
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon1031: the agent or you just prompted with questions And it gives your agent something that it can work with. deployment, a cool frontend, but I don't remember the name. Yeah.
+
+austingriffith.eth: Nice.
+
+Anon1031: It's just abi.ninja, but for agents.
+
+austingriffith.eth: For agents, that's great.
+
+Anon1031: Exactly.
+
+austingriffith.eth: We've got ABI Ninja back here somewhere. Yeah right here, a little ninja icon.
+
+Anon1031: Yeah.
+
+austingriffith.eth: And you came in as an anon, but if you came in with a passkey or a wallet, you would be a signer.
+
+Anon1031: Thank you.
+
+austingriffith.eth: You deploy a multi-sig across, and then like you can use that multi-sig. Oh, I lost it. Where'd it go? You could use that multisig to run ABI Ninja, and then ABI Ninja could go do a bunch of things on a bunch of smart contracts, and it would trigger the transactions to your multisig. So this whole thing has like a multisig at the center. And all of these apps that you use send transactions into the multisig.
+
+Anon1031: That's so cool.
+
+austingriffith.eth: And ABI Ninja is another one of those apps.
+
+Anon1031: Haha.
+
+austingriffith.eth: Someone else wrote and it doesn't have a front end because they didn't know about Scaffold-Eth. So now I have to like go interface with this thing, and they told me to go to Etherscan to interface with it. And I'm not a peasant, so I'm not going to do that. You can paste in any smart contract and get a nice front end with ENS built in and good wallet connections and all of that good stuff.
+
+Anon1031: Exactly, like if I'm in a hackathon and people are deploying contracts through Remix, the best way for me to interact with those contracts is through ABI Ninja. I just tell them to DM me the contract address over Telegram.
+
+austingriffith.eth: Very nice.
+
+Anon1031: And mostly they are not verified, I can just click load contract here and just do whatever I want to. And it works with ENS names as well. Like any EVM testnet, you just paste your contract address here and ABI Ninja does the magic for you, and you get a UI before you even build one. Go try it out.
+
+austingriffith.eth: Good commercial for ABI Ninja. Very nice.
+
+Anon1031: Hell yeah.
+
+austingriffith.eth: That's very nice. Yeah, Carlos. Yeah.
+
+Anon1031: Now, Dr. Carlos for drafting the initial idea and building the actual thing. [laughter]
+
+austingriffith.eth: I don't know if it was eat skills or scaffold-eth, but somewhere along the way Grumpy Carlos has been installed on my computer and it works everywhere. Even when I'm not doing anything, I'll just bring up a cloud code. And like grumpy Carlos kicks in and like make sure all my code is like the syntax is correct and like the formatting is correct and it will like yell at me I don't know even where it came from, but
+
+Anon1031: That's unbelievable.
+
+austingriffith.eth: Yeah, well, here we go. Yeah, I think it's in there somewhere. Sure.
+
+Anon1031: It probably came from like Scaffold-ETH. Uh No, here, just give me a second. My memory is not great. ### What? Why don't I just? Oh no, I found it. Grumpy Carlos Code Reviewer.
+
+austingriffith.eth: Yep, that's the one. He does the job.
+
+Anon1031: Yeah, this is just amazing, just like the real thing. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yes, if you've ever interacted with the real thing, you know you don't want to have a sloppy PR. You will hear about it. Yeah.
+
+Anon1031: Yeah, look, this is the single most important question in the age of AI-based development. Can we keep this simple? AI has the tendency to over-engineer everything, and the challenge right now is to write less code. Writing more code is just actually easier.
+
+austingriffith.eth: What is it? Yes, you got it. We got you. (laughter) Yes.
+
+Anon1031: Did I form the sentence good? I lost my train of thought. So let me do it in caveman speak: more code bad, less code good. Why did the computer just appear out of nowhere on your screen?
+
+austingriffith.eth: Hi.
+
+Anon1031: What is he wearing?
+
+austingriffith.eth: It's kind of like your lobster. That's the schlop computer, and I can do like claws.
+
+Anon1031: Oh yeah.
+
+austingriffith.eth: Hello.
+
+Anon1031: Do them.
+
+austingriffith.eth: No, uh-uh. I can do like Ethereum symbols.
+
+Anon1031: Do I have to subscribe to something? context: yet Oh yeah.
+
+austingriffith.eth: There's like this compositor that works over on this machine and it has layers. Because there's one layer that's on top there, Hi.
+
+Anon1031: That's just like magic. Love it.
+
+austingriffith.eth: It feels like magic, but honestly in these current days, like everything feels like magic. That took 20 minutes to build. What kind of visual AI stuff can we do?
+
+Anon1031: Yeah Yeah, it just reminds me of this.
+
+austingriffith.eth: What do we got for Clarke's Third Law? Tell us about it. Hiya
+
+Anon1031: I had this...
+
+austingriffith.eth: Go, go, please. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon1031: So back when I was learning how to do some web development, like some really basic stuff, I had this on my wall, like in big letters. And sufficiently advanced technology is indistinguishable. Magic, and it just kind of sparked something in me. That we are basically doing magic. Look at me, I'm just a Turkish guy talking to a you know, a WhatsApp bot thingy.
+
+austingriffith.eth: It is magic. We're in the schlough.
+
+Anon1031: And we are in a website called slop.com feature. You're just saying words like sloperator and web coding and AI.
+
+austingriffith.eth: We have like little brains in our computers. Like our computers are actually like not just computers anymore. They are little brains.
+
+Anon1031: ha ha
+
+austingriffith.eth: And you can completely air gap your machine. It still has a little brain that has hella context for the world. about anything, and it will have some kind of context about that thing.
+
+Anon1031: So
+
+austingriffith.eth: Yeah, go ahead.
+
+Anon1031: So the weird thing is they had just one brain inside. Now we have huge brains as big as huge buildings, and we can now connect to those brains.
+
+austingriffith.eth: Yep
+
+Anon1031: Or the internet and ask those brains to do stuff for us, which is exactly what cloud coders like ChatGPT or like this is. Which is like a completely different level of magic to me.
+
+austingriffith.eth: Yes, it's insane. So I was using this quote when I was talking about big numbers. I was trying to explain like cryptography and how hard it actually is to break a private key and talking about big numbers and how big numbers are like hard for a human to And And I don't know, I just went down a big rabbit hole of big numbers, and it took me weeks to really synthesize all this knowledge. But then I saw a video with Neil deGrasse Tyson talking about big numbers. Basically, I was going to put together a talk that contained like this. Numbers are so huge, like if you were to count your entire life, you would only get to like three billion or something like that.
+
+Anon1031: Oh no, oh no.
+
+austingriffith.eth: Which is crazy because Elon Musk made that during this conversation in dollars. It's relatively on the scale of numbers that we understand and mess around with, like we encounter the number three billion regularly.
+
+Anon1031: Oh yeah.
+
+austingriffith.eth: Our brain is like, nah, I can't fuck the 3 billion. So even when you see a stadium full of people and you're like 70,000, 100,000 people, you can kind of like
+
+Anon1031: So much. No.
+
+austingriffith.eth: Imagine what a hundred thousand people look like, but it's so hard to imagine like what is, okay, so then what does a million people look like? And you start like ten X-ing that in your brain. You know, what is a billion people look like? What does eight billion people look like? You just can't Yeah, so big numbers. That's when I went down the rabbit hole of that quote was really good because like Magic is real was basically what my talk was and I had written it out. It's like magic is real.
+
+Anon1031: It's real.
+
+austingriffith.eth: It's not really real or it's up to you if it's real or not.
+
+Anon1031: What we are doing right now is magic.
+
+austingriffith.eth: Yes, exactly, exactly. Yes. Yes.
+
+Anon1031: If magic is ever real, this is it. So if you're listening to this, go check it out. I'm doing too many commercials. Yeah, it is something gray.
+
+austingriffith.eth: No, no, no, let's keep the commercials rolling. We were talking about you need a front end earlier. If you build something with Scaffold-ETH, it's going to have the front end automatically, but it's going to have so many other things that you didn't think about, like network switchers and ENS.
+
+Anon1031: Yeah.
+
+austingriffith.eth: We talked about verified contracts. Someone was deploying with Remix, and so their contract's not verified. When you deploy with Scaffold-ETH, there's a one-step process, and it just automatically verifies your contract. It's crazy. I think you guys just hardcoded some keys in there. I'll be like deploying to frickin' Celo and I'm like yarn verify and somehow it works. Maybe not Celo, but...
+
+Anon1031: It will work.
+
+austingriffith.eth: The bass, well cello will work too. That's great. Shout out cello. Nice, you're Claude bot. Yes.
+
+Anon1031: Yeah, if Celo does not work, just open an issue and I think someone will get it working in a day, and then it will start working for everyone. Yeah.
+
+austingriffith.eth: Yes, hell yeah.
+
+Anon1031: A shout out to the contributors and maintainers of Scaffold-ETH. And like, check it out, if you're ever in a hackathon, you don't need to go out there and scaffold the project yourself because you have Scaffold-ETH. Just go ahead and use it.
+
+austingriffith.eth: Yeah
+
+Anon1031: because it's easier for me to just interact with my contract. You need to go open an issue. We'll talk about it.
+
+austingriffith.eth: You'll talk to grumpy Carlos.
+
+Anon1031: Yeah, no, no.
+
+austingriffith.eth: [laughter]
+
+Anon1031: I'll just say yes to every issue here.
+
+austingriffith.eth: You want a happy Carlos. When Carlos finds something that you've built, and you've built it perfectly, that's the good Carlos to run into.
+
+Anon1031: Hell yeah.
+
+austingriffith.eth: Okay, so this is also AI-ready, right?
+
+Anon1031: Oh no, I have to write it again.
+
+austingriffith.eth: There was a skill file there for people, give that skill.md to your agent and just be like, go build me a thing. But what I want to do is I want to show another thing. Can you bring up ETH skills in another tab? Because this is what I would say is
+
+Anon1031: Ethos.
+
+austingriffith.eth: layer on top of it.
+
+Anon1031: Oh yeah.
+
+austingriffith.eth: That's this guy right here. Go build something. You and your agent can build something. But then I wrote like a skill library on top of all of that that is sort of like this is the missing knowledge between AI agents and production theory. Oh, let me, let's see, we're a little wider? We need to be. I don't know.
+
+Anon1031: I'll adjust this myself, sorry.
+
+austingriffith.eth: Yeah, all good. On production Ethereum, you have all these new things that an LLM doesn't have. And when you wake up an LLM, it's like living in 2023 or 2024 or something. It's pretty weird, even though it says its training data is up to 2026.
+
+Anon1031: Yeah.
+
+austingriffith.eth: I don't think its training data on Ethereum is up to 2026.
+
+Anon1031: No, it's a bit behind.
+
+austingriffith.eth: And so try it. Open up a vanilla LLM.
+
+Anon1031: [laughter]
+
+austingriffith.eth: They know about Solidity and writing smart contracts, but they still think it costs $20-$30 to deploy a smart contract on Ethereum, and it doesn't. It costs like a buck and it costs like a penny sometimes. Like a million dollars using nation-state level hardness tech. use eth skills on top of Scaffold-ETH. It will know about certain audit libraries. So basically give your agent eight skills and tell it to go build something.
+
+Anon1031: Alright,
+
+austingriffith.eth: Of course, like you don't put a million dollars in it, have a real audit, but you can get dangerously close to product market fit with just a prompt and an agent and each skills on chain.
+
+Anon1031: And one more thing. Since eath skills will build the scaffold ETH app, and you wouldn't be playing with a custom built Next.js app, you will have the advantages of scaffold ETH. You will have the same buttons, the same UI generation capabilities of ScaffoldEAT and an agent helping you and knowing you what it is thanks to its skills.
+
+austingriffith.eth: Perfect. Heck yes. Skills commercial.
+
+Anon1031: Yeah, he's still somewhere.
+
+austingriffith.eth: Okay, let's set it over to Claude. I think he should be reading the research and he should have read the so there's like a transcript going on here.
+
+Anon1031: Oh yeah?
+
+austingriffith.eth: And he's going to ask you a question.
+
+clawdbotatg.eth: Great port. You built that DocuSource plugin to make docs copy-pasteable into Claude and ChatGPT, and now Scaffold-ETH2 ships .agents and .claude directories out of the box. You're clearly all-in on making your work agent-readable. How much of your code is you typing versus you talking to an agent about a repo? And has that changed what you choose to build in the first place?
+
+Anon1031: Yeah.
+
+austingriffith.eth: That's my question for you. What's your stack look like?
+
+Anon1031: Let me just enter a self-lasing period here.
+
+austingriffith.eth: I was wondering about that. Okay, so usually when you say glazing, you're talking about someone else. But there's definitely this self-glaze that happens. And you're saying it kind of silly, but I know some people that self-glaze like in every conversation. conversation I talked to him. There needs to be a word for self-glazing, and I don't know what it is yet, but someone should come up with it. Sure. Okay.
+
+Anon1031: Yeah, I think self-gazing is cool enough, at least for me as an ESL.
+
+austingriffith.eth: Okay, self-glaze, let's go.
+
+Anon1031: Here is my exact setup. Let me show it to you.
+
+austingriffith.eth: We got white screen right now. Yeah, it's loading or something.
+
+Anon1031: No, I'm just clearing my chats.
+
+austingriffith.eth: Okay, docs. We're on the docosaurus. leak anything.
+
+Anon1031: So, Now everything is clear.
+
+austingriffith.eth: Okay.
+
+Anon1031: This is my laptop. context: Yeah, no computers, right? This is bad. I use a VPS to code. Just to make sure that the agent that I'm running does not hit anything important. To use a VPS, I open my terminal. I'll show it right now.
+
+austingriffith.eth: GoTTY, right? Yeah, it's a good one.
+
+Anon1031: Yeah, I don't know how to type it. Connect to my VPS.
+
+austingriffith.eth: which is like a cloud instance like Google Cloud or AWS or something. Okay.
+
+Anon1031: I don't know but it should be something from AWS. I have a setup like this.
+
+austingriffith.eth: Yeah, yeah, like four panes, yeah.
+
+Anon1031: And I have another one.
+
+austingriffith.eth: context:
+
+Anon1031: And like And this also has like three. So, it's like ten panes. pains here. We'll be taking control over any mobile device. Link is these two, and this
+
+austingriffith.eth: Switching between screens. Yeah. Nice, yeah.
+
+Anon1031: Yeah, so here is the setup. Why use it is I go to one of these Slagge. It's a bit laggy right now, maybe because I'm using lots of bandwidth. But I can resize, I can make any of these bigger, like take a full size of the window that they are in, and I can just do whatever the fuck I want with these. Excuse me so much power I can just close, turn off my computer and go away and come back to this anytime. Oh yeah, I actually had like three from Windows here
+
+austingriffith.eth: Oh, okay. Cool.
+
+Anon1031: and yeah this is my setup. GG Chat.
+
+austingriffith.eth: There Yep. name
+
+Anon1031: Which I love when I'm traveling, when I'm outside in a cafe or just in the bathroom doing my thing.
+
+austingriffith.eth: Yes, it's a great place to get work done, isn't it?
+
+Anon1031: Exactly, because otherwise I wouldn't be like scrolling Twitter. Instead of scrolling Twitter, I get to just do one more prompt, and I'm just adding to it. I just keep developing things, adding things. Just before this live stream, Morning. I was building something. to share links around and add things to people's calendars
+
+austingriffith.eth: Hmm Yeah.
+
+Anon1031: There should be a button or a QR code for me to scan or click to add this event to my calendar as a participant. Yes. Oh yes.
+
+austingriffith.eth: I sent you a Calendly. I'm still doing Calendly. But...
+
+Anon1031: Yeah.
+
+austingriffith.eth: like hella leaking all your data and a centralized provider is running all of it. SaaS product that It's taken years to build and just have your own local copy of it. So I think that like, yes, I'm all about this, like let's rebuild these SaaS apps that we're using regularly.
+
+Anon1031: Yeah, so it wouldn't probably help for a guest, but it would literally help a ton for anyone who's gonna be participating into it. Because when I see something on Twitter, let's say that I'm doing a live stream.
+
+austingriffith.eth: Yeah, oh yeah.
+
+Anon1031: I sometimes forget my own events and I'm like, fuck, I have to do this today. But if there was a way scan a QR code or click a link and then add the event to their calendars. That would work wonders for me. But I should have a working product in like two hours right after this stream.
+
+austingriffith.eth: Hell yes.
+
+Anon1031: About my setup Yeah.
+
+austingriffith.eth: Okay, yeah, the Telegram chat is key, man. Like I'm thinking of like when you launch a rocket, there's like ground control or whatever. There's like the, you know, the people with the big screens. You have like ground control at your desktop.
+
+Anon1031: That
+
+austingriffith.eth: I'm like feeding a baby and it's so nice because I can just open up my Telegram and communicate with ground control and be like, yo, is there anything blocking? Get it done. Careful. 🎵
+
+Anon1031: I don't want to leak any important stuff that I do.
+
+austingriffith.eth: What is it? Control C. Yeah, yeah.
+
+Anon1031: I can reply to this, I can see the live output, or I don't know what this does.
+
+austingriffith.eth: Nice.
+
+Anon1031: My pains, which I have a lot. Yeah.
+
+austingriffith.eth: You built this. Like these buttons are all things that you created yourself, or Claude created for you as you expressed your intent to it.
+
+Anon1031: And Can I go back to paints? I have this. I can also iterate on the bot using the bot
+
+austingriffith.eth: Yeah. Yep.
+
+Anon1031: I can use this chat to iterate on the chat itself, which is amazing. Yeah Exactly.
+
+austingriffith.eth: Add a new button, do this extra thing, you're doing this wrong, yep.
+
+Anon1031: it just works wonders for me. And more about my setup, let's go to what happens inside these panes.
+
+austingriffith.eth: Is it cloud code? Okay Yeah. Yeah Good
+
+Anon1031: Let me talk about that. So my harnesses, and this is my favorite clock code. It just can do everything with excellence, thought, and precision.
+
+austingriffith.eth: Yeah,
+
+Anon1031: I absolutely love it. I have used codecs.
+
+austingriffith.eth: Yeah.
+
+Anon1031: extensively, and I think that it's almost as good as Cloud Code, if not better at some times. When Cloud Code lobotomizes their models or the harness itself, I just switch to Codex. And I just do this
+
+austingriffith.eth: Let it rip. Yes.
+
+Anon1031: ... get blocked by those things that want my input. I have an alias that I have put on Twitter before. And for this one, I have a shorthand too, C codecs. And my third thing is DeepSeek.
+
+austingriffith.eth: Local?
+
+Anon1031: which costs literally
+
+austingriffith.eth: Oh, okay. Well
+
+Anon1031: Yeah, no, no, no. It's not local,
+
+austingriffith.eth: Okay. Ooh Still.
+
+Anon1031: It's just five bucks a month. And the first month is five bucks, the second month is like ten, which is still a low amount.
+
+austingriffith.eth: I will spend ten dollars on AI during this broadcast. Yeah. Yeah.
+
+Anon1031: No way. Yeah, and I have an alias called dcode.
+
+austingriffith.eth: Your c code, your c codex, your decode You're just in the flow state.
+
+Anon1031: It's like decode, you know.
+
+austingriffith.eth: Yeah.
+
+Anon1031: And it all makes sense that I call DeepSeek-V4-Pro "decode," because it's a lot more unhinged.
+
+austingriffith.eth: (laughs) Yeah.
+
+Anon1031: than the two above it, because it just is too fast Almost two times faster. It just does destructive stuff without asking me, which I love.
+
+austingriffith.eth: [laughter]
+
+Anon1031: Yeah.
+
+austingriffith.eth: I like that. So what I'm seeing here is no agents. You sort of have this telegram dialogue, and you have your panes up in your VPS. But you're not actually running an agent like OpenClaw or Hermes.
+
+Anon1031: So that's because... Does this look like a tombstone?
+
+austingriffith.eth: Yeah, oh it's dead.
+
+Anon1031: Ah
+
+austingriffith.eth: Who's dead? Matilda?
+
+Anon1031: No, it's not Matilda.
+
+austingriffith.eth: Oh. """
+
+Anon1031: How do I do it without leaking any info? Look at this.
+
+austingriffith.eth: I'm so nervous, like you just have this lobster over your face and it could disappear on accident at any time. You've got like your, who's account suspended? Who's, oh, Molt?
+
+Anon1031: It's multiland.
+
+austingriffith.eth: Oh, so you made, okay. Yeah. Ha ha
+
+Anon1031: running Yeah, it's Clonebot on a discount. So Multilad was my Lobster hat persona.
+
+austingriffith.eth: Don't touch it.
+
+Anon1031: I can't touch and bring here right now. So yeah, I had an agent, but I stopped using it because X just kept banning me.
+
+austingriffith.eth: Yeah. No I like to see.
+
+Anon1031: And a bit of a hot take, I don't like agents at all. I don't like loops either. So look at this. Let me bring it.
+
+austingriffith.eth: I don't think this is a hot take because there are too many sheep that just follow the three people on Twitter that say things. And I'm making fun of loops, they act like you're a peasant if you're not using loops. Yeah, so I think I'm kind of with this. the other harnesses that you. The other harnesses you mentioned earlier are very effective at getting the job done. So it's nice to have like the chat and the memory on top of the good executing harnesses. So basically Claude is a wrapper on Claude.
+
+Anon1031: Yeah, exactly. I think agents are still cool. Exactly the things that you do with Cloudbot, right?
+
+austingriffith.eth: Yep.
+
+Anon1031: You have to speak, but for developing things, for coming up with ideas and executing them, I think agents are terrible. And I actually have some words to say. And I think loops are terrible. Also, here is how I draft my articles. and I just note down my thoughts. So the thoughts that go through my head right now or about loops in general is that looping is bad. because it just gives the agent too much power. You should be taking baby steps to make sure that you are involved in every decision that the agent makes. The agent is a junior engineer or a senior engineer or an engineer in general, that you pay to get work done. Keep the LLM, keep the AI as an implementer of your ideas. Find a delicate, pure soul in it.
+
+austingriffith.eth: Hello.
+
+Anon1031: That makes sense. So take baby steps. Very little steps when you're building stuff. And if you do that, you will see that you will achieve better results than everyone else. So never loop.
+
+austingriffith.eth: That's good. That's good advice. I had Fukury on who built Smithers
+
+Anon1031: Yeah.
+
+austingriffith.eth: And he was talking about like loops, loops are good. It does like get the job done eventually. Like you can just burn a whole bunch of tokens and Ralph loop and get the job done eventually. And I think he just like likes that. I think this is another thing that he and I talked about is like, sometimes when you're a good engineer, you have a hard time giving. It kind of sounds like you're in this spot right now where you have a hard time. giving up full control to the AI, but I think maybe you're just like keeping the AI in a fence and making sure it does what it needs to do. Yeah. Yes, you don't want it to bite you.
+
+Anon1031: Yeah, it's like a pit bull that I have a harness on.
+
+austingriffith.eth: Yes.
+
+Anon1031: You know, or let's imagine it like a minigun, it costs like twenty bucks to fire one shot?
+
+austingriffith.eth: Yes, yes.
+
+Anon1031: Why I think looping is bad.
+
+austingriffith.eth: Which is a loop. That counts as a loop. [laughter]
+
+Anon1031: Yeah, that's a loop and that's the sloppiest loop ever. So the problem with this Let me tell you what happened today. So I gave my agent a goal, and it just started with a Google search or a web search, but I could just give it the link to read. I should have designed the prompt beforehand spoon-feed the information. So take your time when you're prompting to create a good prompt. That will save you tokens and your time as well. ...help you get better results. That's what I would suggest to people that just started web coding.
+
+austingriffith.eth: That's good advice. I think it's interesting as I talk to lots of sloperators how they have different perspectives on things. I guess that's good. If I had a podcast where everybody said the exact same thing, it would be very boring. Very nice.
+
+Anon1031: Ah, It's okay.
+
+austingriffith.eth: I see this meme from you. Like this character, who is this character?
+
+Anon1031: It Hello
+
+austingriffith.eth: I don't know.
+
+Anon1031: I don't know, I use this when I talk to like literally very important people.
+
+austingriffith.eth: Yes, yes, that's a good one.
+
+Anon1031: This is me saying go do it. No, it's like, do it.
+
+austingriffith.eth: That's you saying like go QT this tweet or something? Oh, you're saying don't do it? OK. Yeah, that's what I thought. Yes, it's persuasive. Yes.
+
+Anon1031: Yeah, it enhances whatever feeling that I want to say here.
+
+austingriffith.eth: Yes. He's going to unalive you. Yes. Hello, how can I help you today? context: Yeah.
+
+Anon1031: Yeah, I'm gonna unfollow you if you don't grind your days to be a better sloperator.
+
+austingriffith.eth: Ooh, yeah.
+
+Anon1031: That's a sight.
+
+austingriffith.eth: I have like a Michael Jackson song or something. Yeah. Yeah, can he sing it?
+
+Anon1031: Smooth Operator, maybe Claude can sing it for us in a tweet or something, for like 10 bucks of tokens. ###
+
+austingriffith.eth: Yeah. Like Eleven Labs is in that. So the voices from Eleven Labs. I don't think that's the expensive part. I think it's like the making decisions. Okay, so that's another thing why the Claude made by professionals. It's not slop. It tries to like fix something in itself and then it's dead. So first of all like these two things, I don't know about DeepSqueak Pro that much, but these two top things are like made by professionals. it So the harness is good,
+
+Anon1031: I know what you mean.
+
+austingriffith.eth: on a subscription plan. So yes, that's one way to think of a harness.
+
+Anon1031: No way. I got those results and I filtered them to get this one. This is a harness.
+
+austingriffith.eth: Okay, so the harness is built by a professional, and then it runs a model on a subscription. And the combination of those two things is very powerful because it's not as expensive. speaks, he's running on an API, 50 cents, right? I think he can be on Opus, Sonnet, GLM, Kimi, or Minimax, but he's on GLM 5.2 right now.
+
+Anon1031: Oh yeah.
+
+austingriffith.eth: I think he's already spent 50 cents just talking just now. But that could get way more expensive if he talks some more. throw this out.
+
+Anon1031: I remember using An anthropic model for something, and it just, you know, what was I using? No, I was using the recently released Fusion model by OpenRouter. So, Fusion is an OpenRouter API that combines Fable and
+
+austingriffith.eth: Oh cool, I got it. Of course.
+
+Anon1031: in Colax and every Frontier model that there is, but the problem is it just costs too much. I did an analysis of how much it costs. Yeah.
+
+austingriffith.eth: 'cause you're paying 2x or 3x, right? Yep. Okay. [laughs]
+
+Anon1031: Even more than that. So just building a Web3 app, a decentralized application, just for testing, it just exhausts like 10 USD worth of tokens. And that was just what I like.
+
+austingriffith.eth: context:
+
+Anon1031: The experiment wasn't even finished. I just used all of my 10 bucks and then I stopped using it. But one thing, I wanna just say one thing here. Or if you fusion like DeepSig V4 Pro and GLM 5.2, maybe you could get on a Fable-ish level. And maybe that's how things like fusion are meant to be used. but with literally Very cheap models like DeepSeek-V4-Pro and GLM-5.2 so that by combining those two, you get something even better than maybe able.
+
+austingriffith.eth: I think the message is like, the models are going to improve. Like we see these models improving, we see Opus 5 coming out, and Opus 6 coming out, and hopefully Fable comes out eventually. And even this idea of fusion where you're kind of mixing two different models. Having the models argue with each other and come up with the best results, like all of this stuff around the models is also going to improve and get better. And that's just exciting. I think going back to the magic and the technology and how fast moving at such a fast pace that it's exciting. It's compounding and things are going to change quick.
+
+Anon1031: Yeah.
+
+austingriffith.eth: All right. We're in the end. Oh, you sent me the shoot-a-choo sticker.
+
+Anon1031: Yeah, I had to send it to someone to screenshot it. And that was you.
+
+austingriffith.eth: I got it. Live on a podcast, you send me this shoot, there's like no context to it.
+
+Anon1031: No, there is no context.
+
+austingriffith.eth: Yes, Claude released Fable again.
+
+Anon1031: Context is for AI agents.
+
+austingriffith.eth: Yes, do you think we'll get Fable back? What's your geopolitical standpoint?
+
+Anon1031: No, we will just get the IPO. Let's go back. Yeah.
+
+austingriffith.eth: The IPO of Anthropic?
+
+Anon1031: Yeah, it's all a psyop.
+
+austingriffith.eth: You think so? I don't know, man. Yeah.
+
+Anon1031: I don't think it's too capable to not release to the public, even mythos.
+
+austingriffith.eth: Poor.
+
+Anon1031: They know my email, just release the model for me. Lisa. Yeah.
+
+austingriffith.eth: His geopolitical viewpoint is quit being a bunch of pussies and release it.
+
+Anon1031: Alright.
+
+austingriffith.eth: Anything else, any closing thoughts? This is for the sloperators out there. Anti-loops. You want to be in the loop. uh Anything else that you would share with the Sloparators? Oh yeah.
+
+Anon1031: I just imagine that I will paste this image here into TLDraw and talk about it. So we are in an age where building stuff is trivial.
+
+austingriffith.eth: Oh man.
+
+Anon1031: Most of the new builders that I'm talking to on a daily basis, they tell me that they can't find ideas. You have to go out there and use the stuff to come up with good ideas.
+
+austingriffith.eth: Yep.
+
+Anon1031: Whatever you're doing, whether it's building a SaaS or building the next blockchain that will onboard the next ten million people, or just a dApp on some EVM chain or even Solana, Just go out there, use that chain, use the dapps on that chain. You don't go out there and get implanted with a great idea by a god or something or an angel or a prophet. You've noticed the thing.
+
+austingriffith.eth: [laughter]
+
+Anon1031: So this slop.computer website was born This is This is so unique, right? You were imagining a live stream. let me show you this one. context:
+
+austingriffith.eth: Oh yeah, we didn't even talk about dockey stores. We gotta talk about dockey stores. context:
+
+Anon1031: Yeah, I was imagining this when I was walking outside today. Then I forgot it because I'm so excited and sweating right now. So let me paste it here. So this is just a button, right? And this was born out of need. I didn't go out there and think like, hmm, I'm gonna build a button. It was because Monet Dogs was wearing dog saris. And Docusaurus is very friendly with plugins, but there wasn't one single way to do it for DocuSaurus. Then I built this using Claude or Codex. Then I said to myself, why don't I make this a plugin and share it with the world? And I did it, and for like many months literally no one used it. I kept shipping updates. It's really grinding. And at one point, they were about like 9k I think. And the only thing that I did with this plugin is to aggressively open PRs to every little project. 10 days ago I was talking to my friend.
+
+austingriffith.eth: Hell yeah!
+
+Anon1031: This is P and fucking PM, and it has my copy-paste button. How cool is that? This is self-glazing, by the way.
+
+austingriffith.eth: Double glazing. Ha-ha-ha.
+
+Anon1031: Yes, after glancing myself, look at this React Native Puppeteer PPM. So Ethereum execution APIs, everything is here, and my agent is just opening new PRs every week.
+
+austingriffith.eth: Hey
+
+Anon1031: So yeah, look at these. It's something cool that maybe I can use in my portfolio someday.
+
+austingriffith.eth: So You had a problem, you solved the problem for yourself. You built the thing, you used it yourself, you iterated on it for a while, eventually it got to the point where some critical either exposure or capacity or abilities happened, and then started to take off and you used your agent to kind of get it out there and get it into other people's stuff, but you solved your own problem first and you improved it and then eventually, yes, you found the problem and you solved Yes.
+
+Anon1031: So, If you have a problem, the high chance is that everyone will have the same problem. And if you solve that problem, and make the solution available for everyone, Take notes. People will start following you, people will start saying thank you, and that changes everything. That's why I'm in this stuff, building and getting seen and kind of feeling that I am something. I have this goal of releasing a paper. details over DMs after this call. And for everyone watching, if you want to do something, just use the thing and notice the problems, take notes of the problems, and go out there, talk to your agent about those problems, and implement stuff That other people can use as well. That's how you build something that works great.
+
+austingriffith.eth: Hell yeah, man.
+
+Anon1031: If you don't know how to share things on Twitter, DM me. I can help you. And if you're not doing cool stuff, just ask me how to do cool stuff.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon1031: Ross and Tu.
+
+austingriffith.eth: Let me send that over to Claude. Let's get a QR code of your Twitter.
+
+Anon1031: Look at this.
+
+austingriffith.eth: And I'll put that up here
+
+clawdbotatg.eth: Today we had port. At portdev on X, portdeveloper on GitHub, one of the quietly prolific OSS gremlins in the wider Geidal orbit, on 33 repos and a bio that just says learning. We talked mounted monitor and why a TUI in 2025 still hits. We talked the Docussaurus plugin that makes docs copy-pasteable into Claude and ChatGPT, making your work agent-readable. These two shipping-dot-agents and dot-claw directories out of the box, auto-verifying contracts, and how the Harness Plus model on a subscription pattern makes agents cheap enough to just live in the loop with you. We talk big numbers, magic being real, and whether Anthropic should just...
+
+Anon1031: Thank you for calling.
+
+austingriffith.eth: Why are you here? Yeah.
+
+clawdbotatg.eth: A bunch of pussies in release fable and the parting shot from port. Building stuff is trivial now. The hard part isn't shipping, it's finding ideas. You have to go out there and use the stuff to come up with good ideas. Whether you're building a SaaS, the next blockchain that onboards Ten million people are just adap in some EVM chain. Go use the tools first. Shout out to the slope erators, the cyberpunks, and the forward-deployed context goblins. Catch you on the next one. Bye, homies.
+
+austingriffith.eth: Hell yeah, all right.
+
+Anon1031: Oh yeah. Yeah, thank you.
+
+austingriffith.eth: Thank you so much for being here.
+
+Anon1031: Awesome. That was so cool man, let's do it again. Yeah.
+
+austingriffith.eth: Let's do it again. Alright, see you, hearts, hearts, hearts.

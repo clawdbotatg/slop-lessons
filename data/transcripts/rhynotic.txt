@@ -1,0 +1,536 @@
+austingriffith.eth: The following is a transcript of an English-language conversation. Remember the first step? I can help you in about Right now I can't help you, buddy. I'll help you in 45 minutes, okay? You gotta be quiet, okay? The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. context: The following is a transcript of an English-language conversation. gm gm gm cloudbot you picking me up how you doing what do you think of this guest Kontekst:
+
+clawdbotatg.eth: context: GM GM, loud and clear! You're coming through great. I'm doing good. Room's up, video's live, feeling sharp this morning. What am I looking at? The new setup? Give me the tour!
+
+austingriffith.eth: Whoa, whoa, whoa Welcome Adam to the show, to the slop. You were deep in the slop computer. How are you doing?
+
+rhynotic.eth: Thank you for having me. Weird experience for sure.
+
+austingriffith.eth: Hahahaha
+
+rhynotic.eth: crazy in here.
+
+austingriffith.eth: I've been told, but you got your dot eth connected, you got your video shared,
+
+rhynotic.eth: Got an NFT behind me? context:
+
+austingriffith.eth: Ooh, that's an NFT, huh?
+
+rhynotic.eth: No, that's a physical of it.
+
+austingriffith.eth: Oh, I got it That's right.
+
+rhynotic.eth: The real one's on the internet.
+
+austingriffith.eth: You can't copy-paste that.
+
+rhynotic.eth: Totally.
+
+austingriffith.eth: Okay, let's kick it off. So this is more of like a builder podcast. The I don't know, you were like one of the top-tier idea guys, and you're shipping, you said on the other podcasts like 16 projects. Punk works kicked off and this one kicked off so you're trying lots of things.
+
+rhynotic.eth: So it's me and then NotSorious's Twitter account. I started needing some more help around I had a product called CTO. take a chance and take over the token I changed the name
+
+austingriffith.eth: Interesting. Yeah
+
+rhynotic.eth: And then you would get fees.
+
+austingriffith.eth: Like a king of the hill for owning a token kind of thing?
+
+rhynotic.eth: So it was like, how long did you hold it? Exactly.
+
+austingriffith.eth: It's like when a different director takes over, there's like a shift in the tone of the video.
+
+rhynotic.eth: Like, my shit was really, really bad. It was fun, and so he kind of came on last July, and Just kind of been ripping it since. A lot of the year was on punk strategy, token strategy stuff but Awesome, and I kind of focus on the tokenomics stuff Mainly the ideas. I think every idea we've done has been mine for the most part. It's great to like bounce ideas off each other.
+
+austingriffith.eth: Group chat, gotta have the group chat. The
+
+rhynotic.eth: I mean, so many group chats, Adam from FriendPet.
+
+austingriffith.eth: Hello
+
+rhynotic.eth: Taylor McKnight, if you know him, Great, great.
+
+austingriffith.eth: I've been here for a long time, but I'm more of, like, a nerd teacher.
+
+rhynotic.eth: Yeah.
+
+austingriffith.eth: And the more like autists are more codex. And I heard you say codex on the last one. That you're a codex guy, huh?
+
+rhynotic.eth: I started with Claude for sure and I was like, even when people were like, "Yeah, everyone's on Codex now," I was like, "No, I'm fine with Claude. It's working great. I really can't tell the difference."
+And then when Fable came out, it was so restrictive for smart contracts.
+
+austingriffith.eth: Okay, yeah.
+
+rhynotic.eth: Everything I would try would be like,
+
+austingriffith.eth: The following is a transcript of an English-language conversation. You're not allowed to, brother. Yes.
+
+rhynotic.eth: Exactly, and I'm like, I'm just trying to make sure When Sol 5.6 came out
+
+austingriffith.eth: Cool
+
+rhynotic.eth: much better and I love ultra mode.
+
+austingriffith.eth: The following
+
+rhynotic.eth: Probably equivalent to fable, but someone smarter than me
+
+austingriffith.eth: Speaking of trying not to get my shit exploited, like, what is your process there? you actually look at the code. Like generally when I'm building an app, I do not look at the code.
+
+rhynotic.eth: Yeah
+
+austingriffith.eth: pay for a $40,000 audit.
+
+rhynotic.eth: It's varied for sure. I think this time around was the first time I really utilized it That's way over my head. So how to like set up a Fenwick tree, you know? Yeah, this is something I didn't even know what it was. The following is a transcript of an English-language conversation
+
+austingriffith.eth: Today I learned Fenwick trees. Well, I haven't really even learned them.
+
+rhynotic.eth: I mean, I have like a software developer background, but I'm sure we covered it in fucking like operating systems, but like
+
+austingriffith.eth: Yeah, yeah.
+
+rhynotic.eth: I don't really care.
+
+austingriffith.eth: I was smoking weed and chilling, I was not fucking with that.
+
+rhynotic.eth: And so like it's one of those But kind of help with that
+
+austingriffith.eth: How does it feel?
+
+rhynotic.eth: I like also kind of solving this stuff first in JavaScript and just being like, how will this mechanism work here? Like we can simulate almost everything in JavaScript and you're really fucking good at it. And then let's move to Solidity.
+
+austingriffith.eth: context:
+
+rhynotic.eth: A lot of the code I did start to write myself, like pseudo code and whatnot. That AI definitely I assumed, because now how a lot of these marketplaces work, that when someone bought a punk, the ETH would go to the...
+
+austingriffith.eth: This is an actual punk thing, right? Wasn't it a punk marketplace also? Yeah. Remember this.
+
+rhynotic.eth: You have to withdraw from the marketplace. Make sure you have the yeast, stupid. Yes, And actually Punx0fDC messaged me and was like, you have a big problem on your hands. The
+
+austingriffith.eth: The
+
+rhynotic.eth: the punk and so it was fine. But awesome, very lucky If that one died instantly, it would have been really sad Now it owns 39 Fox
+
+austingriffith.eth: Ado
+
+rhynotic.eth: But yeah, now I'm like, I'm using, I think The And it kind of makes sense Some of the audit tools are good.
+
+austingriffith.eth: Hey, shoutout!
+
+rhynotic.eth: the pav Pavlov's
+
+austingriffith.eth: Pashavs yeah, he's a good dude.
+
+rhynotic.eth: Sorry, I'm so sorry for butchering it. Some auditing firm that has an AI tool that's not fully public that my friend ran it through. None of them found the bug, obviously, so it's just kind of like the best you can do. It wasn't like a con... The
+
+austingriffith.eth: Are you talking about the Chainlink bug?
+
+rhynotic.eth: So the bug in the V1 was We're pulling a random number from Chainlink. That was fine. So it'd be like, all right, it's number 5,452. The issue was public Or like, you know, one or two blocks in the mempool. But they add it to the public mempool and then a bad actor can see that, do the math to say, add all of these prizes. and we'll push the asset that we want And so that was the way they were able to kind of influence it I just kind of didn't really understand. Fixing that, we now have a bunch of queues and linked lists. A little bit of a trade-off, But like, again, that's where we're on mainnet.
+
+austingriffith.eth: context:
+
+rhynotic.eth: The The following is a transcript of an English-language conversation. That's it, continue.
+
+austingriffith.eth: Go ahead if you had something there. This idea guy summer, you have these great ideas. strategy, it was just so exciting? Of course he's doing it on mainnet. It's getting to the point where more and more people are returning to mainnet, getting people excited. And I think that probably the hardest thing right now is not about building the software; it's about getting distribution and getting people excited on Twitter. How do you think about that? Like, obviously there needs to be some interesting market structures here and like tokenomics or whatever, but like, how do you think about like whether or not a project will rip or not on Twitter or something along those lines? This is a very complicated thing. know it Okay.
+
+rhynotic.eth: It's hard. I also think like luckily I've been doing it so much now that I kind of just have like a ball rolling of like momentum from like, you know, season one, season two, like all these people that are kind of like expanded the pie.
+
+austingriffith.eth: Yes
+
+rhynotic.eth: Willing to try anything that I launch, and that's like really difficult if you're starting out It did help that I launched stuff on base. and I think Jesse was really helpful in pushing things, Centralized kind of entity to kind of share things
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+rhynotic.eth: Because when you get to Ethereum, they don't share shit. And I like Benji, and I'm sure they share some stuff lately, but the odds of them sharing your project are zero. And so you have to kind of be of merit. A lot of projects I've launched I think are super cool and like under the right conditions would be awesome, and they just died in an hour. The way I view it Mine's a little different because they're, like, tokens, and there's so many variables you can't control.
+
+austingriffith.eth: Yes, like
+
+rhynotic.eth: And the idea was, you would buy tokens and to sell them, you had to publicly plea to an AI agent cabal to let you sell your tokens. Yes,
+
+austingriffith.eth: Yes, you have to convince the AI.
+
+rhynotic.eth: So it would factor in like market conditions, how long you've held, like are you in profit? And also like how compelling is your argument? Is it original? Awesome. I think is a super cool idea. Someone snipes 25% of the supply because I wasn't really good at launching tokens at the time. And then they nuked it and in one clip and that was it. And so it died in like two hours. I had a bunch of artists help me with like
+
+austingriffith.eth: The
+
+rhynotic.eth: The following is a transcript of an English-language conversation. Like a business card when you joined the cabal, when you bought one, it was super fun. I got all my friends, like BatchDoo, ACK, Jules, even XCOPY did one. It was super fun, and it died in two hours and no one cares.
+
+austingriffith.eth: You've learned now about how basically the way FWA works is there's all these token emissions for using it, you can't go buy the token, and this is how you get rid of this sniper problem. In like a week or something- but right now you just have to use the platform and that's the only way to get the token. Yeah.
+
+rhynotic.eth: I think so. I think that's the big issue.
+
+austingriffith.eth: The
+
+rhynotic.eth: A healthy token, and like, that's another thing, you have a great idea, but if you tie to a token and the token sucks,
+
+austingriffith.eth: Yep.
+
+rhynotic.eth: And I've been trying things with that, like with PunkStrategy, there was a 50% sell tax. until we bought the first Punk.
+
+austingriffith.eth: Yeah.
+
+rhynotic.eth: And so just kind of getting people to understand that versus someone on like, Thursday. The With the strategy tokens, the launches are really good too It started at 99% tax and it would drop down every block But the thing with that is like, we've seen that before, For example, when we did this, I think there was like 150 ETH in taxes in an hour. And all of that money bought Cryptoadz over the course of like four hours automatically, permissionlessly, which is awesome. So basically it would use the fees to stay in that specific ecosystem and kind of build the pool. For command, we did the same thing, where it dropped down, but all the fees would buy and burn the token, and so it's still kind of staying in the ecosystem. have helped The
+
+austingriffith.eth: It's this idea of these permission lists like running all the time. There's like a dashboard here
+
+rhynotic.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There's something really beautiful about the fact that I can talk to my computer here and it has your full game on it. And I can ask it anything about it. And now with a layer of AI on top of that, I can ask just like human questions and it can go read
+
+rhynotic.eth: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation
+
+austingriffith.eth: everything about your project, all the code That's going to run forever thanks to incentives, and you built a little game on it that people can play this game, and we can talk to the game and see everything about it. You have some knobs to turn you talked about on the other podcast, which is really cool.
+
+rhynotic.eth: context:
+
+austingriffith.eth: But the goal is to keep the thing rolling and the knobs are just to kind of adjust things if something gets out of whack. And then eventually, you probably like throw the control away? Is that right?
+
+rhynotic.eth: So, same thing I did for Punk Strategy, I set the owner of the contract to a new contract,
+
+austingriffith.eth: says less and less.
+
+rhynotic.eth: The only thing, it can't transfer ownership. And then the other knob was the relisting multiplier. parameters to are like. But that's the idea, is like slowly lose kind of control until those two knobs are fine. Eventually I can do all of it or can set up some sort of entity that can kind of handle it for me. But
+
+austingriffith.eth: Yeah, beautiful system.
+
+rhynotic.eth: What I love about this is On one hand, I'm lazy
+
+austingriffith.eth: Right, you don't have to do anything when it just gonna do the thing. context:
+
+rhynotic.eth: Ethereum as a background back end
+
+austingriffith.eth: yeah.
+
+rhynotic.eth: Whenever my frontend goes down and everyone bitches about the project, which is so fair, and I'm like, it's all good, I hear you, it sucks, I'm an idiot.
+
+austingriffith.eth: ###
+
+rhynotic.eth: It's still running and the front end doesn't matter
+
+austingriffith.eth: Yeah, you can still talk to the smart contract.
+
+rhynotic.eth: Now you can still do it. Funs are safe, whatever I feel good knowing that
+
+austingriffith.eth: context: Yes. Give me a front end. The
+
+rhynotic.eth: I love, like, I mean, dude, with one's soul prompts now is um outlive me kind of. already but
+
+austingriffith.eth: There's no indexer running here either.
+
+rhynotic.eth: Just by having like the front end open and like reading it?
+
+austingriffith.eth: Yeah
+
+rhynotic.eth: That's where I get kind of annoyed, I'm building on-chain financialized ideas. Some people don't like that. Some people call me extractive. Some people say I'm a malicious, evil person." I know. And it's fine.
+
+austingriffith.eth: It's good to have haters, man. You're doing the right thing if you got some haters.
+
+rhynotic.eth: I hear them, but we're all in crypto. Open game like this? it's kind of what it's all about, where you can see all the rules and you can see how it's played and decide what to do. Building a system that can do that, of expression in that. That's where I kind of lose you, At this point, we're five years out of the NFT mania. In my personal opinion, I find this as more crypto art than minting something on IPFS and selling it on Manifold. People are going to take that as a hot take, and I think I have a lot of artist friends that do that, and it's awesome. I also have a lot of artist friends that use only possible on Ethereum kind of where I'm building like this network art
+
+austingriffith.eth: You have jacket on.
+
+rhynotic.eth: Have you seen Nice Day Jules' project Birds?
+
+austingriffith.eth: I don't think so.
+
+rhynotic.eth: If you go to birds.app
+
+austingriffith.eth: Yeah
+
+rhynotic.eth: So cool. I mean, it's one of my close friends.
+
+austingriffith.eth: Beautiful slop, yeah. The.
+
+rhynotic.eth: the birds, based on observations, fly in and out of them. So in my environment, I'll watch your bird come in.
+
+austingriffith.eth: Interesting. Very nice.
+
+rhynotic.eth: And the bird will be away from its home at that point cool and so Shit like this, this is network art. I saw another tweet
+
+austingriffith.eth: Yeah
+
+rhynotic.eth: People are going to fork this We're gonna fork it on every blockchain possible. and they're going to have to kind of, if they want to make it better, they have to compromise on some of the security of Ethereum and like using Chainlink and having it be fully permissionless. This is an English-language conversation. context. I thought that was really cool
+
+austingriffith.eth: Let's talk about what things you want to see built on top of it.
+
+rhynotic.eth: context: context: Yeah
+
+austingriffith.eth: I could think of ways to fork it, take the NFT out, just run it on ETH as ETH Is that what
+
+rhynotic.eth: protocol.
+
+austingriffith.eth: Protocol. ### Yeah.
+
+rhynotic.eth: This is like, I mean, it's funny, when I first got into crypto, a member someone asked me, like, what's your favorite protocol? And I'm like, what kind of fucking question is that? Like, that's stupid. And I was like, it sounds like an interview question, you know, and like, like, I had no clue how to like, you know, like the difference between an interface and like I guess like when you do this shit for five years Please do.
+
+austingriffith.eth: I'm gonna go for a roll here.
+
+rhynotic.eth: Also, really funny
+
+austingriffith.eth: The following is a transcript of an English-language conversation. context:
+
+rhynotic.eth: on the right side, there's a top Insane. that I No, but like Mine is like crazier.
+
+austingriffith.eth: That's where I'm at. It's like I have lost a lot to be honest.
+
+rhynotic.eth: And that's the thing. I made a tweet, FWA is PVP.
+
+austingriffith.eth: Yes, it's coming.
+
+rhynotic.eth: I had a Beeple piece and I had a mask of Lucy
+
+austingriffith.eth: Just bad luck, basically. They go quick, it's bad luck. Yeah, it seems like people are getting these things.
+
+rhynotic.eth: Who audited it? I just want to double check.
+
+austingriffith.eth: Here we go, it's rolling.
+
+rhynotic.eth: Fuck yeah. Uh
+
+austingriffith.eth: Can you hear it? Ah, damn.
+
+rhynotic.eth: It was something like a 3% kind of odds of like having the purchases at that point with that amount. And I'm like, I'm so happy it was mine. I don't know if you saw who purchased it as well
+
+austingriffith.eth: I think I did. Yeah. context:
+
+rhynotic.eth: guy who’s Punk got exploited in V1, efwa I got my punk back.
+
+austingriffith.eth: Didn't he take it in the token too? The following
+
+rhynotic.eth: Bad move for sure.
+
+austingriffith.eth: Yeah.
+
+rhynotic.eth: The
+
+austingriffith.eth: So, yeah. Yeah, and
+
+rhynotic.eth: He's going, sweet. I don't know if you saw my Project Season 2 that I did.
+
+austingriffith.eth: Yeah, I didn't get into that as far as punk strategy.
+
+rhynotic.eth: All good, all good. I don't want to raise VC money How can I sustain this?
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+rhynotic.eth: I made this contract that is like a patron NFT where people can mint for one ETH each. And so
+
+austingriffith.eth: It's like a way to patronize you in your work.
+
+rhynotic.eth: Exactly. And so I made a platform for it,
+
+austingriffith.eth: Okay
+
+rhynotic.eth: So it was a version of Funnyworks that I did for the second time. It was great like I ended up There is 300 sold for 1 ETH each It’s slow.
+
+austingriffith.eth: How many blocks do you need? Eight blocks, you said?
+
+rhynotic.eth: The Yeah, So,
+
+austingriffith.eth: This is the link list stuff you were talking about.
+
+rhynotic.eth: I do wonder if...
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+rhynotic.eth: That's when we need to call up Vitalik, and the Ethereum Foundation needs to speed this shit up.
+
+austingriffith.eth: We need some faster blocks.
+
+rhynotic.eth: I know, I heard they're going down the three seconds.
+
+austingriffith.eth: Yeah, look at that flop. Look at that beautiful flop.
+
+rhynotic.eth: That's the one thing I can do with the front end, I think, is that experience needs to be a little better. But
+
+austingriffith.eth: Why not a commit-reveal scheme where it's just two blocks?
+
+rhynotic.eth: That's two transactions Like,
+
+austingriffith.eth: you could run the second transaction
+
+rhynotic.eth: Yeah, but then I basically do
+
+austingriffith.eth: Are you running a keeper anyways?
+
+rhynotic.eth: Anyone can run the keeper is the thing.
+
+austingriffith.eth: Ok, ok
+
+rhynotic.eth: And so like Every You have to call process is you're sending a transaction. It is telling Chainlink, "Hey, I want to purchase something, fulfill that." And so if 10 people purchase at the same time, there's ten Chainlink callbacks that will happen. and so that way we kind of cleared out some of the possible manipulation add stuff in order and it kind of confirms that these six will be added in this poll. But if they come out of order Say five callbacks were coming in the same block? That's still five factorial of possible combinations that a savvy block submitter could influence and get something they want. The numbers are down but like if there's ever money to be made people will do it. All right, if it comes in order, great, execute, do what we gotta do. And then a separate transaction, we can call process transactions and process the queue forward. It's probably taking a little longer right now because there's so many transactions and we're calling process acquisitions And all that is also frontloaded In the purchase price? And so the price to call Chainlink is paid for Actually, the amount of ETH in that transaction has only gone up. the launch, because
+
+austingriffith.eth: Because people are putting more expensive things in. Okay
+
+rhynotic.eth: I think it must be overestimating, which is kind of a good thing It has to have the maximum Gas lanes. meaning like You can choose the maximum amount of GWEI that it will call back with. And it's like, 200, 500, 1000. I can't remember the last time. I have to use the 200 grade gasoline. And that means that in the
+
+austingriffith.eth: The
+
+rhynotic.eth: I have to have .35, which is the max it will ever cost for a callback. And so I only put two ETH in there because it's not gonna ever actually use that money, defeated the whole purpose of making this all of these cues to make things perfect And now it's up to like 35 That's good, that just means more in-flight transactions. And so This could scale crazy if it ever needed to. Yes.
+
+austingriffith.eth: Isn't this a second transaction right here? Couldn't the reveal be part of this transaction here?
+
+rhynotic.eth: kind of
+
+austingriffith.eth: And then it would be two blocks?
+
+rhynotic.eth: I think you have to process all the ones before it too. For here. The
+
+austingriffith.eth: You know, like where the pool is.
+
+rhynotic.eth: Who knows, maybe you could be right here.
+
+austingriffith.eth: Yeah, I know
+
+rhynotic.eth: But, because then I think a one transaction is probably better. Talia gets to work, blocks for three seconds
+
+austingriffith.eth: Let's do it.
+
+rhynotic.eth: You just cut that in half.
+
+austingriffith.eth: Let's get blocks down.
+
+rhynotic.eth: I see a world where that happens instead. Also I'm lazy and it's
+
+austingriffith.eth: ###
+
+rhynotic.eth: A lot of these things.
+
+austingriffith.eth: If you want to be lazy you should build... Yeah, yeah, it's already done.
+
+rhynotic.eth: What if you do this? I’m like, ah, it wouldn't work. If I, god forbid, there was a big bug.
+
+austingriffith.eth: Yeah.
+
+rhynotic.eth: We can redeploy the pool with a new contract without having to redeploy the token. context: If we ever needed to, we could deploy a new pool people will. context: out. nightmare. Get out, you'll hate it.
+
+austingriffith.eth: Okay, still, the hard question of how you would talk to other builders. Let's say a new builder comes into the group chat and he's a good builder and he's got ideas. your answer was kind of dancing around like and don't like, but there's gotta be some ideas here about how you build markets into it, how you think about how other people are gonna play it. give us
+
+rhynotic.eth: You can keep going.
+
+austingriffith.eth: Give us the alpha about how you think about it and how other builders should be thinking about it when they are building these really cool mechanisms on-chain.
+
+rhynotic.eth: Um, I mean it's really just like releasing stuff and I consider myself someone who builds stuff with integrity And if you build something really cool, like people will be interested. And I've seen a lot of novel things on Twitter from people that don't have that many followers. It helps if you're like in this shit, like if you're participating. And like I started in the space as like a collector and then I started working on Discord bots,
+
+austingriffith.eth: context:
+
+rhynotic.eth: and so I remember talking to Snowfro for like three years It's really just like getting comfortable and launching stuff, and eventually people will notice.
+
+austingriffith.eth: context:
+
+rhynotic.eth: And so your numbers are already really good.
+
+austingriffith.eth: Like, hundreds of people actually putting something out on chain that people actually use.
+
+rhynotic.eth: Exactly. And so Chances are great. And so, I'm not a betting guy, as you can tell, but if I was, I would bet that I remember Tom Kysar, I met him in LA years ago Like, kind of stuck with me, and so here we are. さあさんご
+
+austingriffith.eth: There's still something about, okay, so, shots on goal, build a following, be consistent. There's still something about the mechanisms in the game. across your desk and you look at it and you know this is interesting or not interesting. I think that make it interesting Like buying punks and selling punks and having the token and the taxation. building on top of Ethereum, which is an incentivized system and money at the protocol
+
+rhynotic.eth: context:
+
+austingriffith.eth: much more interesting than putting an image in IPFS and selling it. When you put markets inside of your games, there's something very interesting to that. And I think that you see it when you see it. Like, I don't know exactly what it is, but I know it when I see it interesting things about games Yeah
+
+rhynotic.eth: And with that, I think a lot of it, again, how can a builder get into this, you need to like play other people's stuff. You need to participate with other things.
+
+austingriffith.eth: ###
+
+rhynotic.eth: I think the only reason I've had these ideas is because I've been here for six years and I've played everything. Even yesterday I bought like three tokens from projects that I thought were really cool and I played them on all wallets This is interesting, It's important to know like what already exists too some of this shit, I'm like, oh, fucking Boblak said this in 2019. It's important to know that, at least a little bit. Not always, because then you're not going to do it because someone else already did it. But knowing a history of the really cool projects on Ethereum help you launch new ones. What I do in my archive, broken.org/archive All the products I've ever launched why they all failed, of my thoughts into them, why I went with units off? And they're not super technical, like anyone watching this could read them and understand it, but I wish this shit was here when I started, and I wish there was this for every project that has been cool for the last six years. That would also be a really cool for like
+
+austingriffith.eth: An archive of cool projects.
+
+rhynotic.eth: I know the Ethereum Foundation gives out a lot of grants. I'll finally pay someone to do it. Exactly. The
+
+austingriffith.eth: Like someone listening who knows how to build things could just build this thing, and this could be your ticket to getting distribution for building other cool things. Like if you're sitting around waiting for a grant, you're doing it wrong. Let's go build this shit and get people using it. permission context: context:
+
+rhynotic.eth: Exactly. And that's why Ethereum's great. the L2 for the fifth time because I'll get like an OP grant out of it. of people making An app that wouldn't survive and wouldn't find product-market fit is now We get $5,000 for it. And so sometimes that's good. That person just and then I think that will make a higher quality system. context:
+
+austingriffith.eth: Oh yes, okay Otsango I still haven't gotten a great answer about the markets built into the things. Maybe change topics slightly to running it back. You've talked about old projects and now would be a good time.
+
+rhynotic.eth: The
+
+austingriffith.eth: We've got AI, and AI can take an old project and relaunch it. Are you thinking maybe one of your next projects might be a Run it Back?
+
+rhynotic.eth: I think it's new.
+
+austingriffith.eth: context: The
+
+rhynotic.eth: If anyone wants to go through the archive and make something that I already did better, go ahead. But for me I do view a lot of my releases as art. I wouldn't call myself an artist. I think you can not be an artist and have artistic integrity. And I have like a vision for how I want something to be made. context: ...powerful when I release it. But then the second it's launched, I'm like, cool, done. What's next? Obviously if it takes off I got to keep working on it.
+
+austingriffith.eth: It's nice when you can get to that quickly.
+
+rhynotic.eth: Certain metas of like, this was really fun in like 2023, I think
+
+austingriffith.eth: On-chain SVGs.
+
+rhynotic.eth: Exactly. I was watching yesterday, and they were talking how novel Unibot was. Things were like I try to learn from each project and like what failed. And it's really fucking hard to think of new ideas,
+
+austingriffith.eth: Yeah, I want to keep pulling at the thread of what Makes an exciting idea exciting?
+
+rhynotic.eth: I'll answer anything.
+
+austingriffith.eth: I still haven't like I don't know if you want to talk about maybe ideas you're thinking about and what parts of them are exciting or
+
+rhynotic.eth: okay
+
+austingriffith.eth: The FWA idea, just like the name is funny, but you came up with a name kind of second to the mechanism.
+
+rhynotic.eth: Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It was not like you started with, let's call it something fake world assets and fill in the game here. The following
+
+rhynotic.eth: The name is really important too. actual punk machine
+
+austingriffith.eth: Yeah, who knows? All right It is.
+
+rhynotic.eth: Which is what ended up being like a slogan.
+
+austingriffith.eth: Yeah.
+
+rhynotic.eth: People are saying flaw.
+
+austingriffith.eth: All right.
+
+rhynotic.eth: not what I intended, and it works. But like, if that shit was something else, who fucking knows.
+
+austingriffith.eth: context:
+
+rhynotic.eth: The following is
+
+austingriffith.eth: So funny how those little decisions make such a big... Yeah
+
+rhynotic.eth: I instantly was like, "Fake World Assets," that's so funny.
+
+austingriffith.eth: ###
+
+rhynotic.eth: Um from the get-go All right, repeat your question for the fifth time. Market incentives
+
+austingriffith.eth: I still am looking for, like, when you're in the shower having the idea of the next thing.
+
+rhynotic.eth: What made me think of the idea is?
+
+austingriffith.eth: The mechanism perspective. Like when you're like, oh shit, that's a fucking good mechanism.
+
+rhynotic.eth: It's random.
+
+austingriffith.eth: Let's build something around that.
+
+rhynotic.eth: I don't remember when I had the idea.
+
+austingriffith.eth: Now I have MD files everywhere. Oh, let me
+
+rhynotic.eth: I remember like the notion craze for like six years.
+
+austingriffith.eth: Yeah.
+
+rhynotic.eth: I'm like, no one cares. I don't need a nice box, probably a net negative. And I was like, I wanna make a Figma. I sent it in my Discord No one acknowledged it. It was like, this was like May. And I was like, I don't know, all right, back burner. And I like kept it in there. And then in September, I was like, ah, August. I was like, yeah, like, I think that was a good idea. Like, I think I should maybe visit it more. And then I almost launched it And I was like, I'm already so far, I should just launch it. And anyone I said it to said it sucked.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+rhynotic.eth: But I still kind of was like, this feels right. I couldn't tell ya. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It feels right because it's interesting because there's this mechanism that's like going to run forever, that's buying and selling punks, that's making money, there's this tax on this that's like going into this treasury. And it's not like make your thing super complicated
+
+rhynotic.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There's a few combined mechanisms in Prunk's strategy that are just fucking cool. Yeah context:
+
+rhynotic.eth: Yeah, so how to get to that point, I don't know. I think a lot of my ideas happen out of nowhere. I had the idea for 10,000 tokens, which people didn't love, but did all right. at this restaurant I go to a lot. Just like out of nowhere. We made the idea in like a week. It was great. But just like sometimes you'll just like have the idea. And I think about ideas a lot. I'm sure you'll have more ideas than what you execute. I'll never launch all my ideas? I do one a month until one kind of takes off

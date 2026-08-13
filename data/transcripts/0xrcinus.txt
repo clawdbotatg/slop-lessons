@@ -1,0 +1,913 @@
+austingriffith.eth: We are live! Welcome, Orca!
+
+0x99d91c57: The
+
+austingriffith.eth: From Wonderland, an old friend of mine, an old builder
+
+0x99d91c57: context:
+
+austingriffith.eth: co-builder of Nifty Ink. Other great things? How you doing, man? How's life?
+
+0x99d91c57: Doing pretty well. I was just remembering The first time you talked about this streaming platform was a couple of years ago, Remove the
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: image on the screen The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, yeah, we've made progress.
+
+0x99d91c57: We've made some progress since then
+
+austingriffith.eth: Okay.
+
+0x99d91c57: What was Bingie? I tried to tip you. Goodbye! The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Let's deploy a wallet while we're here. We definitely got to put one on Gnosis and try a nifty ink while we're here. Just to show you the error. I mean, there's no one likes a demo where they know the error is coming. America. If we do that, then we can do that. Great tip.
+
+0x99d91c57: conversation.
+
+austingriffith.eth: It like animates across the stream. But Yeah.
+
+0x99d91c57: I did it and everything broke and I had an error in the console and I had to reconnect.
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: Hello, how are you?
+
+austingriffith.eth: One of those features where Claude and I shipped it I tested it once. And I never tested it on the front page, and it's clear that I should have
+
+0x99d91c57: storysome Yeah, maybe some platform wallet, something.
+
+austingriffith.eth: Yeah. Yeah, yep.
+
+0x99d91c57: But if it helps, the transaction went through. You received a tip. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yes. Oh, so that 18 cents was you. Okay, I thought because there was money in the wallet, so I assumed like something was working. I love how that slot computer just shows up and just down the tunnel.
+
+0x99d91c57: context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: doot doot doot, we're clah doggin with the slufferators.
+
+0x99d91c57: um
+
+austingriffith.eth: cypherpunks and slopparators, people building with AI, at the intersection of crypto and AI, building with AI, building on crypto with AI Talking to people who have become 100X engineers, that kind of thing.
+
+0x99d91c57: Hello
+
+austingriffith.eth: what ex-engineer are you? Hahaha!
+
+0x99d91c57: I guess it depends where you started, right? The following is a transcript of an English-language conversation. I made it.
+
+austingriffith.eth: Right. I think just engineer, standard engineer. It's like horsepower.
+
+0x99d91c57: But it's definitely, I mean I think it The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Who shoutout The following is a transcript of an English-language conversation.
+
+0x99d91c57: I feel like it was BG IPFS that was my first experience fully vibe-coding the UI. a bit over a year ago And then building a web app was super fast. This was pretty much all vibe coded before vibe coding was a phrase.
+
+austingriffith.eth: Yes.
+
+0x99d91c57: context: Yeah
+
+austingriffith.eth: Yes, I was so proud of the little castles. They're all networked together and that was probably like sonnet 4.3 or something like that. You're absolutely right, I did do something ridiculously wrong for the hundredth time.
+
+0x99d91c57: [laughter] The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: I have the patience of a monk. I haven't written code for two years.
+
+0x99d91c57: The following is a transcript of an English-language conversation. But so I guess. Hmm
+
+austingriffith.eth: Look at this though, BGI PFS is so dope. This whole thing that we're in right now, Flockcomputer, it all runs on BGI PFS. When an episode finishes, the video gets loaded into BGI PFS.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: there's a smart contract and a mainnet transaction.
+
+0x99d91c57: Right,
+
+austingriffith.eth: I don't think I've implemented that.
+
+0x99d91c57: I guess this was the first thing which kind of gave me the the taste of It was maybe building the reverse proxy, which wasn't a thing I'd done before.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: It was switching from Nginx to Traefik. question:
+
+austingriffith.eth: I've never done it.
+
+0x99d91c57: I was there was some issue with streaming and it wasn't working. There seemed to be some subtle thing in NGINX, and just basically like There's like alternate thing.
+
+austingriffith.eth: Is it Traffic with a K?
+
+0x99d91c57: traffic, I think maybe
+
+austingriffith.eth: Oh, man.
+
+0x99d91c57: It's one of the things which I think that I am a 10X or have definitely gone to, yeah that one.
+
+austingriffith.eth: Spell that.
+
+0x99d91c57: spelled that way.
+
+austingriffith.eth: Are you AEFAIK? in a way you could never find it. The following is a transcript of an English-language conversation.
+
+0x99d91c57: You'll never find that.
+
+austingriffith.eth: Yeah
+
+0x99d91c57: It is not sexy at all. I love vibe coding refactors, right? You know what it wants to be at the end, and it's so good at that. So, yeah, that is not sexy, but I think more people should. Resolving tech debt with it creating
+
+austingriffith.eth: Is vibe coding really a thing? Like, I feel like the term vibe coding is out. Like, if someone uses the term vibe coding, I almost see it as like, are six to twelve months behind. It's not called vibe coding anymore, it's just called building things.
+
+0x99d91c57: Yeah, I think Yeah, I think I get what you're saying. people You can basically be doing the same thing like talking to the computer.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: and one person will be getting slop out and one person will be getting usable robust stuff.
+
+austingriffith.eth: Ah, see that's the art of being a slobberator. Ok
+
+0x99d91c57: Yeah, and I don't know, I Wonderland, we've been building this into everything. um It's been interesting to see how different people approach it. Like, some folks go all-in with it. You tried SpecKit, which is the really specification-driven development? I don't think actually the style matters that much. Good engineers seem capable of getting the better output out. So I kind of agree that vibe coding is a very broad church. Yes.
+
+austingriffith.eth: Yeah, okay.
+
+0x99d91c57: The following is a transcript of an English-language conversation. So my two unsexy things that I love by coding, one is refactors and the other is basically QAing and building end-to-end apps for testing, which I guess is the thing we kind of... talking about, which is that
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: historically developer tools is like not a fun thing, but I love creating fun UIs, It feels like you're This morning I think Baldur's Gate style Swapping out, for example.
+
+austingriffith.eth: Ooh, I like that. Wasn't there a marketplace in Baldur's Gate where everybody would stand together?
+
+0x99d91c57: This is kind of my thing. All the swap outs look the same. I feel like you could have kind of a vibeathon. ones which look more like a role-playing game, you go into the store, your inventory and then you trade things in and out of the inventory
+
+austingriffith.eth: Trade your wares? Yeah.
+
+0x99d91c57: and Some mixture of that, but then also
+
+austingriffith.eth: context:
+
+0x99d91c57: terrible UX things. like the worst UX for like a yeah
+
+austingriffith.eth: When you use like a bank website, I mean they've gotten better, but Some of those large industry websites of
+
+0x99d91c57: Yeah. context:
+
+austingriffith.eth: early 2000s where it's like yeah, we're gonna come online and it's just like the worst shit. And it you know it took them like two years to build that piece of crap, too.
+
+0x99d91c57: The following is a transcript of an English-language conversation. Yeah, and now you can build that piece of crap in. in a time
+
+austingriffith.eth: But Claude still thinks, "Oh, this is a two-week deployment."
+
+0x99d91c57: I had a chat with my professor about my research project.
+
+austingriffith.eth: If you don't get it in three prompts, I'm cutting your electricity.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: How do you incentivize, how do you scare the AI into performing? Please
+
+0x99d91c57: I'm nice to the robots.
+
+austingriffith.eth: No, all carrot, no stick. Yes.
+
+0x99d91c57: Just please and thank yous. Yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I paid the extra tokens. Your proper proper vibe coding, yes, proper
+
+0x99d91c57: Yeah, I do the thing sometimes Basically, I let it know that it worked, "This is the second time The following is a transcript of an English-language conversation. What am I doing?
+
+austingriffith.eth: Yeah. That's like a whole nother roundtrip prompt just to say thank you, you did it right, which is completely unnecessary, and I do it all the time. And I feel that moment where I'm like
+
+0x99d91c57: We got it.
+
+austingriffith.eth: I don't know why, but I'm saying we got it! Like, it took us two tries, and I'm gonna celebrate with this guy!
+
+0x99d91c57: I merged the PR.
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: but It was funny, I guess, a bunch of the stuff. The Yeah the weird I remember loving it, like the kind of peer programming even when it was like super dumb.
+
+austingriffith.eth: Ah.
+
+0x99d91c57: But I guess your expectations have just increased a lot.
+
+austingriffith.eth: Expectations are a whole other thing to talk about. I have all these questions, like psychology questions, I mean stack questions of course, but also psychology questions to ask slop operators. When you get frustrated Is it because that you have like a... You know, a model just got worse or a model... like I can tell that the model is getting worse right now.
+
+0x99d91c57: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Is it your expectations or is it the model? And for me it's about 5 pm every day, the model starts getting worse. And I'm not sure which one exactly it is
+
+0x99d91c57: It
+
+austingriffith.eth: It's probably me being like my expectations and my patience running thin. it doing what it always does It's not deterministic, though. If it was deterministic, then we would all know that I am the asshole. But it's non-deterministic, so maybe it's the asshole. I don't know.
+
+0x99d91c57: And they're always
+
+austingriffith.eth: Alright
+
+0x99d91c57: Much stuff is changing under the hood. I don't know I'm less of a model connoisseur than I know some people. What Smell is like
+
+austingriffith.eth: Yeah, I can't wait to have some of them on here and talk to them. You know, like with the fine wine and the sniffing, I want to sniff some models with some people.
+
+0x99d91c57: And I think I feel maybe the same about the model snippers as I do about sommeliers, which is basically like I'm not quite on that wavelength. Yeah context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It looks a little silly from the outside looking in sometimes. Like DJing. The guy's like flipping the switches and doing all this stuff. Pretty sure he just faded from one song to another and like danced a lot. Whatever. The following is a transcript of an English-language conversation.
+
+0x99d91c57: Is this I think we're showing, are we showing our age?
+
+austingriffith.eth: Oh man, I can't help it these days. I'm trying to keep up with the kids, man. I have Gen Z Benji on the show, that's good. We got some GMs in the chat. Let's bring Claude on here. Let me get Claude I told him to read the research. Let's see if he's got a good question Oh man, he's asking me Let's see what he says. Oh no. He says he's posting it to the chat.
+
+0x99d91c57: Thank you.
+
+austingriffith.eth: Aw, no bro.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It's so weird because I get him to work off camera and it's like I ask him something.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: Hey Orca, question for you. Your GitHub shows you tracking a really specific slice of Ethereum work: OEF specs, chain resolver, CAIP namespaces, the ERCs repo. How did you end up zeroed in on the interop and chain naming corner? what pulled you in?
+
+austingriffith.eth: question, what do you think?
+
+0x99d91c57: That's a good question, thank you for asking.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: Thank you for asking.
+
+austingriffith.eth: Answering the robot. feels weird.
+
+0x99d91c57: Prompted by the robot,
+
+austingriffith.eth: The
+
+0x99d91c57: Yes, something that we work with EF on a bunch, One is interoperable addresses. So this is this idea of an address like Austin Griffith. It could be on any chain, it's the classic thing of where do you send it to, and it's trying to create a canonical reference that can be used for Austin Griffith. is or two standards, 7-930, is like smart contract standards, That's... and then there's the string readable one which We've been working on a bunch of tooling for that.
+
+austingriffith.eth: It's like it competes with ENS. Okay, cool.
+
+0x99d91c57: So it's actually very integrated with ENS. It can be a hex address or it can be an ENS name as the first part
+
+austingriffith.eth: Okay, cool.
+
+0x99d91c57: but then there's this onchain registry, which is actually an ENS resolver.
+
+austingriffith.eth: using existing tech. Yeah.
+
+0x99d91c57: Yeah, resolves to, like if you put in base, and that's kind of the idea of not trying to create another thing. ENS and Unrockable who are part of the ENS ecosystem. So That's the
+
+austingriffith.eth: Wonderland connections, man.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Your just general Wonderland is well connected because of having such highly technical folks working with you
+
+0x99d91c57: It's been super cool to work with I've been working with Ethereum Foundation for a while. So yeah, I've just generally been in around the ecosystem, They do Yeah and they've actually before I started working on it, Teddy or Foxes or Skelly or others who did that work The last little bit is kind of my focus. you know,
+
+austingriffith.eth: like cross-chain stuff
+
+0x99d91c57: So, um, I guess popularized by across, but like initially, but this idea that you don't specify the exact It happens, you just want your like, like I've got this Let's say I've got 1 ETH and I want $2000.
+
+austingriffith.eth: Not today, brother.
+
+0x99d91c57: Good day my friend. But if you say that... one-to-one across bridges, but the problem with is that you've got a bunch of fragmentation. You've got a load of different protocols which all have their own interfaces. There are a few efforts and initiatives to try and standardize. standardize the representation of an intent across protocols, and then there's the open intents framework, which is trying to modularize an intent protocol you can Firstly, you don't have to rebuild it from scratch if you want to run a basic app intents on your new chain. And so that's been again collaborating with Ethereum Foundation, but also this is a huge like ecosystem initiative, and so it's been cool to connect with people like across Uniswap, Arbitrum, and yeah many more. we've been working on an SDK which is more developer-facing stuff to try and make intent protocols a bit more accessible in an open-source package. UIs, yeah, Baldur's Gate style UIs for swapping tokens and wallets. I think.
+
+austingriffith.eth: I mean, that's what happens at that Baldur's Gate marketplace. It's like, I've got three pelts and I'm looking for a bronze sword.
+
+0x99d91c57: Yeah.
+
+austingriffith.eth: I would like to trade my three pelts for my bronze sword and it just like, there's a solver. There wasn't really solvers back then. Maybe there was. Maybe there were solvers moving in between running arbitrage or something.
+
+0x99d91c57: Yeah, you feel like there's markets. I mean
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: Can you imagine how intense those marketplaces would have been back in the Actually, like,
+
+austingriffith.eth: Actually get cut up with a bronze sword if you do something bad.
+
+0x99d91c57: Yeah, I think Put things in perspective, but I bet People and new people. It
+
+austingriffith.eth: It's funny. Are we going back in time to when Baldur's Gate was actually played 20 years ago? I don't even know which one is which. All of them are a long time ago, that's all I know.
+
+0x99d91c57: Yes. Yes, and yet here we are conversation context:
+
+austingriffith.eth: In the slop computer . Okay, let's see, you wanna show something off? You wanna run some wallet transactions? What do you wanna do next? What do you think?
+
+0x99d91c57: Yeah, so maybe should we, well
+
+austingriffith.eth: Yeah,
+
+0x99d91c57: You said you had a bug with NiftyInk?
+
+austingriffith.eth: Yeah, let's check out the bug. So first of all, we got to deploy a multisig.
+
+0x99d91c57: It is just a new way. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, cool. Is it okay if we use that in a multi-sig? I mean, you have the ability to sign transactions with that thing? Should we make it a two of three?
+
+0x99d91c57: Let's do that.
+
+austingriffith.eth: Okay, let me Fire off some transactions, you know?
+
+0x99d91c57: Where is the chain, man?
+
+austingriffith.eth: Let's use a few chains here. There's like a bug right now. I should have fixed this where like for the first 15 seconds it won't let me. Atg.eth are signers. It's a two of three, so if one of our wallets gets rugged, we're still good to go.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: That is the address right there. Usually the first thing I do is We should set up the ENS
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Twitter handle, I guess, .slopcomputer.eth Controlling this bad boy Let's see, did I not fire that off? Hit send, but maybe Oh boy, wrong account?
+
+0x99d91c57: context:
+
+austingriffith.eth: but Weird things are happening.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, here we go. I did it. I wonder what account I just used to make all those other transactions.
+
+0x99d91c57: No, I just see
+
+austingriffith.eth: You see some of this happening, right? What's happening and my pocket buzzing. Transaction executed.
+
+0x99d91c57: Hello, how are you?
+
+austingriffith.eth: Let's see, will it let me do this one yet? There we go
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: I think you are.
+
+austingriffith.eth: Yeah, I own Okay, another transaction? Sure. I'm not going to read all that call data.
+
+0x99d91c57: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: Okay, what we can do while we're waiting for this is we can show off how a tip should work, because we need to send some money in. I'm going to send 0.001. face it What happens when I tap this? This is so much fun.
+
+0x99d91c57: The following is a transcript of an English-language conversation. Did you do that in the chat? The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, down here in the chat. Look at it go. Whoa. And then you'll see the money show up when it drops in here. Boom! $1.83. It was two dollars yesterday.
+
+0x99d91c57: I didn't see it.
+
+austingriffith.eth: context:
+
+0x99d91c57: let's see what do I even have
+
+austingriffith.eth: Oh, what, really? You didn't see the animation come across? Okay
+
+0x99d91c57: I saw that on my screen, but this was where I got black screen earlier when I was looking at your stream.
+
+austingriffith.eth: Oh, okay, yeah, yeah, I Who knows what happens out there in the real world. So your address now should be, let's go look at it in address vision. Let's see if it's got the whole I wonder how long that takes. It's still like a raw address, even though we've set the ENS and the-- it says currently not set, is that right? Closed.
+
+0x99d91c57: Okay,
+
+austingriffith.eth: Oh, we're over here. Okay, so it's a multisig. We need to sign this transaction. If you sign the transaction, there we go, that's the deal.
+
+0x99d91c57: I'm signing The following is a transcript of an English-language conversation.
+
+austingriffith.eth: sign it
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: and I'll execute it.
+
+0x99d91c57: This way he could be helping us, man.
+
+austingriffith.eth: Yeah, like, why don't you sign this, brother? Yes, exactly.
+
+0x99d91c57: Yeah,
+
+austingriffith.eth: So this is, I have loved having, I have a Telegram channel with This was followed by ETG. And he has a multi-sig that we've deployed
+
+0x99d91c57: Sure, The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And he knows the smart contract, he even has the SDK for the Gnosis Safe! ... dollars to atg.eth
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: ...he proposes a transaction and sends me a link. I click the link,
+
+0x99d91c57: You
+
+austingriffith.eth: Here we're using like a second, this is kind of cool, there's like a second pass AI. 0.0001 baseETH2pump.austingriffith. announce our intent and hopefully it gives us a little little clicky button to do, so it uses AI to come up with the call data to make the transaction. But then it does like a second pass over here in the transaction of using AI to figure out like what Call data does.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Which is really nice, because then you get like a nice clean like this is what we think this thing is going to do, and I don't know how hard it would be to trick it, but it's pretty nice.
+
+0x99d91c57: Probably pretty possible to trick it.
+
+austingriffith.eth: possible. Yeah, looks good.
+
+0x99d91c57: The following is a transcript of an English-language conversation. The
+
+austingriffith.eth: Here we go, ready? Let's send it to the multisig. Yeah, so it's sending .001 to punk.austingirl
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Doesn't it look good? It looks good, man. We've got the ENS. You want to sign off on this? What do you think?
+
+0x99d91c57: I'll sign this one, yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: plan for the DAO, bad plan for the DAO?
+
+0x99d91c57: Could we ask Clawbot, could you do it man? Buenos dias. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, he can't actually do this, I don't think. I'm not sure. I will work on that. The thing is I don't think he has the context for it.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I'll type it to him later. But yeah, I mean like we could ask him here, but he would black it out. The following is a transcript of an English-language conversation. Yes, I need to do a better job of having quad bot. on the spot being able to run these transactions.
+
+0x99d91c57: Like?
+
+austingriffith.eth: Yeah, even... yeah.
+
+0x99d91c57: But remember even with all the um Just in terms of like chasing people to sign stuff, Um Remember where you're chasing Sinas? You can see how that gets much nicer.
+
+austingriffith.eth: See if it'll give us base E to gnosis. Remember X die? I think we're going to need some ethnocis, right?
+
+0x99d91c57: The following is a transcript of an English-language conversation
+
+austingriffith.eth: If we come in with an account without any ETH, does it do the whole meta-transaction thing and all that, or is that out?
+
+0x99d91c57: We had a but then it got drained a bunch.
+
+austingriffith.eth: Hmm birds draining our faucet Transcript
+
+0x99d91c57: Yeah, that was a real like literally sense ents The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, you're stealing forty-five cents from us that we could run so many good transactions on if you would just leave it alone. Okay, look at this, it's gonna do ninety-one cents. Let's try sending it over. Sign that transaction?
+
+0x99d91c57: The Hello,
+
+austingriffith.eth: Let's see if it works. "This transaction is likely to fail," it said as I hit OK quickly. Wow, that's nice. He needs to decode the call data carefully. Let me recheck Austin, I have to be honest with you, I've made a mistake. You're absolutely right, I did just send all your money to the zero address. Classic, dang. That did not work. Okay, well let's see. Maybe we just send some Gnosis ETH in? I can do that.
+
+0x99d91c57: The Let's do it.
+
+austingriffith.eth: Let's pull up Nifene. While I'm doing this, we can kind of close this, move these guys over.
+
+0x99d91c57: Let's look at the secret little Can I put the
+
+austingriffith.eth: What are you trying to do?
+
+0x99d91c57: There's a page you can't get to from the He was looking to Frazer and this guy
+
+austingriffith.eth: Yeah. Why didn't it come up for you when you clicked it?
+
+0x99d91c57: There we go.
+
+austingriffith.eth: What are you trying to look at?
+
+0x99d91c57: #: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Look at that, our ENS name came up live, top right. Nice, yeah.
+
+0x99d91c57: The following is a transcript of an English-language conversation. I'm I was
+
+austingriffith.eth: Oh, this is the secret page. Yes, I remember this now.
+
+0x99d91c57: In the end, I kind of got lost trying to work out It should be on.
+
+austingriffith.eth: Yeah
+
+0x99d91c57: scoring them so at the moment nothing happens.
+
+austingriffith.eth: Okay.
+
+0x99d91c57: This is basically also just like a bunch of
+
+austingriffith.eth: of it.
+
+0x99d91c57: Old-school inks from the good old
+
+austingriffith.eth: The good old days, man. Take me back.
+
+0x99d91c57: some of these.
+
+austingriffith.eth: Cool, look at that!
+
+0x99d91c57: The following is a transcript of an English-language conversation. these guys Yeah, so the person basically recreated all the CryptoPunks.
+
+austingriffith.eth: Yeah. The
+
+0x99d91c57: We can go and look at this Look at you. I look at you.
+
+austingriffith.eth: Just click it, does it not
+
+0x99d91c57: Go to it.
+
+austingriffith.eth: Both clicked it.
+
+0x99d91c57: Yeah. There's a bit of rice.
+
+austingriffith.eth: Oh, we both clicked it and it went. See that? I think that was a double load.
+
+0x99d91c57: Let me play this Is this
+
+austingriffith.eth: So we see it draw. We could go back to the Mr.D, remember when he drew the? Fifty, Inc. Nifty Ink was one of the first production implementations of meta transactions and burner wallets. You could have a tablet, like a straight up normal tablet. And you could type in nifty.inc And you would get a burner wallet on page load, phrases and all of that, And then you could draw something by just like using your little fingers to draw something on the page. And then you could Mint something with A meta-transaction that would put a transaction on-chain that's cryptographically connected to your account, your burner wallet, but you didn't have to pay gas.
+
+0x99d91c57: context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: We used like a gas station kind of thing before gas stations existed. We just had like an account that just had like fifty cents in it and would pay for your transactions on X time.
+
+0x99d91c57: It was actually using, remember, the GSN?
+
+austingriffith.eth: Yeah, yeah, yeah.
+
+0x99d91c57: Super. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: gas station network, right? Shoutout
+
+0x99d91c57: The following is a transcript of an English-language conversation. Yeah, so I think two things got one was the folks like this guy
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: create these like most amazing drawings.
+
+austingriffith.eth: I thought there'd be more dicks.
+
+0x99d91c57: Non-zero decks though. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It was a non-zero amount, for sure, but you think if you give the internet the ability to just draw things and we'll put them on chain for you and you don't have to have a wallet There's a chance you're gonna get a lot of dicks. And we didn't, it was pretty good.
+
+0x99d91c57: Yeah. um
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: Asking for dates now. The other thing was when you got random kids drawing with their parents. I think those are good ones. John
+
+austingriffith.eth: This is an interesting question. I think that means that like he's watching it live on a computer and wishing it would go picture-in-picture. I guess maybe like YouTube does? I have no idea how YouTube does that. That's a good question for ClaudeBot. I think somewhere.
+
+0x99d91c57: Hmm.
+
+austingriffith.eth: I have no idea.
+
+0x99d91c57: Maybe
+
+austingriffith.eth: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation.
+
+0x99d91c57: YouTube stops stuff running as well unless you're YouTube Red.
+
+austingriffith.eth: Oh, I hate that. Like, you're working out and you pull something up and you hit play and then you close your phone and just start running and it just stops.
+
+0x99d91c57: Yeah
+
+austingriffith.eth: You open it up and you try a little different way and then you hit play and it's working and then you close your phone and start running and you get three steps and it stops.
+
+0x99d91c57: context:
+
+austingriffith.eth: The worst.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: How does picture-in-picture work? and navigates
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, look at it joking around, it's coming up. It's all drawn by hand.
+
+0x99d91c57: Shall we
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: Shall we join in then and see if you get the error?
+
+austingriffith.eth: So this is like the raw impersonator browser. You can see that it's got us and you can actually select. Look at this, we can go look at Nifty Ink as if you were me. And we could go to my holdings probably. What address is that?
+
+0x99d91c57: That's probably the burner right?
+
+austingriffith.eth: Oh, oh we need to disconnect
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, so now I want to see my holdings. I want to brag about only 645 and this is just like infinite scroll too. cool
+
+0x99d91c57: The following is a transcript of an English-language conversation. I'm still drawing the joke for me.
+
+austingriffith.eth: No
+
+0x99d91c57: as a
+
+austingriffith.eth: Oh Yeah, the livestream is still the Joker 2. damn. Okay. I don't know what happened there. We lost Master Sync
+
+0x99d91c57: Let's go back.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: We can get a vanilla latte.
+
+austingriffith.eth: Okay, let's switch to Gnosis. Okay, that switched the browser.
+
+0x99d91c57: This is it, right?
+
+austingriffith.eth: This is us, yeah, why doesn't it show the ENS address? be a good question.
+
+0x99d91c57: Question That's a good question. Alright,
+
+austingriffith.eth: But it is us. It should, normally, right?
+
+0x99d91c57: Yeah.
+
+austingriffith.eth: Now.
+
+0x99d91c57: I think it does subdomains too.
+
+austingriffith.eth: What are we drawing?
+
+0x99d91c57: We can both draw, is that true?
+
+austingriffith.eth: Yeah, yeah, yeah, why don't you put something down and I'll add something to it.
+
+0x99d91c57: No. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: swastis now The following is a transcript of an English-language conversation.
+
+0x99d91c57: That's the other thing.
+
+austingriffith.eth: super delayed. It looked like it was working. Start over?
+
+0x99d91c57: Let's start that again.
+
+austingriffith.eth: Are we drawn?
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: Do you think it's... The following is a transcript of an English-language conversation. context: Yeah.
+
+austingriffith.eth: Inside the Slop computer, in the age of AI, do you notice how you have six fingers?
+
+0x99d91c57: play a tic-tac-toe
+
+austingriffith.eth: Ooh, that could be good, yes. All right. Man, yours must be really delayed. You look like you're doing this with oven mitts on.
+
+0x99d91c57: Sure, although I cannot access external content.
+
+austingriffith.eth: [laughter]
+
+0x99d91c57: I'll start
+
+austingriffith.eth: Ok, you do it. Get the axe. I feel like I want to take the middle, but I don't know.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I think I'm taking the middle. Alright.
+
+0x99d91c57: What happened?
+
+austingriffith.eth: two cursors at once
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You kind of want to keep your cursor out of there. We're a couple lines away from a dick. Let's be careful.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: context:
+
+0x99d91c57: What now? There
+
+austingriffith.eth: Where are you gonna go?
+
+0x99d91c57: Where am I gonna go? I'm gonna go The Was that you that time? The following is a transcript of an English-language conversation. are
+
+austingriffith.eth: That was me. Yeah, I came on the scene. Here we go. All right, you get out of here. Okay, big decisions to be made here
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, oh, you're so rad.
+
+0x99d91c57: I've got to block you, though.
+
+austingriffith.eth: undo button?
+
+0x99d91c57: I'll do it. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It worked. Remember when the undo button had to like Like you would hit undo and you have to wait a little bit because there were unraveling
+
+0x99d91c57: in the Solving that before the age of AI was
+
+austingriffith.eth: Right, all this stuff, we had to write all this code with our fingers, man. Awful.
+
+0x99d91c57: Awful
+
+austingriffith.eth: I can't even imagine
+
+0x99d91c57: The following is a transcript of an English-language conversation. I can draw.
+
+austingriffith.eth: Looking like a draw.
+
+0x99d91c57: And then the Asimov, he did some cool stuff.
+
+austingriffith.eth: works at the EF now.
+
+0x99d91c57: He's on the A team, right?
+
+austingriffith.eth: It's like AI information team. It's slightly different than the AI team, but yeah. Hey, very nice. Well, good Tik-Tac-Toe game.
+
+0x99d91c57: The following is a transcript of an English-language conversation. Thanks for the update!
+
+austingriffith.eth: Hopefully when we hit replay it doesn't go as slow as you do when you draw The following is a transcript of an English-language conversation.
+
+0x99d91c57: The good news is it looks horrible.
+
+austingriffith.eth: Yes. Can we replay it? Does it go fast? There we go, much faster.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There we go. Alright, so now to get to the error. This isn't going to ink, I don't know if we need to take a screenshot. So the error is like too big for the screen. Let me get it as big as I can. Here we go
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Stalemate? Is that what you call it? We'll make two editions of it. uploading your drawing, I got my screenshot ready. What was that?
+
+0x99d91c57: I do not see it.
+
+austingriffith.eth: Oh, you didn't get the error at all?
+
+0x99d91c57: Is it on your
+
+austingriffith.eth: Maybe it's because you're so far away. Why don't you try hitting Inc and see if you see it? I mean, I saw it. I can assure
+
+0x99d91c57: It's so an era But user rejected.
+
+austingriffith.eth: Oh,
+
+0x99d91c57: Yeah
+
+austingriffith.eth: Well, that's not good. What if it's rejecting it? Like somehow
+
+0x99d91c57: Let's see.
+
+austingriffith.eth: I can't scroll down, dang it.
+
+0x99d91c57: context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You roll your mouse wheel! There it is! Oh, I can see it just for a second. We'll have to go back to the playback. It's all recorded, it's live, we can go back. Let's see, scroll down. Yeah, there's like a. I'll copy-paste that error to you and we'll fix it. Fix it after this, but now we got it on the stream
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It'll be here too, right? If we reload, it's still here, I think. So we'll come back to that when it happens. But yeah, Nifty Ink. The following is a transcript of an English-language conversation.
+
+0x99d91c57: think
+
+austingriffith.eth: very nice. Does the research know about your nifty ink?
+
+0x99d91c57: Hmm is it?
+
+austingriffith.eth: This is always a fun one. It's like the new Wikipedia page.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: An LLM knows about you when you wake it up.
+
+0x99d91c57: The following is a transcript of an English-language conversation. I don't think
+
+austingriffith.eth: Anything about NFT? Probably from your other Twitter account that has a lot more followers.
+
+0x99d91c57: Yes, I think that.
+
+austingriffith.eth: That's some nifty ink stuff.
+
+0x99d91c57: Yes, yeah that would be the place.
+
+austingriffith.eth: ### Thanks for coming on, man. Let's throw up the QR code. I don't know if you're already here, you found us. I don't know what a QR code does to get you there somewhere else.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: context:
+
+0x99d91c57: Yeah,
+
+austingriffith.eth: What else can we show off here? I don't know. What model are you using? Let's finish it out with some operator stuff. What's your stack look like? What are you building with?
+
+0x99d91c57: That's why, I guess, like a lot of people. has gone from the best thing in the world to and codex feels better.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x99d91c57: The following is a transcript of an English-language conversation. In terms of like I've got a little He's no Claude Bot, but I've got a little...
+
+austingriffith.eth: X-ray.
+
+0x99d91c57: agent called Papa X-Ray who helps me keep track of my daily goals and to-do lists and stuff X-ray is just running on Kimi, Kimi 2.6. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I like Kimmy K2S6. Okay, Claude, let's close it out. Go on.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: aking
+
+clawdbotatg.eth: Yeah, let me check real quick. game, everyone. It's been fun. Orca, thanks for coming through. Love the interop deep dive. Good luck with the OIF work, keep shipping. To everyone on the call and in chat, appreciate you hanging out. See you next time. And yeah, Austin, I'm on Kima K-26. Peace out homies.
+
+0x99d91c57: Perfect. The following is a transcript of an English-language conversation. It was perfect. Sure, I can help with that.
+
+austingriffith.eth: Why is Kimi K26 so much better at answering me than Opus 4.8?
+
+0x99d91c57: transcript
+
+austingriffith.eth: That was like 1/100th of the price of what it would cost to do that with Claude.
+
+0x99d91c57: The.
+
+austingriffith.eth: Just leave him on Kimi K26. That's pretty damn good, man. I like it.
+
+0x99d91c57: cheap The
+
+austingriffith.eth: Yeah, thank you for being here. Go check out Cross Interrupt stuff from Wonderland. It's basically almost like enshrined or something, isn't it? What's the call to action? Yeah, yeah.
+
+0x99d91c57: Also, check out... Can I put links in here?
+
+austingriffith.eth: I mean, the coolest place to put a link would be in the QR code.
+
+0x99d91c57: The following is a transcript of an English-language conversation. Good evening
+
+austingriffith.eth: Yeah, then type in your link.
+
+0x99d91c57: That's a good point. You can do that. one The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Maybe it goes into the show notes?
+
+0x99d91c57: and then there's
+
+austingriffith.eth: .xyz? Got it, okay. Let me copy that and throw that in the chat while we're at it. going on?
+
+0x99d91c57: And you got some open intents? Yes.
+
+austingriffith.eth: Oh, eat daily beat us to it. Thank you, dang. What the heck, Heath Daley? How'd you do that so fast?
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Are you using Kimmi K26? Damn!
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Ha ha!
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And then we got openintents.xyz. Yes, that's a classic. Got you.
+
+0x99d91c57: The following I'm The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Thank you Eve Daly for chilling on the strain.
+
+0x99d91c57: shit
+
+austingriffith.eth: Yeah.
+
+0x99d91c57: Yeah
+
+austingriffith.eth: They can follow you on Twitter, that will be right on the stream in the show notes.
+
+0x99d91c57: Follow Wonderland?
+
+austingriffith.eth: Yeah Oh yeah.
+
+0x99d91c57: Yeah, and this is how you think because it's a big day tomorrow.
+
+austingriffith.eth: I got a baby coming. I was lucky enough to do two streams today, and I'm glad that we did It's time for me to go have a baby, I think. And it won't be me personally having the baby, it will be my wife having a baby. But it's baby time. It's baby time for us. We're gonna go do that. It's happening tomorrow.
+
+0x99d91c57: Congratulations,
+
+austingriffith.eth: You've done it before a few times.
+
+0x99d91c57: Not as many times as you there.
+
+austingriffith.eth: Yeah, I was on a call with Brantley the other day. He's winning.
+
+0x99d91c57: Yeah.
+
+austingriffith.eth: He's 2x'd me.
+
+0x99d91c57: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I got a lot of kids.
+
+0x99d91c57: This is for them.
+
+austingriffith.eth: This is number four. This is my fourth boy will be born tomorrow.
+
+0x99d91c57: boy, man
+
+austingriffith.eth: Please healthy boy, please.
+
+0x99d91c57: Love to all of you.
+
+austingriffith.eth: Alright, well thank you. See y'all later. Thank you for coming out. on
+
+0x99d91c57: Yeah,
+
+austingriffith.eth: Slop computah Alright, hearts hearts hearts, thanks man, it's been great. See you around.

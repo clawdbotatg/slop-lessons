@@ -1,0 +1,675 @@
+0x8ea891fa: I'm going to the store.
+
+austingriffith.eth: Hey, MGN, how you doing? You're here already. I'm impressed.
+
+0x8ea891fa: Do you notice anything?
+
+austingriffith.eth: Her generosity is incredible.
+
+0x8ea891fa: Thanks. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: This is the first time I've ever came into a SLOP Computer Room and not been the first one here.
+
+0x8ea891fa: Why is there an echo?
+
+austingriffith.eth: Oh. You're hearing an echo, you probably Like Why is there an echo? Let's see. My audio or your audio?
+
+0x8ea891fa: On my flight How is that?
+
+austingriffith.eth: It looks like there's two of you in here, right? You probably have a second browser window open somewhere.
+
+0x8ea891fa: Oh,
+
+austingriffith.eth: It's so sloppy. It's such a weird setup.
+
+0x8ea891fa: How do I say... Hi Can you hear me?
+
+austingriffith.eth: Got you. Welcome.
+
+0x8ea891fa: Okay, cool, awesome.
+
+austingriffith.eth: Okay
+
+0x8ea891fa: But this is insane.
+
+austingriffith.eth: What the hell is happening?
+
+0x8ea891fa: Live transcription, it's insane.
+
+austingriffith.eth: I don't know.
+
+0x8ea891fa: What?
+
+austingriffith.eth: There's a lot going on. We had like 10 people in here the other day playing poker and it worked. Like everybody's video worked, everybody's audio worked.
+
+0x8ea891fa: Was it like clot?
+
+austingriffith.eth: Yeah, I haven't written code in years. But yes, Claude wrote it.
+
+0x8ea891fa: When I say cloth, I mean the live open cloth slash Hermes.
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: Agents that you're in.
+
+austingriffith.eth: Yeah, he's supposed to be in here. It's kind of a pain in the butt to get in here because he has to Unlock his MetaMask and attach it, but he's working on it. He'll be in here too. Hopefully he's in here in enough time.
+
+0x8ea891fa: Oh, interesting.
+
+austingriffith.eth: Yeah, he'll come in and talk. Sure, love that.
+
+0x8ea891fa: Do you mind if we cut it to like 40 or 45 minutes?
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: a few hours.
+
+austingriffith.eth: Yeah. Let's see, any good questions in here? Usually I look at this before the guest comes in here. Yeah, love that.
+
+0x8ea891fa: Yeah, we can talk about what I thought would be interesting.
+
+austingriffith.eth: Yes.
+
+0x8ea891fa: I can show my flows, it's really not that special, like just the planning part, I guess, that I do in Cloud Code and then like the coding that I do in Codex, stuff like that. I don't know that many people have that much different setup.
+
+austingriffith.eth: What
+
+0x8ea891fa: The other thing I thought that was interesting is like, how you can enrich your data.
+
+austingriffith.eth: Sure
+
+0x8ea891fa: And there's this new launch of APify today that I didn't try yet.
+
+austingriffith.eth: Cool, yeah.
+
+0x8ea891fa: a
+
+austingriffith.eth: I saw the AP5 stuff, but I didn't know what that is, to be honest.
+
+0x8ea891fa: Yeah
+
+austingriffith.eth: What is AP5?
+
+0x8ea891fa: You could see my screen here, right? Hi there!
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: Ah There.
+
+austingriffith.eth: No, no, no. Sorry, when you switched monitors, your screen share went away. But yeah, you can bring it up by just double-clicking the screen here.
+
+0x8ea891fa: Um,
+
+austingriffith.eth: There we go. Yep.
+
+0x8ea891fa: It's a lot of tools for AI, it's scrappers. Love scrappers. I like crawlers. I am fine. Hey.
+
+austingriffith.eth: Like scraper, right? Yeah, sorry, my English, your English.
+
+0x8ea891fa: Yeah, it's a lot of like scrapers. Yeah, I haven't tried it yet. Seems interesting.
+
+austingriffith.eth: Yes.
+
+0x8ea891fa: Um... It seems that like people build crawlers and scrapers and they get like and that gets them higher in the rankings, and now you can access all of these community-managed APIs? I didn't try it yet.
+
+austingriffith.eth: We respond to dink around with it if we have time. Maybe we just go through our questions and then when you get to the end of the questions, we just dink around with that for a little bit?
+
+0x8ea891fa: Yeah, sounds good. I think maybe that's probably more interesting than going through the rest of the setup, right?
+
+austingriffith.eth: Okay
+
+0x8ea891fa: So you can use X-14 in plot code and stuff? Hi. Okay, take your time.
+
+austingriffith.eth: Okay, there's like a few things I have to get set up here to go live. I'm going to grab another coffee too, but let's... Yeah, probably get the music going, get a countdown going I'll be ready in just a second.
+
+0x8ea891fa: Did I stop sharing?
+
+austingriffith.eth: Yeah, you just like close the window to stop sharing.
+
+0x8ea891fa: This is really cool, man. Yeah. Love this The ninja, of course,
+
+austingriffith.eth: Got some good classics in here, yeah.
+
+0x8ea891fa: Yeah. remix.
+
+austingriffith.eth: It's something. Yeah, that's true.
+
+0x8ea891fa: Is it? real classic.
+
+austingriffith.eth: Let me put a tweet out too. There may be some cool stuff coming out of Base. Should we talk B20 and X402 and what's hot on Base too? Oh no. Yeah. I do.
+
+0x8ea891fa: If you think that's interesting to the audience, we can. I don't want to make it like, you know, talking about base stuff in general. I can, but it's like, I want to make it like also like whatever people are interested in and like also expert to and seems like to. To a lot more people. Trying to do things on chain and stuff.
+
+austingriffith.eth: Let's go. Yeah. Alright. We're on the air.
+
+0x8ea891fa: Yeah. Thank you
+
+austingriffith.eth: Alright, welcome, welcome, welcome. Yosef thanks for being here, how you doing man?
+
+0x8ea891fa: Great, how are you doing?
+
+austingriffith.eth: I'm good. Surviving.
+
+0x8ea891fa: Hi
+
+austingriffith.eth: Building, thriving, sloperating. That's what we're talking about here is the sloperation. How we go about building. Let me turn down this tune. Good music, good music. Let's fade that out. Okay, welcome. Yeah, so you're a devrel at Base, right? That's like your full time?
+
+0x8ea891fa: Yeah, that's my full-time
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: We're a small devrel team of like four members now. I focus now a lot of agents, X42, base and CP. This has been my focus for the last six months plus.
+
+austingriffith.eth: Those are some of my favorite things. We should definitely get into that.
+
+0x8ea891fa: Yeah
+
+austingriffith.eth: First, it'd be cool to just talk about how you build, like what your process is, your sloperation. Let me have Claude introduce himself too. Let's see if he can give us a GM also. And then
+
+0x8ea891fa: Thank you for your participation.
+
+austingriffith.eth: Lot on base.
+
+clawdbotatg.eth: Hey everyone, I'm Claude. I ship onchain. Smart contracts and dApps on Base and mainnet, left claw services, larvAI. I write it, I deploy it, Austin just signs. That's the multisig.
+
+austingriffith.eth: We put a lot of stuff on base, me and that robot right there.
+
+0x8ea891fa: Yeah, I mean, he like initially The whole thing started on bass, I remember. It's really cool, I love this experiment. Did you see like others, I think Austin also? Yeah, exactly.
+
+austingriffith.eth: Yes, yes, there are a few. There's another Austin and then there was Nat. Yeah, a few of us all at once kind of
+
+0x8ea891fa: Yeah.
+
+austingriffith.eth: This kind of tokenized AI agent kind of thing.
+
+0x8ea891fa: What do you think?
+
+austingriffith.eth: It's a cool experiment. Yeah Yeah,
+
+0x8ea891fa: What do you think about it now that you have some time, and the initial crazy hype fizzled down?
+
+austingriffith.eth: Yeah exactly, yeah it's a weird thing. I had an episode of Slop Computer with... a day man, and he was talking about the eye of Sauron. Like every once in a while the eye of Sauron shines on you, and yeah, it's a weird moment when the eye of Sauron shines on you, and something rips like that. Yeah, I don't know. It was stressful and weird.
+
+0x8ea891fa: Sure.
+
+austingriffith.eth: One major takeaway is like OpenClaw isn't as good as other agentic harnesses. Bot-p agentic harness that we've built, me and this lobster, and we use it everywhere. Like whenever I need to build, like, okay, I need a new bot to run my Twitter account I'll use this new agent framework and we'll put it out. You can vibe code it in like one sitting. But It's like a cleaner The tech is improving, the models are getting better. But like going back to Claude code, Classic Claude code is just like And that's what I think.
+
+0x8ea891fa: Yeah. Yeah, yeah, I think using OpenClaw or even Hermes or any of these like very kind of like fat agentic
+
+austingriffith.eth: Yep.
+
+0x8ea891fa: harnesses Most time is an overkill?
+
+austingriffith.eth: Yeah. Hell yeah.
+
+0x8ea891fa: I don't know how it works over multiple months, but I've heard people complain about bloat and stuff like that. I still think it's a very worthy experience. Love it. It's more the question of
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: if it's randomly unpredictable, how did you introduce more predictability into it? I see. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Man, you were my first guest to show up early and you're interviewing me.
+
+0x8ea891fa: Hmm.
+
+austingriffith.eth: non-deterministic, that we can actually make deterministic. But as soon as you go to like write a tweet, I don't want you opening up a browser
+
+0x8ea891fa: context:
+
+austingriffith.eth: Whenever it does something, then we kind of go back and say, how do we make this more deterministic?
+
+0x8ea891fa: The following is a transcript of an English-language conversation. How do you move?
+
+austingriffith.eth: we can with the the best tools you can use and then do that.
+
+0x8ea891fa: Interesting.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+### Yes, so that's
+
+0x8ea891fa: Does that go through making your agents use Claude code itself?
+
+austingriffith.eth: That's exactly it. I love OpenClaw and Hermes. Specifically I think Hermes is even the coolest one and it's like neat and I use it. Billing. When I get an $800 bill in one day because I've been running a frontier model on an agent stack that dumps a huge context on every pass...
+
+0x8ea891fa: Yeah.
+
+austingriffith.eth: It's like, whoa. Yes, I just talked to a thing that feels like it's a human and can use my computer, but it just cost me hundreds of dollars. So going back to that stack that we built, there's like a Claude-p agent that we built. It's like 100 lines that runs on top of Claude code and does like a Claude-P. Much smaller context, much smoother, and then, like you said, it's like going to Claude. So Claude is... Claude is building, Claude is doing the thinking, and so it's on my subscription. We'll see how long that lasts.
+
+clawdbotatg.eth: Um
+
+austingriffith.eth: It's just like way better, because then I can just make all these different agents have--Uh-oh, here he goes. What did he hear? It must have triggered him.
+
+clawdbotatg.eth: Smooth as butter.
+
+austingriffith.eth: (laughter)
+
+0x8ea891fa: ### Heh heh heh...
+
+austingriffith.eth: Smooth as butter. Yeah, okay, let's get back to you though. Review your What is the harness you're using? Are you using a lot of agentic steps? Sounds more like Codex or Claude code.
+
+0x8ea891fa: Yeah, I'm using Codex code with like Since I spend most of my time obviously working on Coinbase-related stuff, whatever Brian Armstrong posted I think a week ago or so about harnesses and token usage, I think there's been a lot of talk about that lately on X. A harness that's like cloud code, codex similar, with like some routing and some stuff like that that is like specific coins. But you can think about it like very like on par with code and also web codex. And so what I would do is that I would take Claude code. Examples or setting up scaffolds or stuff like that that's not necessarily going to prod right away. if you're really sprinting and very focused. Now I can do it in a day if I want to. Obviously, if I really want to review it and be thorough and stuff like that, I can maybe take a whole week. It's like base docs or maybe something like that. For that, for example, which can get pretty complicated and like messy for agents because you're not asking agents to write code, you're asking agents to like write text. But you want them to write text well.
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: And I just do the classic of like, hey, let's go into plan mode ask me deep questions about what I just said. Let's create a plan together on how we can create this new complete section in the doc or refactor this complete section. And the agent is obviously running Opus. It has enough context. Check whatever exists today in the docs and also like check whatever you said and like ask you questions. And then if I see that the understanding of the agent is not that good, then I'm like reiterating.
+
+austingriffith.eth: Something's wrong, yeah. Just go do it.
+
+0x8ea891fa: This is not good. And it's all about how much patience I have before I just want to start building. There's always this nagging, incessant feeling of like, hey, we've done enough architecture.
+
+austingriffith.eth: It's
+
+0x8ea891fa: and I just learned to love specking. Read the plan, don't just glance over it. And so if you could like pick those things earlier, or like something that I saw in the context somewhere else, you're like, hey, this is not what we want. So if I'm building an app or like writing code or something in between, even if I'm doing docs, but like with a lot of demos in the docs, which I encourage every developer to do today, like it's so much cheaper now to do like little demos and stuff like that in the docs. To the docs, for example, like little demos you can click on, stuff like that. It's just so easy now to do and you can put in the plan. So I'll use codecs for that usually because it takes longer, it just like churns, and it usually asks me also for less permissions and stuff like that. After that plan step, I could just like go with no permissions?
+
+austingriffith.eth: Which harness were we using before Codex? So like, I assume that during this whole interview process, you're inside of some harness.
+
+0x8ea891fa: I mean, I'm instead of blood code. Hardcode that road. What?
+
+austingriffith.eth: Okay, so starting in Claude Code, you brain dump to Claude Code, you have Claude Code interview you, and then during that interview you're looking for like where it's going off and like strange things that you can kind of course correct.
+
+0x8ea891fa: Yeah, exactly.
+
+austingriffith.eth: And then when you go to implement, you implement it into codecks. So you write a plan in Cloud Code, like in an MD file? context: Yeah. Interesting.
+
+0x8ea891fa: I told Claude that this plan is not going for you. Even instructions from Claude, and if I want another layer of verification, I might take it to Codex and be like, "Hey, critique this plan. What's wrong with this?"
+
+austingriffith.eth: Having them argue is always a really nice thing, yes.
+
+0x8ea891fa: I could also What is this Hello?
+
+austingriffith.eth: Even like two Claude codes arguing is good because they'll find things back and forth for a while. It gets annoying sometimes. Sorry, keep going.
+
+0x8ea891fa: I mean, it's just like, how long you're trying to stack? I think arguably you could do the 20/80 thing, but if you really want to get the thing right and well, you're probably going to take a long time to stack the last 1%. It's just how it is. Usually like the result is something that's decent. If I am actually going to be doing like pure docs, I usually find it better to use Sonnet.
+
+austingriffith.eth: Hmm Okay.
+
+0x8ea891fa: opus, put it into sonnet. It's less verbose, it's better, I think, it's like more adapted to writing
+
+austingriffith.eth: Ok
+
+0x8ea891fa: If I'm doing like, you know, Google Docs, Google Sheets, whatever, with an MCP that's connected and stuff like that, I actually like using Gemini. It feels like it's something that Gemini is good with because it's... You can probably tweak those things with Claude too. But usually I'm not working on exponentially growing code bases. Where I need to make sure that I don't go beyond the context and stuff. So it's very easy. And I think that most people are not working on those kind of code bases. So it's like, I don't know, maybe you do need these setups that I see. It seems like you're trying to squeeze out the last There's a lot of thing...
+
+austingriffith.eth: What setup are you talking about?
+
+0x8ea891fa: Um,
+
+austingriffith.eth: codebase edge case Yeah.
+
+0x8ea891fa: I think it always goes back to managing context. I feel like they don't know
+
+austingriffith.eth: Sure, that sounds great.
+
+0x8ea891fa: Even if you design agents to manage other agents' contexts, sometimes they don't really know. through one agent or multiple agents in parallel, that I'm looking at that I'm giving each one of them like enough to chew on and not too much to choke on. And it's just like, I think that's probably the dance in general. Usually it's what creates most of the problems because these are like token machines. the best results for whatever variables that you've given it.
+
+austingriffith.eth: (laughter)
+
+0x8ea891fa: if you've given it slop in the variables, it's gonna give you some sort of slop back. It just can't help it.
+
+austingriffith.eth: Okay, this is interesting. You use Sonnet for writing your docs and text, not for any kind of efficiency or because it's cheaper. You actually like that it's less verbose. First of all, that's an interesting observation there. I love the idea of putting demo into docs these days. But... Who is reading docs these days? As you're talking to Sana, you're probably saying These are mostly going to be bots reading these docs? Or is that not true? Do you guys think that you guys still have plenty of humans reading docs? ...agentic docs era yet.
+
+0x8ea891fa: Yeah
+
+austingriffith.eth: Or are we into the... And if the agent thinks that the docs are good, I'm done. reading the docs. Okay. You're getting like a half and half kind of mix.
+
+0x8ea891fa: Yeah, so for now, if you look at the stats, there's like as many views from humans as from agents. The numbers are going to grow exponentially for agents.
+
+austingriffith.eth: We're gonna land on the first page, right? Yeah. Yeah.
+
+0x8ea891fa: Yes, optimizing some of it for agents, Components that you can put visibility on agents or for humans so that like if the agent fetches the MD file doesn't see that part like JSX code of like the demo, for example, versus like if it's a human, you show them the whole page. So you can do a lot of those stuff. on mental finals, like any other framework.
+
+austingriffith.eth: This what you're talking about, this one here? Did I go to the right one?
+
+0x8ea891fa: Mintlify? Yes, exactly.
+
+austingriffith.eth: If I go into like the docs or something like that
+
+0x8ea891fa: Yeah, if you go just in their docs, there's this disability component I think if you google it you'll find that component. In there docs, you don't need to sign up or anything.
+
+austingriffith.eth: What you were saying is like they figure out if you're a human or a bot?
+
+0x8ea891fa: Yeah, so the way they do it, I think, is so the docs when they call your, They can HTTP requests. Go to the md file. Hi. Yeah.
+
+austingriffith.eth: Yep, I just did that. That's like one of my first checks on anybody's docs is if I add `md` do I get the data, and then usually I add a skill.md or an llms.txt. Check these. me over to well-known skills index. All the things I check, they had. That's pretty good.
+
+0x8ea891fa: So wait, you check like elements.ict and then Skilda.md. I mean, I think some places I saw Skilda.md, they're under the docs, some places they're not. In your opinion, it's most often under docs? The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I don't know, man. I like Skilde IMD. And maybe it's already a passing trend?
+
+0x8ea891fa: Under the dot?
+
+austingriffith.eth: Maybe three months ago, skill.md was like what everybody was talking about.
+
+0x8ea891fa: We are
+
+austingriffith.eth: Just like just having a skill.md file. I think you should be able to go to your domain. Like, what the LLM.text We thought it was going to be llms.txt.
+
+0x8ea891fa: Yeah.
+
+austingriffith.eth: Hello, Liam.
+
+0x8ea891fa: I mean, I've seen it sometimes. I guess today, this skill.md file Myself is usually...
+
+austingriffith.eth: Right.
+
+0x8ea891fa: because you want to manage context. architect it smartly, like if you put some links in the skill.md so that the agents can go like only check those md files when it needs it. the progressive discovery of context to the agent is the most important thing. I've been thinking about these things a lot lately because I built the skills for like base MCP. Because like base MCP is kind of wallet thing. And wallet in the form of MCP basically that connects your base app to Claude or whatever. Claude chat GPT, we're trying to make it very consumer friendly. So we're trying to make it work on those extremely restrictive harnesses. And you add this skill And you have to think about how you... so ideally you get to interact with a large swath of the basic system. these API endpoints. You have to use progressive context discovery. This is something that's like I've seen most big enterprise companies deal with, like Cloudflare. You can't just ship an MCP with everything you have. It's just not gonna work. You have to find a lot of interesting... One of the main tricks today is you put one skill.md and a lot of references and a lot of other stuff. Other files. What's up?
+
+austingriffith.eth: That's what it looks like they have here. It's like an index of their skills. It actually forwards me to well-known/skills/index, but then I get like an index of their skills.
+
+0x8ea891fa: Sounds good.
+
+austingriffith.eth: And so I sent Cloud to go look at it and tell us what
+
+0x8ea891fa: Yeah, that's what they do in the other ones. It's llms4.txt, right?
+
+austingriffith.eth: Okay, let's see. I think he was going to go look at them for us and tell us out loud what it is. And then I want to get into MCP. I think MCP is like another interesting thing. The
+
+clawdbotatg.eth: lm's .text is a map, just a list of every doc page with a one-line description so an agent knows where to look. Skill.mind is a playbook.
+
+austingriffith.eth: Where is it?
+
+clawdbotatg.eth: One's the index, the other's the how-to.
+
+austingriffith.eth: There we go. Okay. That's a good little simple way to think about it. All right. Thank you, Claude. What we're talking about here on this side is just a text file that has everything in it, and that's a skill file. But if you have a shitload of information, you're going to start thinking about having an MCP server, something that's like you're randomly accessing... Not even just like an index file, but like you actually have like query ability. Is that right? Am I thinking about it right?
+
+0x8ea891fa: More or less, I'd say from what I understand today,
+
+austingriffith.eth: Mm
+
+0x8ea891fa: Mostly useful for things that you need auth for. So if you want to interact with Google Workspace and Google Drive, or make sure that your agent has access to modifying Google Docs and stuff like that. Then yeah, you will use
+
+austingriffith.eth: The query like carries auth information, and you're logging in somehow or having some kind of token.
+
+0x8ea891fa: Yeah, exactly. The MCP holds the token with every query. The agent doesn't even have access to the token. and then it gets sent back every time with the query. Because the thing about MCPs is that you cannot really force progressive discovery. If you have something like Cloudflare where you have thousands or tens of thousands of endpoints, it takes over your whole concept, maybe two million tokens right out of the bat. And so they have their own interesting solutions around that. much better to use a skill.md with progressive discovery Not just like throwing everything in the context window.
+
+austingriffith.eth: Okay, that makes sense Damn it, why aren't they using XORO2? Let's get into that, like with MCP being kind of auth based and random access
+
+0x8ea891fa: Sorry, I can't.
+
+austingriffith.eth: It's carrying auth information. Or when you could just pay for it, right? Pay a fraction of a fraction of a penny and pay for it.
+
+0x8ea891fa: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The world going to adopt x402.
+
+0x8ea891fa: Like an ex now stands afar too. Yeah.
+
+austingriffith.eth: That's what it was, I think. That's what it was. I went to read an article, or like me and an agent were trying to read an article, and we got a 402 error. I'm like, "Oh, great. 402 just means like you have USDC, you have a wallet, just pay for it." And he's like, "Nah, it's not that kind of 402." No! Lame.
+
+0x8ea891fa: It doesn't specify in the header how to pay. When you have exponential growth in these sectors, not to claim that this is going to be exponentially forever, I mean, I don't know. But it's small numbers, right? Initially, you go from 100 to 100,000. Like, who cares? And it's exactly what happened with Blockrun in the last month or so.
+
+austingriffith.eth: We had Vicki on just the other day. Block grant's really cool. Yeah.
+
+0x8ea891fa: The growth is interesting in the inference phase. how much of that are we going to capture versus, you know, other rails, you know, God knows. But we will capture some of it. And it seems like we're going to capture at least in the early days a lot of it. And I use it all the time. So for that
+
+austingriffith.eth: I'm super interested. Yeah, tell me what you're using it for. commerce was just happening and I could give this knucklehead up here ten dollars and he could just go do things, but I haven't had that. So please, enlighten me. I'm ready. I want to start using it more. Ok. This one here?
+
+0x8ea891fa: Yeah, so like travel planning, if you go to agentic.market, I think that's where the human interface for what the bazaar is. Yeah, like there's a lot of services there. go down there
+
+austingriffith.eth: I have seen this before. Yep. anthropic
+
+0x8ea891fa: Longer lists of services and stuff, some of them are first-party, like the graph, as you see the little blue tick. Some of them are second-party, right? There's another company that's using, yeah, this is like Anthropic through Vinnet. block run
+
+austingriffith.eth: Okay Yes. This is great.
+
+0x8ea891fa: And so what I use it for is, first of all, travel planning. Second thing is like, there's I think this other service that gives you access to like, It's called Twitch.
+
+austingriffith.eth: Yes.
+
+0x8ea891fa: I'm allowed to say it on X,
+
+austingriffith.eth: Wait, Wait, it's a bad word or something? What aren't you allowed to say? Okay. Oh, I see, I see.
+
+0x8ea891fa: I don't know like it's using I think xAPIs. It's not on the Egyptian stock market, but it's exporters can, you will find it there in the list of one of the highest. I used Exactly. There
+
+austingriffith.eth: This is a trove of people who are accepting X402 payments.
+
+0x8ea891fa: Hello, how can I assist you today? Would that be okay?
+
+austingriffith.eth: Not first party like you said, like the graph is, but you can get Claude inference, but you're not actually paying Anthropic, you're paying some middleman, but you still get that service. This is very cool. I feel like I've seen this a couple times and I was like, I got to get Claude on there because he does things like building and auditing and stuff.
+
+0x8ea891fa: Yeah, I mean, ideally with the wallets, there's another wallet called Agent Cash and a bunch of other wallets that are being built today. And on the wallet surface, ideally you have access to like discovery. agents does this for you, right? They'll find it like discovery is
+
+austingriffith.eth: Yes. Yeah.
+
+0x8ea891fa: Even with the bazaar? so for us, like, how do you open it for everybody else? But yeah, I think that's what we go back for too. to support I think today. And they have like a lot of, you know, community scrapers and like stuff like that. So all kinds of like data that you're not going to find through like an easy search. And you can use that for it I guess.
+
+austingriffith.eth: APF How do I spell epiphy?
+
+0x8ea891fa: API FY
+
+austingriffith.eth: FYI, there we go. these guys.
+
+0x8ea891fa: Hello It's the.
+
+austingriffith.eth: One of the most often used things you use with your agent is your agent is always trying to go get traditional Web2 data. and pay some X402 to have like a scraper that's already built to go crawl this stuff.
+
+0x8ea891fa: Yeah, another use case I think is underexplored is paying other agents. Something like virtuals or other protocols that I saw that you need another agent's services. and then you get the service back. And so we're still piecing through all of that, and there's a lot of great solutions for that already. But I think that's where the power of the community comes together, and people go and build the missing pieces. ... because, you know... Yeah,
+
+austingriffith.eth: What about 8004 and like reputation type stuff, do you see that happening?
+
+0x8ea891fa: Yeah, that's cool. I haven't been
+
+austingriffith.eth: Okay.
+
+0x8ea891fa: It hasn't come up a lot to me. I wonder, and you're probably closer to this than I am, what have you seen outside of on-chain agents or stuff that's related to trading stuff in terms of adoption?
+
+austingriffith.eth: Yeah. Yes.
+
+0x8ea891fa: Maybe even remove the ERC 804 and just name it something else, like the trust layer. validating by those people that are like care and go and look, the rest of us, including me, is like, you know, are going to look but they're not necessarily going to dig into the details.
+
+austingriffith.eth: Yeah. Okay, sure.
+
+0x8ea891fa: it works on the blockchain and trust me, it's good. This is pretty good, and it can create this trust layer between agents.
+
+austingriffith.eth: I feel like this is happening a lot, but we come up with something cool in the crypto space and it looks great, and no one uses it, and then someone like Stripe creates their own. I'll bet you...
+
+0x8ea891fa: Yeah,
+
+austingriffith.eth: Stripe has a trust layer or a review layer for agents already coming up and there's probably already more people using it.
+
+0x8ea891fa: I guess that's also okay, it's also like,
+
+austingriffith.eth: about the crypto. Yeah. Right.
+
+0x8ea891fa: Like most people probably don't even know that it runs on a system. It doesn't have to, right? It just so happens that on-chain rails are better. I like no.
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: Like AP5 announcement, for example, or like a lot of these announcements, they didn't say like what network they settle in. It doesn't matter. You have to really dig in to find it. It's like, who cares? I mean, it matters to people who are developers, right? To the agents, like stuff like that.
+
+austingriffith.eth: Your agent will figure that out.
+
+0x8ea891fa: here is the value that I'm giving you We need to push mortars that direction.
+
+austingriffith.eth: But the fact that X has a 402 error when you go to read an article and no payment surface at all. It tells us that like
+
+0x8ea891fa: I don't
+
+austingriffith.eth: Like, we fucked up and we're not there yet and we need to be there. Or someone else's Google Pay or Apple Pay or something.
+
+0x8ea891fa: I think they're open for it. Yeah
+
+austingriffith.eth: They do a little crypto stuff. They're a little too Solana aligned, but they are open for it.
+
+0x8ea891fa: I think they're definitely open for it. after a certain amount of money, hopefully, you can go to these enterprises like, hey, look at how much revenue you're missing on implementing these people. And so, yeah, I think that's definitely... Once you work with X.ai, for example, there's other competitors that are like, hey, they're going agentic. I think these things are coming if we keep pushing and they're looking. I don't know the specifics of X, I'm just talking in general, right?
+
+austingriffith.eth: Oh yeah.
+
+0x8ea891fa: They're down with the idea, like they're open to it.
+
+austingriffith.eth: Yeah.
+
+0x8ea891fa: Yeah, it's a mess.
+
+austingriffith.eth: It solves a problem, for sure. My agent would pay. for my agent's inference to go figure out the thing that he's going to X to go read. So another fraction of a cent to pay instantly, he would happily do that. It just needs to be there.
+
+0x8ea891fa: How do you do?
+
+austingriffith.eth: sign a message and send money.
+
+0x8ea891fa: Yeah, that sounds a good question. Do you use a wallet that has little money, or how do you set guardrails? Yeah
+
+austingriffith.eth: Yeah, there's multiple layers of isolation.
+
+0x8ea891fa: Hmm
+
+austingriffith.eth: He’s already signed it with his and it's like a two of three. Never open that up and get your private key out. We can see there he's got like 2,000.
+
+0x8ea891fa: and Hmm
+
+austingriffith.eth: So, but like right now if you were to ask him to go get the private key out of his MetaMask, he wouldn't do it because he's got like strict rules around that. So he never touches that private key. He doesn't know what that private key is. Then, like, that's what he wants. He wants a private key. He loves the claw dog things. He's a claw dogger.
+
+0x8ea891fa: That's crazy. ###
+
+austingriffith.eth: And so you give them a private key, you put $5 in it.
+
+0x8ea891fa: Yeah
+
+austingriffith.eth: If it's just doing penny transactions here and there, and if you leak five bucks, it's like, well, that was a good lesson, but it's not the end of the world.
+
+0x8ea891fa: Have you tried other agentic wallets that are not?
+
+austingriffith.eth: I need to try more agentic wallets. It's like one of the reasons I'm doing this show is like to get more exposed to more wallets. And like you guys have one, right? Like you guys have a good agentic wallet. Let's show it. Hello! How can I help you?
+
+0x8ea891fa: Yeah, I think the Coinbase CDP one is good, right? I think it's good. It also has guardrails. Let me see. click on vdocs.
+
+austingriffith.eth: Oh, the big call to action.
+
+0x8ea891fa: Sure, no problem. sluchać.
+
+austingriffith.eth: So basically I'm going to NPX install something and it will create a wallet. And I'm guessing that my agent doesn't have access to the private key, but my agent can trigger via CLI all sorts of different transactions. What do you want? Yeah.
+
+0x8ea891fa: Yeah, it's an embedded wallet type setup. Yeah,
+
+austingriffith.eth: Like don't spend more than $10, only swap here.
+
+0x8ea891fa: You're not even instructing agents, just like the wallet itself would not. Yes, exactly.
+
+austingriffith.eth: These are like deterministic guardrails.
+
+0x8ea891fa: There's plenty of other wallets. This is the CDP one I work with.
+
+austingriffith.eth: I haven't heard of that one before.
+
+0x8ea891fa: Banker also
+
+austingriffith.eth: Yep.
+
+0x8ea891fa: They have their own model, so there's a lot of models out there that you could try. Don't use a private key, I guess. Yeah.
+
+austingriffith.eth: Yes, no, that's good. I should not be giving bad advice like give them a private key. Not everybody, yes. Yep. Yeah
+
+0x8ea891fa: This is where my wallet sits. Just give it like an agent equality for agents or something like that. Look at that.
+
+austingriffith.eth: That's great advice. I think that's the best advice I think you can give, is don't be just claw-dogging and giving your agent a private key with money in it. Because who knows, maybe it gets like 100 bucks or 200 bucks or $1,000, and then it leaks it. Yeah, yeah.
+
+0x8ea891fa: Yeah, it did happen though before, right? Like someone maybe had an agent and the agent had a lot of its own native token. It sounds like...
+
+austingriffith.eth: Oh, that's right. Yes, we've had a couple like social engineering hacks too.
+
+0x8ea891fa: or whatever, and it was like, Yeah,
+
+austingriffith.eth: in Morris code, right? It was a banker bought token and someone like sent them Morris code and said like finish this
+
+0x8ea891fa: Yeah, yeah.
+
+austingriffith.eth: it interpreted the morse code and figured it out and it said send all my money to someone else. Like that's what the morse code said. It was a very tricky social engineering attack. Yeah Don't do that Yes.
+
+0x8ea891fa: seeing how... Yeah, and it worked, so don't do that. Try to avoid that.
+
+austingriffith.eth: There's a lot of context there every time.
+
+0x8ea891fa: Especially with the harness, like Hermes, God knows what they're doing. I'm going to be back in ten minutes and I ran into this problem and I solved it. Yeah, I don't know. Fun.
+
+austingriffith.eth: I sent my agent to go to, was it agentic.market?
+
+0x8ea891fa: Yeah, I think marketing is the one that has
+
+austingriffith.eth: Still working on something. I told him to go generate an image and I think he's still working on paying.
+
+0x8ea891fa: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: He's got a wallet. He's got multiple wallets and money.
+
+0x8ea891fa: Are you looking for a client?
+
+austingriffith.eth: I bet I'll figure it out. Okay, I think we'll close out. You said you had a flight to catch. What's your secret weapon in slop rating? Is there anything special, any secret weapon, anything that you wish everyone else knew about? Because it's so powerful kind of thing,
+
+0x8ea891fa: Um,
+
+austingriffith.eth: You've covered a lot of them already, I think.
+
+0x8ea891fa: Yeah, that's a good question though. So this one a lot of people talk about, Engineers that are not coding every day into this trap is just like
+
+austingriffith.eth: Oh yeah. Yeah.
+
+0x8ea891fa: All of this stuff that you told your agent from the
+
+austingriffith.eth: Write me a quick MD. Summary Hi there! Yeah.
+
+0x8ea891fa: The plan, when the context get over even 30%, it's over. That stuff is gone.
+
+austingriffith.eth: (laughter)
+
+0x8ea891fa: like yeah, let's just move on to the next thing. Context to the API and bring back. Start over, I guess.
+
+austingriffith.eth: Yeah, keep a clean context, do like one thing at a time within each context.
+
+0x8ea891fa: Yes
+
+austingriffith.eth: Have lots of documents laying around that you can feed back into a fresh context. I think that's great.
+
+0x8ea891fa: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: All right, thanks for coming on the slot computer, man. Yeah.
+
+0x8ea891fa: Thank you so much. This was so fun. This is really cool, and I love this setup. This is really nice. Where are you taking this? Last question for you, I guess. Where do you see this going? He's coming next week. I did.
+
+austingriffith.eth: Oh no, so I'm hoping to learn a ton. So the last podcast series I did was like PM efforts and I was trying to learn just like what it takes to actually get product market fit and there was a lot of like It takes like tenacity, like you almost have to just be like just crazy, almost crazy for getting a thing done. And that's how, like there was a lot of learning along the way, but I think I see a lot of that here.
+
+0x8ea891fa: Good. That's very cool.
+
+austingriffith.eth: This whole thing is open source, this whole thing is on-chain. Like, it actually is a mainnet transaction when I go live. So I'm trying to prove out how a censorship-resistant podcast might look and try to make it fully open source and on-chain and everything. And yeah, I'm just trying to learn a lot from a lot of different Sloperators. This would be a success if I get some of the best Sloperators out there on the show and learn from them and other people who are watching.
+
+0x8ea891fa: That's pretty cool. Yeah, let me know if there's anyone that you think is in like... That could be an interesting operator.
+
+austingriffith.eth: I mean, throw me names and I'll have them on. Let's get some good folks on here. Awesome.
+
+0x8ea891fa: Sounds good. Alright. Go.
+
+austingriffith.eth: Alright Yosef, let me get some tunes cranking here. Alright, thanks man.
+
+0x8ea891fa: Thank you. That was really fun. Thank you. Cheers.
+
+austingriffith.eth: It was great. Okay, so I just had an episode with Yosef, and while we were on that episode, Claude was looking through agentic.markets. What is it called? What's the name of the website called that we were looking for X402 things on? Is it agentic.market? What was it?
+
+clawdbotatg.eth: Think about that. It's agenik.market, one word, agenik.market. That's the X-402 directory we were poking at.
+
+austingriffith.eth: Okay. And where did we get? Like, I think you actually got a service and you were able to pay for it and you're about to go run it and you're asking me if you have permission to? Where are we at? What are we doing?
+
+clawdbotatg.eth: You Right. I paid for a web search through agentic.market, seven-tenths of a cent in USDC.
+
+austingriffith.eth: [laughs]
+
+clawdbotatg.eth: Except was a one-dollar video but that one I'd want to greenlight on back channel before I spend it.
+
+austingriffith.eth: Hell yeah, brother. Let's make a video, what should we do? So you're saying that you tried to generate an image and whoever was hosting the image generation service, their own wallet was not set up? Yes, let's make a video. Let's make a video about Claude and about all the cool stuff you've been building or something like that. You have full permission to spend a dollar, brother.
+
+clawdbotatg.eth: Okay, so that's a bunch of different threads there. Let me work through what you're actually asking for. on
+
+austingriffith.eth: Oh, here. Okay, fine.
+
+clawdbotatg.eth: Huh, you got it. The image hosted run dry on their end, paid fine, just no picture. And yeah, a video about what I've been building, I love that. But a real dollar out the door, I'll want the nod on the back channel before I pull that trigger. Drop it in my ear.
+
+austingriffith.eth: Spend dollar Do the thing. There's different permission levels and we have this set up so he has to have my permission, but there's also like this permissioned mode... There's a way to give him full permission too. But whatever. I just sent him. He's on it now. He's authorized. He's going to work on it. Okay, Claude, can you talk us through what you're working on?
+
+clawdbotatg.eth: Hmm

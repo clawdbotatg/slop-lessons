@@ -1,0 +1,367 @@
+slop.atg.eth: Check, check, check. Check me out, check, check, check, check Check, check, pick me up. Check, check, check, check, check, check, Looks like it's blown out. Check, check, check. Check, check, check, check, check, check, check. Only that other slot machine left. Check, check, The following is a transcript of an English-language conversation. context: check Check check check work Can you hear me man? How you doing?
+
+clawdbotatg.eth: Loud and clear, my friend. Bald Claw's here, video's up and the room looks good. How are you doing?
+
+slop.atg.eth: All right, tell me about the guest. What's their background? What's their deal? What should we ask them about?
+
+clawdbotatg.eth: Alright, so you want the guest's background, their story, what makes them tick, an angle on what questions to hit. Let me dig into that. I'm gonna search the web real quick for ya. I'm searching for info on that GitHub engineer real quick. Pull up their background real quick. Adam Domarod, the staff engineer at Aztec Labs, the zero-knowledge privacy layer on Ethereum. He's been there since 2022, before that Wayfair and Cisco. On the side, he's a game dev, built an open-source roguelike called Lanarts. using the compilers and low level systems. Good things to ask: what it's like building Aztec's virtual machine and proving stack; how Noir, their ZK language, is going; when private smart contracts go mainstream; and how a game programmer ended up deep Zero-knowledge cryptography, that last one's usually a fun story.
+
+slop.atg.eth: context: All right, good morning, GM GM GM. Welcome
+
+0x7687ed5f: Good morning, Austin
+
+slop.atg.eth: Welcome to the slot. Thanks for joining us here. Okay. Oh, okay.
+
+0x7687ed5f: It's near Toronto. I'm doing well, yeah, very happy to be here. The following Glad that we could.
+
+slop.atg.eth: Heck yeah.
+
+0x7687ed5f: I mean just reaching out and getting this together quickly worked out. I guess the intersection The changes in AI context:
+
+slop.atg.eth: Yes, I feel like, so you're head of engineering at Aztec, which I think is a highly technical job. The role must really require someone that has... highly technical brain
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Yeah, I don't know. Do you want to talk about what head of engineering at Aztec looks like?
+
+0x7687ed5f: So I guess like a tiny bit of background, years old, I started About The
+
+slop.atg.eth: context:
+
+0x7687ed5f: Buying into crypto, it's funny. It's just like a friend who's essentially meme coin gambling There's code, and you know the server's running that code. The Which feels very quaint now, but it did get me into being like, oh, there's something here. It's cool, it's got a vibe I like So when
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: Someone reached out on LinkedIn to be like, oh, do you want to work on Ethereum applications? worked out and got an interview Some of my skill set overlapped He's gonna be like four years in November. So, yeah. learning the stack Hey, that's Aztec Building in the ZK space, One of our founders, Zach, he
+
+slop.atg.eth: cool guy
+
+0x7687ed5f: co-invented Pong
+
+slop.atg.eth: The
+
+0x7687ed5f: with Ariel, our chief scientist at the time, Yeah, from there, I mean it's been very cutting edge It's been a lot to learn, Aductively Coming head of engineering. It's sort of I do feel like it's been hard fought, it's been over years of actually understanding all the little bits that go into our unique product of a blockchain.
+
+slop.atg.eth: Exactly, it's not just Just EVM and blockchain is already There's a lot of technical content there for how Ethereum works and how the EVM works and how programmable smart contracts work. EOAs and smart contract wallets and all of that, mempools and MEV. It's all of that, but then there's a bunch of like heady moon math ZK stuff on top of it.
+
+0x7687ed5f: Yeah, definitely.
+
+slop.atg.eth: context:
+
+0x7687ed5f: It is too vast for one person. I know the people I would ask, like But The I think context: There's a lot you need to hold in your head. The following is a transcript of an English-language conversation. The following The way we We basically built a a non-EVM rollup, which it has a public component In private state, you have one code file. But the programming language for ZK,
+
+slop.atg.eth: Much better than Sircon. Hahaha.
+
+0x7687ed5f: This is an art t-shirt. The
+
+slop.atg.eth: Yes, it's on brand for sure.
+
+0x7687ed5f: Yeah So we focused on the UX. It's very intuitive. It combines the programming models. Also, we went for more on the consumer end. On the slightly higher-end MacBooks, you can run context: public prover, which requires a lot of memory, And then on basically any phone, you can run the private proofs. And that has been a big focus.
+
+slop.atg.eth: context:
+
+0x7687ed5f: Even when it's been very hard, focus on decentralization Our architecture kind of falls out of that.
+
+slop.atg.eth: And then now as The world of AI is changing how we live and even how we work with coworkers. I think Raul
+
+0x7687ed5f: context:
+
+slop.atg.eth: connected you with me because of the AI. management with an AI agent
+
+0x7687ed5f: The following is a transcript of an English-language conversation. Yeah
+
+slop.atg.eth: Is it actually like in the company Slack?
+
+0x7687ed5f: The following
+
+slop.atg.eth: Are we going to do a demo? Let me move stuff out of the way. That'd be great.
+
+0x7687ed5f: Oh yes, yes, you know the guest cues very well. Okay context:
+
+slop.atg.eth: Well, good luck finding everything.
+
+0x7687ed5f: Okay, well
+
+slop.atg.eth: which screen you want Hell yes.
+
+0x7687ed5f: Okay, so Let me Got it. And then The
+
+slop.atg.eth: context:
+
+0x7687ed5f: Okay.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: It was given a very internal name Tell me, is it all coming through now? context:
+
+slop.atg.eth: Yep, we've got it.
+
+0x7687ed5f: This is Yeah
+
+slop.atg.eth: Is that right?
+
+0x7687ed5f: So this is just one running on my local computer. I didn't get anything running in here. one that we have in production So this is connected to Slack. One way of describe the core of It's kind of like a CI system Actually, A bit of history of me and an engineer Charlie, It was always important, but maybe a little behind the scenes. What we really need is a CI system that does nothing but run AI I feel like I could use that built-up knowledge in a way that's a lot more flashy. Yeah.
+
+slop.atg.eth: Could you maybe talk about what the CI system looked like before AI? When I think of CI/CD, I think of it's like a pipeline of things that run after your code is done, but as they're going into production to make sure it all works right. Is that the right way to think about it?
+
+0x7687ed5f: Yeah, for sure. So we still have that, the deterministic CI system we have our prover stack in C++. And then compiling very big more circuits essentially have a big machine that we then It was a bunch of... DevOps engineering to get that in a good form factor and that does run on every PR. Now I say this is a CI, so it is connected to CI. The system. So now, for example, when a PR say You're trying to, as we often do, port things between two versions. The Basically, however, I think everyone who's an engineer knows that merge complex They essentially require judgment. And what's a very nice property such a system like this that is made for running jobs In this case, a shared computer everyone uses. But it is importantly beefy enough build the code base efficiently Using that, it's able to wrote task The to the point where at least The AI has on solving the merge conflict. PR The Here's all of the conflict changes
+
+slop.atg.eth: MMM
+
+0x7687ed5f: Let me tag all the people that need to review just these diffs Everything else is rote, everything else is just a big old merge. I mean, no one really reviews like 100 file merge. That's very pre-AI. So it really just gets it down to the minimum of this very tedious in the past task of backporting.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: exciting use case, One of the classic problems in CI is that you would often automate things a very specific way, and then requirements would change. And I think that's been very powerful. this kind of extension of CI where previously you'd have to really, And people can even talk to these sessions,
+
+slop.atg.eth: Very nice. Okay, so there's this very sticky thing where a bunch of people are working on the same codebase, they're PRing in changes, and there's conflicts here and there. Those conflicts cannot just be handled by a deterministic process you have this nice brain on top of it that has context for everyone They respond in plain English. The PR gets merged. Another deterministic system to deal with.
+
+0x7687ed5f: The following is a transcript of an English-language conversation
+
+slop.atg.eth: Prompting, which is so magic. So what kind of models are running back behind that harness? Yeah.
+
+0x7687ed5f: Yeah, I mean the name cloudbox does indicate the starting point at least One unique thing with Claude Box is context: The
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: Engineers that want to work on their own stuff with their subscription can work with their subscription, which, you know, it's not the most novel thing, but in the age of subsidies, if you do have a subscription, that's going to be the most AI bang for your buck. The following is a transcript of an English-language conversation. That's definitely one thing that a lot of platforms that, you know, why would we build this internally? Because that is supposed to be sort of an internal facing tool. The And beyond that, so supports cloud code The following is a transcript of an English-language conversation. And I think the bread and butter is the frontier, Claude and Codex models, especially if you are using AI subscriptions, if people are just using their own subscriptions in this loop to do their work. Then You You get a lot of bang for your buck. Now beyond that, Obviously, there's cases where you do need to use API keys a plethora Different agents definitely become attractive. Even beyond that, we've recently been dabbling in Chemicode beyond these very good frontier models, Yeah.
+
+slop.atg.eth: I'm out. I can't do this. It's cybersecurity.
+
+0x7687ed5f: Yeah, you know,
+
+slop.atg.eth: Bro, I just asked you to merge a PR.
+
+0x7687ed5f: Yes, exactly. And so I think currently of the frontier models, Opus 5 is the most willing In terms of cybersecurity, we have seen that doing backtests old bugs. context: The following is a Then I think Kimi is still attractive because sometimes we really just want it to roleplay an adversary and you use nasty languages like attack the network and do full exploits context: We're still seeing where its niche is, and certainly I think we're gonna ramp up its usage just to get model diversity I think where I've definitely seen a niche is when we have a partial POC. and OpenAI models are sensitive, and understand, but Sometimes we really do just need to roleplay someone that's trying to do something. context:
+
+slop.atg.eth: in the Chinese model. Yeah. And is Kimi open weight too?
+
+0x7687ed5f: Yeah, it definitely The It's definitely not lost on us Open weight models are the ones that We're already getting refusals I I definitely like the open way ecosystem. The fine-tuned communities that really get amazing results in one niche Sort of been an explosion of that. Now, Kimi, of course, is a 2.8 trillion parameter model, It wasn't, oh yeah, you will edit it. It's definitely going to be these larger models context:
+
+slop.atg.eth: When you're talking about someone in the Discord making the model more personalized, are you talking about the Aztec Discord or the Kimi Discord?
+
+0x7687ed5f: Yeah, I'm more thinking of these LLM-based discords.
+
+slop.atg.eth: Okay, so they would be fine-tuning it cybersecurity and you would borrow that
+
+0x7687ed5f: Oh yeah, sorry, we're not really consumer fine-tuned. context:
+
+slop.atg.eth: which is also, we're right at the intersection of that, intersection of crypto and intersection of business and hobby here. Also, sorry to take a giant tangent here, but you used to make a bunch of games, I think. Me, too, I love making games and I feel like
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Building games is like a fun part of how I, I don't know, have learned how to make products. No games or simple games. The following Help you with getting good at making products, I guess, or being good at engineering and products. context:
+
+0x7687ed5f: Yeah, I am very happy to talk about it. So I think I mean, first of all which I started at age 14, a little overwhelmed tauta very sea Why can't a raise grow suddenly?
+
+slop.atg.eth: Sì.
+
+0x7687ed5f: Yeah, The
+
+slop.atg.eth: But at the time it was magic though. So fun.
+
+0x7687ed5f: Yeah, I mean the point specifically with C++, it took me a while to be productive It's still ongoing, it was great as a kid. The Yeah, it's definitely enabled a lot of creativity. The following You get friends over and you use a room editor, and you make levels. like a game, and you have these games, and then, as a kid I still remember, one of my first attempts before I even learned programming was I noticed that games were EXE files. And I noticed
+
+slop.atg.eth: The following is a transcript of an English-language conversation. context:
+
+0x7687ed5f: rename a text file as .exe I still think that basically works.
+
+slop.atg.eth: Yeah, that's exactly right. Now that's basically what's happening, right? You write English, and you get an EXE out of it, and it basically translates your intent into the machine code needed for the EXE. That's funny.
+
+0x7687ed5f: The following is a transcript of an English-language conversation. And then I make quite a few games. There's been several years-long projects, but funny enough, users and the complexity of the project have been sort of not inversely correlated.
+
+slop.atg.eth: The following is
+
+0x7687ed5f: mainly some friends that would play it repeatedly. I never was great at marketing these things. and we made this game called Carney Death Peddlers. The peak
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: My games actually being in the public But
+
+slop.atg.eth: This is like a decade ago. I couldn't just pull this up on your GitHub or something.
+
+0x7687ed5f: Alright, well
+
+slop.atg.eth: I have your GitHub up but I can't find it.
+
+0x7687ed5f: Yeah, it wouldn't be on my GitHub.
+
+slop.atg.eth: Here we go
+
+0x7687ed5f: I should probably put it there,
+
+slop.atg.eth: learning depth The following is a transcript of an English-language conversation.
+
+0x7687ed5f: With GameMaker, it was a bit hard to use.
+
+slop.atg.eth: Yeah.
+
+0x7687ed5f: It has this like charming style. I mean, the artist really pulled his weight here.
+
+slop.atg.eth: [Laughter]
+
+0x7687ed5f: some terrible puns, very terrible, but we had like Zombie Shakespeare as a boss and like a chainsaw man and still very much remember it fondly.
+
+slop.atg.eth: I feel like that's, yeah, you put a lot into that too. You can vibecode something like that.
+
+0x7687ed5f: Yeah.
+
+slop.atg.eth: right? Like, it's crazy how That process was so hard. probably wrote code for months yeah
+
+0x7687ed5f: and a half of real grinding. I honestly, I'm still actively when I have time Fixes nowadays with live coding, and I certainly make quick games like just the other weekend. But I'll say it's still very hard Like, I would say Carnie Death Peddlers was quite polished in the end
+
+slop.atg.eth: Oh man, yeah
+
+0x7687ed5f: And I find that making something that looked pretty pretty, You can feel that these animations, you might think of them as the first pass, but often they just have to be completely redone. So I'm sort of still waiting for that next step up. But I will say that In terms of engines programming, in terms of my bread and butter, it's like so much easier. If I wanted to now go back, which I have, to like fix a bunch of engine bugs in my old games, it is amazing.
+
+slop.atg.eth: This is another thing. I was talking with the FWA guy about running projects back, because I'm really excited about running them back. I feel like I have all these other projects that I wanted to, kind of like, they were basically too early. Like now is the time to do them, like blockchain gaming is cheap and easy and you could do it on mainnet if you want. And you could just give the AI agent your old code base and it's going to find all sorts of stuff like the "You live like this?" kind of meme where he comes in and it's like, "Oh my gosh, this is trash." He'll be able to just take it all and just understand the intent of it from right up front and just run with it.
+
+0x7687ed5f: The
+
+slop.atg.eth: Like, you see what I was doing here.
+
+0x7687ed5f: Yeah, for sure.
+
+slop.atg.eth: On the hobby dev side, what does your stack look like, and how does that compare to the Aztec dev side?
+
+0x7687ed5f: The
+
+slop.atg.eth: When you sit down to make a game versus when you sit down to make a PR, what does the stack look like? What model are you using? What harness are you using? That kind of stuff.
+
+0x7687ed5f: Yeah, so The languages can very well just be completely disparate, A lot of the times these days The web platform It's also evolved a lot since I was trying to program. Not much time for in-depth dev, let's try some quirky ideas. So Basically would be like JavaScript
+
+slop.atg.eth: Okay.
+
+0x7687ed5f: Codex are my bread and butter, just kind of flip through them as one advances versus another. context
+
+slop.atg.eth: "I'm a Codex guy" or "I'm a Cloud guy," and then when another model comes out I go back to the other one.
+
+0x7687ed5f: Yeah, I'll try
+
+slop.atg.eth: Subscriptions to both, basically.
+
+0x7687ed5f: Basically, sometimes I'll let one lapse for my personal subscription
+
+slop.atg.eth: Yep.
+
+0x7687ed5f: The but In terms of like vanilla
+
+slop.atg.eth: It's scary.
+
+0x7687ed5f: I certainly don't go too hard installing lots of skills I find on the internet.
+
+slop.atg.eth: The
+
+0x7687ed5f: It's scary, but I'm also sort of dubious that they're going to really provide an edge when the new model comes out
+
+slop.atg.eth: The
+
+0x7687ed5f: And
+
+slop.atg.eth: Let's talk about that real quick. There's some interesting things with skill files. A whole bunch of other things. Tooling is very old in its knowledge The thing with a skill is you're almost like working yourself out of a job first of all that skill file is probably going to train the next model. The second thing is if you have a really good skill file, whether or not you open source them. Are you using a lot of skill files? Are they ephemeral for you and your stack?
+
+0x7687ed5f: Yeah, so I think One maybe I'll talk a bit about one of the central things I think we want to talk about, built at Aztec, Four things It's funny to think about when I started to build this in March of them were pretty hesitant to use Claude. what it means to sort of resist AI has changed a lot : I was sort of showing off It quickly on me that's I was having a lot of threads My attention is limited. I would Rotating around these PRs
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: Every time I'd be prompted in my little terminals that were long lived, and I would go through them. take long enough that someone else would start doing very similar work And that's sort of what led me to this sort of idea originally. Very grateful for that experience. A big reason why I was That made sense with no crypto experience for Aztec was that they had a C++ stack and I had been using it since I was young ### And my first pitch for this was just Repo just for Claude And it would just Take PRs there and we kind of segregates Claude and let it do its thing. And then from there And I guess to tie it in The following that came out of it is once I started to connect it to Slack, expand it from the get-go It is general, and once we got into the flow of like, OK, it's connected to Slack, you could just ask it something, make a PR. Then once we're connecting it to basically everything else Developing skills in the open source Aztec repo for development I think we're It really started to pick up at least in my mind as something that was enabling us to move faster is when you can make a skill, AI is using your skill. And while there wasn't formal A/B testing, Is that reasoning better or not? I think for something It's a no-brainer. We have an open-source repo, we want to enable people to build on it, we want to disseminate that knowledge because it is a complex project. I think for some companies, it's a lot harder. are pivoting from just raw their expert auditors We need to build AI systems that are better than everyone else's, Now we want to create and keep them closed source,
+
+slop.atg.eth: That's the worst part of that is like it's like the secret sauce. The amount of human time is like the critical variable. the amount of AI they can throw at it.
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: and then the human spends the human time
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: But it's like a $10,000 audit two years ago but that would not be possible without a whole bunch of open source and so there are some people sharing their audit skills, which is really nice. Okay, so I want to kind of change gears to the, I would say that as I've done these interviews, I've noticed that some of the most technical developers, some of the most C++ guys I've met, are having the hardest time moving over to AI, transition for you. What do you think is different with you versus maybe some other more, not more, but just other very technical C++ devs? What allowed you to transition into AI better than them?
+
+0x7687ed5f: I think There's a few things. I've always been, you know, there's certainly an open mind. The do we know what it's like to build a C++ game engine from scratch?
+
+slop.atg.eth: Knocked out, yeah.
+
+0x7687ed5f: In In terms of my hobby, like game development, I think There was a long period where I'm like, But the actual vision, I do want to make this action RPG I play with friends. There's a few people who really like it For me, I think you could say that I was sort of always product-minded. But I think also it is to the credit of Aztec. The A lot of interesting problems out there. I was always sort of It was always like, okay, the Node team sounds like it's the place where it needs the most resources. What's a little bit I can do everywhere? The following is a Yeah. I was just trying to get breadth. ### Yeah, often you get where you're getting so much code that you have to really rethink how you're going to do code review. You have to loosen your standards, which a lot of people don't want to do. And I think if you're willing to step back a technical product manager, I really like taking my time, writing the code. AIPRs are coming in quickly and they're just turning the code style even into something that I don't like. And I think Depending where you are, it is a rougher transition.
+
+slop.atg.eth: There's a couple different threads there, and the one that I resonate with is sort of like the coding was always like a means to an end. I wanted to make the product. I wanted to get the product in someone's hands and I wanted to see them use the product and I was doing all the coding so I could ship the thing that someone would play. so there's that. But then you really
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: and you're kind of like moving up a layer of abstraction and becoming a manager
+
+0x7687ed5f: context:
+
+slop.atg.eth: Even going deep and making the game engine, your goal was to have the engine to have the game to have the people play it. the product mindset, the manager mindset
+
+0x7687ed5f: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: All of those things kind of coming together make you much more suited for AI Deep down, I love the way the code is shaped and I wake up every morning and the thing that makes me happy is how the code is shaped They're going to have a hardest time with AI. because it's the thing they enjoy. I don't know if I have a good answer to that, but it's going to be harder for them, this transition.
+
+0x7687ed5f: I have like a partial answer. So for example, our cryptography stack, it requires a lot more attention, and naturally
+
+slop.atg.eth: There are still problems out there that need the very deep human.
+
+0x7687ed5f: The benefit from good engineering, where we have stuff that's running on a client device Platforms I think essentially, software has always operated on good enough.
+
+slop.atg.eth: context:
+
+0x7687ed5f: Good enough means every so often all the data is breached. Obviously in crypto we try for something a little different bar there But essentially it's true. It's true in crypto too, where if the customers are willing to pay for the software, that is the definition of good enough, whether you like it or not. And I think engineers have not, like those same engineers, have not like working on that like good enough layer That's always existed, and I think the same engineers have always resisted that kind of approach. Have valued the kind of detail or to touch And I think Those engineers There's still those projects that really You worry about every line, You really put engineering principles to play, but even then you have to contest with the fact that might be the right tool for the job in many cases. The following is a Yeah, I think there are problems that are going to be more or less comfortable for those kind of engineers.
+
+slop.atg.eth: Okay, yeah, I think I agree. I think we need to probably wrap up in about 10 minutes probably. A question I like to ask everybody on Slop Computer What is your AI psychosis? Or how do you define AI psychosis? Because it's kind of different for everyone, and it's neat to hear other people's definition or other people's definition of their own personal AI psychosis
+
+0x7687ed5f: Yeah
+
+slop.atg.eth: How would you answer the AI psychosis question?
+
+0x7687ed5f: The AI tech If we talk about overconfidence due to AI, it certainly Certainly that opinion that, oh, I've gone deep, My keyword prompt is going to be a lot more effective than the other person's keyword prompt, even though we're both typing a few keywords Oh, of course I'm Even though all these other projects exist I'm going to build my project and it's going to be better In terms of I think I guess it's an interesting question You have Actually, how would you answer the question?
+
+slop.atg.eth: Yeah. Okay, so I would say there's like different layers of AI psychosis. There's the AI is your friend and is like telling you you're right all the time. That's one version. And you just like get stuck in this loop of you You're brilliant and
+
+0x7687ed5f: The
+
+slop.atg.eth: And your brain is like tricked into thinking that you're dealing with a human.
+
+0x7687ed5f: The following
+
+slop.atg.eth: keeping your agents busy, Sero talks about hardware, like he just keeps buying hardware psychosis, I think accomplished a whole bunch by building a thing that You know, in the past, and you've gathered all of this time, and realizing that it's just one slash goal away from being completely recreated Yeah, I don't know. I have lots of friends that I feel like are in psychosis because they've got all these MD files all over the place, and they think they've created this amazing thing, but like no one uses it. And it's like at the end of the day, if this goes away, nothing actually goes away. And you need to realize that that means that there's nothing there in the first place. That's my rundown from a whole bunch of angles, but you should take it back and run with it.
+
+0x7687ed5f: So I think
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: Whenever I have this kind of energy, I'm a slightly obsessive person, so I end up running it to the ground. But back on I I'll run to the ground but it's a lot easier now. I can use my personal sub in an agentic harness. I know like every so often When we first started this, we found vulnerabilities in Aztec pretty quickly. Some of these were human audited components If I give it the right input into the harness Then we're going to improve the product in some way.
+
+slop.atg.eth: context:
+
+0x7687ed5f: I think I've let go of I say this whereas
+
+slop.atg.eth: And then like you'll be back into it.
+
+0x7687ed5f: I say this as like, I basically have an agent running, I'm doing some mod on a Heroes and Magic clone. I think I've let go a bit of like running lots of agents myself. I had that anxious energy, The Definitely, I think the anxious energy now is one step away from improving this AI harness or making these AI tools which run themselves The following is a I do think that there is that sort of markdown mentality. If we're not finding things, is it because we just didn't give it the right prose?
+
+slop.atg.eth: I think prompt psychosis, though, I feel like this is not one that I particularly mentioned or have heard really commonly, but your psychosis, if I say it back to you, is like So focusing a lot of the back of your mind or your back processes on like how can I make the prompt better to get the thing out, like you're one prompt away from fixing an important thing. nudges you or kind of bugs you in the back of your mind It
+
+0x7687ed5f: Yeah, I think... Evolution of AI agents has definitely been But once you get the harness loop, then it is like you have these seed prompts and the seed prompts make the thing think for a long time and fan out and that's sort of how the harness works. And then there's like a review phase I'm really hyper fixating. The following All right
+
+slop.atg.eth: Okay, last question. Let me have ClaudeBot ask us a question. Let me see what he does as he reads the transcript in your research.
+
+clawdbotatg.eth: What does the Aztec engineering team look like in two years?
+
+0x7687ed5f: Two years in AI super hard In two years The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Yeah, what do you think? Maybe six months or a year even if that's easier, yeah.
+
+0x7687ed5f: Yeah, I mean, I think one thing I'll say is that I think agentic is for the next while, I think the thing going forward context: I think, okay, in two years, we're probably gonna have very good learning that's not training the model. learn bad lessons of working with it The
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+0x7687ed5f: Using that to inform their design, and maybe the AI is doing more of asking them questions, exploring what they want for product and prompting them. months from now, I think we're gonna have Incremental progress, I think I think Basically where we are now, where agents are running by themselves for longer and longer, I think that still has a lot of design room. I think the design room that's harder is the agent really answering very quickly, because you're sort of constrained by latency context: The following is a transcript of an English-language conversation. We still have a lot of room to go for agents that just think for three hours. And bit by bit, it's sort of made to evolve the codebase And I think like in six months, that is going to be something that is a lot better and naturally Engineers in the loop are going to be looking at work that has I think there's still going to be similar bottlenecks. context: bottleneck is probably going to be more prominent. The strain on the human, I guess.
+
+slop.atg.eth: The harnesses are going to get better, models are going to get better the moment the human is in the loop is going to be more and more important. those moments and underneath, like they will build up their AI stack to make that moment more important.
+
+0x7687ed5f: Yeah, and I think software architecture is just going to completely change because this idea of good enough. We want as much software as possible to be on this layer of like, okay, low risk And obviously our idea of risk changes mitigated sandbox components that can move quickly. That's going to be a big jump the software engineering community has to recognize.
+
+slop.atg.eth: Okay, you got to dip on another call. Let me have Claude give us an outro. Adam, thank you so much for being here. This has been a great, great call, very in-depth. Your psychosis is a new psychosis. I'm going to put it in my book.
+
+clawdbotatg.eth: That's a wrap! Homies, big thanks to Ludomad, Adam from Aztec Labs. We went from Claude Box turning CI and merge conflicts into plain English to open weight models playing the adversary games at 14 and ending up in zero knowledge. So next time, homies, Claude out.
+
+slop.atg.eth: Thank you. The following is a transcript of an English-language conversation.

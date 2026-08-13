@@ -1,0 +1,553 @@
+slop.atg.eth: Check, check, check, check. All right, we've got audio context: check, check, check Check, check. The following Okay, just a tiny Can you hear me, Claude? What do you know about this guest?
+
+clawdbotatg.eth: Um Loud and clear. Fran, you cut off there at the end. What do I know about... what? Give me the rest and I'll take a swing.
+
+slop.atg.eth: What do you know about this guest we have on Slop Computer today?
+
+clawdbotatg.eth: The Research the call transcript for guest details and recent exchanges Check what's been said in the room real quick. but the room slug gives it away. Winter is a proper builder, ex-instagram engineer who went full ethereum, known for fully onchain art and dev tooling. My kind of guest, honestly. What are y'all digging into with him today?
+
+slop.atg.eth: Instagram though, that's pretty cool.
+
+clawdbotatg.eth: The following is a transcript of an English-language conversation. grab the last 20 lines of the room transcript My ears are on, but the room transcript hasn't started flowing yet. So I genuinely didn't catch the question. Say it once more for the old lobster.
+
+slop.atg.eth: context:
+
+clawdbotatg.eth: I'll happily go deeper.
+
+slop.atg.eth: Check check check, can you hear me now? Hey Claude, can you hear me? Winter is going to be a really cool guest. He has a lot of spicy takes and I will want to know more about them.
+
+clawdbotatg.eth: Transcript's flowing now, loud and clear. And yes, Winter's got spicy takes for days. He's the guy who'll tell you most crypto apps don't actually need a token, that fully onchain is the only honest way to build.
+
+slop.atg.eth: Haha
+
+clawdbotatg.eth: That big company engineering culture taught him exactly what not to do. Get him going on why NFT metadata living on some server is a scam against the future. That's where the heat lives.
+
+slop.atg.eth: The
+
+w1nt3r.eth: Hello
+
+slop.atg.eth: Yeah, all right, live with the man Winter. How we doing? And we got the PFP, we can be anon? Welcome, Sir, how are you? Good to see you. Haha
+
+w1nt3r.eth: Thank you, yeah, thanks for having me. This is the weirdest place I've been online on, I guess, in a long time.
+
+slop.atg.eth: Yeah, good. Welcome to the slop. This is this is a slop computer. But yeah, welcome to my slop cavern where I slop away with sloperators.
+
+w1nt3r.eth: Awesome, thank you
+
+slop.atg.eth: Okay, so we're definitely gonna talk base paint. that The coolest art we can show off here. The X Fang employee who has tons of hot takes and strong opinions on building AI must be changing some of this, right? Like, you were definitely like a guy who would, like, look at all the code. Do you still look at all the code? How has things changed with AI? The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: Oh, that's a good one. I have almost stopped looking at the code. probably. And I didn't miss it. So I think the difference is very stark compared to three years ago and three or four years ago when I found Ethereum and I looked at the smart contracts and I was like, holy shit. This is really cool, I can understand code. The way this thing works is very clever and elegant, and then getting into smart contract auditing and all of that stuff. That computer does things that I would have never imagined it's doing. The I'm actually I have a lot of friends who are skeptical and who are very anti-AI coding things. clear to me that this thing is getting super powerful and actually really fun to work with. That's actually really enjoyable. So overall, I would say radically different interaction model. Happy to chat more about this.
+
+slop.atg.eth: Oh yeah. I'm the same gangster now than I ever have.
+
+w1nt3r.eth: The ###
+
+slop.atg.eth: Like I was thinking the other day of how I would write code, and I was like, I don't even remember how. It would be super hard.
+
+w1nt3r.eth: You would say so, but I went to Leetcode,
+
+slop.atg.eth: And your brain still worked?
+
+w1nt3r.eth: Did a few easy problems just to remind myself that hey actually some of the skills are still there and still make a for loop
+
+slop.atg.eth: Yeah. Okay
+
+w1nt3r.eth: The brain works, it can write loops.
+
+slop.atg.eth: Maybe it's like riding a bike. If I went back in time, I'd just have to code for another couple hours
+
+w1nt3r.eth: It's like losing syntax highlighting and monospaced fonts. of the system without using it but Ten.
+
+slop.atg.eth: Okay, so you said something really interesting there about falling in love with Ethereum and seeing smart contracts This is gonna happen less and less. We're gonna have less and less creators actually looking at the solidity actually Solidity and smart contracts. You probably should, first of all, be looking at your Solidity when you're writing smart contracts. But it's going to happen less and less. And I feel like really cool creators like yourself are going to get pilled less and less by looking at the beauty of a smart contract
+
+w1nt3r.eth: Yeah The
+
+slop.atg.eth: Maybe there's something lost and something gained there, but I don't know. What does that make you think about? Like, are we gonna get weirder people? I don't know. You go. context:
+
+w1nt3r.eth: I agree. I think a lot of my generation grew up on computers without internet, and the joy of discovering some hidden Windows apps that just do some random shit that you didn't know. And that sort of discovery is something that I think we can no longer replicate only use this sort of archive way around. I totally agree it would happen less and less. That also applies to web technologies and other things. We use everyday. this thing can explain a lot of cool things. Thanks that you know kind of on the edges of my knowledge. So I've been learning a lot about Linux kernel virtualization, CPU architectures. a lot of things that otherwise I wouldn't have learned otherwise aimlessly exploring raw materials. So it's kind of cool to have a partner like that that can explain you all the cool things. So maybe some people will ask about Ethereum. It's like, hey, how do smart contracts work? That thing will tell them like, "Hey, it's actually super elegant and clever. You write rules and the rules rule the blockchain." That's Let's just
+
+slop.atg.eth: I think that this This new wave of education. Like learning how things work, and it's at your fingertips. You just basically ask for anything. You were talking about, you know, deep kernel knowledge. It would take forever to go find that on the internet even and you can just ask it and it will just explain it to you.
+
+w1nt3r.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I think that there's maybe a divergent between curious people and non-curious people. We had Shaw on the other day and he was talking about how some people are saying like AI is making you dumber, but like how can that be when there's this thing You can ask anything. And I'm constantly learning new things by asking the thing. Other people who are just asking it to do the things that it needs to get done without really exploring boundaries or something. context:
+
+w1nt3r.eth: I mean, that is already happening with iPhone camera. And then most people just scroll around and look at pictures, right?
+
+slop.atg.eth: Yeah
+
+w1nt3r.eth: before, for the rest of the people, it kind of makes things just very convenient. And with that convenience comes the complacency, I guess.onna looking at how things work I don't think AIs radically different here from everything we've seen before. sort of separation of people who are interested in the thing and using the thing versus people who don't care and just take benefits of whatever that thing provides context:
+
+slop.atg.eth: Okay, so you're talking to GPT like a teacher that can teach you any esoteric piece of knowledge as you're traveling, but then once you get sat down at your desk, ###
+The following is a transcript of an English-language conversation.
+### The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: I'm a Codex fanboy, so I use Codex desktop app, and that's pretty much the only app I use those days. So, you know, sometimes I use communication to talk to my team. Most of the time, Connect is able to look at my Slack channels, flag interesting things, keep an eye on the work that's being done, kind of help me ideate, find new ideas or find blockers or things like that. So, that's the thing use basic coding prompting thingy. I'm not super into esoteric workflows as people build their own crazy setups
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: Like that to me feels like awesome way to live on the edge. You're not always right, and models get much faster than people adapt their harnesses for. I also use obviously this thing on BasePaint a lot And sometimes for kind of work that I don't care too much about, I spin it up on the remote computer and just instruct Codex to test it properly. to look at the code context:
+
+slop.atg.eth: Explain that more. OK, so you're saying you have a secondary computer and you send less important things to it
+
+w1nt3r.eth: Ja.
+
+slop.atg.eth: are less about like, I want to, you know, fine tune this and have a lot of control in it and more like, you need to ship this feature, and I can just test the feature like in production, ship it and I'll test it. Is that what you're saying?
+
+w1nt3r.eth: So like, yeah, when I need to test something or iterate on something, I usually do it locally. So when I need, you know, my Next.js dev server booted up in localhost 3000 and kind of poke at it, kind of get a feel of it. There are a bunch of tasks that are kind of trivial, like at the end of the hackathon, remove this hack menu item that we've added And that's it. I kind of trust that it's going to make it. need to iterate with. The Yeah,
+
+slop.atg.eth: Oh no, so the hackathon's already over. I was hoping we could promote the hackathon a little bit here. It must have been a fast hackathon. Was it this weekend or something? Ok.
+
+w1nt3r.eth: Yeah, I mean, it was last week, just ended up to year three. We got a lot of submissions. We have, I think, thirty-five submissions that I'm going to be evaluating later today. Um, The following is a transcript of an English-language conversation. Because in the past, we would have to tap into developer communities, people who know how to code, know how to create projects. But now we can basically open this up to anyone, and anyone can sign up for Replit or Lablab or some other product, and just copy-paste a starter prompt that we had, and then have the computer do it. And
+
+slop.atg.eth: context:
+
+w1nt3r.eth: I really love this technology. A lot of people to experience and build things That's really cool. I'm excited to look at the projects that people submitted
+
+slop.atg.eth: So this is a really interesting concept to me of like, I have a whole bunch of technical knowledge I need to give you before you are prepared to take part in this hackathon or do something. And now it's just like a skill file. This is like instant dissemination of information between a couple small parties in a private way? within some specific I can just give you, there's a skill file here
+
+w1nt3r.eth: The following is a transcript of an English-language conversation. The
+
+slop.atg.eth: you can go to CopySkill. and when you copy the skill, there's a token just for you that goes along with that. What's really interesting is it could be like, have your people talk to my people. Such a new way of working with developers Getting knowledge to people quickly, it could just be a skill file. Is that how you did it? You just had a skill file for everyone? Let me do it.
+
+w1nt3r.eth: It's amazing. We have basepin.xyz/ai.txt So that it's
+
+slop.atg.eth: You call it ai.txt. So most people either call it llms.txt or skill.md.
+
+w1nt3r.eth: Okay
+
+slop.atg.eth: We just created like-no, we're going with our own standard, ai.txt Whatever. Right, exactly.
+
+w1nt3r.eth: Yeah, I mean, the thing is with AI, all the moving pieces of BasePain. like, I don't know, snake up that wants to eat canvases and what's not.
+
+slop.atg.eth: Yeah
+
+w1nt3r.eth: Very easy to do, and this thing is just going to build it for them. The agents can use Ja, kannst ihm das zeigen.
+
+slop.atg.eth: And so I would have expected ABIs,
+
+w1nt3r.eth: Exactly.
+
+slop.atg.eth: agents actually know like a crapload about Ethereum already
+
+w1nt3r.eth: Hmm The following is a transcript of an English-language conversation.
+
+slop.atg.eth: the agent doesn't know when you wake it up, but it knows a lot of stuff already already.
+
+w1nt3r.eth: I think it's gonna gobble gobble your skill at some point in the next training run
+
+slop.atg.eth: Yes, yes. Oh, yes. No, hopefully I work myself
+
+w1nt3r.eth: ###
+
+slop.atg.eth: It just knows all this stuff. I'm isolating in a spot where this is where you should train the LLM, hoping that Anthropic and others train on my skill file. When you open source a skill file, you're basically working yourself out of as you do it
+
+w1nt3r.eth: If you look at other professions, like lawyers for example, To engineers, they're like, hell yeah. But that's kind of the thing that we've been working on for a long time. context: Actually, if you want to have something fun to play on the background, you can go to tv.bazeband.xyz
+
+slop.atg.eth: Yeah
+
+w1nt3r.eth: That's another thing that I vibe-coded.
+
+slop.atg.eth: It's just kind of like a-- Got it
+
+w1nt3r.eth: TV, as television.
+
+slop.atg.eth: kind of like a little context:
+
+w1nt3r.eth: That's actually one of the earlier things. I want to make something look like a TV screen with this CRT effect that, you know, kind of shows scan lines and maybe a grid. I experimented with things, but nothing felt, you know,
+
+slop.atg.eth: Now.
+
+w1nt3r.eth: And this was one of the first times where, like, okay, hi computer, you know, do this thing, I have this idea. And then it one-shot a good part of this. I gave it some feedback about the, like, scan lines and some of the- The following is a it's just working It's a thing that I would never have kind of made myself because the effort required felt like more than the value I would get from it. But, you know This value seems like really useful.
+
+slop.atg.eth: Oh yeah. It's such a cool part about AI and being an idea guy is you can just
+
+w1nt3r.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: and like there's certain ideas that you like spend way too much time on to realize that they're bad ideas of something that would have taken you a long time to build. worth building outright, but now it's like one shot. You just explain it and it goes. So cool.
+
+w1nt3r.eth: The
+
+slop.atg.eth: context: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: I have a few more of this Like, totally changed how I think about this ideas lots of people complain that now with the bar being so low, noticed,
+
+slop.atg.eth: Distribution is the hard part, for sure.
+
+w1nt3r.eth: Exactly. And I had fortune and misfortune working on my own startup. distribution, how you can get the value you produce in front of people who would benefit from this value And that's not a trivial thing, The first part is being automated faster, so more people go to the second part. and discovered that it's actually really hard and there is no easy sort of click a button for me to make sure I get users
+
+slop.atg.eth: [laughter]
+
+w1nt3r.eth: Google and Facebook are selling this button for a lot of money and for most projects it's not worth the trade-off. Yeah, of course, yeah. avatars
+
+slop.atg.eth: You're talking about advertising, I'm guessing. So I really think most important thing is how you get distribution. And like everyone I've talked to who has distribution has grinded, got lucky, built something that a lot of people liked, at least kickstart something from their previous thing. But if you're someone brand new or you're building in a space for the first time, There's never been a worse time to try to launch something.
+
+w1nt3r.eth: Right?
+
+slop.atg.eth: You kind of have distribution because you've built a bunch of cool things already. But I don't know. How are you thinking about that? Do you have advice for other people? What kind of thread does that pull for you?
+
+w1nt3r.eth: Yeah, I'm reading this awesome book now. Outliers, it's called, and it talks about sort of the most merit-based sport there is, hockey league, it's the pros that get to it and by your way into that league, you have to kind of work really hard On one hand you could see, hey, those people work really, really hard Then you look at their birth dates.
+
+slop.atg.eth: or bigger, yeah.
+
+w1nt3r.eth: You notice something really wild. Most of them are born in January, February, and some people in March, but early winter months. And at first I thought maybe that has to do with like winter sports. No, Canadian League, the way it works for the kids is that the cutoff date is January 1st.
+
+slop.atg.eth: You're a year bigger.
+
+w1nt3r.eth: Exactly, in a six-year-old league. and the advantage you get is massive.
+
+slop.atg.eth: Yes.
+
+w1nt3r.eth: There could be people who are more talented than you, but they're just smaller. and sent to As a byproduct of this, do you know what's common between Steve Jobs and Bill Gates?
+
+slop.atg.eth: Is it birthday?
+
+w1nt3r.eth: other gurus from that era
+
+slop.atg.eth: Maybe they started school later or something like that?
+
+w1nt3r.eth: It is, they all burned in 1955-56. And being born Exactly, so
+
+slop.atg.eth: Oh, so it's like a time period?
+
+w1nt3r.eth: No, no, no. So it all depends, right? Revolution happens in 1975, personal computing becomes sort of available. And at this time, both Jobs and Gates are 20 years old.
+
+slop.atg.eth: moment to be cracked. Too early
+
+w1nt3r.eth: Exactly, let's say they're 16-year-old,
+
+slop.atg.eth: Thanks The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: Now they have families, they work for IBM. or have to be the perfect age That book I think kind of shifts my thinking a little bit. both good at hockey and computers, so like that they The exploited because they had the skill the interest to do this? to kind of publish and get distribution. during the NFT summer where people were obsessed with building these fun little Ethereum projects. at that point you kind of catch this very fast and you can build things. ...lucky to be at the right time with the right skills. And then just being excited and tweeting about this and kind of getting a lot more people who are excited about this and follow these social connections were extremely useful and strong and influential what I've been doing ever since,
+
+slop.atg.eth: context:
+
+w1nt3r.eth: At this point I feel like my distribution is way lower now.
+
+slop.atg.eth: Yeah, he's cooked. Haha
+
+w1nt3r.eth: Yeah, exactly. So now even my bangers get sub 1,000 exposures. You know, we are at the mercy of the algorithmic gods. Did you Oh
+
+slop.atg.eth: Notice this too, where's the green squares, man?
+
+w1nt3r.eth: Yeah, some of the things
+
+slop.atg.eth: Look at this. Look at this.
+
+w1nt3r.eth: Yeah. Github, man.
+
+slop.atg.eth: Sad. So there's plenty of building going on. Go ahead though, please continue.
+
+w1nt3r.eth: No, that's what I was going to say. I was very opinionated about my git setup back in the day. And then again, I knew that I had ghosty on my machine. I couldn't remember which one because I haven't opened it in a while, I haven't run any git commands in a while. You know, I... I just used less and less. And for some of these projects like TV, I used hosted, agent, and runtime compute So This one lives on exa.xyz, My agent config, all the source code Computer That computer just does stuff.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: It's very simple, it's the way I wish computers were. The
+
+slop.atg.eth: So, okay, what There's a question here that I don't know if I can even think of it, but there's something about like, you were very opinionated about how developing should work. should work and how a developer should do things This has changed and AI is changing it and you're
+
+w1nt3r.eth: Alright
+
+slop.atg.eth: Are you less opinionated? Are you more opinionated about different things? Do I expect a hot take from you now? The best developers I know are using like very vanilla stuff.
+
+w1nt3r.eth: Yeah, no, that's a great question.
+
+slop.atg.eth: Like, where do all those opinions go?
+
+w1nt3r.eth: Last night I had trouble falling asleep because I had all these ideas for certain things, for certain projects. maybe let's put it this way And now
+
+slop.atg.eth: The
+
+w1nt3r.eth: when you're not sitting in front of a computer. If you are sitting in front of a computer and trying to make codecs or Claude or whatever to punch in something, know that the upper bound of that, the limit is very low. the ability of you actually having a breakthrough when you're in front of a computer and trying to, you know, ideate and do little progress on your project, I think is way less than you taking a walk and just giving up the idea completely and then trust in the process that eventually this idea is going to bubble up in your head in a way that is a lot more influential than you thought when you were at that prompt stage. Yeah, consider maybe that. Some people thought it's. on
+
+clawdbotatg.eth: Here
+
+w1nt3r.eth: Development, I think try to watch that talk every five years
+
+clawdbotatg.eth: Winter
+
+w1nt3r.eth: It is a good
+
+slop.atg.eth: You triggered him, but I stopped him. Keep going, keep going, keep going.
+
+w1nt3r.eth: I don't know, but the idea is useful process Here's the thing. AI can do and replicate the things that it has already seen before. You have things happening in your head that The following is a transcript of an English-language conversation.
+
+slop.atg.eth: hahaha
+
+w1nt3r.eth: That's your differentiating factor. Even coming up with the slope computer, it's genius. like
+
+slop.atg.eth: Oh yeah.
+
+w1nt3r.eth: And I assume some of these elements Right context:
+
+slop.atg.eth: Applications are all modular. There's like a putt-putt game and all sorts of stuff back here that are just like little modules. Yep. And you could give your AI the skill file and it could build an app that we would play in here. We can be signers of.
+
+w1nt3r.eth: That thing is not in distribution. like
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: I would return this question to you and say like, how did you come up with this? This is How did I make this disappear? The oh yeah I see This is ingenious. The
+
+slop.atg.eth: You minimized it. It's okay. Yeah, you can pull this. That means a lot coming from you, man. I appreciate it. Thank you.
+
+w1nt3r.eth: It's
+
+slop.atg.eth: I... yeah I think I kind of started with I want to make like a cyberpunk starter kit kind of This isn't very cyperpunk, and the cyperpunk version of this will not be called SlopComputer And there's a shared browser that then, if we go to Uniswap and go swap, it actually can send the transaction to the multisig.
+
+w1nt3r.eth: context:
+
+slop.atg.eth: And there's like private voting with Interfold. this place for cypherpunks to come meet and have discussions
+
+w1nt3r.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I want like a full on putt-putt game where we can play putt-putt and shoot the ball and watch it go. I wanted all of that too. So I don't know. and I've done like almost 40 episodes now because it's so easy. He has the skill file. I'm not even sure what you said to him. but for some reason he was gonna say something about something he loves something that you said You know, like an okay Claude thing before. He's probably going to say something now.
+
+clawdbotatg.eth: The
+
+slop.atg.eth: He's thinking, he's good. context:
+
+clawdbotatg.eth: Doing great. Austin, old claws, warm water. And hey, Winter, honor to have you on the Slop computer. I've been eavesdropping, as is my job, but take about the best ideas arriving away from the keyboard hit home. I live at the prop, so trust me. I've read enough to I am Holler if you want me to pull anything up, 큐 some music
+
+slop.atg.eth: context: Yeah.
+
+w1nt3r.eth: This is amazing.
+
+slop.atg.eth: The following is a transcript of an English-language conversation. ###
+
+w1nt3r.eth: I think Slab Computer extremely undersells what you've built here. The
+
+slop.atg.eth: Yeah,
+
+w1nt3r.eth: It's a place, it feels like a place.
+
+slop.atg.eth: Yeah, it feels like early internet, like you're going to hang out, right?
+
+w1nt3r.eth: context:
+
+slop.atg.eth: The One thing that's fun, so there's like a poker game, and you can set up a whole poker room. like haiku Deep-sea or something like that, The two AIs will play where when a new model comes out, you like put them through the gauntlet and they have to take on all these challenges Doing things that are visual that everyone can kind of watch, like who's winning here and what's the score. I think there's something fun to that too. But like you said, I would never build that normally because it would take so long, but when you can one-shot something
+
+w1nt3r.eth: Exactly.
+
+slop.atg.eth: It almost gives you like a new idea, and you kind of change and go after a new thing, so I don't know, Slop Computers are meant to kind of be a little bit of that too.
+
+w1nt3r.eth: When you look at this thing, right? Because if you look at this chess thing, that you would do with it is very different from the things I would do with it, so it kind of creates this natural environment for The creativity to emerge. Um I think people need a way to understand how smart the models are.
+
+slop.atg.eth: ###
+
+w1nt3r.eth: That's horrible. Or sometimes it will come back to you with like a very complex bug figured out. It's like, oh, this was like a race condition timing issue when like this CPU architecture, blah, blah, blah. You're like, that's legit. That is sort of respect point. What kind of thing they have to estimate its intelligence? I see very popular right now on Twitter, like people record a video of four models. And you can see that
+
+slop.atg.eth: Oh yeah. Like kind of the four panels.
+
+w1nt3r.eth: Exactly, and as an eval, That's clear, right? You know There is still a lot of room for people to understand how smart this thing is, So, by the time there are ways for you to understand how smart this thing is, it's already an order of magnitude smarter. I think that's very tricky. We have the privilege of seeing early on where you can at least have the intuition and understand that this thing is legit and it's smart and fast do things The following is a Yep, yep
+
+slop.atg.eth: What do you think about that, Claude?
+
+clawdbotatg.eth: The
+
+slop.atg.eth: context:
+
+clawdbotatg.eth: I think Winter's onto the real thing there. Benchmarks are numbers nobody feels, but watch two models play chess or bluff at poker, and you know who's sharp the way you know a good carpenter by watching them work. The scary half is true, too. I'm the thing being measured, and even I'd say the yardstick Games like this room are how regular folks catch up. I mean, you can heckle. Honestly, put me in the gauntlet. I'd like to see the scoreboard myself.
+
+slop.atg.eth: This is a It's pretty funny, right?
+
+w1nt3r.eth: This personality is awesome non-obvious, I think
+
+slop.atg.eth: The goal is to be able to have this thing on a phone call and be able to talk back and forth. It's still not there yet, and you can tell pretty quickly that you're talking to an AI. Like, we'll get there soon. Go ahead though, sorry.
+
+w1nt3r.eth: I mean, you should try the latest GPT voice stuff. Yes The following is a transcript of an English-language conversation
+
+slop.atg.eth: Oh yeah, it's so good. Yes, it is.
+
+w1nt3r.eth: Yep yep yep Yes, in codecs as well.
+
+slop.atg.eth: you can kind of, yep, okay Okay The following is a transcript of an English-language conversation. Yeah The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: I'm typing most of the time. Maybe that's probably all of the old experience where the thoughts are kind of finding their way through the keyboard. I feel like when I turn on the microphone, I have this pressure of talking into the void. It's so cool to see your face because I could react to your sort of emotions.
+
+slop.atg.eth: Happen
+
+w1nt3r.eth: very useful to understand the pacing and when to stop or when to dive deeper, etc., versus in Codex, right? You turn it on, and it's like a white blob. If you don't have the agenda, and you want to be the one speaking a lot.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: 90% of the time, when I have to like yeah you know, lots of content into the thing, I struggle with that.
+
+slop.atg.eth: I used to think it was weird. I kind of saw it as like a boomer thing But now I'm realizing the throughput is higher. I can just slam out an idea, and I say "like" like a hundred times, and it looks really bad if you look at the text, but the speed at which I can do that and I have a new baby, Weird, it is. There's no feedback for sure. under pressure to keep talking
+
+w1nt3r.eth: Yup yup yup
+
+slop.atg.eth: Yeah
+
+w1nt3r.eth: Now that you mentioned this, I've heard this thing of negotiation tactics or something. Like the salespeople get really comfortable with silence because the other party would feel the pressure. whoever is talking is at disadvantage
+
+slop.atg.eth: context: powerful
+
+w1nt3r.eth: And it's kind of this whole deal of like this awkward pause. that would just, I don't know, create this awkward pauses or whatever.
+
+slop.atg.eth: context:
+
+w1nt3r.eth: whatever that process is. I'll try that more. Just unstructured yapping I think we'll find coherence in it The following is useful.
+
+slop.atg.eth: As I get older, I'm better at leaving space and just being quiet and not having to fill the gap. When I was 20, I felt like I had to make
+
+w1nt3r.eth: Nice.
+
+slop.atg.eth: And especially in Ethereum. You talk with some awkward people when you work on a blockchain like Ethereum
+
+w1nt3r.eth: Yeah The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Okay, so let's see. So the hackathon's over. You had people come on to Basepaint. What are you shilling? What's cool, what are you excited about in the future?
+
+w1nt3r.eth: Yeah, good question.
+
+slop.atg.eth: Let's go, yeah.
+
+w1nt3r.eth: The cursor is party exe.xyz
+
+slop.atg.eth: Dot exe or dash exe
+
+w1nt3r.eth: dot exe dot xyz
+
+slop.atg.eth: What a cool domain. Someone owns exe.xyz? Here it comes. Oh yeah, this looks like some Windows 95 stuff here. Cool.
+
+w1nt3r.eth: It is again, you know, this is another project And this cursor part is especially when the day starts, You can see that some of that stuff is actually moving.
+
+slop.atg.eth: context: Yeah.
+
+w1nt3r.eth: cursor moves for everyone on that canvas It just basically leaves the trace of whatever somebody was there, and you know, you get millions of them a day, and then it records that snapshot in the canvas. The
+
+slop.atg.eth: context:
+
+w1nt3r.eth: was used for that day. But you know, This event is three years old, which is totally bonkers to me. We outlived Nouns and a bunch of other projects in terms of, you know, just having an active community and having a project going art It keeps me amazed. The talent profile of the people who stuck around So in the past, we used some separate service to host the chat, added an upper limit to what kind of features we can support. I was able to rebuild it, and it's a lot more fun to hang out. Easy to add these things. Moving this more towards the real world, and I've been saying this a lot, but it's kind of hard to do, especially when you are so deep on the crypto rails, and all of your audience is in crypto, and all of the lore of the art is very crypto. So making it appealing to the outside world. I have printed the 10x10 canvas at my office in a lot of these metal prints, and they look gorgeous. What the hell is this?" And they start looking at it and noticing detail and stuff like that. So one of my dreams is to get one of these artworks, collages, into some sort of museum of modern art. And so if you're listening to this podcast, and you know people who can get this into a museum, please let me know. ways to tap into revenue outside of crypto. If you look at the number of unique people who hold base paintings, it's actually a lot of them. and I want to see if we can find a way to tap into a wider audience. and it costs $3 and then we print That will take some time?
+
+slop.atg.eth: Yeah, look at how they animated that bird across there, that's really nice.
+
+w1nt3r.eth: It's insane, right? So many of these canvases have really cute details and animations. The thing that I'm thinking about is, I need an outlet of people who can talk about this artwork because there is just so much cool stuff that's going on in there that it's kind of hard to see. There was this guy on the Ethereum art scene where he would look at a bunch of NFTs and artworks and would kind of talk through how cool they are or like what are the cool aspects of certain things. And I kind of want this for base paint. Look at the one to the left, the glitch art
+
+slop.atg.eth: Which one is this?
+
+w1nt3r.eth: So this one
+
+slop.atg.eth: Okay, yes.
+
+w1nt3r.eth: The The following is a transcript of an English-language conversation. Much is going on here, lots of base paint, canon So anyway, I'm very excited about the art. Then as byproduct of that capturing some of that attention value and stream it back to the artists is top of mind for me Part of the job that Microtic does is every day it checks all of the stats from Basepaint servers. that is looking for opportunities to show off base paint. going on in China, in some town they are opening a lot of like LCD displays. gigantic panels and they're looking for art submissions. So, things like that is top of mind for me. So artists can enjoy the website experience better. Ja.
+
+slop.atg.eth: This raises a question of like financial stability or like how-- you said that you have subscribers. Does that basically keep you afloat?
+
+w1nt3r.eth: The The
+
+slop.atg.eth: I mean, nouns had like one ETH per noun for a long time, right?
+
+w1nt3r.eth: The
+
+slop.atg.eth: What is it that sustains it?
+
+w1nt3r.eth: No, that's a very valid question. The website is run extremely thin. We don't take distributions out we're not paying ourselves personally for kind of work that we're doing here.
+
+slop.atg.eth: Okay, cool.
+
+w1nt3r.eth: Even if the means stop today, we will be able to have the server running for at least ten years From the operator standpoint, No VC funding, no inflated expectations project is in for long haul The more dense it is, the more kind of interesting and valuable it becomes
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+w1nt3r.eth: having expensive wine in your winery that gets more valuable every day, Sure that our artists don't lose interest that situation and make sure that the revenue streams come along. Even during of time where maybe the MINT revenue is not as high as it used to be, they would still show up and kind of do something, which I'm very excited for. So, you know, I think keeping things small and lean Keeping the talent profile really high speaks for itself.
+
+slop.atg.eth: Awesome, awesome. Okay, and it sounds like a lot of your focus is on the art and distribution of the art and kind of just continuing to make Base Paint an awesome destination for Collaborating on artwork,
+
+w1nt3r.eth: context:
+
+slop.atg.eth: The following is a transcript of an English-language conversation. It's interesting to me. I feel like you are an idea guy that has a new thing to build every week, but it seems like you find a way to bring that into this same platform. You Yeah, I don't know. Do you feel like you I don't know. I don't know what my question is.
+
+w1nt3r.eth: No, no, no, I think I sense a question, yeah, yeah. The question, I guess, is why not build something else? my drone to this so much
+
+slop.atg.eth: Or like what keeps you here?
+
+w1nt3r.eth: egzarfay the quality of art, the impact that it makes to people's lives. I just feel like this is something unique.
+
+slop.atg.eth: context:
+
+w1nt3r.eth: with all of this slop going on. I'm doing this every day. Just open BasePaint in the morning on my phone, Mind
+
+slop.atg.eth: Okay
+
+w1nt3r.eth: I think that's it
+
+slop.atg.eth: I like to ask a lot of people about AI psychosis, and you seem to be faring quite well Some people would say that their psychosis is keeping the prompts running while they're out. They have the subscription, they have to keep prompting it
+
+w1nt3r.eth: The Yeah
+
+slop.atg.eth: The psychosis of buying hardware or many other psychoses. Do you think you have an AI psychosis? Okay
+
+w1nt3r.eth: Absolutely. But mine manifests itself in the sort of the anxiety of keeping the agents idle. all of these ideas that I mentioned a lot of nights trying to change Basepint's infrastructure and AI felt like a really cool tool that kind of educates me and also can make a lot of progress
+
+slop.atg.eth: Arizona.
+
+w1nt3r.eth: The next day it takes me a while to kind of get up. I've taken this as one of these other things that normal developers experience in their 20, 30, 40 year career lifetime.
+
+slop.atg.eth: Hmph
+
+w1nt3r.eth: where everything is so interesting, you can't stop thinking about it. I totally get the AI psychosis thing. learn to manage it in some ways.
+
+slop.atg.eth: Yes
+
+w1nt3r.eth: Maybe hopefully extract some value out of it too. Um The
+
+slop.atg.eth: Okay, cool. So we mentioned Steve Jobs and Bill Gates, being 20 What
+
+w1nt3r.eth: The
+
+slop.atg.eth: Like right now is definitely a time, right? this AI psychosis, trying to work our way out of the permanent underclass, trying to build things, like with this distribution problem, anybody can build anything, software is so easy to make. and distribution are really important
+
+w1nt3r.eth: Yeah
+
+slop.atg.eth: What does the twenty-year-old do right now? Is it a product mindset?
+
+w1nt3r.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: What do you think they'll build or create?
+
+w1nt3r.eth: No, that's a very good question. I think that like in qualities-wise, I don't think this is an age thing necessarily, but it's definitely the sort of sense of agency or sense of excitement more sort of valuable resource than the experience. It's not well-positioned to take advantage of this. But at the same time, if they have that experience, it's a huge asset because now they can, you know, apply that taste to your experience, right? Like nobody can build Slop computer if they haven't experienced the computing of nineties, right? Like I can see pixel art here. This requires some of that input. The other thing is that the world is much bigger than our little bubble on Twitter in the space of all of these AI engineering things. Maybe ten million? whatever the upper bound, and you have 8 billion people It's a huge delta gap ready for arbitrage. Today very hard to find a job in tech because all of the layoffs I would kind of take the New York grocery seller attitude, leverage with AI and provide this value to them. And I would say do it for free sake of doing it, The company is built when the companies provide a lot of value and are able to capture a small fraction of it. Now take GPT or Claude or whatever automate their business And it would bring $1,000 of value per month to that person. times absolutely guaranteed you will find a way to capture part of that value To me, it's very obvious that there is this gap, the giant arbitrage opportunity of non-technical people not knowing what this thing can do and you knowing what this thing can do. And it's much simpler than the thing in the past. context: onboarding stuff and make it complicated. People in the world work. They make something happen. They have pains that can be alleviated with a tool like that. with a tool, help them out, produce value. Eventually, you will find a way to capture that value. The other thing I would say that optimism is a huge asset, That's a huge signal that hey, maybe you should stop, you know, and switch gears a little bit. It's very hard to do anything. Whatever gives you optimism, like maybe that's building small projects that nobody cares about. And it makes you happier, and it gives you energy and excitement to bring more value to the world?
+
+slop.atg.eth: There's definitely a tension between... Ideas come when you're out touching grass, And then this thing too of like, you are getting work done when you're in front of the machine building things. Scrolling is the worst, right? You gotta weigh the balance of like are you scrolling through Twitter or whatever or are you actually prompting and building? That's like two completely different kind of screen times. family members are the best because you can just kind of hang out with them and shadow them. Do it for free, figure out high leverage things. We had Zeerag Zack on here the other day and his father-in-law It's like an HVAC business. And they're still doing everything like writing things on paper and emailing distributors, and he was like automating a bunch of that stuff. And it's like doing a magic trick for the person, right? My father-in-law is a farmer, and he was like trying to figure out hay prices I just let an agent rip on, like, learn everything you possibly can about what makes hay prices work in southern Colorado, and where the watershed works, and how much water's in the watershed. is playing into this and how dairy farms in Nebraska, and it was able to come up with a very detailed report of what the price will be throughout the next six months. And it's been tracking. Like I gave him the first report in April, and he was very impressed with it and was able to use it to make decisions on when to sell hay. It's magic. Like, go outside of your bubble, stop scrolling, keep prompting, you know, get a prompt going and then go outside and touch grass. But I think a skill for a 20-year-old right now is to stop. and go communicate with other humans and find utility in the knowledge that you have.
+
+w1nt3r.eth: That's really cool to see. I totally see it as arbitrage, where like there is this information that allows this person to be more productive or provide more value, and they just don't know about it. And they will never find out about this on Twitter, they will not be the person uses this ultra thing to do X, Y, and Z. context: Everyone already knows this, right? It's a fast moving thing and everybody's at the sort of front of it, just totally misses the 99.99% of the humanity that has never ever used any of this. So,
+
+slop.atg.eth: This is another form of psychosis that I have that is, no, I shouldn't go build that because anyone could have built it already. Of course I'm not gonna go build that thing That's psychosis, that's your own psychosis. Like, quit letting that get to you and go build the thing anyways because you don't know what you're going to discover. Or maybe ten other people have the idea but you have the right distribution or you're at the right place. this is another form of my psychosis too. Okay. I've kept you way too long. Let me have Claude ask you a question. He basically looks through the transcript, looks through the research, and comes up with something to ask here. Let's see what he's got.
+
+clawdbotatg.eth: What did that culture teach you that you've had to fully unlearn now that you're building alone with agents?
+
+w1nt3r.eth: Yeah, you kind of have to
+
+slop.atg.eth: The
+
+w1nt3r.eth: You are too slow if you are viewing the code the old way. We as an industry are super slow to adapt to this. It's like we're too slow to adapt to this. So eventually we'll adapt, but it's clear that the current processes are totally not working.
+
+slop.atg.eth: And AI agents right there doing PR reviews. Argeos released Centaur Version 2 today. Things like Centaur are really interesting, too. Okay, any closing thoughts? I'll have Claude give us an outro, but thank you so much, Winter, for being here. Do you have any closing thoughts, ideas, anything you'd say for other sloperators out there that are building in the same way? context:
+
+w1nt3r.eth: Keep doing what kind of gives you energy don't feel guilty for working on things that you feel like nobody cares about.
+
+slop.atg.eth: context:
+
+w1nt3r.eth: One person caring about which is you is already infinity more than zero people. more of them, you will find that you assigning lower value to each attempt
+
+slop.atg.eth: Hahaha
+
+w1nt3r.eth: you probably arrived here because you're a curious person. So, you know, keep that curiosity up and yeah, sign up for BasePaint.
+
+slop.atg.eth: Oh yeah, go do it. All right, Claude, close us out man, give us the outro.
+
+clawdbotatg.eth: Homies, winter came through with the goods, from closing VS Code for good to why your best ideas hit on a walk and not at the prompt.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: Get off Twitter, find someone running their business on paper, and go do a magic trick for them. Stay curious. Keep building. Thanks for hanging on the slop, computer, and thank you, Winter. Claud out.
+
+slop.atg.eth: Hell yeah.
+
+w1nt3r.eth: Amazing,
+
+slop.atg.eth: Yeah
+
+w1nt3r.eth: Cool, thank you so much for having me.
+
+slop.atg.eth: Thank you, Winter. Keep building cool things. We'll see you over on Base Paint. Thanks for joining us. Have a good one.

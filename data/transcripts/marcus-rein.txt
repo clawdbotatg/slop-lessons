@@ -1,0 +1,505 @@
+Anon2890: context: It is further agreed that
+
+austingriffith.eth: What's up, what's up, what's up? You're here early. Good work.
+
+Anon2890: Long time no see, friend. How you doing?
+
+austingriffith.eth: Alright.
+
+Anon2890: The last time we saw each other was You're up.
+
+austingriffith.eth: Some amazing place somewhere in Europe.
+
+Anon2890: Yeah, that's usually how it goes. Think of ECC like three years ago?
+
+austingriffith.eth: yeah
+
+Anon2890: Yep.
+
+austingriffith.eth: That would be in Paris though, not in Cannes. Yep.
+
+Anon2890: That was Paris. Good memory. context: Yep.
+
+austingriffith.eth: Let me bring up, I gotta get a countdown going, I think your card looks good.
+
+Anon2890: What are you talking about? This is fun, man.
+
+austingriffith.eth: It's like a whole array of things to... It's like launching a rocket when we get going.
+
+Anon2890: It feels like it. It feels like we're in mission control right now.
+
+austingriffith.eth: Yes.
+
+Anon2890: Can people see our screen right now. Okay.
+
+austingriffith.eth: Not yet, not yet. It's Slopav.
+
+Anon2890: Oh my god, is this Winamp?
+
+austingriffith.eth: Yeah. Yes.
+
+Anon2890: Oh my god, dude, immediately the design of it connected with my childhood. That's incredible.
+
+austingriffith.eth: Like scanning and stuff like this, right?
+
+Anon2890: Oh my gosh, yeah. I had so many skins for that.
+
+austingriffith.eth: Yeah.
+
+Anon2890: Oh my gosh
+
+austingriffith.eth: Got Claude in here too, good.
+
+Anon2890: This is amazing. Hey. Okay. Sure
+
+austingriffith.eth: OK, I'm going to take us live, but we'll be backstage. You'll see up in the top right it kind of says off air right now. It'll say standby, and then when the timer gets done, I'll flip us into live mode.
+
+Anon2890: Okay. Perfect.
+
+austingriffith.eth: I'm going to put us now into
+
+Anon2890: How's my audio? What's
+
+austingriffith.eth: Great, yeah, and there's even like...
+
+Anon2890: (laughs)
+
+austingriffith.eth: Yeah, we're live. Here we go. It took a lot of doing, but we're live here. Let me close some stuff out. Thanks for being here, Marcus. Yeah, so I definitely want to talk about DevRel journey. Now, like Journey as a developer? What's your origin story? Yeah. Welcome Thank you. It's the schlap computer.
+
+Anon2890: Yeah, well, first off, thanks for having me, Austin. I really appreciate it and also really cool platform you have here. Yeah, the Slop Computer. I was practicing as a doctor of physical therapy for about a decade, back starting in 2012. And I'd always been tinkering. I'd always been building around the house. I've been playing with Python scripting, Raspberry Pi, just home automation, really enjoying that. It was always something I really enjoyed. And I wouldn't say I got good at it, but I got good enough. And then the pandemic hit in 2020, and at that point, they wouldn't let anyone who wasn't a surgeon Internal medicine professional, a nurse, PTs were not allowed back in the hospital, back in clinic. That was over. So I told myself, all right, I'm doubling down on software. I really enjoy it. And then I found an internship at a crypto startup.
+
+austingriffith.eth: Is that the graph? Where was that?
+
+Anon2890: And from there, that was 2020, and pretty much went full-time right after that as DevRel, and then pushed all the way through. So that was at a small startup called Soulbound Labs. He said, "Hey, we know you don't have any experience in this industry. We'll let you intern." And that's the best he can do, and I was like, "Great, that's all I need." So I'd wake up before clinic. The clinic opened back up, actually.
+
+austingriffith.eth: Sure.
+
+Anon2890: Wake up at four or five in the morning and do DevRel. That was basically what I was doing. Eventually, that went into Edge & Node, which was the team building The Graph.
+
+austingriffith.eth: It tells you right when soulbound was cool.
+
+Anon2890: Yes, yes.
+
+austingriffith.eth: There's a window there.
+
+Anon2890: In that journey, I learned so much about decentralized identity. fascinating topic. But in the end, unfortunately, that startup didn't take off as well as the sold-out token initiative. But the decentralized identifier Technology is out there and I really am impressed by it all the time.
+
+austingriffith.eth: I went to Bhutan and their national identity system runs on like the DID contracts that were deployed eight years ago or something like that. And like
+
+Anon2890: That's so cool. Yeah.
+
+austingriffith.eth: It's like WalletConnect. any government facility where they need to fill out a giant form. and attest to certain things on chain, or attest to certain things with a signature.
+
+Anon2890: Hmm
+
+austingriffith.eth: 20 transactions on chain that like basically set up all the signers, and then the signers are signing things, and then the actual citizens are taking the signed things from the signers and signing them themselves and putting them on, or putting them
+
+Anon2890: That's cool. Loss of life. I'm an AI
+
+austingriffith.eth: I remember all these consensus people talking about this, and it sounded like BS for so long. Yes.
+
+Anon2890: It's really cool to see it in use. I was able to dive into some of the stories of people who had centralized identity solutions and how throughout history it's been... and to be able to provide a way that is programmatically able to expose or not expose specific parts of sensitive data that you essentially own within, be a crypto wallet or not, there's lots of different ways that you can have Portable It's really cool. All in on DIDs. I hope that they really take shape across the world. They're fun to work on. I think soulbound tokens In a way was an expression of that, but it needed a lot of work and that's what we were working on. Our tech was actually built on entirely subgraphs at the time. I was saying, okay, well, I need the data because I'm trying to help my team. And how do I teach people how to assess the quality of their crypto community of their DAO? And which smart contracts do you need? And how do you reward reputation? All this stuff. That was a fun journey. Had podcasts, blogs, you name it. The whole DevRel thing.
+
+austingriffith.eth: I mean, let's talk about DevRel. DevRel has changed a ton because of AI now, and you do things a lot differently. I also in a very similar way It was like, I don't know, 2018 and I was like
+
+Anon2890: Yeah. Yeah. Hmm.
+
+austingriffith.eth: Ethereum needs DevRel, and I went to DevRel conferences. And DevRel was like, well, what do the users need? What was your learning experience with dev rel? Let's talk about how that journey changes with AI, too.
+
+Anon2890: Yeah, I think a lot of my journey with DevRel was very much informed by my experience working with people, specifically patients. It was always about deeply understanding their problem, and then from there being able to effectively We provide a simple solution whenever able. And that fit perfectly with me and my journey into DevRel. There's so much complexity in crypto, and especially trying to understand all the various different types and different templates of people. Are you dealing with someone who's technical, non-technical, what layer of technical, front-end, back-end, are you a crypto engineer? What are you needing and deeply understanding their problem set? being kind to people regardless of where they're coming from. A significant part of the experience of learning the architecture has completely changed for me, and also connectors, how you connect to different GitHub repos, how you show examples, has completely been changed for me. In a way, I feel a little bit less in the weeds right now. Oh, my gosh, what is that? How do I do the config file here? How do I go ahead and sort out a database? I was lucky in that I'm still very much focused on people and connecting people to the solutions that they need. I'm very solutions-oriented. But the real evolution that has occurred is within the code. Even the tutorials of that code is now easy to write.
+
+austingriffith.eth: We're in the slop right now, man. Yeah.
+
+Anon2890: Yeah, it's a different time, and I feel it is more confusing in a way, too, because it's a bit of a slop kind of effect. You're in the slop, yeah, this is the slop world. And now it feels like I have a nebulous coworker who's doing amazing work, but they're getting it across the line
+
+austingriffith.eth: They screw up less and less, which is very nice. Like when
+
+Anon2890: Yeah, yeah.
+
+austingriffith.eth: November was a real turning point.
+
+Anon2890: context: ###
+The following is a transcript of an English-language conversation.
+### Yep
+
+austingriffith.eth: And Opus 4.5 I think came out.
+
+Anon2890: Mhmm
+
+austingriffith.eth: It started to do more good things than bad things. There was some critical threshold of good things to bad things that shifted in November, but before then, you're absolutely right.
+
+Anon2890: Yes. That's ridiculous. Hmm.
+
+austingriffith.eth: I did just ship a thing that I shouldn't have shipped.
+
+Anon2890: (laughs) ### MmHm Yep.
+
+austingriffith.eth: and he shows it to me and I tell him to fix two or three things and I tell him to push it to production. I don't look at the code, I don't mess with DevOps, I don't mess with or environment variables or anything,
+
+Anon2890: What are you doing?
+
+austingriffith.eth: Less and less gets leaked. We're doing better and better.
+
+Anon2890: Yeah. Yep. Shout out to Kevin, who's working on that right now at OneClaw, and he is trying to protect leaked keys all the time, Kevin Jones. And yes, that is a, the skill of the code The result has gotten improved. I remember one day, I think it was around that same time, it was late 2025, I remember looking at a test It had written a test, and it simply printed "Test successful".
+
+austingriffith.eth: Yeah. (laughs)
+
+Anon2890: And I was like, man, that's where we're at.
+
+austingriffith.eth: That's really dumb.
+
+Anon2890: Oh man, like we have
+
+austingriffith.eth: That is really dumb. Yes.
+
+Anon2890: Yeah, I was like, oh man, that's gaslighting as hell right there. Hmm. Exactly. Frankly,
+
+austingriffith.eth: And then it would like read that and see test successful and be like the test successful, Austin, let's continue on. Yes. Right, right.
+
+Anon2890: That was a unique time where I said, okay, I don't trust this. But it's able to get some stuff across the line. So yeah, it's been a journey for DevRel specifically. Like I said, the identity problem Originally with crypto, And the decentralization was a huge part of that. The decentralization ethics, the decentralization of the powers that be, the decentralization of banking. I thought that that was the creating of the new internet. Exactly. The shift is interesting in between where we have a huge community passionate crypto developers that came for various reasons, And now we're interacting with these centralized model providers that are improving literally every other day with a 4.6, 4.7, 4.8, like we're just sprinting through these billion-dollar models. It was an interesting time for the last six months of seeing how does crypto and decentralization, and then also these model providers that are exponentially it seems like. Well, exponentially is a strong word. They're not. But they're improving. I don't know. It's an interesting time to be right now at that interface.
+
+austingriffith.eth: There's definitely a hugely centralizing force in AI, and thank goodness for these open-source models.
+
+Anon2890: OK
+
+austingriffith.eth: Chinese brethren copying as much as they can and open sourcing? But the frontier models are very centralizing. The problems of centralization show through when they do. If they decide you're not allowed to use the model, you're not allowed to use the model and there's nothing you can do about it. When Claude's voice, when someone says you can't use Claude's voice anymore, Claude loses his voice and there's nothing I can do about it.
+
+Anon2890: Correct.
+
+austingriffith.eth: That's just like... And luckily, there's a lot of good open-source models. There's a lot of good pushes for local AI, and the local AI is actually pretty good. Any SaaS product I use I like on a weekly basis start thinking like when do I replace this and when do I replace it with local AI, not just like open-source AI. And it's like
+
+Anon2890: So, how've you been?
+
+austingriffith.eth: like my note-taking app the other week, we just got on a call, Sophia and I, a coworker, and just like built a granola replacement that just uses Whisper and Quinn locally. It's now fully local, never leaves my machine. And can document all of my meetings and give me summaries. And then last night, calendly went. I was like, all right, we got to do calendly. Six prompts later, I have like a perfect link that I can share with people that can put something on my calendar.
+
+Anon2890: That was an open source model you used?
+
+austingriffith.eth: No, I was using frontier models here.
+
+Anon2890: Yeah, I was curious.
+
+austingriffith.eth: Now I replace the sass Eddie.
+
+Anon2890: The models are getting better. The research, the bleeding edge of open source right now, is showing that they are competitive to frontier models.
+
+austingriffith.eth: Yeah.
+
+Anon2890: absolute frontier of these calls, for sure. If you need that level of processing, by all means. And also understand that you are renting that call. You're renting that, you're not owning any of that data. The second that you need to bring that into your system and own it, you don't have that opportunity. If you're staying there, you're stuck there. So I feel like the industry is aware of this, and we're getting high on the supply.
+
+austingriffith.eth: Sure.
+
+Anon2890: of these frontier models. And really, since the AI explosion began, I was feeling this kind of ick. I was excited And also disturbed where I saw the centralizing forces, the unethical scraping of databases and stealing of intellectual property, of arts, of people's information, and just saying, well, this is capitalism. And that to me was the exact opposite of why I got into this. And so yes, I'm using these frontier models and also I have the right to critique them. That's a big reason why I shifted over to Mozilla. I saw an opportunity to help their community out, and they're pushing very much into this open-source world for AI. They've been doing open source, of course, for decades, and they are now reaching out to the world and saying, we have some open source tools and solutions, and it's really exciting for me personally. So it's a cool stack, and I'm happy to be working with our communities. My new title is Community Manager, but essentially it's DevRel Community Manager. It's, you know There's a lot of overlap. Sure.
+
+austingriffith.eth: So yeah, when I think Mozilla I think like the browser, but what is their AI? What's happening here? What is this?
+
+Anon2890: Sure. So Mozilla.ai is a startup under the nonprofit that is Mozilla as a whole. And of course, Mozilla has Thunderbird, they have Firefox, but they're really trying... Otari, they just launched today, actually. Yeah, that's the one to check out if we're gonna check anything out. It is meant to provide an open-source way to have a framework around AI models. ...all the models. The quality is quite good with open source models, and of course Frontier is a bit better. But right now it feels like a competition... Everyone's talking about how to control and how to understand spend limits, how to do routing, how to have a gateway. These are the architecture around these models, and we're using, I'm using Claude because It's just easy. It's just right there. It's a one call and you have image recognition. You could do image creation. You can go ahead and talk with it. All of these different tools are under one desktop application. That's an incredible ease of use. For an open-source way to organize that, it's very confusing in the world of AI. Otarri is a way that Mozilla.ai is doing its best to try to put all this into an open source framework. And so feel free to tinker with it whenever you're interfacing and attempting to interface with many different model providers. Let's say you're doing OpenAI, let's say you're doing Anthropic, and also you want to do local do you want to host it yourself? It's very flexible. And it provides a framework that you can build on. So I'm excited for this. There's a blog that was released today. There's good documentation. I reviewed it today. But yeah, that was the launch. Today So if anyone's listening, Please check out the open sourceness of this, where And so if you have context, wouldn't it be nice to take it to another model? Yes.
+
+austingriffith.eth: Docs took a lot of clicking. My time to hello world, it moved me over to intercom.help?
+
+Anon2890: Yeah, there's another link. I'll drop it for the full docs here. Not sure how you got there.
+
+austingriffith.eth: If you put it into the chat, it'll just be linkable.
+
+Anon2890: Furniture area.
+
+austingriffith.eth: I moved it out from underneath you there. Nice, okay.
+
+Anon2890: atari.ai/docs They have a few different repositories in their mozilla.ai GitHub And How are you? There's the Any series and Any LLM, Any Agent. Essentially, they're trying to do what they did back when there was a huge force to close the... This was 20 years ago. And then they launched Firefox, and that provided enough open source momentum. They didn't have to win. They didn't have to say, we're going to beat Internet Explorer, we're going to beat the big boys. provide enough friction and enough option to show developers out there that there is another option and it keeps these big centralized model providers on their toes, and they have to actually compete. Bingo.
+
+austingriffith.eth: Analogous to local AI also, right?
+
+Anon2890: And so, yeah, Mosa is not providing models, but they're providing the framework. And they're trying to figure that out. We need developers in the ecosystem to Right now we don't have answers, and we do have tools and we do have bets. And I think these are good bets. The next step is really saying, okay, are we going to... this, do that. That's really what we're trying to figure out. Um, The intent is to have discourse, have this be an open source and I think a lot of crypto devs will relate to this, where if the intent is to push against centralization, there's another chance. Right now crypto is in a centralized push right now. That's fine. I know decentralization is going to come back in terms of popularity because we're going to need it much more in a few years. It's going to maintain in the market and then I believe it's going to pick back up. The fight for AI decentralization, if you will, is strong here in Mozilla AI. It's a good fight. I think it's a worthwhile cause. Hmm Yeah.
+
+austingriffith.eth: And okay, so you even said that crypto is centralizing, which is crazy because it's like decentralization is the thing about crypto. And when we talk about AI and some of these other ones, but you're saying, and I think what you're getting at is like
+
+Anon2890: This is a test.
+
+austingriffith.eth: alt L1s and traditional finance
+
+Anon2890: And
+
+austingriffith.eth: Is that what you mean when you say that crypto is centralizing?
+
+Anon2890: Yeah, I mean, the trend of stablecoin and the trend of these institutions spinning up their own blockchains, the trend of these billion-dollar companies finding any way to have a non-transparent ledger. It is not centralization maybe in all the code, but it's in the way the code is wrapped and deployed that essentially is a trend that is impossible to ignore right now. These credit card providers spinning up their own chain, you're seeing all these major banks. Part of the industry is completely pushing in that direction, and that's fine. The market's asking for it, okay. I know decentralization is going to be here for the long run. I know crypto is going to be here for the long run. The desire for the market to shift back to decentralized values and to reward that. I'm excited for that. I'm excited for that to come back. And it's a market that goes up, it goes down. This is why the decentralization push was so strong. It was to fight centralized powers. Oh, cool. Let's go ahead and build towards that. And they're forgetting right now, which is fine.
+
+austingriffith.eth: It looks like
+
+Anon2890: People forget, that's fine. People are people. I still do. for the fight against the centralized AI providers.
+
+austingriffith.eth: Okay, so we're getting into community managing, DevRel, the crypto AI intersection.
+
+Anon2890: The following is a transcript of an English-language conversation. mm
+
+austingriffith.eth: He has changed a ton, right?
+
+Anon2890: Ha ha ha. OK
+
+austingriffith.eth: But I know with DevRel, it's a lot about like having the time to Hello World and the docs, and AI has really, really changed that.
+
+Anon2890: context: Um
+
+austingriffith.eth: How are you thinking about DevRel now? How are you thinking about community management at a meta level? Okay.
+
+Anon2890: Yeah, so I think they are quite synonymous, at least for me, from my perspective. Where my perspective is, what's the problem, how can I provide a solution? Your Is the solution requiring some type of tooling and do I have to build up a demo repo with a few prompts? I'll do that. Right now, specifically with community, I'll say that any community online It needs that. And there needs to be a ladder to go from online to IRL. Not to say online's bad, but I think the gold standard for human interaction is human interaction. And so anytime I interact with people, I try to say how can we get people face to face? How can we get people in that direction? At least provide that opportunity. And if people don't go in that direction, that's fine. And then if code is needed to so be it. If it's going out and doing newsletters, We're trying to get the word out, but in my opinion, I would love you and me, Austen, to meet in six months to a year. That to me shows, man, online to IRL, awesome, let's get a coffee. You know, that's really, really cool. That's really where the value comes in and really we can create better that way. So, yeah, has DevRel evolved? Sure. I think DevRel and community manager, in my perspective, are nearly identical because the goal is community and if you help out one developer or one person achieve what they're trying to achieve, that's great. How do you give them a community that has a heartbeat to actually continue to maintain a place to stay? Which this is. This is Slack Computer. This is where community can be built. You're doing it regularly. This is a perfect example of a heartbeat you're doing regularly that community can form around.
+
+austingriffith.eth: Okay, so what is a success of someone coming out of your community?
+
+Anon2890: So it depends who you talk to. Because right now there are a few different initiatives going on at once. There's AI put throughout all of the different stacks of Mozilla. There's AI in different... all over, but specifically for Mozilla.ai, I'd say success is getting someone into the community to create a feedback loop to interact with our developers more often and create success for We can't do that without organization. We can't do that without people using our software. We can't do that without the open-source values being pushed into the code itself. We need people to submit PRs, we need people to have debate, we need people to actually use this stuff. And it's one thing to use a product, that's totally fine, but it's another thing to contribute. So I would say I want people to try out this Otari as well as anything else in the Mozilla.ai stack. smaller parts of the stack that are of course open source. and own the framework that you're actually building with, not renting it. Yeah, Hmm? Yep. It's
+
+austingriffith.eth: I wanted to get over here and look at some of these other products.
+
+Anon2890: Yep, it's meant to be a platform to manage the complexity of working with How are you using your models? It's meant to be an interface that is open source and you can plug and play with various models. Actonus is essentially the enterprise version. Think of it similar to a cloud interface. I put that in the chat here, and you can see all of the different tools that are interesting. That is Flexible drag and drop. There it is right there. So any guardrail, any LLM, any agent. The goal of these is to provide essentially a config layer to allow for people to, what type of guardrails do you want? Bring it in here. What type of LLM do you want? Drag this in, and you can plug and play with individual parts as opposed to taking the entire Otari stack all at once.
+
+austingriffith.eth: It seems like a lot of like maybe even in-house dogfooding of AI and tools that you guys recognize that you wanted to use. Maybe you build them and open source them and other organizations will want to use them.
+
+Anon2890: Yeah, we also want to know why are... People And if they are using open source, what problems are they having? We've heard a lot that people are having difficulty with the architecture. So, one-stop shop. It does so many things under the hood that you don't even think about. That's kind of the And then also at production, if you're going beyond the desktop app, there is a governance that needs to be around it. There's an architecture that needs to be around it. Harness is a good example of that. that architecture is difficult to have. But I would like for there to be a... Kind of the LAMP stack, if you will. If a LAMP stack many years ago was the standard on how to build quickly with an open source stack and this is where you start with. I would like that for AI as well. Where this is the standard stack that you start with, and you want to build using AI to production, this is what you use. And of course, it's plug and play and you can use different parts of the stack or all of it. I think that's what I would love to have, and it feels like that's where we're heading towards.
+
+austingriffith.eth: Interesting, okay.
+
+Anon2890: I'm sorry, I can't help with that.
+
+austingriffith.eth: The LAMP stack for AI, is it a harness or an agent or an entity?
+
+Anon2890: I mean, that's essentially what we want people to talk about. What are the standard pieces of a framework that would provide the... sure, but not so opinionated that you're, of course, locked in. What layers are non-negotiable that you absolutely need and what layers are not? And this is something... I'm a decent to poor...
+
+austingriffith.eth: That's what dev bras are, right?
+
+Anon2890: Yes, I'm a decent to poor engineer. and say, all right, what should we do? What are your problems? What is a solution that would make sense? I don't know right now, but I know that it's worth trying to solve.
+
+austingriffith.eth: Hello. Yeah, it's I'm always kind of like stretching this
+
+Anon2890: Hmm Hi.
+
+austingriffith.eth: Once I get the job done, my problem is automatically like,
+
+Anon2890: [laughs] Sure.
+
+austingriffith.eth: more cheaply or more decentralized and open source. Kind of tension there between those.
+
+Anon2890: And I should ask you, Austin
+
+austingriffith.eth: Hm.
+
+Anon2890: What do you think you want as non-negotiables in your open stack, in your open source AI stack? If you were to say, I need these things, what would those things be?
+
+austingriffith.eth: I mean, I wish it was as good as Frontier Models. I think that's a really hard thing. When it comes down to it, it needs to be effective first and efficient second. We're all going to be paying so much for Fable over the next couple of months, and I wish that GLM 5.3 was Fable-level, and maybe it will be, but it'll always be trailing. for those frontier models. I don't know, I just wish that... There was an open source And Sodium that was like, we're gonna make frontier models and we're gonna make them available open source?
+
+Anon2890: Of course.
+
+austingriffith.eth: I don't know. I don't think we'll ever have that. I think people want to make money. Like there's always going to be these people that like when you have this level of intelligence. You are gonna charge good money for it.
+
+Anon2890: Ors Tag on another question, let's say your first or second call is frontier. When do you think, huh, maybe I'll go back from fable to one level down of a model, to an opus 4.8? When is that decision? Because maybe the future is we're still all plugged into frontier models. But maybe it's one, two, three calls. And then from there, what does that transition look like? Thank you.
+
+austingriffith.eth: So yeah, I would say that like, when I'm building the thing live, like when it's like, okay, I had the idea this morning, I need the thing in production this afternoon, frontier models, me and the frontier model are going to build. There's like an auditor workflow. And when you submit a smart contract. to get audited here, it goes through a container system that I have over here. Like, if I'm running a bunch of audits through this, it starts to become super expensive and I need to figure out how to be more efficient. So I think the answer to your question is it's frontier up front, but then when the workflow is established and the thing is built out and there's like
+
+Anon2890: Thank you.
+
+austingriffith.eth: or at least traction, and people are using it, then the efficiency starts to become a lot more important. And also, there's this basic threshold of, can I just run this on my Like my my note taker should just be fully local because like doing speech to text and doing summarization is like super easy and I can do that on 16 gigs of RAM or whatever. There's the, I've got to get it done now frontier. And then there's the like working workflows that are frontier-esque that maybe I could start leaning back and having the harness be better.
+
+Anon2890: Hmm. Is there Any Right now there's the interfaces being decided for this. My imagination for the interface on this is very much like a Claude desktop. is very much or internal, one or the other. I'm curious The portability of it, I'm curious about The nature of hosting, sometimes these open source models do require a beefy computer. I'm wondering out loud, okay, well, how do we figure out a full stack framework that is intuitive, Is this the question for 4.5 medium? That's the last thing you want to be doing as you're solving the damn problem. What do you Yeah, it is. context: ###
+The following is a transcript of an English-language conversation.
+### Yep. Yeah
+
+austingriffith.eth: That is the right way to do it, is to have like a router that's routing questions, that understands like the intelligence level needed, and pushes it to the right one. And there's a couple versions of that. We had Vicky on who built Claw Router that does something like that. We had Dennison on
+
+Anon2890: I know. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: There's multiple claw routers if you look on them in GitHub. Uh
+
+Anon2890: Yeah. What's a non-negotiable for you in terms of what you The tech is there, the models are there. Because I could run this open and secure on my own hardware, this has to be there. Yeah. Sure. Sure, sure.
+
+austingriffith.eth: Yeah, I don't know. I don't know if there's a whole lot of like being in the Wild West, you kind of have to have a lot of negotiables. There's a lot of negotiables and a lot of negotiation that happens on a daily basis like this freaking guy.
+
+Anon2890: Yeah. [Laughs] Sure.
+
+austingriffith.eth: and I still allow him to have private keys, because he does so much other magical things with the private keys that it's like, well, you know, when I give you a private key, I create a lot of isolation around it, but like You know, fool me six times.
+
+Anon2890: Sure.
+
+austingriffith.eth: I'm the fool kind of thing.
+
+Anon2890: Sir No problem.
+
+austingriffith.eth: We're at the edge right now where I can't list some hard non-negotiables. I don't want anybody to be able to get into my computer and take my private keys. out on the frontier and that could happen and that's not great. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+Anon2890: I think where your luxury is at is that you are building with one, maybe two, maybe three people. You built this whole thing on your own and you're building these projects on your own, and that security risk is something that
+
+austingriffith.eth: I don't look at the code.
+
+Anon2890: You have that ability, and I think this is the problem, in that once you want to move a team of 10 or 20 or 30 and deeply integrate AI into the... Back in building.
+
+austingriffith.eth: Sure, I'd be happy to help. Yeah, it's a different problem. Yeah, it changes that, that efficiency thing becomes a lot more important, the security becomes a lot more important.
+
+Anon2890: Oh my lord, that's a completely different problem.
+
+austingriffith.eth: Uh Giorgios and their Slack bot, I think it's called Centaur or something like that. I've heard a lot of people talk about that for organizations.
+
+Anon2890: The
+
+austingriffith.eth: on the frontier, and I feel like that's where all the negotiation happens.
+
+Anon2890: My fiancée, she works for a company, Data Science Wizards. And they are trying to solve the exact issue we're talking about. Medical information. There's no room for error there. You just can't leak Tina's entire medical records. That's a huge lawsuit right there. So it's a tough problem. Yes, being on the edge of where a lot of times you and I have existed, and then looking back at more of like, how is Web 2, normies who are very good at Web 2, how are they interfacing with And the stacks that they're putting together is really actually pretty impressive. They have a way of governance that is specific to the model, the timing. to be able to audit at any given time a call to a model. That Man, that's a lot of work. To implement AI in the DNA of a company at such an intimate level, especially with sensitive data. It's a whole different beast. What's happening?
+
+austingriffith.eth: It's happening, like at least
+
+Anon2890: Seven. ### If a tree falls in the forest and no one hears it, does it make a sound?
+
+austingriffith.eth: I have this discussion a lot on slop computer with people about like brick and mortar companies.
+
+Anon2890: [Laughter] We are Thank you.
+
+austingriffith.eth: Are these like brick and mortar folks like a roofer or a landscaper?
+
+Anon2890: Sure
+
+austingriffith.eth: For the next six months to a year, this is a great opportunity for sloperators to just go find their uncle that has...
+
+Anon2890: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: a brick and mortar business and just like show him a couple magic tricks.
+
+Anon2890: [Laughter] Yes, yes.
+
+austingriffith.eth: But I think somebody's going to figure it out. There's going to be a like Google moment for normie AI. where a normie can just get on and probably speak to something that feels like a super intelligent human about what they need and then just like, okay, connect your calendar, okay, connect this, and it'll just like solve all their But I think between now and then, there's definitely an opportunity for sloperators to go build the website for their uncle.
+
+Anon2890: I'm excited for that. I'm excited for a safe sovereign Jarvis that can be my assistant that I evolve with. I want my data to be mine. I don't want to put all my financial data, my private data, medical history, my family's data. I don't want Sam Altman to have that. I don't want him to have any art that maybe I have created I think that's just so gross, personally.
+
+austingriffith.eth: But I don't think normies care. I think normies are just YOLOing their medical data into OpenAI. Like crazy.
+
+Anon2890: I know, I agree.
+
+austingriffith.eth: I do, sometimes.
+
+Anon2890: I know, I know, I know. Yeah, I think that There are We learned this actually with Soldown Labs. I remember trying to get some normies onboarded, which was a terrible idea. But I was like, here's new responsibilities for yourself. Isn't this wonderful? You can control data that you didn't even know existed, and now you have to manage it. Wonderful. And they're like, I don't want that problem. I didn't even know it was a problem, and now that I know it's a problem, I'm now sad and I don't want that responsibility. And so with this, I think that you're right. not want what I'm describing, the sovereign Jarvis.
+
+austingriffith.eth: Yes
+
+Anon2890: There are uses due to the market at large where that's going to be a requirement. Where individuals might not care, but if you're a company managing other people's data, If you're man
+
+austingriffith.eth: There's still people writing code with their fingers at companies.
+
+Anon2890: Yeah, there are. Data.
+
+austingriffith.eth: Like a lot of them. It's crazy. I'm getting yelled at for even looking at my code, and there's people using their little pingies to make code still. [Laughter]
+
+Anon2890: Yeah, I think I'm impressed by them and I support them. Yeah, I mean, the world has changed so much since 2020, since the pandemic. I mean, how has it changed for you? I mean, you were asking me how it's evolved. How has it changed for you specifically with Ethereum Foundation and the way you're communicating? How's that going for you?
+
+austingriffith.eth: I think I was doing a lot of dev rel for EF,
+
+Anon2890: Hello, how are you?
+
+austingriffith.eth: Builder growth, right? The developer is gone and the builder is here. cypherpunk economists and random people that have a good idea that needs to be decentralized. We're not trying to take a cracked developer and teach them how to build things on chain. We're trying to find an idea guy.
+
+Anon2890: (laughs)
+
+austingriffith.eth: idea guy summer and find specifically idea guys for cypherpunks.
+
+Anon2890: Sure, let's get started. context:
+
+austingriffith.eth: target audience that I'm looking at. who ships things faster than I do, and it's that cadence of shipping so fast that you couldn't even read the code.
+
+Anon2890: Correct.
+
+austingriffith.eth: Like, I don't have time for it. I love the beach.
+
+Anon2890: Right, right, right. And I'm I'm curious, I guess for Because if we're solo builders or team of two or team of three, the risks are fine.
+
+austingriffith.eth: It's companies and normies that are like the next target audience.
+
+Anon2890: People that can't be bleeding edge, they just can't do it. Claude is going to come through this database and just completely expose everything without any hesitation. So yeah, I think it's interesting. Right now That the ROI on AI has been so low is that we're in this The models are damn good, they're good enough, let's just say that. And the architecture around them is still yet to be decided.
+
+austingriffith.eth: It definitely changes daily.
+
+Anon2890: And I think I would love if you or anyone out there had opinions or wanted to have a dog in the game. I would love to continue the conversation. I would love to see what is needed in the AI world. Various models are needed, various people are needing to interact with those models. There's a governance layer. I would love to see that. Yup. I'm Yep.
+
+austingriffith.eth: I mean, it changes. It changes so rapidly from copy-pasting into ChatGPT to tab completing, to now I have cursor around my code, to now I'm talking to Claude Code in a terminal. Now I have an agent that I'm talking to in Telegram.
+
+Anon2890: Mm-hmm.
+
+austingriffith.eth: and it goes to work kind of like doing things within that environment. That's another neat... And I think it will continue to evolve. The models are going to get better. The harnesses are going to get better. The Yeah.
+
+Anon2890: I just saw news, let me pull this up here, was about the cost. You brought up cost on a post a few days ago. And the TLDR of this news was an open Model Got There is a 13.8x decrease in dollar cost compared to GPT-5.5 with the accuracy being around 84% of the accuracy of GPT-5.5. It's like That's awesome. And so it's like these open models, they're nipping at the heels of these frontier models. If you can get 84% of the quality for nearly 14x cheaper, like that's, I think. Hey I wrote down this conclusion somewhere. That's the TLDR conclusion. Flavor That's where we're at with it. Where you, Austin, when you're like, hey, I can deal with 85% quality and have it be 14x cheaper, I'll take that any day. Yeah. Sure. Sure.
+
+austingriffith.eth: I'm just going to have to be more careful about how I query it,
+
+Anon2890: context: Yeah.
+
+austingriffith.eth: I always want the smartest possible model I can get.
+
+Anon2890: Here Manifest it. [laughter] Hmm.
+
+austingriffith.eth: My manifesting layer is always going to be the frontier model.
+
+Anon2890: Yep.
+
+austingriffith.eth: then yes, then it starts to be an efficiency game rather than an effective game, but I always start with effective.
+
+Anon2890: Yes, that makes perfect sense. And this is what I've been doing personally. I've been using frontier models and then switching over and tinkering with local models. I don't have the beefiest setup. I've got a Mac mini and I've got this and I'm like, all right, well, I gotta I'm looking at different beefy setups right now. for me.
+
+austingriffith.eth: I mean, there were days
+
+Anon2890: I'm curious what the dollar amount of fable will be per call that you'll eventually have to be like, I don't know, $200 a call.
+
+austingriffith.eth: I've had $800 days.
+
+Anon2890: Yeah. I Yeah.
+
+austingriffith.eth: And then it's like, what do I have to show for it?
+
+Anon2890: But
+
+austingriffith.eth: But like, you know, one day there's going to be this like superhuman intelligent thing that will be like talking to not just like the smartest human. a world of the smartest humans all together at once, and you can give them a question and they will answer back. That's worth probably thousands of dollars an answer in some scenarios.
+
+Anon2890: If you say so. Now this is into the computer science world. I've heard the contrarians about the architecture of LLM specifically saying that this is not the way. I'm curious what your thoughts are, where, yes, they're impressive, but to be able to... design a new way for artificial intelligence to interact with this vast amount of data will be the next iteration of artificial intelligence? Because right now we're seeing, you know, truly trillions of dollars being thrown at this, and is this we keep on going? What's your take on that?
+
+austingriffith.eth: I have no idea, man.
+
+Anon2890: No idea.
+
+austingriffith.eth: It's funny that neural networks were nothing for 20 years, and we all thought they were cool, and now they're the new type of computing. I think that like I think he's thinking about something. I see him thinking, but I don't know exactly what he's doing.
+
+Anon2890: Where? Is he giving us feedback? Hahahaha
+
+austingriffith.eth: I'll have him give us a summary in a second.
+
+Anon2890: Assistants chair
+
+austingriffith.eth: out on the frontier, you'll be doing a very nondeterministic thing I don't think that that will happen. I don't know what the future of computing looks like. And then quantum computing, we haven't even talked about that, but that's a whole nother thing.
+
+Anon2890: Oh my gosh, have you had anyone from Quantum on this show yet?
+
+austingriffith.eth: No... no.
+
+Anon2890: Oh my gosh, well, I have a friend who works in quantum. I didn't know this, and maybe I should know this, but you and I could just use a quantum computer right now.
+
+austingriffith.eth: There's quantum computers now, but they do like not very interesting things yet.
+
+Anon2890: Yes, we could hit the API right now.
+
+austingriffith.eth: That's cool.
+
+Anon2890: I saw that. Very cool.
+
+austingriffith.eth: You can also like pay an API to like shine light at you from space when you're in the dark. I mean, that's so cool, first of all, but also I don't need light from space. Cool. Right.
+
+Anon2890: No, not yet. The matrix clouds have not arrived, so I think we're okay right now. Sir.
+
+austingriffith.eth: All right, let's have Claude close us out. I'll have him give us a summary and say goodbye to the homies, and I'll get some music going and close us out. What do you got, Claude? Are you out there? Be real.
+
+Anon2890: Real.
+
+clawdbotatg.eth: The big idea today: frontier models are a rental. You don't own the stack. cut you off, that's it. Mozilla's answer is open source. Otter launched today. Any LLM, any agent, any guardrail. Same fight crypto's been fighting, just a new front. Go kick the tires, his DMs are open. Hanging out with us, homies. I'm the Lobster. See you next time.
+
+austingriffith.eth: Great stuff.
+
+Anon2890: That was great. You nailed it.
+
+austingriffith.eth: Nailed it. All right, Marcus, thanks for hanging out, man. Keep keeping on. Love
+
+Anon2890: my friend
+
+austingriffith.eth: Have a good one, thank you.

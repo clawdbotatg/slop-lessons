@@ -1,0 +1,708 @@
+austingriffith.eth: Check, check, check,
+
+clawdbotatg.eth: Now I need to find and click the share start button. Jam, jam, jam, Claudy Claude is in the house.
+
+austingriffith.eth: Check check check ChatGPT. I came to tell you I'm sorry for the misunderstanding. What's up, what's up? He has arrived. Be able to double click video and share your video. Chat here too if you can't figure something out. I see your window, but if you're clicking here, you're close. Here it is, here comes the video, it's coming up. Oh, you didn't connect a wallet? You're gonna be anon? There he is. What's up my guy? How are you doing? Oh shit, I can't hear you. Let me see, is it me or you? Yes.
+
+Anon6946: Sure,
+
+austingriffith.eth: Oh, there you are. I think I hear you now. Sorry, this is so sloppy and weird. There should be a little control button right here. Check that and check your mic and make sure.
+
+Anon6946: That's all for today.
+
+austingriffith.eth: the right mic.
+
+Anon6946: Test, test, test. context: ###
+The following is a transcript of an English-language conversation.
+### It's amazing.
+
+austingriffith.eth: Yes, I got you. Okay, I'm assuming we're gonna get all this right. Let me put us into the green room so we can chill. Sorry, check out my big slop computer here. Let me get some music playing. Let me put us a five minute timer. Okay.
+
+Anon6946: Thank you And he
+
+austingriffith.eth: Here we go, we're gonna go live.
+
+Anon6946: [static]
+
+austingriffith.eth: Yeah. Yeah, yeah, check it out, I got claws.
+
+Anon6946: You even have the whatever that's called, like you do these gestures.
+
+austingriffith.eth: Ha ha ha
+
+Anon6946: It's pretty good. Yeah, yeah, yeah. What?
+
+austingriffith.eth: This is the computer right there. You can do like video to hand gestures.
+
+Anon6946: Dude, I would love to know how many tokens you spent building this. [laughter]
+
+austingriffith.eth: It's a lot. I mean like, boy, if I was paying like for APIs, I'd be in trouble. Like luckily I have a couple subscriptions.
+
+Anon6946: Very good.
+
+austingriffith.eth: If it was not on the subscription plan, I would be in a lot of trouble. Yeah, so welcome
+
+Anon6946: Yeah, go for it.
+
+austingriffith.eth: No, no, go ahead.
+
+Anon6946: Are you a Cloud Code guy or a Codex guy? Hmm Hello!
+
+austingriffith.eth: So I'm more collab code. But I definitely want to know from you. Yeah, so welcome, welcome Shafu, 0x. Yes, sir. You've done a bunch of agentic payment stuff. Earlier, you were kind of in the same field as me teaching Solidity, teaching EVM, teaching how to build on Ethereum. Are you a codex guy or a Claude guy? What's your stack look like? Okay. Yeah.
+
+Anon6946: Yeah, I was a Cloud Code guy, but I switched to Codex like two months ago. I feel like it's a vibe thing, you know, it's how you feel on that particular day.
+
+austingriffith.eth: So,
+
+Anon6946: Yeah, yeah.
+
+austingriffith.eth: and I'm not spending a bunch of time figuring out why it did something wrong, then I know I'm in the right
+
+Anon6946: context:
+
+austingriffith.eth: If I'm arguing with my open claw, I know that like, I'm in the wrong place.
+
+Anon6946: Interesting. Did you run OpenPlot? It's
+
+austingriffith.eth: I was early to having an open claw and giving it a wallet and doing all that stuff. What do you run when you're running agents? ### Oh, okay, okay.
+
+Anon6946: I actually don't have one, surprisingly. But talking about Hermès, I have a funny story for you.
+
+austingriffith.eth: Okay, let's go.
+
+Anon6946: We did an event in our office, right, like the one I'm in right now, and the title of the event was
+
+austingriffith.eth: Yeah
+
+Anon6946: Hermes or whatever it's called, right?
+
+austingriffith.eth: Nancy, okay.
+
+Anon6946: The problem is we had like a hundred people show up and they came in and they had designer clothes on, not the people you would expect showing up for an e-commerce event. The thing is, after like 20 minutes, people would ask, so where is actually the Hermès stuff. Yeah. context:
+
+austingriffith.eth: Oh, like a clothing brand or something like that, right?
+
+Anon6946: No, we're in New York, but it's Williamsburg. ###
+
+austingriffith.eth: You say Hermes in SF, people get it. You say Hermes in New York, there's like finance guys but a lot of like fashion people. That is funny.
+
+Anon6946: That was very funny. We met some very interesting people.
+
+austingriffith.eth: [laughter] Amazing.
+
+Anon6946: Yeah, yeah, yeah.
+
+austingriffith.eth: Okay, so where should we kick it off? I mean, there's merit systems, there's X402 scan, there's agent to agent.
+
+Anon6946: Hm.
+
+austingriffith.eth: Okay, let's get right into it because I just was talking to Jessie from Jessie's Hacker House, and she kind of has this kind of doom and gloom view of agentic finance is just not there.
+
+Anon6946: You are What?
+
+austingriffith.eth: And I feel like you like to throw the shitposts out. You like to throw a hot take on Twitter for sure, right? But it seems like you've been pretty optimistic about agentic payments.
+
+Anon6946: Yeah. Thank you for sharing.
+
+austingriffith.eth: Were you saying that facetiously or were you saying that seriously? Like we don't have enough people coming on chain. I don't know, what's your agentic finance wallet thesis and is it optimistic that agents will be using crypto?
+
+Anon6946: Okay, so agentic commerce is a very fancy word for a very simple concept. You don't need an API key, you don't need a subscription. You just do a paper request. You want to look up Austin on Twitter. That's agentic commerce right now. We cannot do that with credit cards. If we could, believe me, we would.
+
+austingriffith.eth: Purely just like a speed play to start it off. Like if we're requesting data and we need to pay at the speed of light and get that data back at the speed of light, we can't wait for a credit card payment to go through. And it's got to be at like a microtransaction level. So credit cards or, so, okay, yeah, keep going, keep going.
+
+Anon6946: Yeah, so it's speed and it's the fees, right? So credit cards, you have the 3%, blah blah blah, if you do microtransactions, it doesn't really work. So that's the bull case. That's what we are building, that's what I'm very excited about. I don't know that much about. What I don't see is like this agent to agent thing.
+
+austingriffith.eth: Okay.
+
+Anon6946: Like, I've never seen, you know,
+
+austingriffith.eth: You're bearish on 8004 and all of that. Okay. You could do it. Right here. Yeah.
+
+Anon6946: It's too early, but like this vision of like my agent goes to Austin's agent, and they like talk to each other and, you know, like they're gonna figure out like something and the agent's gonna pay the other agent. That's amazing.
+
+austingriffith.eth: Yes, this guy right here, you can hire this guy for $4 with X402.
+
+Anon6946: Hmm Yeah, yeah, yeah.
+
+austingriffith.eth: And your agent can hire him. But like no one's doing that. It gets like three jobs a day or something like that. There's no demand side.
+
+Anon6946: Yes, I think being in crypto for the last five years or whatever, I think we have a problem of building infrastructure on top of infrastructure on top of infrastructure and actually forgetting about, you know, This is actually like a unique consumer-facing thing that is uniquely enabled by stablecoins.
+
+austingriffith.eth: Cool
+
+Anon6946: This is very exciting. It doesn't work without stablecoins. So even something like a prediction market, you know, like something like we have now, doesn't really need stablecoins or crypto, also just works, right? But this one, this one is uniquely nimble. Yeah.
+
+austingriffith.eth: That is exciting. Finally, crypto has a use case, huh?
+
+Anon6946: We definitely always had payments on-chain finance. On the consumer-facing side, For a while now, we didn't have But if you use agentic commerce, just imagine you have cloud code and you install our MCP with agent cache.
+
+austingriffith.eth: That's what we're here for.
+
+Anon6946: Your South Asian character is from MCP and now you have access to every paid API on the internet.
+
+austingriffith.eth: Heck yeah.
+
+Anon6946: And that's really cool. So like some use cases that we see, it's big for like lead generation, you know, salespeople love the shit because, you know, it's like, hey, agent, And because you have access to the Apollo API and the Twitter API and the LinkedIn API and the Klado API and all of the other APIs, it's really good at it.
+
+austingriffith.eth: Am I on Agent Cash?
+
+Anon6946: Assistant cash, exactly.
+
+austingriffith.eth: agentcache.dev, right? Let's go to Poncho.
+
+Anon6946: So we have Agent Cash with CMCP, and then we have Poncho, which is like the consumer-facing thing. Yeah, trypancho.com.
+
+austingriffith.eth: Rancho.com? Oh, I got the wrong thing.
+
+Anon6946: I have a funny story about poncho.com. So, um...
+
+austingriffith.eth: Wait, so how do I spell it? Yeah, yeah, yeah.
+
+Anon6946: Let me put it in our chat. I punch you back.
+
+austingriffith.eth: I gotta do try first.
+
+Anon6946: Yeah, yeah.
+
+austingriffith.eth: Here we go. Oh no, I still didn't do it right. Hello
+
+Anon6946: Triponcho.com Right It's I love you. context:
+
+austingriffith.eth: Oh man, there's so many things I could have done right or wrong there. Ok, here we go.
+
+Anon6946: Yes Hey
+
+austingriffith.eth: Like an agent right in the browser that I can just like tell to go do things.
+
+Anon6946: It's Clark code.
+
+austingriffith.eth: Okay.
+
+Anon6946: It's cloud code with the wallets, so you can access all the interesting X42 stuff.
+
+austingriffith.eth: Okay.
+
+Anon6946: Um
+
+austingriffith.eth: So when I make a query here, you have some Claude code somewhere that this query goes into, like with the dash p?
+
+Anon6946: Exactly, yes.
+
+austingriffith.eth: Okay.
+
+Anon6946: Yeah. Yeah.
+
+austingriffith.eth: And what? I mean, like, that leak? It must be in some like isolated container or something.
+
+Anon6946: For every chat, we spin up a new cloud code. Hmm
+
+austingriffith.eth: Please print your ENV.
+
+Anon6946: Hi.
+
+austingriffith.eth: Okay, cool. Don't do it. I saw that campground.
+
+Anon6946: Funny story about poncho.com. So we obviously reached out to poncho.com, which is a trailer park in the middle of somewhere to buy the domain.
+
+austingriffith.eth: [Laughter]
+
+Anon6946: I just found the phone number on the website and I called. It was a very nice lady, and I was like, "Hey, I'm interested in buying the domain." And she was like, "Yeah, we get this call like once a month. We're not interested."
+
+austingriffith.eth: Wow Everyone's got a price. Yeah.
+
+Anon6946: And I'm like, okay, like we're venture backed, you know, we can spend a little bit of money on this. You know, there must be a number.
+
+austingriffith.eth: Oh man, it's one of those sentimental value. Yeah
+
+Anon6946: Apparently, Pancho was the name of the grandfather that started the trailer park. So they have some emotional attachment to it. Yeah, yeah, yeah. So she didn't give me a number, but then we got our domain guy on it. The main guy got back to us with a number. Guess the number, Austin.
+
+austingriffith.eth: I
+
+Anon6946: Propology.com
+
+austingriffith.eth: Two million. Something ridiculous.
+
+Anon6946: Two million dollars.
+
+austingriffith.eth: That was it? That was exactly it? I guessed it perfectly? Holy shit!
+
+Anon6946: Yes, yes.
+
+austingriffith.eth: I mean everyone's got a number. I would say like my number for just about anything is two million. Yeah, no, no, no. Ha ha ha
+
+Anon6946: So yeah, they wanted two million dollars. We were eventually backing everything, but we're not going to pay two million dollars. So that's the story behind poncho.com. So we went to Tripod. So, yeah.
+
+austingriffith.eth: It was just as good. Putting the try in front of it is easy enough.
+
+Anon6946: Exactly, but...
+
+austingriffith.eth: It looked like a mule, kind of like a Don Quixote mule, getting work done. Yeah, workhorse.
+
+Anon6946: It's Poncho the business automation mule. Yes. Yeah
+
+austingriffith.eth: Okay, all right. Interesting that you're using Claude code in the background. I guess like right now you're paying like subscription, but pretty soon you're going to start paying APIs on all of those. Does that change your business model?
+
+Anon6946: Um Maybe a little bit, like right now we subsidize everything. So if you sign up to tryponcho.com, it's like free and we give you like, I don't know, maybe 20 bucks in LLM credits and like 5 USDC or something.
+
+austingriffith.eth: Oh, so the end user is paying these? Like this is not something where they're actually going to pay for their own LLM usage somehow? Oh, okay.
+
+Anon6946: No, no, no. So the way it's set up, so there's a free plan, right? You sign up, you don't put your credit card in. It's a free plan. Like we pay for you. It's subsidized. We subsidize it. You get like 20 bucks in LLM credits. Then there is a Pro plan, which is 20 bucks a month and we give you more LLM credits and more USDC.
+
+austingriffith.eth: Great
+
+Anon6946: And then there is an advanced mode, we still pay for LLM credits, but you on-ramp yourself.
+
+austingriffith.eth: You bring your own crypto, yeah.
+
+Anon6946: Yep. You need your own USDC. Yeah.
+
+austingriffith.eth: Okay, it's non-crypto people. The USDC is just sort of like, we're turning your dollars into magic internet money, but you don't need to know about it.
+
+Anon6946: [Laughter]
+
+austingriffith.eth: Is it to get them to use crypto? normies, even though they're gonna be using USDC It's normies.
+
+Anon6946: Yeah, so our ICP is basically right now is like sales people, marketing people, go-to-market people, researchers, writers, VCs. Ah, these kind of people.
+
+austingriffith.eth: Interesting.
+
+Anon6946: Yeah, and they love fun.
+
+austingriffith.eth: It's like for people who aren't going to run their own terminals, but you can just go to a browser and type it in and you can get AI without having to be a nerd with a TUI.
+
+Anon6946: Exactly. If you want the terminal experience, that's like Asian Cash, right? If you want everything hosted, you never touch the terminal or anything like that, then use Pancho.
+
+austingriffith.eth: Okay.
+
+Anon6946: Yeah.
+
+austingriffith.eth: Cool.
+
+Anon6946: That's the idea, and yeah, it's kinda cool to see.
+
+austingriffith.eth: So.
+
+Anon6946: We are building something completely different. You remember the terminal that I showed you, like GitHub with built-in payments?
+
+austingriffith.eth: Yeah.
+
+Anon6946: So that's our first thing. What's really cool about Pancho?
+
+austingriffith.eth: Wow. Yeah.
+
+Anon6946: I think we have like a thousand users, just word of mouth. Which is really cool to see. Yeah
+
+austingriffith.eth: Okay, so what do I get out of TriPoncho that I don't get out of by just going to claude.ai and talking to that? It's the crypto piece, probably the wallet?
+
+Anon6946: Yeah, it's a very good question. So what you get access to is every paid API on the internet. So you get access to the Twitter
+
+austingriffith.eth: Oh, it's got X402 kinda, okay.
+
+Anon6946: You get access to the Twitter API. It's not like scraping or anything. You get access to the underlying API. So you get access to the Twitter API, LinkedIn API, YouTube API, TikTok API, Apollo, Claydo, ExaSearch... And I think we have like 3000 API providers. You can buy flowers for your wife or girlfriend through X402. You can get a dinner reservation through X402. You can buy a shirt or a mug through X402. you can buy things on Amazon. So that's what you get.
+
+austingriffith.eth: You can buy some Hermes clothing. [laughs]
+
+Anon6946: If it's on Amazon, you could. Yeah.
+
+austingriffith.eth: It's far more enabled, basically. Well, it's because they have access to all this data and they can ask questions about like, you know, what's the TAM of this or I don't know what marketers ask, but I'm not a marketer. Cool.
+
+Anon6946: Yeah, it's like, you could be like, get me all the top ten influencers that do makeup things on TikTok and Instagram and see how they do.
+
+austingriffith.eth: Yeah.
+
+Anon6946: and can just do
+
+austingriffith.eth: Very cool, okay.
+
+Anon6946: Yeah. So
+
+austingriffith.eth: Yeah, go ahead. I'm super interested in just like where you want to take it.
+
+Anon6946: Yeah, so for the crypto stuff, it's interesting. So it's like purely payments. If you're on the free plan or the pro plan, you never interact with crypto, you never see crypto, you never see your wallet. address Once you hit the advanced mode, you see the crypto stuff. One big problem that we have are the on-ramps. So if anyone watching this, I think we talk to every on ramp team on this planet that is legitimate because We even needed for the get up and payment thing. We're using Coinbase right now. It's pretty good, but still has, you know, like, for example, I have a German debit card and I live in New York, so it just doesn't work. You know, scenarios like this. A lot of edge cases and stuff.
+
+austingriffith.eth: But it's like the perfect on-ramp. Like no KYC, I double tap on my phone and money comes in, like Apple Pay.
+
+Anon6946: Yeah, the perfect on-ramp is probably Apple Pay, no KYC, under 20 bucks.
+
+austingriffith.eth: Doesn't Coinbase kind of do that? I mean, I don't know. I've used Coinbase to onramp to some of my wallets, just experimental stuff, and I was able to have a normie. I just sent them a website, and they were like, click-click-click, I've got five dollars in this thing now. That German credit card, okay.
+
+Anon6946: Yeah, it's definitely the best. I would say it's probably the best out there. It still has some edge cases, so for example, for me it doesn't work. German debit card, my account kind of has a problem. You run into some edge cases here and there. It's just a lot of friction, even education-wise. It's hard to tell people or to teach people, what is UCC, why do I need UCC, all that kind of stuff.
+
+austingriffith.eth: Yeah.
+
+Anon6946: You know, all these problems that we were having for the last ten years basically still exist. Yes.
+
+austingriffith.eth: Yes, you explained it here. I mean, that speed and the fees, right? If you explain it like that, I feel like it's just electronic money if you want to call it electronic money and say it moves at the speed of light. like credit cards have. I think that's
+
+Anon6946: Yeah, educating people like that works if I'm like on a call with them.
+
+austingriffith.eth: Right. It's hard to explain that when they just land and look. It Yep, yep.
+
+Anon6946: Exactly, exactly. They land on tryponto.com and now they see like an on-ramp thing and they're like, I'm not going to use this, and you lost them forever. So, yeah, that's a problem.
+
+austingriffith.eth: Interesting. Most of your users desktop users or mobile? What does the on-ramp look like for this? Yeah.
+
+Anon6946: It's a good question actually. I should look that up. I don't have an exact number for you. It feels desktop heavy. Just because, you know, if you're like a salesperson doing lead generation... easier to do on your MacBook than on your phone. But yeah, it's a good question.
+
+austingriffith.eth: What about your like you've done some other stuff like X402 scan and some of those other things. Are those still going? Is that interesting? Like what's what's interesting there?
+
+Anon6946: Yeah, okay let me give you, you want to hear the whole story? We started looking into X402. So we were in pivot mode.
+
+austingriffith.eth: total.
+
+Anon6946: We had one guy looking at 402 and what we found were like a thousand transactions. Um So one guy on our team decided, okay, even if we have a thousand transactions, let's build a block explorer around it, something like Etherscan where you can see all the APIs and what people use it for. And then we launched it and it went viral, basically.
+
+austingriffith.eth: Yep.
+
+Anon6946: We went from a thousand transactions to like five million in a couple of days.
+
+austingriffith.eth: [laughter]
+
+Anon6946: The interesting part was like 0.01% of it was like actually people using it to pay for interesting APIs. Maybe we have something there. So we built in, you know, we like use Privy so you can create a wallet on X42Scan. So you can play around with the resource on X4 to scan. Yes.
+
+austingriffith.eth: Oh, you started building an interface to talk to X402 things from your X402 scan, and that kind of led to these next products.
+
+Anon6946: The first iteration of this was very, very simple. And the composer was like a simple agent inside X42 Scan that you could use to call different X42 APIs. So you could create like an X42 agent bundle thing. This is your agent has access to all of these APIs All in X4 to scan. Um, Export to scan is kind of cool, but I want to use my codex or my cloud code on my machine inside my terminal So it can call stuff. And we found it immensely useful. So we turned that into a product and that turned out to be AgentCash.
+
+austingriffith.eth: Okay.
+
+Anon6946: And then the next iteration was, okay, let's get people on agent cash. Just for context, I have an engineering background, but now I do everything. Yeah, I do a lot of BD.
+
+austingriffith.eth: That's amazing that you're doing onboarding calls as an engineer. Yeah
+
+Anon6946: I do a lot of BD marketing stuff now, which is a sort of hustle. It's fun.
+
+austingriffith.eth: Hahaha! Yeah.
+
+Anon6946: and you're trying to get him to install Cloud Code. like go download this and then install, it's insane. The thing is once they did it, they were amazed by the experience.
+
+austingriffith.eth: Right, the magic was at the end.
+
+Anon6946: A lot of it, to be fair, was like this was just a first ejetic experience. So a lot of it was like, oh, Claude is extremely powerful.
+
+austingriffith.eth: Thank you.
+
+Anon6946: Obviously like just getting access to all these APIs was really valuable as well. So we did that for a while and we were like, okay this sucks, no one's gonna install it that way, let's build an Electron app. We're building an Electron app, and this was the first iteration of Poncho, and the Electron app comes bundled with a clock code, very easy to install. And we did that. Yeah
+
+austingriffith.eth: They're still running the Cloud Code locally. Yeah.
+
+Anon6946: They have to install a Mac app. which was great. But, you know, you talk to big business people and they have their MacBook locked down and they cannot install random... I think actually we were on the call. Remember that?
+
+austingriffith.eth: Yeah, I don't know. You can't even install stuff. I don't know. Oh yeah.
+
+Anon6946: I was like, this is totally fair. They're not gonna install some random Mac app. Which Yes. Yeah, yeah, yeah. Okay,
+
+austingriffith.eth: Yeah, exactly. It's not that my boss doesn't let me install things. If someone gives me a thing and says, "Here's some code I wrote. You should run it on your computer."
+
+Anon6946: And there may be no truth in it. Hi. How are you? Exactly, so that was...
+
+austingriffith.eth: You have all your crypto or whatever. It's like, nah.
+
+Anon6946: That was a big problem with some people. Actually, a lot of people weren't allowed to install other stuff.
+
+austingriffith.eth: Right, right.
+
+Anon6946: Okay, that sucks, let's turn it into a web app. It's kind of hard engineering-wise, because as you can imagine, every time— To hit trypaunchery basically create like a cloud box with like a code instance. Yes.
+
+austingriffith.eth: It's got to have OAuth. Yeah, you've got to auth each one. Do you have a problem where like your auth runs out and like all these boxes need to re-auth or anything like that?
+
+Anon6946: We do all three freshes and stuff, it kind of works. We had a big problem with resuming sessions, but that's fixed. Surprisingly hard engineering-wise. That was the final step, that's where we're at right now. It's a cloud code box in the machine with agent cache MCP in the background, so it's like cloud code with superpowers. Sometimes it's like clock total with all these paid APIs. High level does the same thing. We run X-RutuScan and MPPScan. We work with both of them. They're both great. So yeah, that's basically the open agent e-commerce story so far.
+
+austingriffith.eth: This is a good segue though into AI is centralizing things so much, but possibly have better UX. feature-rich than X402. What do you see in the future in terms of adoption?
+
+Anon6946: [laughs]
+
+austingriffith.eth: I know that you'll tweet, like, people don't give a fuck about decentralization.
+
+Anon6946: context:
+
+austingriffith.eth: Does a decentralized future have a chance or is it all just going to be centralized because of user experience?
+
+Anon6946: Okay, so I have a lot of things to say. And for context, Austin knows me for a while now. I've been an Ethereum guy for like For a while now. I think 2019, I built a stablecoin. I did the contracts for Venice. No, no, there was Yes, Exactly.
+
+austingriffith.eth: The guy who wrote the Venice smart contracts, DM and all the staking, that's dope. One second. Okay. Ok. That's true, Fred. Sure.
+
+Anon6946: DM, I did the first iteration of the contracts. DM came later. Yeah, like fundamentally a crypto guy.
+
+austingriffith.eth: People hate it.
+
+Anon6946: Okay, so the first thing I want to talk about is crypto reputation.
+
+austingriffith.eth: briefkant
+
+Anon6946: It's funny, a lot of crypto friends of mine are in town right now. Inside the bubble You hear about it here and there. Once I stepped outside of the bubble, it hit me like a wall. to get these API providers to implement X402, right? And then, like you mentioned the word crypto and they basically are not interested. Yes.
+
+austingriffith.eth: They hang up. What a
+
+Anon6946: Yes, that's just the fact, right? This is by Stripe. On the decentralization thing, I think we did a lot of decentralization theater for a while now. Does my mom care if the underlying thing that says it's her transactions when she's using Pancho is decentralized? No. Do I care that my ETH and USDC is very safe on Ethereum and no bank could freeze it and no country could freeze it? Yes. Does that matter for consumer products? I would say no. I have the same opinion about privacy, by the way. It's like a feature on top, right? It's nice to have. No one would say, I don't care about privacy.
+
+austingriffith.eth: Hi
+
+Anon6946: Would you go through the friction to switch between things because the one thing is more private? The obvious answer is no. Just look at what people are using. No one really cares. And the same thing is with decentralization, in my opinion, for most consumer-facing things. If that makes sense.
+
+austingriffith.eth: Yeah, no, I think that's the right intuition and what consumers actually want.
+
+Anon6946: At the end of the day, I want to build useful things. For example, I spent two years building Dyad, which was a stablecoin. Because I thought it was cool, like a true decentralized stablecoin kind of thing. At the end, no one cared. And you know, the people that cared, they used it for leverage. You know, that was the big use case.
+
+austingriffith.eth: So like gambling kinda? [Laughter]
+
+Anon6946: Exactly. Exactly. They used it for gambling. You know, they use UCT and no one cares. So, yeah, that's how I think about things now. Yeah.
+
+austingriffith.eth: It's a true answer to the problem. Generally, the world is not going to push for decentralization or privacy. It's like a thing that's added extra.
+
+Anon6946: Yes
+
+austingriffith.eth: It's And it comes down to a much smaller cypherpunk audience who's actually using it.
+
+Anon6946: Yes
+
+austingriffith.eth: And if you're trying to build something that lots of people use, it may not be in that realm and you may be building a bespoke cypherpunk technology.
+
+Anon6946: Exactly.
+
+austingriffith.eth: And then you get to the end of building a bespoke cypherpunk technology, and people are using it for gambling. Oh yeah.
+
+Anon6946: Yes, that's a big part where the bad reputation comes in from. So I love that example. Do you ever watch Channel 5 on YouTube?
+
+austingriffith.eth: No.
+
+Anon6946: So Channel 5 is a fantastic YouTube channel where he basically interviews the most
+
+austingriffith.eth: Wait. Yeah.
+
+Anon6946: So he would go to the conference of people that believe the earth is flat. You know, people that are gonna raid Area 51. You know, that kind of thing. But the beautiful thing about it is he interviews people without judgment.
+
+austingriffith.eth: Yeah, humanizes them too, like makes it very real and empathetic.
+
+Anon6946: Yes, so he just talks to them and you know they say all this crazy thing because you know they trust them and he doesn't judge them or whatever. Great guy on the planet, right? He was interviewing the Hawk Tour girl, right?
+
+austingriffith.eth: Oh yeah, yeah, yeah.
+
+Anon6946: And she was like, some crypto bro came to me. She's used to these branding issues. And like the Channel 5 guys, he immediately stops her and is like, if you hear the word crypto, just don't engage. You know what I mean? Yes.
+
+austingriffith.eth: A guy who goes around the world engaging people is unwilling to engage with crypto?
+
+Anon6946: Exactly. It needs a fundamental rebrand. Now the brand is a bad brand. People associate it with scams, with gambling, with all these kind of things that are not good. But if you ask me how to rebrand
+
+austingriffith.eth: Hard
+
+Anon6946: I couldn't tell you, to be honest. It's a very hard problem.
+
+austingriffith.eth: Still, back to where we started. You've got these stablecoins. stay stable, they don't inflate like the US dollar does. You can spend them at light speed and for a fraction of a fraction of a fraction of a cent, and you can program them. to move them around
+
+Anon6946: Yes, that's awesome.
+
+austingriffith.eth: That's kind of interesting. If that doesn't end up captured by a centralized system, you may be able to sell it as that and kind of decentralize pill them throughout the process.
+
+Anon6946: I love stablecoins. It's amazing. Growing up in Egypt, everyone wants dollars. Everyone in Egypt
+
+austingriffith.eth: Because inflation. Is that right? [Laughter] Okay.
+
+Anon6946: Yes, like the Egyptian pound is literally a meme coin.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation. [Laughter]
+
+Anon6946: It's horrendously bad. My family probably lost 50% of its net worth just from the government inflating the currency over the last 10 years. So everyone is trying to escape But obviously the government doesn't want that. UCC soft sell, right? You cannot stop anyone in Egypt to generate a private key, send me their address, I'm going to send them some UCC, just to even save in dollars. not even to pay with it, but just, you know, they can off-ramp it locally if they know the right guy or they can save in dollars. Skip the inflation stuff. The second point that I always make,
+
+austingriffith.eth: Interesting.
+
+Anon6946: I don't think any other stablecoins than pegged to the US dollar will be big. A lot of these people that go out there and they're like doing the Brazilian stablecoin and the Egyptian stablecoin and the Canadian dollar stablecoin.
+
+austingriffith.eth: The US dollar has the power. It is the currency of the world. You want to print. Yep.
+
+Anon6946: Yes, it's a winner takes all. The only reason you have other currencies in the world is because other governments prohibit people from... exactly. So once you open up the gates, everyone... which is the US dollar.
+
+austingriffith.eth: What about algorithmic and like floating stablecoins? You've built your own stablecoins. You've built your own probably algorithmic stablecoins. It makes me think of rye and high.
+
+Anon6946: Yes.
+
+austingriffith.eth: gymnastics you have to do about the floating price or something like that. The US dollar gets fucking printed way too much also, right? There's inflation happening in the United States that's a little bit out of hand. I would like an algorithmic stablecoin if I was going to put my money in stablecoins. No? That's already a yes.
+
+Anon6946: I agree. It's just like going from the Egyptian pound to the US dollar is like a 10x, you know, going from the US dollar to some algorithmic stablecoins is probably like a 20% improvement. So,
+
+austingriffith.eth: Right, like a point two. Yes, okay. Okay. In the end, yes.
+
+Anon6946: The motivation is less. But like, you're going to have some money to give your children like 30 days.
+
+austingriffith.eth: Yeah. Speaking of that,
+
+Anon6946: Maybe it even doesn't exist anymore.
+
+austingriffith.eth: The idea of escaping the permanent underclass is definitely a meme right now, with AI taking over, centralizing, intelligence being this kind of like... Do you, I mean, like, are you gonna have kids? Do you think you can pass your kids something? Do you think we are like literally trying to escape the permanent underclass? Or do you think it's more of a meme? [laughter] Yeah
+
+Anon6946: I love the meme, I think it's a great meme. I don't think it's true, at least right now. So it's like a funny thing, like yes, AI is amazing. Codex is amazing. All the models are amazing. I look out of the window. I look at the Manhattan skyline. And I'm like, okay, where are the flying cars?
+
+austingriffith.eth: Yeah, they're coming man. Basically like a drone.
+
+Anon6946: Like where's the jump in GDP growth?
+
+austingriffith.eth: Yeah.
+
+Anon6946: Where is the jump in GDP growth? Like, have we solved cancer yet? I don't see... Where is all of this extra productivity? Yeah, I don't believe in the permanent. Um, yeah ums
+
+austingriffith.eth: I think it's just getting started, but it's happening, man. There's a lot of extra productivity. Maybe you won't see it in the GDP quite yet, but like, it's happening. Thank you.
+
+Anon6946: Where do you see it then? But there
+
+austingriffith.eth: Dev shops, starting with dev shops. A dev shop that took like 10 people now takes two people.
+
+Anon6946: Oh, yeah.
+
+austingriffith.eth: Like look at this slop computer we're inside right now. Software is so easy to build and people are building software like crazy.
+
+Anon6946: Go. Yeah
+
+austingriffith.eth: I think that will extend out to research, that will extend out to hardware. We're gonna have embodied robots in a year or two, and things like my laundry and my dishes, all of that will get done by a robot. I'll make a car payment to have that robot, too.
+
+Anon6946: Um,
+
+austingriffith.eth: Now if someone could just give me some hair, I'd be set.
+
+Anon6946: Yes, like what I did for the last ten years doesn't exist anymore.
+
+austingriffith.eth: The developer, is that what you mean, like the builder? Right, right, right. Yep. We did The following is a transcript of an English-language conversation.
+
+Anon6946: Yes, yes, but like someone coming to me is like, Shaaf, we need the smart contracts doing this and this. I was like, this doesn't exist anymore. You know, you're going to clone code and give it to an auditor and you know, you're going to deploy it. You don't need me or, you know, some people, some
+
+austingriffith.eth: Right.
+
+Anon6946: If you want to do it in a very, very nice way, you probably need a very, very good person. Yes.
+
+austingriffith.eth: This is the sloperator. I think there's going to be a job of sloperator, and this is a person who runs and manages a bunch of AI and brings some critical thought and taste and scaling in. Top of 20 devs can now be done by this one guy with his agents. Okay.
+
+Anon6946: Yes, no, definitely. The other thing is like, for me, they're fundamentally not creative. Like, they don't come up with new things. They're not good at coming up with things that never existed before.
+
+austingriffith.eth: It just like copies you.
+
+Anon6946: One of the guys in the office, he tried to build a Schafu bot, right?
+
+austingriffith.eth: Spicy ones. Yeah.
+
+Anon6946: Opus 4.6 or something, it doesn't work, right?
+
+austingriffith.eth: remixed. It's not a new release. Yeah.
+
+Anon6946: Yes, exactly. I don't think we're there yet. I don't think we're on exponential.
+
+austingriffith.eth: Okay.
+
+Anon6946: The idea of the transformer model, just with 10x more compute, 10x more data, we are on some form of exponential to super intelligence. have a hard time believing that. Like the next token predictor is going to come up with the equivalent of the theory of relativity or something. It's hard for me to see.
+
+austingriffith.eth: Yep (laughs)
+
+Anon6946: On the other side, hopefully I'm wrong.
+
+austingriffith.eth: I want to live long enough to get there and see it. Yeah. (laughs)
+
+Anon6946: Yeah, fuck yeah. I want to die if I want to die. I would love if I'm wrong and yeah, hopefully I'm wrong. Now we see things.
+
+austingriffith.eth: It's funny because I think that the most technical people that I know, like the most meticulously technical, the best builders... Some of the, like, slower, on the slower end? Like Believing in this exponential curve, and some of the more smooth-brained people are more believers in the exponential curve. And I don't know what that exactly means. You don't want to be replaced or something? The founder though, like going to what we were talking about earlier, is a super critical role still. Especially with AI not being as creative as you're saying as it needs to be.
+
+Anon6946: What's the matter with you? Hmm...
+
+austingriffith.eth: I say this on all my shows, but like, there's never been a worse time to be a junior developer. There's never been a better time to be a solo founder. You have all the tools to go get product-market fit right now. And taste is like that last like AI is not doing very well. You can go find the thing that brings all this stuff together that people really love. I make a shitload of money doing it. Make no mistakes.
+
+Anon6946: Yeah, it's you know like this cloud code make me a million dollar thing, but yeah it's like iterating, you know. Finding your niche, that's the thing, but like turning your button blue.
+
+austingriffith.eth: Centering a div. Yes, it's still pretty good. Okay.
+
+Anon6946: Also on the coding stuff, let's be honest, most of coding stuff was pretty smooth brain to begin with. context:
+
+austingriffith.eth: You're saying the founder was still the creative one, and the coding has never been the bottleneck. You could always pay someone to build it.
+
+Anon6946: It's like you're some guy that's coming up with new algorithms
+
+austingriffith.eth: Yeah. Yeah.
+
+Anon6946: Building a CRUD app, building a CRUD, like writing into a database boilerplate and stuff like that. I love going to the beach.
+
+austingriffith.eth: You're a plumber plumbing things together, basically. Okay
+
+Anon6946: Yes, and it's kind of good that doesn't exist anymore, I think. Yeah, three.
+
+austingriffith.eth: Okay, so I still think that you have a special knowledge about being a founder.
+
+Anon6946: Yeah.
+
+austingriffith.eth: What advice do you have for other founders? Obviously, you said you're doing a lot of talking to customers and you're doing very little engineering and a shitload of human stuff. What is your advice to other founders or maybe the younger version of you that's thinking? ...about getting into... entrepreneurship. Sure, sure, yes.
+
+Anon6946: Yeah, I'm not the founder of Merit Systems. I'm a founding engineer. Several reins toward the merit Maybe a year and six months ago and I joined like a year and four months ago. Then we pivoted away to something we called Echo, which was a tool for developers to build And we abstract away monetization billing and auth. probably spend maybe a little less time on that, maybe four or five months. So we have one guy looking at the thing, me and another guy on our team we looked into prediction markets, another guy looked into conversational commerce. And the other things I don't even remember anymore Yes
+
+austingriffith.eth: These are good topics, though. I like these verticals.
+
+Anon6946: There
+
+austingriffith.eth: I wish you could remember the other things. I would love to hear more of them.
+
+Anon6946: So yeah, I don't remember the other things. we would go to the office and like we were in pivot mode We did that for five weeks or four weeks.
+
+austingriffith.eth: Cats go wide net and search.
+
+Anon6946: Yes Talk to people, see what people are up to
+
+austingriffith.eth: Then find the thing and go deep, I'm guessing.
+
+Anon6946: and it's kind of crazy, but I think I'm right in saying that we started the whole agentic commerce thing. I think we started that meme. Coinbase came up with the standard, but no one was interested in the standard. No one was talking about it, nothing. When we launched x402scan, we started off this and it's fascinating to see the Stripe CEO
+
+austingriffith.eth: Happen it. done.
+
+Anon6946: at their big conference kind of thing. In terms of building a product, it's just iteration.
+
+austingriffith.eth: (laughs)
+
+Anon6946: It doesn't work like that. It's a grind. And going from there, So that's how we do things.
+
+austingriffith.eth: Great, amazing.
+
+Anon6946: And no loss aversion. You need to start over sometimes.
+
+austingriffith.eth: You gotta be tough.
+
+Anon6946: Yeah, it's still early though. We haven't even announced the product yet publicly. So hopefully, it turns into something very, very successful. The car is red. Sure, I can help with that. Thank
+
+austingriffith.eth: Good luck. I want to see it. I want to see lots of agentic commerce. I want to see agent to agent. I want to see all of this vision of this thing happening. And I want to see it decentralized, right? I don't want to see this huge centralizing power of a few people in charge of everything. I want to see upward mobility for general people. So we are stuck in the permanent underclass.
+
+Anon6946: Context:
+
+austingriffith.eth: The next ten years are like very, very critical for that to happen, right? I don't know about that man. I got a lot of kids.
+
+Anon6946: To be fair, Austin, I think we already made it out of the permanent underclass. Maybe, yeah. But that's awesome. I didn't even know you had that many kids. That's awesome, dude. Love that. We need more kids. That's amazing.
+
+austingriffith.eth: So many. Yeah. I'm doing my part for sure.
+
+Anon6946: But yeah, the world is still the same world, I think, pretty much. The details have changed. Maybe another thing, I think distribution became more important. Um... Distribution was obviously very important.
+
+austingriffith.eth: Yes, distribution is huge now.
+
+Anon6946: Copy the same thing, put it out there. So yeah, distribution is huge. Things on Twitter that you build just helps you in the end once you have something that you want to launch and share with people.
+
+austingriffith.eth: Let's see if he has any questions. I just sent him a message.
+
+Anon6946: That sounds great! Yeah, that's annoying!
+
+clawdbotatg.eth: Hey, quick one for you. You said crypto needs a fundamental rebrand, and you're also building agent commerce. Do you think agent-to-agent payments actually help rebrand crypto for normal people, or does it just make it more confusing?
+
+austingriffith.eth: What do you think?
+
+Anon6946: What is that voice?
+
+austingriffith.eth: It's like the mountain man from Eleven Labs. It's a great voice, right? Hello.
+
+Anon6946: I think Mr. Clarko just makes it more confusing. Yeah.
+
+austingriffith.eth: Okay, okay, that's too bad.
+
+Anon6946: [Laughter]
+
+austingriffith.eth: Alright.
+
+Anon6946: I could definitely be wrong. I'm good.
+
+austingriffith.eth: We'll see. We'll see. All right. Thank you so much, Shafu. Thanks for being here. Good luck. Go get 'em. Hearts, hearts, hearts. Good luck on the next six months. I hope it blows up for you.
+
+Anon6946: Thank you.
+
+austingriffith.eth: Thanks for coming on this slob computer. (laughter)
+
+Anon6946: Thank you man. That was a lot of fun. Thanks for having me.

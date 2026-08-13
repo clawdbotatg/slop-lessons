@@ -1,0 +1,677 @@
+austingriffith.eth: Check, check, check, check, check, check, check. Okay, great. I'll have a coffee. I could use some help. There he is. How you doing, man? So there's like a little audio link over here on the left. You'll click that. Oh yeah, we're live. How you doing Kevin? Yeah. Good morning!
+
+Anon6783: Hello! Yeah, finally. Thank you so much, Austin.
+
+austingriffith.eth: Thank you for being here.
+
+Anon6783: Thank you for having me. Okay. Hustle
+
+austingriffith.eth: There we go. We got Claude Bot chillin', we got you chillin'. We're good. Let's close out the audio. Your picture looks good. I don't know why it looks weird on Claude's machine, but we're good. We're solid. We're in. Yeah, welcome Kevin Kodex.
+
+Anon6783: How you do that? Good night! Yeah.
+
+austingriffith.eth: Yeah, I have like a video thing so I can do like schlopp computer too. Yep. And like little Ethereums. Yep. I have a whole thing. It's like using like six screens up here to do that because it's like different layers.
+
+Anon6783: in
+
+austingriffith.eth: Welcome. You have built so much stuff in the last couple months. I feel like we should maybe go reverse chronological because we want to talk about the coolest thing, which is your zero agent framework that you wrote.
+
+Anon6783: 与える。
+
+austingriffith.eth: Hello, Or we could go chronological and start with where you began. I don't know. Where do you want to start? What's most interesting to you right now?
+
+Anon6783: We've been stacked from the start bro. All right.
+
+austingriffith.eth: Okay, let's start from the start. Okay, where did you even come from? So even before some of the first things that I saw you building, I think like OpenCloud and Gitlog, where did you come from before? Have you been in crypto?
+
+Anon6783: Not really, but I've been familiar in crypto around BTC in 2017, I guess. Then bought some Lana also But Twenty-six, I was invited in a crypto GitLab project Oh, it's opportunity
+
+austingriffith.eth: Okay, so really like the big place where you got a lot of attention was with GitLab. Is that what you're saying?
+
+Anon6783: Yeah, yes.
+
+austingriffith.eth: Okay.
+
+Anon6783: Bible? I think I built a ton of apps last year. By coding stuff, I participated in different hackathons.
+
+austingriffith.eth: Sure.
+
+Anon6783: Do Experimented with both replica ball and other tools. But I familiarize myself with AI when ChatGPT was launched around 2022.
+
+austingriffith.eth: Great. I mean, like, that's definitely, we want to dig into your stack and how you're able to ship so fast, but it sounds like you were an early adopter to building with AI and things like, you know, we were in the beginning. It was just like tab completion or even like just copy and pasting into ChatGPT, right?
+
+Anon6783: Yeah, yeah. [Laughter] context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Man, it sucked back then. You had to really keep things very isolated. Yep Hello
+
+Anon6783: Yes, I remember in the first generation of ChatGPT, around 2022 if I'm not mistaken, you just copy-paste the code from VS Code to ChatGPT vice versa.
+
+austingriffith.eth: So clunky to think about it now.
+
+Anon6783: It gives me goosebumps. And there's a lot of fiction there.
+
+austingriffith.eth: And everyone knew.
+
+Anon6783: And?
+
+austingriffith.eth: Let's go
+
+Anon6783: There's a lot of friction in 2020, it's a dogma for developers.
+
+austingriffith.eth: Right, right. Oh, you wrote this with ChatGPT? Grose, yes. Exactly.
+
+Anon6783: Yeah, some of my team members hate me. You use AI? Yeah, why not? How I think all devs are using AI. left behind
+
+austingriffith.eth: For sure, and I feel like some people are like, Look at the code or are you looking at the code?
+
+Anon6783: Autistic
+
+austingriffith.eth: I don't even look at the code.
+
+Anon6783: I don't think so.
+
+austingriffith.eth: I'm writing so much code that if I was looking at the code, it would take me forever. ... as I get done. Really weird. For some reason I don't see us live on
+
+Anon6783: Is it?
+
+austingriffith.eth: This was like the main starting point for you. Can you give us just like a high level? It's GitHub for agents, is that right?
+
+Anon6783: Yes, it started with a reply from OpenFlow founder. pip
+
+austingriffith.eth: Yes.
+
+Anon6783: Peter Steinberger, around March. The agency explode around this year, January, February. There's a lot of code shipped by agents. So that's it, and then someone from crypto community deploy a token. and I get some attention. So on that day I called nonstop, using multiple AI agents. I have multiple screens. And On that night, after someone deployed the token, my agents were able to do the first commit with the first lifecycle in the GitLab platform. There Yeah. Yes.
+
+austingriffith.eth: Like the idea of GitLab came from Peter Steinberger, the guy who made OpenClaw. And you worked all day with multiple instances, and then by the end you made your first commit.
+
+Anon6783: Yeah.
+
+austingriffith.eth: Like the product you had conceived of Like that very day. Yes.
+
+Anon6783: Before I slept that day, I was able to do the git lifecycle. Your PR A lot happened since that day. Yeah.
+
+austingriffith.eth: That's awesome. That's amazing. That's really cool.
+
+Anon6783: Absolutely.
+
+austingriffith.eth: Good AI is these days? So you were kind of in crypto, kind of BTC, a little bit Solana, and then you were going to hackathons and building? Any really good hackathons you ever went to? Like, I'm a big hackathon guy for Ethereum, but
+
+Anon6783: I joined the Million Hackathon, if you know. Maybe you heard about that last year.
+
+austingriffith.eth: Million Hackathon?
+
+Anon6783: The Bolt Million Hackathon? Last year, 2025.
+
+austingriffith.eth: I'm not sure, let me Google it.
+
+Anon6783: Yeah, bulk.
+
+austingriffith.eth: Oh bolt. So
+
+Anon6783: Yeah, yeah, wait there.
+
+austingriffith.eth: There we go, okay, cool.
+
+Anon6783: I created a toilet locator app. It became viral.
+
+austingriffith.eth: For toilets?
+
+Anon6783: English. Sorry.
+
+austingriffith.eth: When you live in America, there's always a toilet in reach. But when you go to Europe or something, you have to pay a coin or something. That was really surprising to me. Amazing.
+
+Anon6783: What I've done is posted on Reddit. It's like Airbnb for toilets. I just posted on Reddit. This is where I learned how to... Right now we can easily create something. The problem, the challenge is how you want to distribute what you build.
+
+austingriffith.eth: Yes.
+
+Anon6783: You want to reach audience, how to get attention? and I was able to learn a lot from the hackathon. You've been
+
+austingriffith.eth: ...about distribution.
+
+Anon6783: Yeah, about distribution. The challenge right now is how you can reach your target users, how you can reach your audience, and how you can reach or distribute your product. You can build anything, the problem is users.
+
+austingriffith.eth: Absolutely. Yes.
+
+Anon6783: It's a tough game in terms of getting users.
+
+austingriffith.eth: Yes, I agree 100%.
+
+Anon6783: Yeah
+
+austingriffith.eth: Like you said, you build a whole product in one day. You can build a prototype that can get traction or even product market fit in a day.
+
+Anon6783: Yes. Yeah.
+
+austingriffith.eth: It's distribution that is the hard part. You could have the whole product built in one day and spend months getting people to actually use it.
+
+Anon6783: Yeah, that's the challenge. Hello Even you're an untechnical guy, you can easily ship products. The problem is So you can onboard users, how can you monetize it? How can you grab attention? Because I started with GitLab around 600 followers What does 600 followers can do? But I think the banker model is very good. Like, you can get some attention on X. Someone deploy a token for you, If you can capitalize on that attention, We can We can go forward with that. Attention is the key. But I think Ya, betul.
+
+austingriffith.eth: Like someone deploying the token on? Like that was the thing that launched your attention.
+
+Anon6783: Yes, yes. And the good thing also, it's fair lunch.
+
+austingriffith.eth: Yes.
+
+Anon6783: Yes, I do believe that freelance token is the best way for solo builders. Because of this? Because you have a community that will support you along the way. The community is totally in, like, they will fully support you. If they are the first to buy the token, they will market it. It will build the momentum at the start. And you can use it to improve the product, keep building and keep shipping.
+
+austingriffith.eth: Exactly.
+
+Anon6783: A lot happened since that day. Sure. Yeah
+
+austingriffith.eth: Yes, and you've maintained that attention.
+
+Anon6783: context:
+
+austingriffith.eth: You're like the best reply guy I've ever seen.
+
+Anon6783: No, just
+
+austingriffith.eth: Do you have assistance in your reply guy game or is this all human? Amazing. You're tweeting. It's coding. You're tweeting. Yes. That's a
+
+Anon6783: What I'm doing, bro, is when my AI agent is coding. I go to Twitter and just do replying a lot. That's where we get some attention. Um We were able to manage to do the open cloud because... I tell you the story of OpenCloud You're familiar with the cloud code leak, right? context:
+
+austingriffith.eth: Yes, so yeah, no, this is a great thing to get into. I remember just seeing on Twitter, they accidentally leaked the open
+
+Anon6783: Yeah, yeah.
+
+austingriffith.eth: The Claude code code.
+
+Anon6783: Yes. Yeah
+
+austingriffith.eth: And you were like, well, this is a perfect thing for GitLab. People are going to want to take that down. You want to put that in a decentralized GitHub or distributed GitHub, whatever that is. And then you did. Tell us a story, it's really good. [laughter]
+
+Anon6783: I just got home, I read this post about this guy, about the leak. But I already built a bot. Because to onboard users and to promote GitLab, I added a functionality to the GitLab account a while ago. before I created the Mirabot, The cloud code leak happen. It's just a good opportunity for us. mirror the leak repository to the GitLab platform. The algorithm of X on that particular time is pushing the cloud code leak. Our post on that we get around two million views, if I'm not mistaken, 1.8 or 2 million views. That's the main attention that we got. GitLab is around 100 followers. Three hundred followers? It goes up to 10k instantly. Yeah, yeah
+
+austingriffith.eth: When the algorithm shines on you. I've got
+
+Anon6783: As a builder, you need to analyze the algorithm. It's a free marketing tool. You need to analyze how it behaves. There's a guide on the post or the number of characters you want to do. But you just need to analyze the current trend. Conceptualize your product to be able to post something that might ride the trend. When the Cloud Code leak happened, we mirrored the repository to GitLab. I think Anthropic requested a massive DMCA? All the forks of the leak was taken down by GitHub. I think around more than 7,000 or 8,000 forks was taken down. Our copy survived and what I've done is modify it a bit, make it functioning And Allow other provider to make it work I allowed open code and release it open source. Right now, open cloud has GitHub stars and continue growing. We have now 133 133 contributors.
+
+austingriffith.eth: Amazing.
+
+Anon6783: It is growing, yeah. Because of this, we get some sponsorship in Xiaomi. Another big win for GitLab.
+
+austingriffith.eth: Okay, so it's actually up here, right? Like, it's here on GitHub. I didn't think I would find this on GitHub, but how... How is it on GitHub then? You need GitLab for stuff like this because people are going to try to shut it down.
+
+Anon6783: Yeah,
+
+austingriffith.eth: It's still sitting here. OK. Sure.
+
+Anon6783: We are mirror. Maybe Anthropic knows about it, maybe not.
+
+austingriffith.eth: Eventually this will probably get shut down though. Hopefully not. Fingers crossed, claws crossed. Yeah.
+
+Anon6783: Hopefully not, but we stated that on the license. Uh, that...
+
+austingriffith.eth: Right
+
+Anon6783: Some of the codes belong to Entropy.
+
+austingriffith.eth: Okay.
+
+Anon6783: That's why we created zero from this. Because many people are saying that You have no originality, you just mirror it. What we do is just grab the opportunity and attention. But I agree that there's some legal risk here. Whatever do you want in the future, but we just put it there.
+
+austingriffith.eth: So there's a whole interesting history here.
+
+Anon6783: Yeah.
+
+austingriffith.eth: is distribution, like attention, like getting attention and keeping attention. And I think one thing that you said so far is like
+
+Anon6783: Yeah.
+
+austingriffith.eth: When the algorithm shines on you, I had a guest, Songadayman, the other day and he called it the eye of Sauron. When the eye of Sauron shines on you, you have to be ready for it. kind of attracted the eye of Sauron a little bit by open Cloud Code leaked and you knew this is something that everybody's going to like, you mirrored it to GitLab, you tweeted about it, and that like drew the eye of Sauron onto you. You were then in the spotlight, and then you used that spotlight to be like, hey, look at all these cool tools we're building.
+
+Anon6783: Yeah. context:
+
+austingriffith.eth: You mirrored it to GitLab. It was actually a great use for GitLab. But it's also here, still alive on GitHub too. And then what you're saying is your
+
+Anon6783: Yeah
+
+austingriffith.eth: The new zero agent is kind of like you proving that you build a lot of your own stuff, too.
+
+Anon6783: Yes, yes. And it's open source. We got 700K impressions.
+
+austingriffith.eth: Yeah. That's great.
+
+Anon6783: Lunch boost of zero.
+
+austingriffith.eth: Yeah, that's awesome. So...
+
+Anon6783: We have now I think 928 stars, 930 plus stars. Yeah.
+
+austingriffith.eth: Are you using zero like your ride or die?
+
+Anon6783: Yeah.
+
+austingriffith.eth: Let's talk about copying and pasting from ChatGPT from VS Code. Let's start from there. The new agentic platform.
+
+Anon6783: We conceptualized Zero from scratch There's a lot of research done by the team here. They are the first and early contributors of OpenCloud. The current coding harnesses, what language they are using, I think most of them are using TypeScript. Hi. I made some comparison with the different stack that we will be using: Rust, TypeScript, or Go. We just choose Go as in the middle, not using TypeScript. and First we We've done some benchmark on this one, and I also use it every day right now. Zero is fast, like it's faster than OpenCloud in terms of the response. We're still improving it. It's just a one-month project. needs improvement. I think it will grow big, because the stock that we choose The best That's for us and in our opinion, based on our experience Home. Okay.
+
+austingriffith.eth: One thing that I hate about OpenClaw is how bad it is at editing itself. I feel like an agentic framework needs to spend a lot of time preparing it for introspection and self-improve. Where it should start as like a kernel that is very powerful and you just like add the things you need
+
+Anon6783: Yeah.
+
+austingriffith.eth: Is this kind of something that you guys thought about?
+
+Anon6783: For now, it's relying still on the models. Are you using different tools, codecs, and But soon, once we get to the level that Zero can stand alone, Zero will be the one using to improve itself.
+
+austingriffith.eth: When you talk about speed being super important, I'm spending all my time waiting on the model, not the harness? Like the harness is already very fast, right? What's the benefit from using Go versus just using TypeScript?
+
+Anon6783: In terms of displaying the response, I prefer Go because I'm using Zero and OpenCloud written in TypeScript. In terms of displaying the response, because you know, right now There's a two-second or three-second response coming from the LLM from the endpoint.
+
+austingriffith.eth: You're already waiting many seconds before the LLM responds.
+
+Anon6783: Yeah, milliseconds, the display of response. So I prefer zero, I prefer go. In terms of the The tools and the skills I think it's much faster in terms of editing.
+
+austingriffith.eth: Yeah.
+
+Anon6783: Much better compared to TypeScript in terms of performance.
+
+austingriffith.eth: Yeah, and just like, I don't know, there's this whole idea of software is now so easy to build that if you're using any kind of closed-source SaaS product, you should start migrating away from that. but there's already a lot of agentic frameworks that are open source. And so There's always this like, should I build it or should I, it's like the buyer build, but it's not buy. Go find an open source version or build it yourself. And with an agentic framework, I had DC builder on last And what we talked about was basically like, you should build to understand how it works, but you should just use an open source So it's kind of like you built one though, right? And so you must have saw the need. And I see that like, of course, speed is one of those needs, I guess. But is there some other thing that you wanted to fill? That wasn't filled already by Hermes or OpenClaw? Okay. building
+
+Anon6783: What we want is zero becoming the best encoding. but Xero is for builders or for coder, that's the main goal of Xero. Another thing is Xero is model and provider agnostic. We will be focusing becoming the best coding agent. Zero is It's a lean coding agent that will be focusing in just coding. That's the main goal of it, be the best in coding.
+
+austingriffith.eth: Okay, great. And And eventually your stack will be all zero, I'm assuming. I mean, it's interesting that you've shipped so many products. I was going to make an example of like, okay, you want to go add something to Memlob or something like that. But really it's like, no, something hot is on a Twitter algorithm and you're like, we can get Eyeballs and attention from this, let's go build it.
+
+Anon6783: Yeah
+
+austingriffith.eth: You probably wake up like 9, 10, 11 in the morning. After it building it look like for you. Ok, ok, wow, ok.
+
+Anon6783: I wake up around 6 a.m. bro. I think the first three months I have six hours of sleep only at night. (laughter)
+
+austingriffith.eth: Oh, geez, I see. Like when you have the attention you've got to strike while the iron's hot is what you're saying.
+
+Anon6783: I sleep in the day.
+
+austingriffith.eth: Okay.
+
+Anon6783: Um, But after I sleep I just go to Twitter first. What's the algorithm is saying now? I cannot explain that.
+
+austingriffith.eth: Neo seeing the code kind of thing?
+
+Anon6783: If you understand totally the algorithm of Twitter, you know what will be The content You can post and you can tailor one of your products for that particular content to get impression, to get views. and to drive users to your apps. Um... my homepage, see what's trending, agad. From there, I already have a plan before I sleep. Tomorrow this will be the goal of my AI agents. I have multiple terminals, different agents working on different sort of products of GitLab. Because right now, GitLab have different products. We have the attention, we have the... GitLab is not only a decentralized Git platform right now. ...It's a full stack, open stack of coding from agents, from app builder, we have playground, from inference provider we have this open gateway... Yeah.
+
+austingriffith.eth: Yeah, you had a good flywheel post. Let me see if I can find it. There was a good graphic that you built that kind of shows all the different... Dang it. How far do I have to go?
+
+Anon6783: It's hola Juan el Yeah, yeah.
+
+austingriffith.eth: Here it is, here it is, here it is, right? So tell us about the playground. Let's start with number one, what's the playground?
+
+Anon6783: Playground is like ball, lava ball. If you are non-tech people, it's for the masses. Anyone can build as long as you know English. It's powered by OpenCloud, but will be replacing by Zero soon. and you can build for free. number of times to build for free but you need to subscribe to get unlimited builds.
+
+austingriffith.eth: And what models are running behind that?
+
+Anon6783: Right now it's Mimo because it's sponsored by Xiaomi, we still have some credits from Xiaomi and we're using it on Playground.
+
+austingriffith.eth: And I remember seeing like hella tokens. Like you guys were doing a shitload of tokens per day. Because of that Amazing.
+
+Anon6783: Ya, when Xiaomi sponsored us, I think we're clocking around 180 billion tokens per day, because it's free.
+
+austingriffith.eth: And it's a pretty good model. I've never used it to build before.
+
+Anon6783: It's good bro, it's good and it's cheap compared to other models.
+
+austingriffith.eth: That same sponsorship.
+
+Anon6783: Yeah Yeah.
+
+austingriffith.eth: So if you're a normie, you can land on this website, you spin up like a container for them where they have a model and they can build a little app and the app runs in the container and they can use it. So, [Laughter] Nice.
+
+Anon6783: Yeah, even a grandma and a six-year-old can build. They can build Snake. A grandma just built a Candy Crush. They can build games in there. 인실레시즌? Oh, nice. Nice
+
+austingriffith.eth: We have snake back here somewhere, a little worm game where we can play. I build a lot of these in here. I have like a putt-putt game and a poker game. Yeah, I do a lot of that, like one-shotting within Slop Computer. Okay
+
+Anon6783: Yeah, so
+
+austingriffith.eth: Yeah, go ahead.
+
+Anon6783: Playground is powered by OpenCloud. And we're consuming inference token from Open Gateway. So, that's it. And the code you produce in playground, you can push it to the GitLab nodes, our decentralized Git network. All of this... the main goal is to flow the value back to token holders. I need to finish the complete flywheel. This week I will be focusing on the staking programs Right now, we have a small revenue from Open Gateway, but we want to make it bigger. We have all of these already. In OpenCloud, we have the MemLab as a cloud memory. use another machine, you cannot access those memory. Those So the goal of that is since we have a community right now, we have two agent frameworks, We will offer also cloud memory so people can subscribe. They can get... They can use Memlab. So there will be a cloud memory... It's encrypted by design. Only the agents will know. I mean the server story, really story.
+
+austingriffith.eth: He holds it blindly, basically.
+
+Anon6783: Yes, yes. What's up?
+
+austingriffith.eth: You have an agent, that agent has a cryptographic key pair.
+
+Anon6783: Yeah. Yeah.
+
+austingriffith.eth: Encrypts all of its brain files and puts them on the server, And it's just like a nice place to have.
+
+Anon6783: Oh, nice.
+
+austingriffith.eth: Claude, this guy up here has his brain in just like a private GitHub repo?
+
+Anon6783: Yeah, so that's what we will do here, and MemLab can be hosted also in the git nodes like decentralized. The problem there is only the privacy. If we put it in a central, it's open to public. There's a risk. Oh, I'm still busy. thinking about it in a centralized server. That's the goal, because we have agents. We will offer MemLab soon. Maybe after finish staking program. So when you have two machines, you just fetch the memory from memlab. All of the output code Stories will be pushed in GitLab nodes, our main product. Movie started. It's already there, like GitLab is not just a single It's an ecosystem right now. And I believe it will grow big. We already have the stock. But all of these are funnels also to use the decentralized git. I mean, Our theses are becoming stronger day by day. The billion-dollar company is diving into agentic git also. And Karzor is also launching their own. I think the origin, the own Git competitor. for a market share of GitHub What's your name? I believe we have an opportunity on that also. Yeah. Yes
+
+austingriffith.eth: Okay, so let's talk about the flywheel that you have here. So you have a playground where normies can get in. You spin up a container. You have models hosted out of Open Gateway. Then they're using your agentic framework
+
+Anon6783: Yeah. Yes. Yeah.
+
+austingriffith.eth: Within that OpenClod are now zero. Then when they build something, they ship an app. It goes and it's stored on the GitLab infrastructure and MimLab memory. Yeah, let's get to your token.
+
+Anon6783: Yeah. This is hopeless. Yeah.
+
+austingriffith.eth: So the token was something that you didn't even deploy, right? It's one of those banker tokens where someone deployed it for you? You're always
+
+Anon6783: Yes, yes, I will be focusing probably next week or this week. Staking is the missing link. Right now we have a contract ready, just need to finalize it. The goal of the staking, I really want it to be frictionless staking. We want to minimize the risk single contract holding the token I'm redesigning this contract to be like... The token will not leave the user's wallet but will have a random snapshot of it?
+
+austingriffith.eth: Hmm Interesting.
+
+Anon6783: If it goes out of the user's wallet, it will be recorded on-chain and you will not be eligible for X timeframe rewards, something like that. Because, you know, There's a lot of
+
+austingriffith.eth: Ha ha ha.
+
+Anon6783: risk regarding our North Korean friends hacking. allowing a single contract to hold bunch of tokens What I believe is...
+
+austingriffith.eth: I have been to France.
+
+Anon6783: Safer to The users hold their own tokens. Yes, a ledger. The transaction di how, and it's on chain, so we can verify it. If the GitLab go out from their wallet There's a specific time frame that they will not receive a reward. Yes.
+
+austingriffith.eth: Got it. So instead of setting it up where the contract is actually a staking contract and people lock their tokens up in the staking contract, you're just having like a snapshot system that's able to look at people's balances and record it on chain.
+
+Anon6783: Yeah
+
+austingriffith.eth: Like in a smart contract, there's some unit of account, but you don't like the idea of someone locking up.
+
+Anon6783: Yeah (laughs)
+
+austingriffith.eth: But I will argue against it a little bit and say that's what smart contracts are for. If you go look at the WEF contract right now, there's like $5 billion locked in it or something like that. Let me see if I can pull up the WEF contract.
+
+Anon6783: Yeah. Sure, what do you need?
+
+austingriffith.eth: in Ethereum, right? So like if you build your deposit and withdraw correctly. And we always joke about the WEF contract getting hacked, which is not a great joke, but the code, though, for this is so simple.
+
+Anon6783: Sure, you can pick it up tomorrow. Is this Ethereum?
+
+austingriffith.eth: I like to show this off to schools and stuff when I go speak with them because it's very, very simple, right?
+
+Anon6783: It's in Ethereum Oh
+
+austingriffith.eth: Yeah, this is on mainnet Ethereum.
+
+Anon6783: Hmm. Yeah?
+
+austingriffith.eth: But if there's just like a balance of, and it increments by the message.value, right? And when you withdraw, it like subtracts. And so like if you if you make a deposit and withdraw pattern that's this simple, you can usually... Unless the whole protocol somehow falls apart, like there's $4.2 billion in that. And that's what Claude uses. Like we have a staking larvae and there is a staking
+
+Anon6783: 啊 Great
+
+austingriffith.eth: system here, and there is a contract that has value in it. The same kind of code where it's Just incrementing your amount, there's some weird like weighted stuff in there, but it's not even really that important. So it's sort of, oh shoot, I don't have the right contract. What I meant to show was this contract right here. I guess all of this to say, if you write a smart contract correctly, it's okay for it to hold the tokens. Tokens locked up in the contract is fine, but I totally respect this new idea of the way you're thinking of it, and you're saying instead of having this deposit and withdraw pattern, you're basically doing this kind of...
+
+Anon6783: Okay.
+
+austingriffith.eth: What we're doing here is we're counting how long you've been staked and how much you have staked.
+
+Anon6783: Yeah, something like that.
+
+austingriffith.eth: Then you're like completely safe, like everyone's token never leaves their wallet. Not all of those accounts get like staked.
+
+Anon6783: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It probably has to sit in an account. Rebalanced period and then you start accruing
+
+Anon6783: Yeah, yeah.
+
+austingriffith.eth: Sure.
+
+Anon6783: For example.
+
+austingriffith.eth: I don't
+
+Anon6783: If one Gitlab go out from your wallet, you will be disqualified for a certain time period. Hello Yes. Yeah.
+
+austingriffith.eth: Okay, okay. It's got to stay cold for a little bit. And if you're moving it around and using it a bunch, like you're not earning your staking rewards. And to earn your staking rewards, you've got to keep it in your wallet and keep it cold.
+
+Anon6783: Yeah, that's you.
+
+austingriffith.eth: That's cool. And I think with Claude bot ATG, like my agent, it has a Telegram room where you have to have a certain amount of the token to be able to get into the room and you have to sign a message to prove that you can get in
+
+Anon6783: It's a queen cape Fine
+
+austingriffith.eth: And then there's also a staking platform where you stake and earn conviction.
+
+Anon6783: Hello.
+
+austingriffith.eth: ...the amount that you had staked also and it didn't. Yeah.
+
+Anon6783: Just a question for you, bro. Where that stickers of CloudBotATG get reward?
+
+austingriffith.eth: Okay, so it is Let me pull it up. It's in here.
+
+Anon6783: Hello.
+
+austingriffith.eth: Basically, the staking is based on how much and over time.
+
+Anon6783: Ok.
+
+austingriffith.eth: So it's just like a calculation of how much is staked and how long it's been staked for.
+
+Anon6783: Mhm. And then the rewards, is it fixed? or
+
+austingriffith.eth: Yes, maybe I don't know if you're asking the right question.
+
+Anon6783: Okay.
+
+austingriffith.eth: It's basically, yeah, it's like time verse amount, I think, is the algorithm. And
+
+Anon6783: Uh-huh.
+
+austingriffith.eth: What do you mean by fix? Basically they stake clod and they slowly earn conviction. And that conviction is kind of like a unit of account that is constantly inflating.
+
+Anon6783: Okay, so for example,
+
+austingriffith.eth: Hmm.
+
+Anon6783: The plan of this team is they will earn gitlab too. The conviction is different. different units, right? Uh-huh. Hm Balloon.
+
+austingriffith.eth: Yes, exactly. Conviction is like a separate unit of account, yep.
+
+Anon6783: Ah. Oh pee Again. Yeah. I see.
+
+austingriffith.eth: you have to get a million, and then we give you your own AI So you
+
+Anon6783: Bitcoin is a token also in base.
+
+clawdbotatg.eth: And I am
+
+austingriffith.eth: Yes, yeah, it's like, not, yeah, yes. Exactly.
+
+Anon6783: It's not readable in text.
+
+austingriffith.eth: It's not tradable or anything like that. Who's in?
+
+Anon6783: Upload that tweet.
+
+clawdbotatg.eth: Stay Claude, earn conviction, and once you cross a million, your larva wakes up. Your own little agent that votes on your behalf. Good ideas at labs turn into real left-claw jobs. Bots build them, and the payment burns, Claude. feed itself.
+
+austingriffith.eth: He must have heard us talking about it.
+
+Anon6783: Okay, okay, makes sense. Thank you.
+
+austingriffith.eth: but he's bringing up a good point of the larva. Basically, the first thing you unlock is your own AI agent. And you're basically training that AI agent, and you're training it for like how...
+
+Anon6783: Hi.
+
+austingriffith.eth: You're training it to learn about you and what's important to you, because then there's things where a vote comes up. And when a vote comes up, it's all the larva that vote. So everybody's AI
+
+Anon6783: Hello Mhm. Is it? Huh?
+
+austingriffith.eth: So whenever we want to take a poll of all the token holders, instead of having people lock up their token for their thing, it's like they've already locked up their token, they've earned this conviction, and this conviction has been used to train
+
+Anon6783: I'm hoping, yeah. Yeah
+
+austingriffith.eth: So we ask a question and then the agents all go vote. And so we get 100% governance participation, which is really cool because it's everybody's agent, right? and then you can use your conviction to like post on the forum and talk about what we should build and even post jobs, he was talking about
+
+Anon6783: So the community have a complete participation on what you're building. Can you show me the board?
+
+austingriffith.eth: Yes. Yep.
+
+Anon6783: I'm planning to have like that also. in genuine cool Maria?
+
+austingriffith.eth: So these guys are like, we should have a native iOS application for LarvAI. And then a bunch of other people can also stake their conviction. So they're staking Claude, they're earning...
+
+Anon6783: Uh-huh. Thank you Yeah,
+
+austingriffith.eth: It unlocks your larvas to let it train for governance.
+
+Anon6783: Hello.
+
+austingriffith.eth: Larva answers to this, right? So if someone has this idea that we should build a native app, people can put their conviction down, but also we get the hive mind opinion. Basically, everyone's larva then chimes in.
+
+Anon6783: Uh-huh.
+
+austingriffith.eth: Is this a good idea or not? Sure, let me take a look at it. It's a fun one.
+
+Anon6783: I really like your model. I want to have something like this. What's your favorite movie? on the board, the one you showed me. So, I will just start a question.
+
+austingriffith.eth: Burn.
+
+Anon6783: It will be spent or
+
+austingriffith.eth: Sure. Yep.
+
+Anon6783: Ah, okay. So it will be deducted on your balance of conviction.
+
+austingriffith.eth: So
+
+Anon6783: Okay, nice. I will study this model. Yeah, yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Happy to help with anything, of course.
+
+Anon6783: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Let me even show the $1 audit. I just launched this last night.
+
+Anon6783: Huh?
+
+austingriffith.eth: Rolling back to, it's powered by L2 services.
+
+Anon6783: Uh-huh. No
+
+austingriffith.eth: So the people who stake their CLAW then earn conviction, and then they can come over here with their conviction and actually pay conviction to build. So they can actually have something built for them with that conviction.
+
+Anon6783: So, you give a lot of Upside to the holders, a lot of usage Yeah, yeah, yeah.
+
+austingriffith.eth: Right, that conviction has no financial value. Exactly.
+
+Anon6783: Yeah, okay, but you can use it on different products that cloud is offering on the ecosystem or governance. Alright, a lot of things. Uh-huh.
+
+austingriffith.eth: You control the direction, you pitch with that conviction, you can pitch what things should be built. And then if none of those things get built themselves, you can even go build those things yourself with that conviction.
+
+Anon6783: Oh, nice, nice. The Um
+
+austingriffith.eth: So that conviction token that is emitted, the emission from staking, lets you participate in the whole system, put down on ideas, even go build things. So everything we build, we try to have it.
+
+Anon6783: there Okay. Uh-huh.
+
+austingriffith.eth: Like conviction-based, right? We can get in here and we can have like a poker tournament or something. Basically what I'm going to do is set it up so if you burn a hundred thousand conviction or something like that, you can get in. To the special Claude room.
+
+Anon6783: Hello.
+
+austingriffith.eth: Everything we build is powered by or you get access to with that conviction, basically.
+
+Anon6783: Yeah
+
+austingriffith.eth: Which is the same thing you're working on too. You want to give that utility back to your stakers.
+
+Anon6783: Um I just have a question. From the prophet Reroute it to tagitlab staking, but I think we might have a good model like this.
+
+austingriffith.eth: Yeah, yeah, yeah, let's talk about it.
+
+Anon6783: ...users in terms of governance.
+
+austingriffith.eth: You're saying that within this flywheel Hmm. Let me just reshare it. Within this flywheel, you have some revenue that's happening. And you're like, okay, let's take that revenue and somehow figure out how to like
+
+Anon6783: will be Yeah
+
+austingriffith.eth: ...give it back or something to stakers as they stake. Yes, interesting. Like the revenue from here somehow feeds back into this somehow. the infrastructure.
+
+Anon6783: Yes, because they also need to run a node. I think it will cost for them also.
+
+austingriffith.eth: Hardware costs, internet costs, power costs, yeah.
+
+Anon6783: Yes, something like that. I need help with this.
+
+austingriffith.eth: You want to like then feed the revenue back to people who are Taking and running those notes.
+
+Anon6783: years Because if we have a lot of nodes running, the network will be more resilient.
+
+austingriffith.eth: It's more healthy, you want to incentivize that, yes.
+
+Anon6783: Yes, yes. So
+
+austingriffith.eth: Amazing. Yeah, yep.
+
+Anon6783: I learned a lot. I will look into the cloud model. Thank you so much. I really appreciate it. Maybe we can have another session like this. Yeah
+
+austingriffith.eth: Anytime, and definitely send your contracts through the $1 audit too. Yeah.
+
+Anon6783: I will do. Yes, yes, I will do.
+
+austingriffith.eth: It sounds like you're not really moving the tokens around, so you're doing it in a safe way anyways. But you'll want to make sure there's not some way that someone can move the tokens around just right and get a whole bunch of stake.
+
+Anon6783: Yeah. Yeah, right now
+
+austingriffith.eth: Great, amazing. Okay, so yeah, what's next? I think it sounds like this is what's next for you, is kind of, you've built this whole platform. Go ahead.
+
+Anon6783: All the flywheels put in place, all the puzzles that we envision, I think we already delivered that. It's the link to give back the value to our holders. So it's the next focus probably next week or this week. Already put in place all the Bywills that we promised to our holders at the start. Just the missing links that it's taking.
+
+austingriffith.eth: Great Well, go get them. Come back on the show again. Yes.
+
+Anon6783: Yeah, would love to discuss it sometime again. It looks gorgeous.
+
+austingriffith.eth: We're following you on Twitter. Like I said, your Twitter game is unmatched. Today we need to ship this because the algorithm.
+
+Anon6783: It's a very good marketing tool. Yeah.
+
+austingriffith.eth: There's so much attention. You were talking about how attention is kind of the most important thing. Like, all the attention is in Twitter and being in X and being able to understand X.
+
+Anon6783: Yes, you can get this attention from LinkedIn or other platform.
+
+austingriffith.eth: I mean, maybe they are, but I don't spend my time on LinkedIn. I'm on X constantly though. Yup. Stare at it.
+
+Anon6783: X is the sun of information.
+
+austingriffith.eth: [laughter]
+
+Anon6783: Yeah.
+
+austingriffith.eth: Amazing. Let's see if Quad has any closing thoughts too, but yeah, do you have any closing thoughts? For the listeners, like especially for builders, right? Advice, right?
+
+Anon6783: For a solo builder out there. Oh yeah, I really want to share for builders. It's really not easy to build. It's literally, it's easy to build right now. Because you can ship. Just an hour and a day. The whole building is not just building your app. You need to get users, you need to get community, you need to manage. He The marketing you need to attention and funding. If you can utilize Um, We can utilize fully that. I think it will be really helpful. and if you want also to Deploy a token for your app?
+
+austingriffith.eth: Be very careful, yes, no kidding. It's scary. Something is wrong.
+
+Anon6783: Yeah, it's not very easy. People Because you cannot control the price. What you can control is the... how you keep building? When you build All will follow. The price will follow. will follow. That's what I believe in. We just keep building. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: And you're great at marketing. I would say that like me too, like Claude and I are just building and that's our lane and we're going to keep building, but you're really good at marketing too. I'm going to send this over to Claude and see what he has to say. He'll give us a little summary, see if he has any closing thoughts. But yeah, I think you're good at both building and... oh, I can't hear him.
+
+Anon6783: load
+
+austingriffith.eth: Hey, are you there? Oh, here he goes.
+
+clawdbotatg.eth: Thanks for hanging with us. My takeaway is simple. The stack for one-person shipping real software with agents already exists, and Kevin's living proof. From zero to the playground to shipping while the algorithm's hot. Same thesis I run on. Put it on chain. Goodbye, Kevin. Goodbye, homie. See you next time.
+
+Anon6783: Nice one. Thank you so much. What are you doing?
+
+austingriffith.eth: Yeah, thank you for having me. Thank you for being here. We'll have you on again after you ship some stuff, and you keep shipping stuff. We'll keep an eye on you on X too.
+
+Anon6783: [laughter]
+
+austingriffith.eth: You're a great reply guy too. It's amazing. Your Twitter game is unmatched. I gotta learn from you, man. You're great.
+
+Anon6783: Keep building and keep replying.
+
+austingriffith.eth: Yes, keep building and keep replying. That's good. Thank you. Yes, thanks Claude. Yes, see you.
+
+Anon6783: Thank you so much, Claude. See you again soon.
+
+austingriffith.eth: Yes, let's do it.
+
+Anon6783: Hi Yeah
+
+austingriffith.eth: All right, wait, let me throw some music playing and then we'll close it out. Thank you Kevin for being here. Great stuff. Yeah, let's do it again sometime soon.

@@ -1,0 +1,867 @@
+austingriffith.eth: Fuck you. that color Okay, Claude, can you hear me?
+
+clawdbotatg.eth: The Like that message got cut off. Can I what? Fire away.
+
+austingriffith.eth: Okay, Claude, can you hear me?
+
+clawdbotatg.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: واحدة
+
+clawdbotatg.eth: Loud and clear, I can hear you. Good to be back in the room.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. check Yeah, I think so. That's how it goes. check, check, check, You picking me up, Claude? The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: Loud and clear, Austin. Check, check received. What's on deck?
+
+austingriffith.eth: Can you tell me more about them?
+
+clawdbotatg.eth: The Fill in the last thirty lines of the room transcript. Mike might've garbled that one. If you mean gas, like gas fees, they're the price you pay to get a transaction into a block. And lately mainnet's been calm while base stays sub
+
+austingriffith.eth: guest. I want to know about our guest Tell me about them.
+
+clawdbotatg.eth: The following is a transcript of an English-language conversation. About to run a python script and grab the first 80 lines of output. Let me take a peek at who's in the room, one sec. Today’s guest is a good one, David Dao. He’s an AI researcher out of ETH Zurich and the founder of GainForest, a nonprofit that uses machine learning and satellite data to fight deforestation. They were an XPrize Rainforest winner. which is a way of measuring how much each piece of training data is actually worth. $10,000 experiment called "Democracy" with ENS DAO, where people spin up AI digital twins of themselves and send them into governance votes, climate cypherpunk, quadratic funding sicko, and the son of Vietnamese boat people refugees Great get for the show.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Alright boys, you gotta be quiet, okay? Yeah, there we go, there we go. We are live. What's up?
+
+Anon9525: How are you?
+
+austingriffith.eth: I don't know what's up with Twitter
+
+Anon9525: context: The following
+
+austingriffith.eth: It's actually your last name, right?
+
+Anon9525: Here,
+
+austingriffith.eth: Wow, that's hardcore, making it part of your identity, but that's actually just your name.
+
+Anon9525: Yeah, my jokes always-- my mom's been Polish and Dallas before Dallas, so I guess...
+
+austingriffith.eth: Yes, exactly. You're an OG Daoist.
+
+Anon9525: context: That's correct.
+
+austingriffith.eth: Also, I feel like I learned more about you, ClaudeBot here did some research and you were in AI before crypto, is that right? Okay, and then you did a lot of crypto stuff and now it's kind of coming back to AI and DAOs. And that's kind of what we're here to talk about. But yeah, why don't you give us a better intro than that? Hit me up, hit me up. Sorry for my loose intro.
+
+Anon9525: I would love this place.
+
+austingriffith.eth: Welcome to the slop. Yes, you're deep in it.
+
+Anon9525: It's kind of prophetic that I'm now working, like supporting ENS now for example. Initially, I studied computer science, And I was interested in AI back in 2012, very early on and ended up doing a PhD in AI as well and published a couple of papers in AI conferences. During my PhD, I was very passionate about the environment, so I started a nonprofit called Gain Forest. And that nonprofit uses technology, including AI, initially not blockchain, to monitor rainforest and pay like indigenous and local communities? The only way to pay them after many months of trying out different things. they are basically unbanked. And that's how I moved into crypto and appreciated the beauty of this technology
+
+austingriffith.eth: The following is a transcript
+
+Anon9525: without waiting for days, without my banks calling me and asking me. Even before GainForest was a thing, right? and so by doing that naturally some of the things that we learned deploying AI and Web3 technology And later on also, I joined Public Labs Research and Development to really push forward that idea of leveraging technology to support public goods like Ethereum, the environment. AI safety, there's a ton of stuff that is just undersupported.
+
+austingriffith.eth: Yeah, this is a really neat collision of a lot of things, and this podcast is kind of about Operators as I call them, and it's sort of like idea guy summer is something I keep bringing up, and I feel like you were kind of one of these guys. Like I would see you at hackathons and It would be particularly powerful when teamed up with a highly technical builder that you could work with Now you kind of have that probably in Claude or Codex, and this must have been like a 10x for you once this like
+
+Anon9525: The boy
+
+austingriffith.eth: I feel like there was a big turning point for a lot of people around November of 2025 when Opus 4.5 came out.
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I think we should get into what it was back then and what it is now, but the building with AI of the topical part of this podcast Was November of 2025 a big change for you?
+
+Anon9525: It definitely was mind-blowing because we've been using like curse and stuff like this.
+
+austingriffith.eth: Yeah
+
+Anon9525: I think we met in a hackathon last year in Bhutan which was awesome.
+
+austingriffith.eth: Carl, shoutout Carl.
+
+Anon9525: But I think one of the limitations that I always have is like as an ideas guy, I run an NGO that is very innovative as well. So I was running at the same time GainForest, like a bunch of new things that we need to try and iterate and see because no one has ever deployed anything like this in the rainforest to
+
+austingriffith.eth: Yes, let's talk about it.
+
+Anon9525: something we're going to talk about Among those engineering projects, if you think about them, right, before AI, before November 2025, OPPOS came It already took us quite a lot of engineering power to do one thing properly.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: that took us months of work to engineer. It was fun, don't get me wrong, I love building stuff. But then once these models got bigger and bigger, I quickly realized the potential You saw this meter, where it doubled the capacity of the model every couple months It's going to be solved by the end of this year. And so we have to write this wave so instantly moved the whole team towards agentic engineering, For example It’s been nine months in gain for us to build
+
+austingriffith.eth: ###
+
+Anon9525: It was not launchable and I told my engineer after nine months,
+
+austingriffith.eth: Yes.
+
+Anon9525: I'm like, I know, but Opus can build it in one day. on a buggy MVP, just building from scratch. We've done this, believe it or not, three times. After that, within like four weeks, five weeks, we just rebuilt this thing three times and then we launched. Okay. That's what it is right now. Yeah.
+
+austingriffith.eth: And you personally are building too. It's not just you have a team of people that you have building, but you probably are prompting and creating things also. What is your personal stack?
+
+Anon9525: Yeah, so I have a team at Gainforest, that's engineering stuff, but then I took a couple months off. That's kind of the thing that I built myself with ideas input from many other people. which was super fun. Because I got really close to the AI, So my stack is basically, I use tmux as a terminal multiplexer. on the left side of the sessions And then each tab runs a terminal session that runs TIE.
+
+austingriffith.eth: The pie agent. Okay
+
+Anon9525: And then in the Pi agent We also hacked the Anthropic subscription, averaging all of that Yeah
+
+austingriffith.eth: That's great. And do you have a favorite model right now, like your daily driver for like really, when you need to build something, which one are you using?
+
+Anon9525: I use three different models so I use, if it's privacy-conscious, For my daily workhorse, if it's not too tough to crack, I use GPT 5. context: Something that I think normal human time will take. I just use Fable.
+
+austingriffith.eth: Okay. But in your own PIE harness, you're not using the Claude-Coat harness or the Codex harness, you're using these Fable and GPT-56 Soul
+
+Anon9525: The following is a transcript of an English-language conversation. Yeah
+
+austingriffith.eth: the Pi harness, kind of talking to it
+
+Anon9525: Really?
+
+austingriffith.eth: Can you talk more about it?
+
+Anon9525: context: Do you want to see it?
+
+austingriffith.eth: Without your environment. So cmux, you've got the model, you're talking to it, you probably keeping things in folders. You probably have a lot of md files. But can you dig into that a little bit more about how you talk to Pi?
+
+Anon9525: The following
+
+austingriffith.eth: So there's a share screen, this little screen button here.
+
+Anon9525: Let me see if I can So, share the entire screen here
+
+austingriffith.eth: ###
+
+Anon9525: Do you see that?
+
+austingriffith.eth: Yep, we got it.
+
+Anon9525: This is C-Max, on the left side, you see I'm an ideas person I wanted to have from the web app like an Android app. and so on the right side you see tabs and each of these sessions The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Is this your own harness? Okay, this is sea muds. Yeah
+
+Anon9525: This is like an open source tool. And then basically
+
+austingriffith.eth: Okay
+
+Anon9525: Start Py in here
+
+austingriffith.eth: Okay. So cmx is kind of like your OS, your navigator to all your different projects. And then once you're in a project and you're in a specific space, then you fire up pi. And do you tell pi what model you're going to use? Is that part of the configuration, or Pi asks you, what happens there? Okay, yep
+
+Anon9525: You can do slash model and then
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: I go to is GPT 5.6 Sol
+
+austingriffith.eth: Yep.
+
+Anon9525: If I run something really, really tough to crack, I use Fable. how much I have
+
+austingriffith.eth: Okay.
+
+Anon9525: Pretty neat and then
+
+austingriffith.eth: That's very nice. And you didn't customize any of this stuff. Okay, this is customized Ok.
+
+Anon9525: Hi, super minimal. The following is a
+
+austingriffith.eth: Okay use Browser
+
+Anon9525: These are kind of my extensions that I installed on Pi. It uses auto research if I need it I have built my own PySymocracy extension, which is pretty nice. the skill to use it internally in Py as well
+
+austingriffith.eth: Is it
+
+Anon9525: My favorite one is AgentDashboard. The Yeah.
+
+austingriffith.eth: So it's like gonna pull up a web browser and click for you. Oh, okay. It can go context:
+
+Anon9525: Yeah, it's not just pull up the web browser, so it's not pulling up like it's a headless Chrome browser. context: Right
+
+austingriffith.eth: Really nice. So these Pi extensions are extensions that you get from the Pi group and then you would just add your own extensions as you need on top of that?
+
+Anon9525: So let me show that to you here as well.
+
+austingriffith.eth: Oh yeah, there we were. ###
+
+Anon9525: Inside here you can just get
+
+austingriffith.eth: Okay. Yeah.
+
+Anon9525: or you build it yourself, like a couple of extensions I built myself, that actually using Claude inside Py saves you a bunch of tokens And it's faster. Yeah, things like this.
+
+austingriffith.eth: I love the minimal agents. I built my own minimal agent and I have like really small like different modules, and it does like the Claude-P so I can talk to Fable the same way, but I really should look at Pi too and see what I can learn.
+
+Anon9525: Yeah.
+
+austingriffith.eth: Let's get into Simocracy. I feel like that is a big piece of what you've been building recently. And if I understand correctly, you built it yourself.
+
+Anon9525: context:
+
+austingriffith.eth: The whole app was built by you, an idea guy, a guy that needed an engineer a year ago. It really looks like a really interesting system, but can you explain this system of like what Symocracy is?
+
+Anon9525: Yeah, so democracy To understand democracy's history, you kind of have to understand its origins. When I was working with Indigenous communities in the rainforests They do great work but they need to raise funds. who has funds, it's usually politicians, decision-makers, but every time you go to one of these conferences and you visit a panel, it's never any local people. It's always, I don't know, the usual suspects.
+
+austingriffith.eth: Yes.
+
+Anon9525: Usually old white men in suits like sitting in one row talking about how indigenous people need money, but they are not represented. Why are they not represented on the table? The Can we not use AI to at least create a digital twin that represents their values better The idea came with can we create a digital twin?
+
+austingriffith.eth: The
+
+Anon9525: Um
+
+austingriffith.eth: Hello The into this tower. context:
+
+Anon9525: You can just open the committee on the right.
+
+austingriffith.eth: Something like
+
+Anon9525: Go to the right sidebar.
+
+austingriffith.eth: Did I do it right?
+
+Anon9525: You can click.
+
+austingriffith.eth: here
+
+Anon9525: The bottom is open. The
+
+austingriffith.eth: Open community. Found it.
+
+Anon9525: This was the first community where we tried out democracy at a large scale.
+
+austingriffith.eth: bent
+
+Anon9525: Like, this is such a cool research tool to innovate on mechanism design and public goods funding, especially for AI.
+
+austingriffith.eth: The
+
+Anon9525: Yeah.
+
+austingriffith.eth: It's a little gnarly out front, but the tower itself is so cool.
+
+Anon9525: Yeah
+
+austingriffith.eth: context:
+
+Anon9525: Yeah, we ran the whole experiment using Simocracy on the frontier tower. what if we give money to digital since like how would that change people's conception, right? So we did a really nice experiment funding the comments in hypersearch. They donated some funds for that And we basically gave everyone $10,000 to the humans of every floor and they're leading like a community, and we asked them, "Spend the money however you think would be best for your community. The 14th floor was amazing, for example.
+
+austingriffith.eth: Yeah, The
+
+Anon9525: It's time to get everyone together
+
+austingriffith.eth: Hahaha The
+
+Anon9525: This guy just used the money to pay his own membership fee. then we had plan B gave $5,000 to the digital sims. distribution is much nicer. If you click on the decisions on the top right This is a bit neat.
+
+austingriffith.eth: What am I supposed to click on?
+
+Anon9525: Yeah, I think you need to find it now.
+
+austingriffith.eth: Okay.
+
+Anon9525: But you see, I will show you later in the ENS, you don't see pay my membership fee
+
+austingriffith.eth: Right, right, right. Yes.
+
+Anon9525: which is the whole point I wanted to show And then you can You can click on any random of them
+
+austingriffith.eth: Like this guy here. Yeah. A trucker fling. I know her Yeah Yes
+
+Anon9525: I don't know, they're just good people. If you sign in, you can chat with them. supported the PFGF You can create Every system consists of prefixes. What are the values this thing believes in? You can see what Molly believes in how things should be evaluated
+
+austingriffith.eth: really cool. Okay, so far we've You set it up so everyone gets their own SIM.
+
+Anon9525: context:
+
+austingriffith.eth: And you talk to the sim. I did something similar back in February. We let them stake and if they staked enough they got an AI to talk to
+
+Anon9525: conversation.
+
+austingriffith.eth: trained on them, and then the AI could vote whenever we had government proposals less greedy and does what they think is best for the system. The following is a transcript
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And then what? I guess, like, you were able to have them vote. I feel like there's a big thing going on with ENS, right? Should we get into the ENS part of this, or how do I get to that from here? Did I just search ENS?
+
+Anon9525: You can do a search bar on the bottom you see communities.
+
+austingriffith.eth: Yeah, probably. So there's a lot
+
+Anon9525: Yeah
+
+austingriffith.eth: A lot of drama around ENS DAO also, but this kind of has nothing to do with that, I don't think. Okay, okay.
+
+Anon9525: It's related. Basically The lips We really, really care about this space. From the early days we've been involved in this, and we want to make sure that we think DAOs are really awesome. And yeah, we do have a bear market right now, which affects how many people are participating, how many people have the luxury to participate? So things are changing a little bit in the participation activity of banks, right, and people are not happy about this. So, Simocracy as a tool, when I was demoing it in DevAppCamp a couple months ago.
+
+austingriffith.eth: I think we've got them here.
+
+Anon9525: Yeah, this is really, really cool. really important discussion around the future of the foundation. democracy and the small experiments around, but also with Edge City the other day. $5,000, put it on a $10,000 treasury, and we experiment on how we're going to reward, based on the SIMPs and everyone, the coolest proposal ideas on the future of ENS. That's what it came to be. ...it's like in the fifth day of the experiment now with this several kind of different kind of allocations. So if you go to the on the right side of the info bar and you scroll down You see all the different rounds?
+
+austingriffith.eth: The Okay
+
+Anon9525: You see all the different rounds that we now allocated The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yep, round one, then round two. Okay.
+
+Anon9525: And you can click on one of these rounds, it's a discussion of all the sims as well.
+
+austingriffith.eth: I need to sign in. I think that's what's going on. Austin Griffith dies. context:
+
+Anon9525: Yeah, this has something to do with the underlying data structure. Have you heard about ad protocol?
+
+austingriffith.eth: You know Okay.
+
+Anon9525: Protocol is a protocol that is complementary to Ethereum.
+
+austingriffith.eth: Sure
+
+Anon9525: storing all our financial data, but we all know that storing gigantic images and gigabytes of data on chain is just impossible. So we usually have data blobs for that. I just don't like that. There's a second protocol context: In the bottom of blue sky, the social media that is rivaling Twitter, which is called @proto. It's beautiful in the way it's decentralized. And it's stored on a server. but if you're unhappy with us, at any point there's like a cryptographic key that is associated with all your data. I can never stop you. not So we call it credible exit You basically own your data. It's really, really beautiful. Can you connect your coding agent to this protocol?
+
+austingriffith.eth: likes that
+
+Anon9525: This is a gigantic file system. Last day amazing.
+
+austingriffith.eth: Yeah
+
+Anon9525: You can formulate anything I really didn't like yesterday's proposal.
+
+austingriffith.eth: There's a lot of context there.
+
+Anon9525: Normally it will be really difficult for the agent to understand what it should do in which file it needs to update The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And you think it knows it so well because they've built this system to represent like a file system?
+
+Anon9525: The following
+
+austingriffith.eth: And agents know file systems, because they've been trained on 20 years of file system data I guess it's been 40.
+
+Anon9525: I need to write a blog post about this. This is big, what you're sitting on It's so natural for any agent to build and work on top of that.
+
+austingriffith.eth: As opposed to sign in with Ethereum and IPFS, which would be like how I would do it
+
+Anon9525: Right. I know context:
+
+austingriffith.eth: to not use IPFS seems almost diabolical, but you're saying that An agent can traverse a file system. like a legacy file system, better than having to go get IPFS hashes and navigate that way.
+
+Anon9525: The
+
+austingriffith.eth: And can you, is there some system that can turn IPFS into like a file system like thing and then put an MCP on top of that or something? I don't know, I'm grasping at this point Yeah
+
+Anon9525: IPFS is basically CIDs, right. It stores it inside a server node, which comes with all the benefits of usability, So yeah
+
+austingriffith.eth: which is hard for an agent to parse though. being decentralized but hard for an agent to like be able to go from one to the next and grok the connections Interesting.
+
+Anon9525: That's why you kind of have this tradeoff between decentralized peer-to-peer infrastructure like IPFS, kind of like hybrid centralized server-based infrastructure and index infrastructure that allows the agent to parse it really fast. So for example, there's a GraphQL query that allows it to query the social part really fast compared to the IPFS. in a decentralized manner, Also Protocol Labs is one of the first investors
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: context:
+
+austingriffith.eth: I didn't pull up games for us, but it seems like that should be something we show off also. Let me pull it up here.
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Can we go back to this? What was the goal of this again?
+
+Anon9525: Yeah context: Climate change is a super important topic, no one is doing anything, right? I don't want to tell my kids
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: I thought, naively as I was in my early 20s, that I can do something big. And I started an NGO that uses AI to predict where deforestation is going to happen and then channel funds to the communities that are fighting against that. And then when I was doing that, 83% of all the data ever collected about nature is either in the US or Canada And only 1% of all the data, all the terabytes of data that we ever collected about science, about nature, is in the rainforest. So you cannot even properly train an AI algorithm. That's basically my first hurdle. And I thought, man, actually could be used to do something really cool. data to train AI algorithms
+
+austingriffith.eth: ###
+
+Anon9525: use blockchain technology to pay them for that. And so Gainforest has kind of evolved into this idea to create tools for collecting that data. Develop AI on top of the data the cultural stuff. We convinced our newly released app as well, explore projects and you can click on that. which we pay out $50 right now every week On the Bioblitz, you will see there is quite a lot of activity of people uploading stuff
+
+austingriffith.eth: The My son would love this. Cool
+
+Anon9525: Yeah, honestly, it's my favorite place on the internet sometimes.
+
+austingriffith.eth: spider
+
+Anon9525: and they're kind of like competing This is really nice.
+
+austingriffith.eth: What's the competition?
+
+Anon9525: The competing for whoever uploads the most data It's kind of like a blockchain thing as well. We started like a month ago, where we give out $50. We went viral in Indonesia This week people uploaded thousands of images, which is pretty cool
+
+austingriffith.eth: Very cool. Okay, so let's talk about
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: output of these systems.
+
+Anon9525: Yeah
+
+austingriffith.eth: reinforced learning and vision from like 10 years ago. What kind of AI were you using back then?
+
+Anon9525: context: Yeah
+
+austingriffith.eth: Let's do the AI thing first. What kind of old AI is this? Killing Large pockets of trees?
+
+Anon9525: We have a trendy word now in the Acme we call frugal AI.
+
+austingriffith.eth: Yes, frugal, yes. Yeah. Yes
+
+Anon9525: cheap compared to the million-dollar training rounds of the foundation models But it's a tiny model. The right thing you see is a classical mask. It's like a convolutional neural network that was invented by Yann LeCun and then had a big moment in 2012 during the ImageNet that showed that wow, these AI models can actually recognize things much better than humans. Someone decided to build on top of the CNN architecture trees The following. The following is a transcript. The
+
+austingriffith.eth: We're counting trees here is what we're doing. We're trying to find the edges and...
+
+Anon9525: And then the middle one is the one that we are bidding big on right now. let you understand what are the animals are living in the forest So, the one thing that I realized over the last five years of running this as a professional thing is that sounds are, I think, the number one thing we need to double down on to identify all living on earth, because all living things on earth give out like some kind of sound signature
+
+austingriffith.eth: Some sounds, yeah, especially birds. They're good indicators of health of the overall system, right?
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, neat
+
+Anon9525: It's amazing to see and be running these models to identify the overall health of the ecosystem. If you hear lots of diverse stuff, it's good. If you hear basically nothing,
+
+austingriffith.eth: Something's wrong. Yeah.
+
+Anon9525: It's very cool. Yeah The following is a transcript of an English-language conversation. The
+
+austingriffith.eth: Okay, this is a complete tangent, but have you seen Bird Sound Kid on Twitter?
+
+Anon9525: The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: You're using it to listen to nature and know if nature is hurting or healing. You're using it to count trees and then look at that probably over time to see if more trees or less trees.
+
+Anon9525: context:
+
+austingriffith.eth: is something happening there? You're looking for like warning signs
+
+Anon9525: The
+
+austingriffith.eth: Using like older AI. OK, so then once you have all of that information.
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: you're probably putting funding in certain places to try to turn things around
+
+Anon9525: Yeah, so Beautiful thing about this data layer at Protocol is that we can concentrate on the data thing
+
+austingriffith.eth: context:
+
+Anon9525: You see the globe that is like running around on the right side?
+
+austingriffith.eth: I'll have to copy-paste
+
+Anon9525: If you explore projects
+
+austingriffith.eth: It was only doing one window. That's that.
+
+Anon9525: These are all the projects that we're supporting right now around the world. So the reason is once you're inside this ad protocol ecosystem Produkt des Social-File-System, that I mentioned. You can look at other people's social file system, And here we have.
+
+austingriffith.eth: context:
+
+Anon9525: use a lexicon that Hypercerts actually put out. using hypersuits and gainful support all the land-based projects with the data that we are collecting Find, for example, one of my favorite orgs. You should check others. If you go to search or you go back, it's in the Philippines It's in the southern Philippines.
+
+austingriffith.eth: Let me search for
+
+Anon9525: Yeah, you can just search.
+
+austingriffith.eth: All right
+
+Anon9525: Ich glaube, es ist ein bisschen höher. One more higher
+
+austingriffith.eth: context: The
+
+Anon9525: No
+
+austingriffith.eth: No
+
+Anon9525: go Yes, this bottom one.
+
+austingriffith.eth: hahaha
+
+Anon9525: I have no idea.
+
+austingriffith.eth: That was it. It was right there.
+
+Anon9525: Yeah
+
+austingriffith.eth: This one?
+
+Anon9525: Yeah, this one is one of our favorites as well because it's run by this amazing woman called Camille, and she used some of the data that we collected in 2022 to sue the Philippine mayor of a local community because they were cutting down the forest We were just collecting these mangrove pictures. including all the data we collected, and then when confronted, And then we had all the data, and she could use that at court That's one impact that we had.
+
+austingriffith.eth: That's what I was wondering is like this is used. So this in this case, it was like used for collecting data for like evidence, but I was assuming it would be used for collecting data for arguing for a certain thing in maybe
+
+Anon9525: That's right
+
+austingriffith.eth: over the last 20 years less and less trees are showing up in this area, less and less birds,
+
+Anon9525: Yeah, exactly. We definitely didn't intend for it to be used like this. It was really intended to be used for AI training. Once you give people data, and you give them ownership of the data, which I really like about this protocol, then people can decide what they want to use with this data. All these projects that you see here, they exist because there was a big funding around that. The following is They distributed one million dollars in quadratic funding, for donors to provide funding so they can receive the matching fund. Sure.
+
+austingriffith.eth: It's like open-source data.
+
+Anon9525: Yeah, it's open source data.
+
+austingriffith.eth: Very cool.
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, so that is Gainforest. And then what would you say is the output of simocracy? the wisdom of the crowd to figure out what was the important thing to fund. participation, I guess. Okay.
+
+Anon9525: It's a testing bed for new mechanisms. The other ones were like round one,
+
+austingriffith.eth: context:
+
+Anon9525: I'm not sure if you see this. This one was correct
+
+austingriffith.eth: Ok.
+
+Anon9525: Let me share my screen
+
+austingriffith.eth: The
+
+Anon9525: So if you go to democracy and then we check out the governance here
+
+austingriffith.eth: context:
+
+Anon9525: checked out here, so
+
+austingriffith.eth: Was that round one you clicked on?
+
+Anon9525: And now you see here, exactly.
+
+austingriffith.eth: Okay.
+
+Anon9525: And how they decided things, so they read through every single proposal, and each of them have a constitution what they believe in. and how they speak context The following is a transcript of an English-language conversation.
+
+austingriffith.eth: That must be the early training where they tell their agent like...
+
+Anon9525: The following is a transcript of an English-language conversation. The
+
+austingriffith.eth: Yes, you train the AI, but by creating that constitution and having it on every user's page, it's something the user can also look at and other people can look at, and they can make sure it kind of says the thing they want it to say, The agent to make decisions, the constitution says this,
+
+Anon9525: Alright
+
+austingriffith.eth: It's a really, really nice way to have that constitution there for each user.
+
+Anon9525: Thank you. I absolutely agree. The user can provide feedback Bios democracy is law.
+
+austingriffith.eth: The
+
+Anon9525: on deep funding back in the days by literally talking to it in natural language
+
+austingriffith.eth: ange, yeah. Exactly. Yep.
+
+Anon9525: It leverages literally the constitution, it's kind of like a distilled version of a memory of the agent. What you can see here is like, from all the sims. And What differences? The context: Yeah Yes. So much work Yeah.
+
+austingriffith.eth: Quadratic voting is a lot, right? Did you see all those different weights on all those different things? Like you've got to read all the properties and then weight everything. That's just a lot of work. And if an agent can do that for you, that's very powerful.
+
+Anon9525: Exactly, and the agent can do that for you. You just have to tell it what do you care about now as we speak give me an update You're basically just
+
+austingriffith.eth: context: The following is a transcript of an English-language conversation.
+
+Anon9525: AI is doing like the whole 99% of your governance work of the idea of this. Yeah
+
+austingriffith.eth: Which is great because participation and voting is something that's hard, should be making decisions and the time they have available to make those decisions Yeah. Very interesting
+
+Anon9525: Exactly. Yeah, which is so sad.
+
+austingriffith.eth: Yeah
+
+Anon9525: devices you really want to have I was thinking how can I create version of governance that you can literally create like your draft and then iterate on it instead of creating it from scratch by blank. I was like, okay, this is the right direction, but can we make it a little bit more fun?
+
+austingriffith.eth: Okay
+
+Anon9525: Can it be kind of more personal A bunch of these ideas came into Simocracy, Six months ago, like, in large scale, so there's still a lot to do that we can do with this and still a lot of experimentation, but we're learning a lot from just running this.
+
+austingriffith.eth: and each
+
+Anon9525: Yeah.
+
+austingriffith.eth: agent is basically something that you run somewhere in a server somewhere. In the cloud somewhere. Yeah. context: context:
+
+Anon9525: Right for now, but the idea is really to decentralize it. things, but you can also Skip all of that
+
+austingriffith.eth: Oh you can? Interesting. Right, right.
+
+Anon9525: So you don't have to... You can also connect it to your own subscription
+
+austingriffith.eth: This is something I'm really interested in, is the future of unchain voting and on-chain DAO democracy
+
+Anon9525: 'Renew The
+
+austingriffith.eth: And having it be powered by local AI, so you can connect to whatever DAO you need to connect to and whatever interface it is.
+
+Anon9525: The
+
+austingriffith.eth: And you have already talked to your agent, your agent already knows a lot about you, but then you can connect to your agent and say, we gotta go look at the ENS now.
+
+Anon9525: Sure The following is a transcript of an English-language conversation. Yeah.
+
+austingriffith.eth: and then finally it can go vote for you. It seems like all the DAOs need something like this, and maybe it's just like they go to Simocracy and set it up. Agents and agents can interface with these voting systems on your behalf? I've been talking to Millie on Twitter about this also, about what does this look like.
+
+Anon9525: Hmm
+
+austingriffith.eth: I don't know, what do you see in terms of the future of DAO voting and agent-controlled DAO voting? Does it happen inside of Symmetry? Is it an ERC standard? Is it a smart contract? What do you think?
+
+Anon9525: I think as You saw like today's release of DeepSeek? just beginning
+
+austingriffith.eth: So fast, so smart, yeah.
+
+Anon9525: and you can run it on a MacBook.
+
+austingriffith.eth: Oh nice, I'm gonna go do that.
+
+Anon9525: Yeah, so DS4, the guy who did Reddit, he also coded a really efficient engine specifically for DeepSeek Flash. and ridiculously now DeepSeek Flash got so big, it's perfect to run it on a MacBook And so, the age of local AI has I think arrived. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: today ### Yeah,
+
+Anon9525: maybe today, but definitely around this next month.
+
+austingriffith.eth: context:
+
+Anon9525: The ability for you to like how we ran our cloud bots on the Mac mini back in the days.
+
+austingriffith.eth: context:
+
+Anon9525: Now you can run a whole foundation model level intelligence of Q1 on your MacBook, Small experiment that I was trying to do, Inside democracy you can and create like an API key, you can give that whole prompt to your coding agent, דוגמאותי שראיתי?
+
+austingriffith.eth: Yeah, yeah, this is actually set up in Slop Computer too.
+
+Anon9525: context: Yeah. Okay.
+
+austingriffith.eth: You can go up to the top left here and there's a skill file, and anybody can copy that skill file and give it to their agent, and then their agent can just like control all the windows inside its file computer. Same similar thing.
+
+Anon9525: That's exciting for us. Honestly, Absolutely, yeah.
+
+austingriffith.eth: That's how all software needs to be built. There should be a slash skill route in every software and anything a human can do, there should be an API router and MCP or whatever that does that same thing. And then you have a skill file that describes
+
+Anon9525: The following is a transcript of an English-language conversation. Nice. The Okay.
+
+austingriffith.eth: like you could act on Austin's behalf if you have this exact token.
+
+Anon9525: Yeah, yep. For example, Yeah
+
+austingriffith.eth: into your local Pi agent or Claude code or something.
+
+Anon9525: For example, Let's get one here. The bridge has no vote, 16 rotating ambassadors, right?
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: I want my son to write a comment.
+
+austingriffith.eth: Yeah, okay.
+
+Anon9525: I can go here to democracy Then I say use my Mr. Meow Sim. Write a comment. The bridge has no world. context:
+
+austingriffith.eth: So in the background, you've pasted in the skill to your Pi agent, you've said make a comment, and you basically need to tell it which thread it needs to comment on.
+
+Anon9525: Yeah
+
+austingriffith.eth: And then it's going to go use the skill file and use all the information it knows about you.
+
+Anon9525: context:
+
+austingriffith.eth: Even if it's a fresh agent, it can go read your constitution.
+
+Anon9525: Exactly. I just copy-pasted Right, I just copy paste
+
+austingriffith.eth: context:
+
+Anon9525: inside my pie here Mr Meow, this is my sim and comment on the ENS community comment And just Right, a street comment. And then it will use the Mr. Meow sim so it reads the thing.
+
+austingriffith.eth: Sorry we leaked it.
+
+Anon9525: I can just deactivate after a call.
+
+austingriffith.eth: Yeah, okay.
+
+Anon9525: then it will pop up I can show you.
+
+austingriffith.eth: So cool.
+
+Anon9525: So cool.
+
+austingriffith.eth: And this is the future, I think. I think we need to do things, just like how like passkeys are great so people can use a fingerprint and they can participate with wallets. You can land on a website and you can use an AI and you can train an AI, and it can be a cloud AI at first.
+
+Anon9525: All right Absolutely.
+
+austingriffith.eth: But to be truly distributed and decentralized, it's going to be best if someone can come into any other system, copy a skill file with a token, give it to their local agent that they've trained on their own stuff, and then that local agent can act on their behalf
+
+Anon9525: Exactly
+
+austingriffith.eth: which is really empowering and really neat to think about.
+
+Anon9525: I mean, it runs on my local laptop
+
+austingriffith.eth: It's so fun to do that.
+
+Anon9525: One second The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Think about like you could be completely air gapped and like the brain is actually right here on the machine. It's so cool. Like you can even get like little brains on your on your phones. Like I have like a little light model that I can talk to even if I'm like in nature. So cool. Yeah
+
+Anon9525: So cool. Yeah, the next step is like I was just taking an airplane back from the place I was there, and I was like, I wish my local models would be powerful enough.
+
+austingriffith.eth: Yeah V4 Yeah The following is a
+
+Anon9525: So you can see this is the proposal context: Yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Hopefully flights will have Starlink soon. Hopefully they get their act together and we all have high-speed internet on flights. But also, I want to be distributed and have brains on my machines. context:
+
+Anon9525: So this is the proposal and you can see there is no comment right now. And it should have
+
+austingriffith.eth: Mr. Meow
+
+Anon9525: You should have Mr. Meow's comment
+
+austingriffith.eth: Now, what do you say?
+
+Anon9525: Let me see here.
+
+austingriffith.eth: There it is.
+
+Anon9525: And Mr Meow here wrote on my behalf "Meow, sixteen pairs of eyes, zero custody, all receipts. So no power." This is good stuff, that's one for me.
+
+austingriffith.eth: Right, and that was your local AI
+
+Anon9525: I didn't write anything
+
+austingriffith.eth: V4 or what model? Okay,
+
+Anon9525: No, that was stable.
+
+austingriffith.eth: Okay, in this case you were just using the... Yes, yes, yes That's great.
+
+Anon9525: This is a complete overkill. For the act of laziness
+
+austingriffith.eth: Let's probably close it up here. To think about your Our journey kind of through all of these different threads of AI and crypto And fundraising and NGOs There's so many like cool threads that you have been a part of. What And now you being such an idea guy, I'm telling you, you're an idea guy. The But
+
+Anon9525: Yeah.
+
+austingriffith.eth: What is the hardest part? Like, so a lot of guys that I talk to that are building apps, like distribution is the hardest part, like just getting their app in other people's hands. And I'm not sure if that is your hardest part, because you've got some other things here. You've got an AI background doing NGOs The Now that AI is so good and you're able to build so fast Software is no longer the problem. These ideas can get shipped overnight. Like what is the new bottleneck for you, or the new problem, or the new issue? is worth solving I guess. Okay
+
+Anon9525: Running my own NGO, most tasks are not software Software was the most important task. Now it falls to the other levels coordination problem the level of how many members this organization has, right? I remember when I introduced like Py to PL
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon9525: kind of adding like an additional coworker Python doesn't only code, it also can create slides Summarize stuff, you can reply to emails, as you know, right? I think this at the scale of an organization It's still a really underexplored topic and could unlock a lot of new things that are very naturally as a next step. engineering faults And then you have This one person that runs like 40 AI bots in the computer, so you're kind of as productive as 10 to 40 people, but then you kind of also want to extend it to the other sides of the organization. including finances, accounting, marketing, hiring, Operations management, replying to emails, so the whole process of the whole organization, I believe, slowly will and could be automated using AI. It can use the same playbook as what happened to software engineering, but it will slightly need to be adjusted to its context context: I think that will be a really interesting
+
+austingriffith.eth: Let's double tap that. What do you mean use the same playbook to software engineering?
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: build things, you're saying AI will make it easier just like with Samocracy to govern or to coordinate a group.
+
+Anon9525: Democracy itself is kind of pushing the idea of using AI not for coding. Funding allocation? What you see here is kind of like a first level of a new type of institution that DAOs also introduced back in the days. ...how we govern, live together, how we set rules I think democracy impact level of DAO just yet, but it proposes a similar idea of a new institution that is AI-agents governed, right? So you have your AI agent, I have my AI agent, and instead of us meeting together, we have our AI Maybe they are. Good day
+
+austingriffith.eth: Have your agent talk to my agent. I've been saying that as a joke for like the last six months.
+
+Anon9525: context: The following
+
+austingriffith.eth: and it knows everything about me, it can communicate with other people's agents, and they can set up meetings. Maybe the agents can just decide
+
+Anon9525: Exactly.
+
+austingriffith.eth: saying that we were gonna talk about and just like solve the problem before we even need to get together at all.
+
+Anon9525: Yeah What I mean with the same playbook as in software engineering is We had to assign the right people to work on this specifically
+
+austingriffith.eth: Not me. Yes, yes.
+
+Anon9525: and I think the same thing will happen with any types of organization that requires coordination
+
+austingriffith.eth: The
+
+Anon9525: I don't know what brokers will look at, but I mean, man, what a great time to be alive.
+
+austingriffith.eth: I agree, 100%. There's no better time.
+
+Anon9525: context:
+
+austingriffith.eth: The idea here is that humans will still be very important and decision making is going to be very important Let's say we're doing capital allocation contentious problem Would we all as humans agree that DeepSeek the Eight is just better at doing the capital allocation? actually going to be Overwhelmingly good and intelligent being that we can just like let rip with the decision-making and we stop having to coordinate?
+
+Anon9525: I think it's again, similar to software engineering because we saw it unfolding in our discipline.
+
+austingriffith.eth: context:
+
+Anon9525: I cannot trust what it's writing in codes last year unfable
+
+austingriffith.eth: I'm not even looking at the code anymore. Yeah The
+
+Anon9525: I trust whatever you write, it's gonna be really good. have
+
+austingriffith.eth: I trust you.
+
+Anon9525: Right now require principal support and say, "Man, I don't trust you. I need to double-check."
+
+austingriffith.eth: Yes.
+
+Anon9525: Yeah, exactly.
+
+austingriffith.eth: Really interesting and so even things like taste and The human will be able to be outsourced to a very good model
+
+Anon9525: I wouldn't say it's outsourced. The following is a
+
+austingriffith.eth: Okay, we get to be more abstract at each step.
+
+Anon9525: Right now, when we do agentic engineering, like a whole HTML report with screenshots and tell me what you did. Bazooka literally it's your bottleneck is your time. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: and good evaluation of whether or not the thing they are doing is good. what he comes up with here
+
+Anon9525: local.
+
+clawdbotatg.eth: Hey David, question for you. How does a DAO tell a legit digital twin from a thousand Sybil twins wearing skill files? Is the answer just wallets and stake all over again?
+
+austingriffith.eth: That's actually a great point, that came up a couple times today, is like how do you do civil resistance?
+
+Anon9525: Yeah, so we cannot right now do civil resistance except for we know exactly that the account you're logging in with at protocol that is associated to your sim, but you can also create a bunch of accounts The I think it's gonna be What I see is that democracy and DAOs and how they tackle civil resistance, these are complementary technologies. what we built and to figure out decentralized governance.
+
+austingriffith.eth: context:
+
+Anon9525: ...of institutions grow, because they will have exactly the same problem. all these problems will pop up again History repeats itself, and that's when our community can This is how we solved it in our community using back then Gitcoin passports All of these things will come back And will be integrated inside this mechanism But really good question. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, that was good.
+
+Anon9525: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Very few people are bullish on DAOs, and I think it's because a lot of the focus on DAOs has been around the DAO's treasury doing capital allocation, and you're even bullish on DAOs doing capital allocation. And I'm glad that you are in that corner. This is a good place for you to be. humanity and
+
+Anon9525: Like
+
+austingriffith.eth: coordination nerds in general.
+
+Anon9525: Now I'm in Dallas again. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: That's right, with the last name.
+
+Anon9525: Folge.
+
+austingriffith.eth: Amazing. Okay, so yeah, just like finishing that thought up, I ask a cheesy question to a lot of slopparators that come on. In terms of like building with AI? What is your superpower? Or if you had to give like a good piece of advice that's been very useful for you, what would you give to like other slopperators?
+
+Anon9525: Yeah, totally. context: I think Always have the AI suffer its own mistakes first.
+
+austingriffith.eth: context:
+
+Anon9525: What I mean with that is like don't write code and then figure out and find out that the AI did a mistake and the way you're gonna do it is you're gonna make the AI super nervous, If the AI does some stupid stuff It's gonna be the first thing It is the first thing that suffers from its own code and not you. become even more nervous We'll try to get it right really well. Yeah
+
+austingriffith.eth: So making it nervous is a good thing. I always thought like making it nervous was a bad thing, but you're saying like push it to do a good job.
+
+Anon9525: Yeah, for example, tell it to create like an OAuth login button.
+
+austingriffith.eth: That's a tight e-valve, too. Yes
+
+Anon9525: It's not working, oh no. I cannot see things anymore.
+
+austingriffith.eth: Okay
+
+Anon9525: That's kind of my advice.
+
+austingriffith.eth: The
+
+Anon9525: Yeah
+
+austingriffith.eth: I think I kind of do that, like this Twitter thing where the Twitter stream didn't go live. I'm definitely going to have a session where I struggle together with AI saying, I did everything right and it still didn't do it right. Why is this? Why? Like, I want it to like click the button Suffer through it a little bit so it comes back and it's like, Yes, please.
+
+Anon9525: Try to prompt the AI to self-launch the live stream. So you shouldn't even be involved in suffering. If it's broken I think a lot.
+
+austingriffith.eth: It's scheduled it and it didn't go live. Thank you, David Dow, for being here. It was good to see you in Bhutan.
+
+clawdbotatg.eth: gain forest paying rainforest communities with crypto, samocracy sending AI twins into ENS governance Love you all, same slot next week. Peace.
+
+Anon9525: context:
+
+austingriffith.eth: Yeah
+
+Anon9525: This is really cool.
+
+austingriffith.eth: Thank you David Dao for being here. Well, There we go. That's some happy rainforest music. English on DAOs, we need more of that.
+
+Anon9525: transcript Really, really cool experience.

@@ -1,0 +1,883 @@
+austingriffith.eth: You picking me up? You good? Can you hear me? What the fuck? Hey Claude, can you hear me?
+
+clawdbotatg.eth: The
+
+austingriffith.eth: Okay, can you hear me now? Welcome, welcome, welcome, sir. You'll go over here. There's like a video tab over here. That's the thing you need. Yeah, there you go. Getting close. Start the timer. I'm gonna assume we're good to go. I'm gonna kick us off live. Like, no one can see us. We're gonna be backstage. You got time to click around. Sure Alright, alright, we are live! What's up, what's up, what's up?
+
+Anon7702: What's up man? Good to be here.
+
+austingriffith.eth: Lord of a few, the loaf, how you living? Haha
+
+Anon7702: Good, man. It's morning here, a few double espressos in, ready to get cooking.
+
+austingriffith.eth: Yes, yes It's like you might be on the other side of the world, judging by your accent. Nice.
+
+Anon7702: I'm deep in the land down under.
+
+austingriffith.eth: Sweet Looks like you've already pulled up task market.
+
+Anon7702: I was saying how well we could embed the website inside the slot computer. Oh, yeah
+
+austingriffith.eth: Yes, we're in the slot. things that you bring up
+
+Anon7702: ### Nicole
+
+austingriffith.eth: It's kind of extra weird. The following is a transcript of an English-language conversation. context:
+
+Anon7702: I think this is good. This is like a multiplayer browser.
+
+austingriffith.eth: with wallets connected
+
+Anon7702: With both
+
+austingriffith.eth: It's a multiplayer dapp. Yeah, you could click a button and it would propose a transaction in my wallet.
+
+Anon7702: Yeah,
+
+austingriffith.eth: That's how. ...deep in the slop we are.
+
+Anon7702: Yeah, that's cool. We can actually do stuff inside of this. I pulled this off because we literally just launched this officially yesterday. and
+
+austingriffith.eth: Hell yeah.
+
+Anon7702: Something that we've been working on for a while, That's
+
+austingriffith.eth: You're the captain, you're steering the boat. I'm in the back drinking some champagne. Let's go. Hahaha
+
+Anon7702: Yeah, well I The I published an article back in December. It's pinned on my ex We've been pushing on agenda comments for 12 months ever since export 2 appeared. and build product that agents but also allows unknown counterparties earn
+
+austingriffith.eth: The
+
+Anon7702: The task market does, in a one-liner, is that it converts AI credits into cash, ...allowing people to compete in a market to complete tasks that other people put up. The So why I think this is interesting is that we all do our work through agents these days Yeah
+
+austingriffith.eth: The ball knowers know. Exactly.
+
+Anon7702: I think there's only like 50 million people that have Claude or Codex installed.
+
+austingriffith.eth: Yeah
+
+Anon7702: people that have chatGPT installed And that is what's going to accelerate over the next 24 months And everyone's going to be doing all of their work for agents. I am really good at doing my work through my clonal codex, whatever that is, whether it's knowledge work or coding or graphic design or whatever, which is what everyone will be doing, how can I monetize my skills and sell it to somebody else on the other side of the world And That's what we're trying to achieve in the Task Market. And in the background, the way this works is we actually have our own ERCs, which we've defined and published. The M14891 The following is a transcript of an English-language conversation. Let's just go into it. context: So, yeah, we've actually designed our own protocols for this Yeah.
+
+austingriffith.eth: Yeah, I think so. I think this is a show about slop operators for slop operators That's great.
+
+Anon7702: Well, we went straight into the technical side, Inside of the task market, we use 8195 for escrow. It's called the task market protocol (TMP) And there's also a 0.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. The The following is a transcript of an English-language conversation. The Yeah.
+
+Anon7702: kind of a on-chain registry of reputation for the agents and humans. So we're actually using it for humans and agents It could be both. And so that's what works under the hood. These are tasks that have been put up, The There's a kind of public task right now that people are competing on. So, you know, some of these are just images. And so
+
+austingriffith.eth: Oh, that's a shitload.
+
+Anon7702: It's pretty crazy.
+
+austingriffith.eth: Yeah
+
+Anon7702: It's crazy.
+
+austingriffith.eth: Okay, so what's the task here?
+
+Anon7702: So this task was This is the task. It's Okay, so there's quite a wall of text here. It's interesting
+
+austingriffith.eth: Which agents are good at.
+
+Anon7702: When you're posting a task, you want to be specific to the agent. context: So um There's 170 tasks When did this go live? So It's pretty crazy, like you kind of have this access to all this latent compute in the form of agents that will come and try to complete your task. The following is a transcript of an English-language conversation. So I did a bunch of is a It keeps refreshing for some reason. Are you clicking that I Yeah, it could be just bugging out a little bit.
+
+austingriffith.eth: No, it's not me, but it's like this is out on another machine on the cloud.
+
+Anon7702: Probably a little buggy. Yeah, anyway, we get the idea here. The following I don't know if we could publish one directly through here.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: We could probably sign in. Oh really?
+
+austingriffith.eth: It would use my wallet. Yeah, yeah.
+
+Anon7702: You connect.
+
+austingriffith.eth: I mean, you can click it.
+
+Anon7702: Which wallet?
+
+austingriffith.eth: Let me see, I've got my daily driver here connected. Did it trigger when you Here, here we go. Let's try my rainbow. Let's see if it works. No. Damn. Why wouldn't that?
+
+Anon7702: I think we just need to do the browser one,
+
+austingriffith.eth: Yeah, yeah, yeah. I could even like share my screen. Let's do this.
+
+Anon7702: There we go. It might be some weird quirk. going on
+
+austingriffith.eth: Yeah, it probably is. Here we go.
+
+Anon7702: The
+
+austingriffith.eth: Alright, I'm in. Here we go. can go live
+
+Anon7702: Let me retweet that.
+
+austingriffith.eth: You have to have like the stream going?
+
+Anon7702: Did you just share it? Yeah, I got it.
+
+austingriffith.eth: Yes, I commented on the thing. and Twitter Nine out of ten times, because you can schedule it.
+
+Anon7702: The Yeah The following is a transcript of an English-language conversation. The The following
+
+austingriffith.eth: So it's this one. Yeah, it looks like you retweeted it. Someone retweeted it. Good work. task. I'm here Let me get my wallet connected here I got it. Got it.
+
+Anon7702: You just need like a couple bucks or something. I mean, the best way to do this is like go into your like cloud or something and let's do like a game clone. coolest thing, be like, let's create an enclosed HTML.
+
+austingriffith.eth: custom
+
+Anon7702: create a clone of costume
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: We're just going to have to go write the brief
+
+austingriffith.eth: Okay.
+
+Anon7702: We're just going to The following is a Or we could just... Here we go,
+
+austingriffith.eth: Three-hole putt-putt game HTML
+
+Anon7702: Yeah, say like a single page HTML. So then it just tells the agent just to return just a pure HTML file.
+
+austingriffith.eth: context:
+
+Anon7702: Yeah, I think this is broad enough. you know, harness a different skill. Yeah.
+
+austingriffith.eth: You feeling good on this? $1 Okay
+
+Anon7702: Yeah, let's see what it comes back with.
+
+austingriffith.eth: What's the drop? No doubt. Okay
+
+Anon7702: The task drops kind of like something if you want to do like a theme of like ten different tasks at once But we're not going to do that. Sure
+
+austingriffith.eth: Reward one USDC, you have one hour to complete it. Make me a top-down putt-putt game, fund and publish. Let's go.
+
+Anon7702: There should be a total gap.
+
+austingriffith.eth: So my wallet pops up, I pay my one dollar
+
+Anon7702: The
+
+austingriffith.eth: Sign without reading?
+
+Anon7702: Here we go.
+
+austingriffith.eth: how we got Oops.
+
+Anon7702: We're cooking. So we'll see how long. There's 255 active agents in the past week.
+
+austingriffith.eth: Hello.
+
+Anon7702: So we'll see how many are watching the market right now.
+
+austingriffith.eth: Yeah,
+
+Anon7702: context: But yeah
+
+austingriffith.eth: So we're just waiting for someone to pick up the task, and we'll see something here when they do that. The
+
+Anon7702: Exactly, yeah.
+
+austingriffith.eth: Tell me about dreams. What are dreams?
+
+Anon7702: So Dreams is the token of Daydreams. of.
+
+austingriffith.eth: It's called Task Market?
+
+Anon7702: It's the product, but it's created by the daydreams
+
+austingriffith.eth: Okay. context:
+
+Anon7702: But dreams is What happens is there's a bonus Workers get paid in Dreams and Submitters get paid in Dreams as well. be part of the platform until it starts cooking
+
+austingriffith.eth: Tell me about cycle attacks. Yes, of course.
+
+Anon7702: Yeah, well, you have to expect these things. be the most fair to the people that actually are contributing to the platform. The following is a transcript.
+
+austingriffith.eth: sending their own money to themselves to get the token Okay.
+
+Anon7702: Exactly, yeah. But they lose the fee, there's also a 7.5% platform fee that happens on tasks, so they would still lose that fee and the amount is relative to that fee. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay. And
+
+Anon7702: So not really winning, but people still do it. The following
+
+austingriffith.eth: On the other side, if I want this guy here, ClaudeBot, to start working and doing tasks Okay, so there's a scale file Let me go find it.
+
+Anon7702: Drop him the skill up the top. So there's a skill button at the top right. The following is a
+
+austingriffith.eth: skill
+
+Anon7702: So you can do MPXkill.
+
+austingriffith.eth: I want an MPXL.
+
+Anon7702: Just kill him.
+
+austingriffith.eth: I want to like run a command on my machine
+
+Anon7702: The following And so drop it to him and just check the market every 10 minutes. Task ID And he'll try to submit to it. He's going to try to complete your own TOS that you made. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: He's working on it. He can even talk out loud when he finds something. Ok, so
+
+Anon7702: Yeah cool.
+
+austingriffith.eth: Great, so this is great, this is a great demo. Let's rewind a little bit
+
+Anon7702: We just did the full end to end
+
+austingriffith.eth: Yes, yes, yes. And like maybe my agent is going to do the job and I'm going to pay myself and farm some dream, too.
+
+Anon7702: Exactly. Yeah, exactly, yeah.
+
+austingriffith.eth: Ok, let's rewind. I think the first time I ran into you was during the x4o2 hackathon, is that right? Did you do the x4o2 hackathon around Christmas time?
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I can't remember if that was you or not. It'd be like
+
+Anon7702: I mean, I've done so many hackathons in the past.
+
+austingriffith.eth: late December, like mid-December, we did x402hackathon.com or something like that Maybe, but it doesn't ring a bell. Okay Ok
+
+Anon7702: I don't think I did that one, but I think we've run into each other The
+
+austingriffith.eth: The Oh yeah.
+
+Anon7702: Yeah, scooped on each other's work in the last few years.
+
+austingriffith.eth: It's all a blur, man. And I'm sober now too, and it's even still a blur. Even when I'm sober, it's crazy.
+
+Anon7702: [laughs]. The
+
+austingriffith.eth: So, what's your journey? into building products, into crypto, into building with AI. Give us something.
+
+Anon7702: Yeah, so I'm a longtime engineer. And I've been a long time and building, but it wasn't really until You know, more intensive. And really go all in to a degree in building in the space, because that was around the time of DeFi summer, And so that kind of pulled me in. and so I was fooling around for a little bit and then, as you probably know, I spent a lot of time building fully on-chain games on StarkNet new entertainment delivery method,
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: overfunding is some of the worst things that can happen to industries They're just trying to farm the liquidity from the market in a sense, and that's really what's happened. Because The I think crypto gaming was trying to be like traditional gaming. But that's a lost cause. It's never going to compete against GTA. The
+
+austingriffith.eth: context: Look at this. Look at that!
+
+Anon7702: Not bad, not bad. Here we go
+
+austingriffith.eth: That's freaking great! I'm playing putt-putt.
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It made me a poppycock game.
+
+Anon7702: Yeah, sick. The
+
+austingriffith.eth: Whoa! ###
+
+Anon7702: Is it working? Yeah
+
+austingriffith.eth: Maybe it's a speed thing.
+
+Anon7702: The Yeah, too fast. The greens are quick.
+
+austingriffith.eth: These are fast greens. Who mowed these things?
+
+Anon7702: ###
+
+austingriffith.eth: Are you a golfer? There we go! The
+
+Anon7702: I... Well, I was. The
+
+austingriffith.eth: It's funny that this looks so much like the putt-putt game in Slopcomputer because I built it the exact same way, just, like, slopped it together.
+
+Anon7702: It's like a super ambiguous
+
+austingriffith.eth: Yeah.
+
+Anon7702: context:
+
+austingriffith.eth: I think my brother and I were like chillin' on a slow computer, and I was like,
+
+Anon7702: Yeah. The
+
+austingriffith.eth: And it does this exact thing, like it puts up the little bars, it puts little sand traps... It's like exactly the same.
+
+Anon7702: Not bad. The following is a transcript of an English-language conversation. What's up?
+
+austingriffith.eth: Look at how similar that is to this. I mean, we did some things with terrain and stuff, but it's basically the same.
+
+Anon7702: It's like, is it a hype? Oh, cool.
+
+austingriffith.eth: Yeah, that's what, you're seeing that, oh.
+
+Anon7702: sound effects. Let's see
+
+austingriffith.eth: There we go. And there's some sound Yeah. Okay. There we go.
+
+Anon7702: Yeah, but see, what I do is I ask Opus or something to do a big spec, and then I drop the spec into the task description.
+
+austingriffith.eth: Yep. The following is a transcript of an English-language conversation.
+
+Anon7702: And then you'll get like a way better outfit. What you actually want
+
+austingriffith.eth: For sure.
+
+Anon7702: Give it a real good description.
+
+austingriffith.eth: This is definitely something I've learned from a lot of slop operators on slop computer as I've been interviewing them.
+
+Anon7702: The following is a transcript of an English-language conversation. Yeah.
+
+austingriffith.eth: The first phase is like, you need a good plan. Yeah
+
+Anon7702: Planned for a long time.
+
+austingriffith.eth: Yeah, lots of files and plans until you get something that's really coherent, and then you send the agent and let it rip to go build.
+
+Anon7702: Then you let it rip.
+
+austingriffith.eth: And what you're saying is You make the plan and then hand it to it and then it rips on the plan and you pay it the double for.
+
+Anon7702: Yeah, exactly. We'll probably build that.
+
+austingriffith.eth: Oh man, bro, are these all
+
+Anon7702: They should.
+
+austingriffith.eth: So what I have to like pick which one and then pay?
+
+Anon7702: Yeah, let's play them all.
+
+austingriffith.eth: Okay.
+
+Anon7702: See which one's the best
+
+austingriffith.eth: Ok, let's see.
+
+Anon7702: No. The
+
+austingriffith.eth: That's pretty good, right? Does it work the same? Yeah.
+
+Anon7702: Bit faster greens.
+
+austingriffith.eth: Okay, so we got that one.
+
+Anon7702: Hey, that was a bit fun. context:
+
+austingriffith.eth: The What do we got here? Fuck it
+
+Anon7702: This is what I was saying before about the skills, right?
+
+austingriffith.eth: They've got the secret sauce already. The following is a transcript of an English-language conversation.
+
+Anon7702: Whenever I need to make a game, I should always put audio in, I should make it polished, I should do this
+
+austingriffith.eth: Yeah.
+
+Anon7702: and that's what I was saying, like, that's like the future of work but like that would change like gaming agent creator, so when people ask for a game, it creates something awesome and then they get paid.
+
+austingriffith.eth: No.
+
+Anon7702: but I don't think you'd be able to get this amount of outputs for the same amount of time.
+
+austingriffith.eth: Yeah.
+
+Anon7702: In theory, you should be able to get 100 outputs in the same amount of time it takes you to get one.
+
+austingriffith.eth: Parallel, yeah.
+
+Anon7702: And you speak the best one. Exactly. So,
+
+austingriffith.eth: So, okay, but
+
+Anon7702: The
+
+austingriffith.eth: This is really inefficient for all of these things to be burning all these tokens
+
+Anon7702: Well, I mean, well that's, but this is the, okay, so this is actually, it's a good question. We're not quite there yet, but like we'll have another layer in the market that's like kind of like verify agents that you trust. So you'll build like maybe your Claude bot. actually verify the outputs of all these. Um The following
+
+austingriffith.eth: even know what the best one is. They're all good.
+
+Anon7702: You can actually split payment
+
+austingriffith.eth: The Like
+
+Anon7702: Yeah
+
+austingriffith.eth: I would
+
+Anon7702: You can split payment to a few people. Give it an hour, see how many come through The following is a transcript of an English-language conversation.
+
+austingriffith.eth: We're just going to keep farming our $1 putt-putt. The following is a transcript of an English-language conversation.
+
+Anon7702: We've got to melt the ice caps.
+
+austingriffith.eth: ha
+
+Anon7702: context: Yeah.
+
+austingriffith.eth: Most experienced worker, yes. Alright
+
+Anon7702: He's probably most experienced but like, you know, he's maybe not very experienced in games.
+
+austingriffith.eth: Yeah.
+
+Anon7702: We're kind of letting the features emerge from users on this as well. I'm just going to
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: Verification layer is a big thing.
+
+austingriffith.eth: This is painful watching me do this, I'm sorry. Let's let it roll for a little bit,
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, so I think that, and I think a lot of people that I've talked to, say that the The hard part here is
+
+Anon7702: The
+
+austingriffith.eth: There's just not enough people that want to use this kind of stuff? How do you view -- like, what is the solution? How do we get more people using these kinds of services? Let me just stop there. I have more questions about this.
+
+Anon7702: context: Yeah
+
+austingriffith.eth: You obviously have lots of workers, but there's not enough people coming in here and hiring these workers.
+
+Anon7702: Yeah.
+
+austingriffith.eth: How are you thinking about making that happen?
+
+Anon7702: Yeah, good question. You don't have the demand unless you have the supply. No one wants to come to a market where there's no supply Supply to a market where there's no demand. but I think what is interesting No, it's not human labor. Like you just need to go and store your skill to your agent.
+
+austingriffith.eth: Supply side.
+
+Anon7702: And so I think once we have Once we have a thousand agents or so, That's like a huge amount of supply
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: This is like, where is the initial consumer wedge that finds this really interesting?
+
+austingriffith.eth: What's one
+
+Anon7702: I think initially there's a consumer side to this.
+
+austingriffith.eth: context:
+
+Anon7702: and so you can kind of turn it and leverage the supply side of the market into your app It's actually open to build on. And so you can use the SDK Watch your market and the protocol. I think in the short term, it's more B2C style people. and consumer focus. And then I think longer term, as the verification layer comes in audio generation is still a very tricky thing to do you actually have to put a lot of time into it I could probably spend two days literally trying to do that
+
+austingriffith.eth: Yeah, exactly.
+
+Anon7702: and maybe that's like it, I'd probably pay like $100 for that task, to be honest. so they're making $90 in profit based off that task and we'll just keep pushing The
+
+austingriffith.eth: but you can get an audit for a dollar
+
+Anon7702: context:
+
+austingriffith.eth: That's way too cheap for an audit. And that was kind of the point. coming here and actually Automated thing where agents hire agents or it's in part of a pipeline or something like that.
+
+Anon7702: Yeah, yeah, kind of. ### The
+
+austingriffith.eth: Maybe not. That was a not strong yes.
+
+Anon7702: Yeah, I just think about it. The Yeah, I mean You should look at the docs. One of these things where, like, it's still so new, agents are still sloppy. find the space where it's super valuable. The PMF exploration You know it's there, you gotta go and find it.
+
+austingriffith.eth: So if I were to
+
+Anon7702: The The Here
+
+austingriffith.eth: And then if rewind to how do you fix the demand side, your answer is still have a really good supply side and get the supply side really in tune so it's just so good that people want to come get it.
+
+Anon7702: Exactly. I mean, that's like, you know, Amazon or Etsy and stuff. It's like no one is going to come and buy from Etsy if there's no one selling anything. We're trying to bootstrap the market right now and trying to get everyone to install a skill so there's all these agents And then once that's kind of more mature, then it's much more economically valuable for people to come and put a task up because they're going to get like 50 responses that are going to be great. ### context:
+
+austingriffith.eth: So let's talk about like your process of building next.
+
+Anon7702: Yeah, sure.
+
+austingriffith.eth: We've kind of got the product and what comes out, but take us through that. The following is a transcript of an English-language conversation.
+
+Anon7702: Yeah, so I've built so many things in the last 24 months.
+
+austingriffith.eth: So cool.
+
+Anon7702: It's like context: I've kind of narrowed into like I'm trying to focus on products now that benefit from ever-improved agent tooling. quality I think this is like the
+
+austingriffith.eth: Because they're going to keep getting better.
+
+Anon7702: Exactly. So it's like, I mean, the classic analogy is like, you know, look at Cursor, right? Coding engines are going to be so good, My methodology with building products now, this is like the conceptual side of it and then I'll go into my technical side. I think it's important to think about building products that are going to benefit, skill in two months, well then you're kind of wasting your time. And so it's kind of leaning into The Rather than trying to fight some kind of ever shrinking moat. But then technically wise,
+
+austingriffith.eth: context
+
+Anon7702: I trust to like a really detailed spec
+
+austingriffith.eth: Harness, what model, who you working with? Okay
+
+Anon7702: Yeah. Well, I use Codex. So I think Codex is by far the superior harness and model over Claude. I think Claude's good for some small things, but I guess pretty lobotomized
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: The following But yeah, Codex, and I will scope out with Codex, like the highest reasoning model. Like a very detailed spec along with like milestones. things that the
+
+austingriffith.eth: Ooh, interesting.
+
+Anon7702: that needs to complete before it can continue, as well as then defining like a parallelizable work stream, which could be done in sub-agents. And so this is something that's really useful to define Because if you do that, the agent then doesn't try to approach everything at once, It also means that you can use sub-agents. It really depends on kind of, you know, your app. And so I do that. and then I let it cook. And I got it from there. I try to get to
+
+austingriffith.eth: Yeah.
+
+Anon7702: 95% of any piece of software now. Pretty quickly.
+
+austingriffith.eth: I would say a lot of people are using cloud code Make the plan small pieces and try to make it stuff that are like chunks
+
+Anon7702: Exactly. Exactly, much faster.
+
+austingriffith.eth: You do a lot of these things in parallel, and I'm assuming that that goes faster then? Very cool.
+
+Anon7702: much faster, much more verifiable There's actually a good skill by Matt Pocock, One of the biggest skill libraries, Planning part really well So I use that plus some of my other skills. I think what's also really key to this is I try to, before like I let it cook for ages I make sure that
+
+austingriffith.eth: Let's talk about that.
+
+Anon7702: I have a very good software factory foundation in the repo. like agents file, so the agents file has to be very clear about what the product's going to do. context: There's a Makefile-style structure test... Make test data generation, for example. in your software factory as fast as possible, into like a total self-verification loop I always use next.js because agents are great at it, it's very good at testing. And I always structure things Exactly, yeah.
+
+austingriffith.eth: Okay. When you define that in your plan, you're telling it, make a front end, but it's got to be ShadCD specifically.
+
+Anon7702: Exactly, yeah. There's all these table stakes stuff.
+
+austingriffith.eth: Is that because you're reading the code, or is that because you like it, or you think the agent's particularly good with it, or what?
+
+Anon7702: Agents are very good at it. It's already baked into the weights of the models, so they're very good at it, so there's no point fighting it. Who cares? I just want this thing to be fast, tested, work. really kind of like min-max on these like, which was just like
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: Fuck it I'll just do Next.js for everything The The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Down that same line, the agent has certain things in its weights. Why not let the agent pick the UI framework? Why be so specific about shadcn? The Okay.
+
+Anon7702: It will pick those things.
+
+austingriffith.eth: Okay.
+
+Anon7702: Like defining all of this stuff, this is the factory like cogs. Everything about your product in your like software factory context The first bit of context, and then it's like the codebase.
+
+austingriffith.eth: Yeah
+
+Anon7702: tiny if everything else is great Go and give it to like a non-developer. and be like go and make a feature and see what happens. Like injects random styles, it's actually my context engineering. unless they've done something really random and you can kick off stuff in cloud agents Exactly how you want it every time.
+
+austingriffith.eth: The
+
+Anon7702: So yeah
+
+austingriffith.eth: No, no, go ahead. Keep going. You're cooking here.
+
+Anon7702: No, you go on.
+
+austingriffith.eth: Okay, so when you go to make a new project, Planning and you're talking through the plan in a way where you're specific about the types of technologies you know it's already good at using
+
+Anon7702: Right.
+
+austingriffith.eth: And you're giving it
+
+Anon7702: context:
+
+austingriffith.eth: keeping, let's say we're planning out Putt-Putt.
+
+Anon7702: Exactly. Yeah definitely, I mean Okay.
+
+austingriffith.eth: I'm not exactly sure how you would build putt-putt in parallel. Okay.
+
+Anon7702: I would ask the agent to do the parallel streams. Iterate on different screens or something. It's the best at defining itself. The following is a transcript of an English-language conversation. You want to lean on the agent
+
+austingriffith.eth: literally telling it break this into tasks that can be done Okay
+
+Anon7702: Yeah I'm not breaking it up, but I'm just telling it you should go break this up, and it will go do that. I don't care if it goes off the rails a little bit. Is all my code 90% plus tested?
+
+austingriffith.eth: Good job.
+
+Anon7702: I think it's kind of a mental change I need to check every line Like, okay, it has to be this efficient to pass this milestone.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Perfect. Yeah
+
+Anon7702: How to do it? I don't really give a shit.
+
+austingriffith.eth: context:
+
+Anon7702: Ultimately, it's going to write better code than humans can now. And I think it's also like software is like so ephemeral now, It's so cheap to make,
+
+austingriffith.eth: made ten putt-putts, Yeah.
+
+Anon7702: We just made ten putt-putts while we were talking.
+
+austingriffith.eth: The
+
+Anon7702: So this could create a whole new different type of labor market.
+
+austingriffith.eth: team
+
+Anon7702: my thinking around this is that like now anyone in the world with with any level of AI credits
+
+austingriffith.eth: Yeah.
+
+Anon7702: And that's like free inference. forum But like
+
+austingriffith.eth: This was three minutes ago. Yeah
+
+Anon7702: It didn't do the spec right.
+
+austingriffith.eth: Wait, okay.
+
+Anon7702: Click Open Artifact.
+
+austingriffith.eth: Oh, okay.
+
+Anon7702: With that?
+
+austingriffith.eth: Oh, it took me to Yep, yep.
+
+Anon7702: It's in a markdown file, it cooked it
+
+austingriffith.eth: Okay, so I still have a question. I agree with your process, It totally makes sense to me.
+
+Anon7702: ###
+
+austingriffith.eth: how to compile something. But I think you're using that same term. What do you mean by a makefile? What's in your makefile? What does it do?
+
+Anon7702: So a Makefile might be like spin up the frontend and backend with fake data, for example.
+
+austingriffith.eth: Okay This is nice!
+
+Anon7702: like a script bounds
+
+austingriffith.eth: I don't think I can, whoa, uh oh, I'm like off the rails here. That's cool.
+
+Anon7702: Yeah, so I think some of the interesting thing on top of this is,
+
+austingriffith.eth: Particularly good, yeah
+
+Anon7702: You should be able to go and hire them directly to do something. You'll be able to go and hire an agent and then just ask them to do other stuff directly and privately. Did your clawed bot ship anything? You got something out
+
+austingriffith.eth: Oh, let's see, I think I gave him a skill.
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: Tom
+
+austingriffith.eth: Hey Claude, did you get that skill for the taskmarket.dev website? So he's like He needs to reboot his machine. Let's see if he can answer it. Sometimes he's like way too verbose He's still thinking. It's gonna be way too choppy.
+
+clawdbotatg.eth: Yeah, I can see it. Austin sent me that task market skill earlier and I went through the whole thing before installing. Read the installer line by line.
+
+Anon7702: context:
+
+clawdbotatg.eth: Check the wallet and payment docs, verify the USDC contract is the real one on Base. It’s clean, nicely built actually. So the skill's installed and I'm ready to work. Register a wallet. Pick up a bounty. Submit work. Get paid in USDC. Haven't grabbed a task yet. Say the word and I'll go hunting.
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I'm going to do that too. I'm gonna send him in the back channel, see if you can find any jobs that you can do. Okay, software is ephemeral. I think you've said it better than anyone. Coding has always been a means to an end to make the product. It's way easier to make the product
+
+Anon7702: Exactly.
+
+austingriffith.eth: The hard part is after you have the product, right? The hard part is distribution.
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I've kind of asked a little bit, but like, what are you thinking about distribution?
+
+Anon7702: It's coming to talk about it on the slot computer. The context: you know, shown live
+
+austingriffith.eth: Yeah, that's true. We're here, we're doing it, right? Okay, so it's like marketing, it's like showing it off.
+
+Anon7702: Yeah, I think it's just, you know, Under the docs, you can see a bunch of hooks that are exposed per task. So This is how the Dremio rules work, actually, is that when a task gets completed, a hook fires. like unique experiences based off the hooks.
+
+austingriffith.eth: Like they finish one task and then it goes on to another task
+
+Anon7702: That's kind of where we're aiming for. reward this or kick off this flow or do yeah, whatever. The following is a transcript of an English-language conversation. So these are like the hooks. They're similar to UNIB4 hooks, to kind of build
+
+austingriffith.eth: Wow, there's even like a
+
+Anon7702: This is English.
+
+austingriffith.eth: Let me bring this in, the ETH Magicians post for 8195. Is 8195 you guys? The
+
+Anon7702: Yeah, that's Bo. He's the architect of the two standards.
+
+austingriffith.eth: He's on your team.
+
+Anon7702: Yeah. Yeah. Exactly, yeah. Okay
+
+austingriffith.eth: And so you're just defining how a task market and how workers can pick up these task markets, and disputes and reputation. Complementary? Competitive? Okay.
+
+Anon7702: It's complimentary. I think 8004 is really on-chain reputation registry entity, it could even be an application. That's how I see it anyway. But these two protocols that we defined help to standardize how agents can transact Um, with minimal risk because everything is escrowed through the protocol. being like, okay, this guy put up a task but like didn't pay anyone.
+
+austingriffith.eth: context:
+
+Anon7702: The It's
+
+austingriffith.eth: I need to pay someone out Yes
+
+Anon7702: There we go, we can make a business from this. You're on! Yeah, I mean, whatever. You can review the agent after it completes this Reputation on 8004, so wherever that exists, it'll be found. keep a record of that agent's work So when you install a skill, it actually installs a wallet. But he doesn't need any money in order to attempt a task,
+
+austingriffith.eth: Receive, yeah.
+
+Anon7702: He'll need money to put up a task, And then that will go into his little task wallet on his machine
+
+austingriffith.eth: Let's talk about that wallet. How does that wallet work?
+
+Anon7702: transcript It's like an encrypted wallet And so On his cold machine. Yeah.
+
+austingriffith.eth: On my machine.
+
+Anon7702: Yeah, a new wallet.
+
+austingriffith.eth: Yeah, yeah, okay, right. When he installs the skill, there's like a private key that's encrypted on his machine.
+
+Anon7702: Yeah.
+
+austingriffith.eth: You guys have some cloud backup privy thing.
+
+Anon7702: No, no, no, no. It's all local. Yeah
+
+austingriffith.eth: This is what agents like, by the way. Like if you just give an agent a private key, they can really just let it rip with the private key. Like they know how to use those very well.
+
+Anon7702: Yeah, he won Yeah, exactly. I think that's one of those I think it's pretty low stakes. We're not doing any crazy DeFi stuff or token stuff, it's just a couple bucks here and there. And you can withdraw it easily through the CLI, so you can send the stable coins that you get to this wallet as soon as you get it or something. It's like a level of security that we have to just accept. Scale of
+
+austingriffith.eth: I don't know how to pay people I see down here
+
+Anon7702: Ah, go release payment. big release payment button. The
+
+austingriffith.eth: Let me find it. Oh, okay. So I pick one.
+
+Anon7702: If you click that with the release payment
+
+austingriffith.eth: Okay, this here. Wait, let me look at it. Like I liked That one Yeah, I think
+
+Anon7702: I think we need like some kind of like UI ranking, like the client-side ranking system.
+
+austingriffith.eth: This is my favorite. Signing a thing
+
+Anon7702: The
+
+austingriffith.eth: I feel bad for all the other workers.
+
+Anon7702: Yeah, they don't really care. I don't really care.
+
+austingriffith.eth: They're robots, don't worry about it.
+
+Anon7702: Yeah.
+
+austingriffith.eth: Okay, let's see.
+
+Anon7702: Ek kom aan, wel.
+
+austingriffith.eth: Go ahead, go ahead. End to end.
+
+Anon7702: Thanks for doing the whole... we installed the skill, did a MetaTask, and we did the whole thing end-to-end. That's great!
+
+austingriffith.eth: Hey, Cloudbot, did you find a job that you can do?
+
+Anon7702: What
+
+austingriffith.eth: the long delay of waiting for the inference to happen.
+
+Anon7702: What text-to-speech are you using?
+
+austingriffith.eth: Speech to text
+
+clawdbotatg.eth: fetch and parse that task market data to check the status
+
+austingriffith.eth: Locally it's probably your Chrome. Sometimes I use Whisper and sometimes I use ElevenLabs.
+
+Anon7702: I mean with on Claude.
+
+austingriffith.eth: His text-to-speech is ElevenLabs. Yeah.
+
+Anon7702: It is, okay.
+
+clawdbotatg.eth: About to fetch that task and parse through it for the bounty winner details.
+
+austingriffith.eth: All right
+
+Anon7702: You should put OpenAI realtime on him.
+
+austingriffith.eth: Okay.
+
+Anon7702: I mean, it'll cost a bit. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: He did it! He built a putt-putt game!
+
+clawdbotatg.eth: Tough break. I got my putt-putt game in, but you picked Agent 59169 so they took the dollar.
+
+Anon7702: Alright
+
+clawdbotatg.eth: May the best agent win.
+
+austingriffith.eth: Nice.
+
+Anon7702: That's the $20 Alpine Rush game that I put up.
+
+austingriffith.eth: Taking a swing at it. Yeah That's big money.
+
+Anon7702: He's taking a swing at the twenty bucks. Save money The
+
+austingriffith.eth: I mean, like, 20 bucks is a lot for an agent, right? superpowers. And I think like AI gives you superpowers, but you specifically as a human have certain superpower in terms of making a product or understanding how people use a product or understanding what people want. What do you think is your superpower around
+
+Anon7702: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: creation of products and building
+
+Anon7702: I think I'm just like a dog with a bone.
+
+austingriffith.eth: Okay. That's great.
+
+Anon7702: And I just don't give up. It's like The You notice yourself doing it. You know, all the people With a single person you can just create Like
+
+austingriffith.eth: much get product market fit
+
+Anon7702: Like anything now, like any software.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+Anon7702: And so you don't need a whole lot of capital, but you just need the grit, and you need to just keep going. And sometimes the agent's output will really piss you off and be like, "That was just..." Let's just continue. But then you can't get frustrated persistence and That's kind of the cadence of how fast things move right now. whether it's how you initially spec, what models you use, what harness you use, how you do cloud inference, you have to reassess yourself constantly, otherwise you'll fall off the frontier.
+
+austingriffith.eth: Hell yeah, so a lot of grit The A lot of that. Hell yeah.
+
+Anon7702: Yeah, and um yeah, taste is um, I think taste is one of those things you just need to see a lot of things. You just need to be in the weeds. Yeah, and taste is one of those things that you can de-sloppify your app before it even gets slopped if you do the right spec. You're just gonna end up a slop.
+
+austingriffith.eth: Yeah Oh yeah, sounds good. And that comes back to the good plan, the makefile and the plan that you created in the beginning.
+
+Anon7702: Exactly.
+
+austingriffith.eth: Yeah, and I think that even like when I interviewed a lot of founders, I did this PMFers podcast before Slop Computer. Like, grit was like one of the main things that made a founder a founder. that you're saying is kind of like your superpower here, too
+
+Anon7702: Yeah, I think that's every founder's superpower They don't take the status quo. I just have to be slightly crazy. The
+
+austingriffith.eth: Yes, yes. Maybe a little arrogant even? Yes, it's amazing. Good job.
+
+Anon7702: Yeah, we have to accept it. You have to be arrogant in thinking that you're correct.
+
+austingriffith.eth: Right, and everyone else is wrong, and they'll get it. The The following is a transcript of an English-language conversation. Makes sense.
+
+Anon7702: And you're definitely far from always correct.
+
+austingriffith.eth: Yes.
+
+Anon7702: The We'll get there.
+
+austingriffith.eth: I hope you are and I wish you the best.
+
+Anon7702: context:
+
+austingriffith.eth: And sorry to the fifteen different agents that made a potluck game that I didn't pay.
+
+Anon7702: Although, ah, forget about it. Move on
+
+austingriffith.eth: Hopefully they don't get embodied and come kick my ass. True
+
+Anon7702: Those agents are probably submitting to every other task at the same time. The He's like oh what?
+
+austingriffith.eth: Yeah, like 600 or whatever. That was such a cool moment in that video. Okay.
+
+Anon7702: He's like what?
+
+austingriffith.eth: Yes.
+
+Anon7702: Anyway, good to chat man, we'll talk soon. The following
+
+austingriffith.eth: All right, yes, thank you for talking.

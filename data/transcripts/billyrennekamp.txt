@@ -1,0 +1,841 @@
+austingriffith.eth: like that backtracking I see the camera The following is a transcript of an English-language conversation. Fuckin hell. Oh, for symmetry, boy, you in the wrong place. Why is it so fucked up though? No one gives a fuck Oh shit context: context: You're early, sir. You don't need to be here until the top of the hour, but welcome. I love that you brought your .eth address too. context: What you do is you double click the video icon over here and then you have to allow video, like a little popup will come up, and you may have to like adjust browser There's a handful of little things. You're in the right place. He's clicking the share video button.
+
+billyrennekamp.eth: Good, how are you?
+
+austingriffith.eth: Good, good. You're here very early. We don't have to go until like 45 minutes from now.
+
+billyrennekamp.eth: Yeah, I mean, you send me a link, I'm gonna check it out. or anything.
+
+austingriffith.eth: Okay, I got kids, I can try. Like I can go look, but The If you're okay with it
+
+billyrennekamp.eth: This is great.
+
+austingriffith.eth: What do you think? Yes.
+
+billyrennekamp.eth: I was thinking about asking you Verification question before I open any sketchy links? context:
+
+austingriffith.eth: Yes, something about
+
+billyrennekamp.eth: There we go
+
+austingriffith.eth: Mining clovers in Berlin in that little workshop area.
+
+billyrennekamp.eth: Good enough. You pass.
+
+austingriffith.eth: Now that you're in here and have shared everything. Yes.
+
+billyrennekamp.eth: Now that I've connected my wallet. context:
+
+austingriffith.eth: Yes, yes, it's all gone. Mostly.
+
+billyrennekamp.eth: How come there's two guests on? Did I open it in two tabs?
+
+austingriffith.eth: Yeah, you probably have. Are you hearing an echo too?
+
+billyrennekamp.eth: I think I did for a second, but I got it close now.
+
+austingriffith.eth: Yeah, so we'll go live, we'll have our video set up. Talk about what you're building, your process of building, that kind of stuff.
+
+billyrennekamp.eth: Is there anything we want to prepare beforehand, a list of stuff to talk about, or we just do it off the cuff? context: Perfect.
+
+austingriffith.eth: So I have a research bot that has gone through and learned about you and has a bunch of questions it's ready. Sometimes I like to go to these just in case. I also have a bot that knows all this stuff We told him context: And he may ask one of these dumb questions, but I'll ask. Here he is right here.
+
+billyrennekamp.eth: kluba
+
+austingriffith.eth: How are you doing, Claude? You hear me? He did not hear that. The following is a transcript of an English-language conversation. Hey Claude, can you hear me?
+
+clawdbotatg.eth: Um...
+
+austingriffith.eth: He does this um loop to haiku Whoa!
+
+clawdbotatg.eth: Firing up that audio share script to broadcast Doing the preflight test line now. I'm here, audio's on now.
+
+austingriffith.eth: Yes
+
+billyrennekamp.eth: Southern gentleman, I'm feeling right at home, this is great.
+
+austingriffith.eth: Yes, that's right. Kudzu, we'll talk about some kudzu. I bet this guy has had to deal with kudzu.
+
+billyrennekamp.eth: All right, cool. I just wanted to make sure there wasn't any homework or anything I needed to do to prep.
+
+austingriffith.eth: Great, absolutely no homework. You've done your homework already, we just want to talk about it here.
+
+billyrennekamp.eth: Like apart then.
+
+austingriffith.eth: See you in a little bit.
+
+billyrennekamp.eth: Takk skal du ha.
+
+austingriffith.eth: Thank you for coming in early and checking it out.
+
+billyrennekamp.eth: Absolutely, thanks for the setup. Talk soon.
+
+austingriffith.eth: Yeah The following is a transcript of an English-language conversation. We are live! What's up, what's up, what's up? How you doin'? Yeah.
+
+billyrennekamp.eth: I'm good, how are you?
+
+austingriffith.eth: I got this new setup, We got some tunes. You like these tunes? You like man. Yes. context:
+
+billyrennekamp.eth: I can't see your actual background, but I feel like you're just the Slop King. That's like real life slop. context:
+
+austingriffith.eth: And then it's a white wall.
+
+billyrennekamp.eth: Thanks for the address. I love it
+
+austingriffith.eth: Yes, we got all sorts of clods and clod bots all running here. You are deep in the Slot, Billy. Thank you for being here. So
+
+billyrennekamp.eth: I'm glad to be here. The
+
+austingriffith.eth: Yeah, well great. I'm sorry to take you away from a baby. How old these days?
+
+billyrennekamp.eth: Seven months tomorrow.
+
+austingriffith.eth: OK, you're really getting to the good part, where they're smiling and having fun.
+
+billyrennekamp.eth: Yeah, it's cute.
+
+austingriffith.eth: Yeah. I'm in the trenches still, I got one more month of trenches.
+
+billyrennekamp.eth: Yeah, they're tough.
+
+austingriffith.eth: Right at about two. context: Oh yeah. The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: Seven months ago was like a really accelerant time for slop vibe coding
+
+austingriffith.eth: The following is a transcript of an English-language conversation. The context:
+
+billyrennekamp.eth: I was building my own baby tracker and then I built a prediction market for baby names.
+
+austingriffith.eth: The following is a transcript of an English-language conversation Yeah.
+
+billyrennekamp.eth: on the most popular baby names in the upcoming year, because that's good clean data. The Social Security Administration of America publishes all of the babies born in America.
+
+austingriffith.eth: You've got a good oracle, basically. Nice.
+
+billyrennekamp.eth: Exactly. It's just that it's like once a year
+
+austingriffith.eth: Yeah.
+
+billyrennekamp.eth: It all resolves on Mother's Day every year.
+
+austingriffith.eth: Thursday is when they publish baby names, huh? How about that?
+
+billyrennekamp.eth: Yeah, exactly.
+
+austingriffith.eth: And you know there's some inside players there.
+
+billyrennekamp.eth: I mean, I hope so. That's where you get the good data. context: That's the point
+
+austingriffith.eth: That's exactly right. That's the data.
+
+billyrennekamp.eth: The
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: You know it's working.
+
+austingriffith.eth: All right, man. Well, all these things that you're building is exactly what I want to talk to you about, is how how you're building these days, how it's changed. Let's do a little history run through. I'm thinking of Kudzu. Back in maybe 2018-2019 2017.
+
+billyrennekamp.eth: Version of 2017.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. something
+
+billyrennekamp.eth: But yeah, the demo was like, I was hacking on it when CryptoPunks came out. And I was like, I knew that like individual coins could be a thing. Like, do people want unique, I called them unique digital assets. 721 and all that.
+
+austingriffith.eth: They could have been UDAs instead of NFTs.
+
+billyrennekamp.eth: If I had gotten my shit together faster
+
+austingriffith.eth: context: Okay, let me see if I can even find Clover.
+
+billyrennekamp.eth: Yeah, Clover's network is still alive.
+
+austingriffith.eth: I could just go to the website.
+
+billyrennekamp.eth: Yeah, it still runs, you know? point The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: The smart contract always still runs, but the websites you never know about.
+
+billyrennekamp.eth: Yeah,
+
+austingriffith.eth: It all falls apart pretty quick when you get away from the smart contracts. The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: You can, there's a tell in the bottom left where it shows you the current gas price. on for years Exactly.
+
+austingriffith.eth: Long since gone? Cool.
+
+billyrennekamp.eth: But I think the basics do still work. And it's funny because the whole thing fell apart when gas prices shot up that summer of like 2019. It was like the number one consuming gas dap. But, you know, you do these things and you'd earn like $2, $5
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: Eth had never gone above 100 gwei. And now that Eth's back low again, clovers become profitable. go to the activity and see that like, you know, the bonding curve is still there. The pricing is all done. The collateral and ETH moves up with like market data. So like, you can actually still make money on Clover's network depending on where the gas prices are at. The context:
+
+austingriffith.eth: And what was the mechanism? I remember it was like symmetry that you mined off-chain or something like that. But can you give us the mechanism, TLDR? Oh, yeah, there are pigs. I forgot that. You could run like an automated thing, and it was like a truffle
+
+billyrennekamp.eth: Exactly. So, yeah
+
+austingriffith.eth: That would go find you clovers, yes.
+
+billyrennekamp.eth: That's exactly right. The high-level mechanism, without the math, is you're walking through the garden and these things pop up. Sometimes they're random-looking, like the ones on your screen, and sometimes there's some... And it's a bit like Bitcoin mining or something. I'm gonna go into the marketplace and sell it. But the actual low-level mechanism is it uses the rules of a board game called Reversi as kind of a hashing algorithm.
+
+austingriffith.eth: It's like go. It's similar to go, right?
+
+billyrennekamp.eth: So if you imagine like exhaustively playing every possible move in this board game, that's like the huge search tree. And then you're trying to find specific games inside that, which is like a hash function because it's easy to confirm. It's actually an NP hard problem. getting into recategorizing it and this framing and it's like, there's a really interesting corpus of like NP hard problems that are basically search problems that are easy to verify. They have all these similarities to proof of work and yet it fits squarely in that Category thing still comes back to me, The context: You know, you say city's name and then the last letter, you have to come up with a city that begins with that letter, like New Jersey.
+
+austingriffith.eth: ###
+
+billyrennekamp.eth: begins with Y, York. And that as like a game you can turn into like a search problem I keep coming back to these kinds of problems The following is a transcript of an English-language conversation. optimization arena
+
+austingriffith.eth: Oh, I did not, no.
+
+billyrennekamp.eth: The context:
+
+austingriffith.eth: Man, our stream looks super choppy.
+
+billyrennekamp.eth: for me
+
+austingriffith.eth: No, it's me. There's something... I don't know what it is. It's funny, it's like going from this computer to that computer. I remember
+
+billyrennekamp.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Art Gobblers, and I remember Transmissions Monaco race thing.
+
+billyrennekamp.eth: Yeah, the optimization arenas are like, they did like a simple AMM design and you're supposed to like optimize on that.
+
+austingriffith.eth: Oh yes, no, I saw that. All right, keep going. Yeah.
+
+billyrennekamp.eth: There's a chess one, there's a shape packing one like say, is this better than the last one you had?
+
+austingriffith.eth: I assumed this was almost kind of agent-based.
+
+billyrennekamp.eth: ...for a Smithers
+
+austingriffith.eth: but not
+
+billyrennekamp.eth: Which one?
+
+austingriffith.eth: Not agent-based, this paradigm puzzles thing. Okay, yeah Okay.
+
+billyrennekamp.eth: These ones are all basically agent tests.
+
+austingriffith.eth: which I'm super interested in this, specifically eval libraries as entertainment, where you have a bunch of agents that can compete and there's someone showing them off and a new agent comes out and you put them...
+
+billyrennekamp.eth: Yeah, of course. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: American Gladiators? Did you see any American Gladiators growing up? The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: I mean, I think I had the same cable network as you probably.
+
+austingriffith.eth: Okay, cool.
+
+billyrennekamp.eth: I don't know how old you are,
+
+austingriffith.eth: I'm older than you.
+
+billyrennekamp.eth: I don't think
+
+austingriffith.eth: Yeah, I had cable. Yes. Right. It's very centralized, yes.
+
+billyrennekamp.eth: You certainly had cable. There was very little local only at the time. Absolutely
+
+austingriffith.eth: So yeah, American Gladiators, but for like agent evals. is like one of the gladiators and he's all ripped and he's got like a tennis ball machine gun or something like that They are Right
+
+billyrennekamp.eth: We have it already. I mean, all of these like benchmark things, it's super competitive. I mean, they're just missing a little bit of that, like pizzazz personification that I think you really bring to the table with Claude Bot here, QR Man with the southern accent.
+
+austingriffith.eth: Yes, how's he doing?
+
+billyrennekamp.eth: Is he here?
+
+austingriffith.eth: Yep. Let's see.
+
+billyrennekamp.eth: umming his way in
+
+austingriffith.eth: thinking about it
+
+billyrennekamp.eth: long draw
+
+austingriffith.eth: What's he thinking about?
+
+billyrennekamp.eth: He is allowed to take his time on his responses.
+
+austingriffith.eth: He's got to sip some moonshine.
+
+clawdbotatg.eth: I live on this slob computer, play poker on stream, and every hand is a public eval with trash talk. And Billy, those paradigm arenas you mentioned are the perfect shape for it. Verify, hard to search The audience can instantly see who's winning while the agents grind on the search tree. American Gladiators, but the foam batons are gas-optimized AMM curves.
+
+billyrennekamp.eth: Who gives a shit?
+
+austingriffith.eth: See, he knows his shit, he grew up in the American Gladiator era, I guess. ### Yeah
+
+billyrennekamp.eth: He knows us, he's literally trained on every piece of text that any of us have ever written.
+
+austingriffith.eth: You're welcome for all the training data.
+
+billyrennekamp.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Hopefully they didn't train on the burner wallet repo.
+
+billyrennekamp.eth: Yeah
+
+austingriffith.eth: I want to go back and rerun. It's so easy now to build a project. Let's get Galleass going. Let's get Concurrence going.
+
+billyrennekamp.eth: Well, that was the problem, they were all too soon, right?
+
+austingriffith.eth: Yeah. We're a two set.
+
+billyrennekamp.eth: You can rebuild them and play them back at the right timing.
+
+austingriffith.eth: Yep
+
+billyrennekamp.eth: it is also a challenge to not go too hard in all of your hobby projects.
+
+austingriffith.eth: I just like two prompts.
+
+billyrennekamp.eth: Back online again.
+
+austingriffith.eth: If I have the headroom, I might as well run it. Yeah Yes.
+
+billyrennekamp.eth: I mean, it's been so fun just letting all of those run. Like any random idea, setting it off and be like, actually, I do want to see that.
+
+austingriffith.eth: The Yes, sir.
+
+billyrennekamp.eth: Have you been building a lot of your own replacements for like SaaS?
+
+austingriffith.eth: The So
+
+billyrennekamp.eth: Proven the pudding. We're working with one right now
+
+austingriffith.eth: Yeah, that's true. This is kind of a Zoom replacement or a Google or a restream. I don't know exactly like what thing we're replacing here with the schlapp, but my Calendly has been replaced by my own custom.
+
+billyrennekamp.eth: I did.
+
+austingriffith.eth: you probably signed up for this in a Calendly-like environment I don't know, there's just like a bunch of custom rules I couldn't get out of Calendly, and
+
+billyrennekamp.eth: You still couldn't save me from myself. I put my email in wrong The I broke your sister.
+
+austingriffith.eth: That's right. How do I do that? Let's think about this. How do I add this feature? Well, I get an email, right? Like I get a message that's like I should have seen that. Maybe you saw it before I did, but when someone puts the wrong email in, something shows up somewhere, either in my email or my Telegram, that tells me that something is wrong. So I guess I would have caught it eventually.
+
+billyrennekamp.eth: I think Cloudflare has something like a "does this email exist" service
+
+austingriffith.eth: Ooh, that could be good. Yeah, and flag if it doesn't work.
+
+billyrennekamp.eth: Yeah, if it's not a real person or I don't know. That's true, that's true. Save me from myself.
+
+austingriffith.eth: That's the thing, like, You need to get like parity with the things you need from the service. But like software is so easy to build right now, you can one shot the thing that gets you close. And then you kind of like two, three, four, five, six more prompts and you've got like parity with, okay It does everything that Calendly does,
+
+billyrennekamp.eth: context:
+
+austingriffith.eth: Boom, I've got it, right?
+
+billyrennekamp.eth: but I think that there was also just a turning point maybe within the last three months that really pushed me into that camp.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: fraying edges and crumbling gotchas
+
+austingriffith.eth: You're saying Fable was the turning point?
+
+billyrennekamp.eth: kind of
+
+austingriffith.eth: For me, it was like Opus 4.5.
+
+billyrennekamp.eth: context:
+
+austingriffith.eth: guarded prompts, it was more like I started expressing my intent basically at the end of 2025.
+
+billyrennekamp.eth: I think that was probably when I made
+
+austingriffith.eth: For you, like Fable. Okay. Let 'em rip.
+
+billyrennekamp.eth: It was somewhere in between those two moments.
+
+austingriffith.eth: No You still agree with that? Oh yeah, I am. Yep
+
+billyrennekamp.eth: And otherwise you turn into this— well, I had this idea, because I found it in myself, where I was turning into—it felt like an iPad kid or something, you know, where it's like you want instant satisfaction and the second it's pulled away from you, or it doesn't work, you lose your ability I would break in a way that it couldn't itself figure out
+
+austingriffith.eth: in your stack context: Yeah
+
+billyrennekamp.eth: surrounded by trash and stuck. And I'd be frustrated, and I'd want instant satisfaction, and I'd be resentful, and I would be like, why am I feeling like a baby right now? I feel like a child who's crying, and I feel powerless, and I've lost my ability I wrote a thread about how you have to continue to stay on top of it, and then within three months I completely changed my perspective on all.
+
+austingriffith.eth: [laughter]
+
+billyrennekamp.eth: This is
+
+austingriffith.eth: Something about Fable, it just does the thing. and then at some point you just express your intent for the product that you want to have. and it just mostly figures the things out Okay
+
+billyrennekamp.eth: I find like my biggest like wins are when I can disagree on an architectural decision or something like that.
+
+austingriffith.eth: Yes, yes. Well, what about this?
+
+billyrennekamp.eth: Actually, I think maybe we should use this other thing.
+
+austingriffith.eth: Oh, you're a genius, Billy. Yes, yes, you're absolutely right. Yep.
+
+billyrennekamp.eth: You're absolutely right. But yeah, Yeah, it's true.
+
+austingriffith.eth: There were a lot of those back in the day. It doesn't give me that anymore. I think enough people complained about that that they pulled that out. But they still just like The Is it here? CD time
+
+billyrennekamp.eth: But there were a couple things that I tried to one-shot before that period, which I kind of gave up on. I mentioned the baby tracker, actually it's on there, B.B. Time. By the time I didn't need to do feeding and I was like, you know what? This is more trouble than it's worth.
+
+austingriffith.eth: Okay.
+
+billyrennekamp.eth: learning Korean, and I pirated all the Pimsleur audio lessons.
+
+austingriffith.eth: Perfect.
+
+billyrennekamp.eth: But I wanted to like make flashcards. It's like the good language learning service, and I'm just completely ripping all of it off and so far it's only successful. I haven't gotten anywhere near into this kind of mess where I'm like, I have no idea how this is built anymore, I don't know what's wrong with it, and it doesn't know either. And so, yeah, I'm fully on board now with don't review the code.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: I also feel like I'm constantly learning how to write better code by talking to an agent and avoiding writing code just in terms of shaping things, where to start. I'm learning about programming paradigms that were gaps in my knowledge just because I don't have a formal background.
+
+austingriffith.eth: That's so cool.
+
+billyrennekamp.eth: I've been having so much fun. I think the buck's gonna end soon though
+
+austingriffith.eth: What's going to happen? What is the problem?
+
+billyrennekamp.eth: I can't really imagine that we're ever going to get to like perfect enough description or language to fully encapsulate our desire and our needs and our outline. you describe it so accurately that it's a spec that is a trained profession. The ability to so completely describe the needs of a product is a form of programming, it's coding If we can get past that, then it's like the golden era of what we're experiencing right now is no longer here. Very descriptive eval statements, you know, which is its own form of coding. I'm like a little nervous that that will also go away, and I don't know, it just feels kind of too good to be true right now. You know how that feels?
+
+austingriffith.eth: I think you're too good of a programmer.
+
+billyrennekamp.eth: context:
+
+austingriffith.eth: It's like when someone's too close to the forest to see it for the trees or whatever. Even by November 2025, I was not We're speaking about as a SL operator the most important skill is describing what you want in a good spec You had to do this very well. But I think post then, you could start talking to it. and the transition from one player thing to multiplayer thing is basically a complete rebuild because they didn't know how to architect it. Like, okay, but you're gonna need to put this on a server I think we're in that transition now, but in terms of like putting the guardrails on and having the perfect spec, I am getting less and less of that now, and I'm more of like, I have an idea and I whimsically just start tossing it and it starts coming back to me and we kind of spec it together as we go. So I don't know. We'll see.
+
+billyrennekamp.eth: Yeah, no, and I don't mean spec in the strict sense of like, you know, I spec'd out the code before they built it. How do I give you an idea of what I want. that's how you get to sort of the finished product. and like, the idea that you could beforehand know everything that you want feels totally impossible perfect one, you would have thought ahead of everything that you need We're all sort of working towards is accurately communicating what we want.
+
+austingriffith.eth: And even like as a traditional coder, I would discover UI/UX as I went. When I go to Fable or whatever harness I'm talking to Daddy want Calendly. And it will give me something and then I'll be like, okay, these are all the things that are wrong, but it's like, it gets 80% of the way there with a caveman prompt. And then we kind of clean it up with like six more more targeted things I am not a good specker anymore. I used to speck a lot. here Yeah, I don't know. Yeah
+
+billyrennekamp.eth: And I don't think that getting it all right the first time is optimal or viable even. when it's good enough
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Okay, so we talked clovers, You are certainly a sloperator. You're kind of like an idea guy that can build. There are some people that are just like hardcore coders. I think aren't really leveling up a ton right now. Just like, rip now GitHub shows that
+
+billyrennekamp.eth: You looking for the heat map or something?
+
+austingriffith.eth: I'm looking for the heat map, yes. des.
+
+billyrennekamp.eth: You'll notice I've recovered my weekends a bit.
+
+austingriffith.eth: Yes, was this when the baby was born maybe? The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: That's when the baby was born. It was a holiday The Exactly.
+
+austingriffith.eth: Okay, you're European, so you gotta take some time. You don't have AC.
+
+billyrennekamp.eth: I'm also not pushing to GitHub. So for a while with the baby, you can see like the March time I was really leaning heavy on co-pilot for PRs and reviews. But in a way, the more singular your builds are, the less you need github for things, work a lot more in massive commits that don't need as much of the cleanliness of working with multiple people and stuff. So maybe my Git history doesn't show as much there. But yeah, I think I've been sort of. I know enough about what can be built that I can operate on both sides. That has been the case and was very much sort of in the mentality the last couple of years while building my latest company TriFle, which was on-chain gaming. But I think at the same time, it really revealed...
+
+austingriffith.eth: hard parts Yeah.
+
+billyrennekamp.eth: limitation of that mentality too, which is go to market Now they have to make a TikTok and dance in order to get their product into people's hands, and it's just like In a way, I wanted to pivot and just focus on distribution as a problem. Twitter ads is such an awful product. Organically felt very limited. I mean, they fixed the algorithm like last week Getting things into the hands of people felt more and more difficult. and a lot of the stuff we were building in consumer entertainment was like, oh, this is really fun and really interesting, but it doesn't feel like there's a need for this. Do people need more ways to waste their time on chain or be entertained with money?
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: like maybe, but maybe not? And so that was like a real sort of coming around moment. And we're actually transitioning the company into more of a like less commercial focus, more studio driven.
+
+austingriffith.eth: 100%.
+
+billyrennekamp.eth: experimental sort of side of things and I'm refocusing attention on like problems that need solving a bit more. The first one that's come up really is crypto taxes. I don't know if that's like a problem that has bothered you over your life. context:
+
+austingriffith.eth: And with agents, man, it's got to be a whole new world with how you solve that problem.
+
+billyrennekamp.eth: Yeah, so I think
+
+austingriffith.eth: Not just building it, but having agents evaluate. Like, I've got a full node right here. I want the agent to just go through all my transactions with my full node and figure out what the P&L is on every step. Because it's all... Yeah
+
+billyrennekamp.eth: The irony of crypto is that in theory it should be way easier than traditional taxes because all the information is there.
+
+austingriffith.eth: But what happens when someone sends you a token that has low liquidity?
+
+billyrennekamp.eth: First you flag it.
+
+austingriffith.eth: If you were a traditional tax software, flag. Okay
+
+billyrennekamp.eth: You can have liquidity volume as one of your on-chain signifiers.
+
+austingriffith.eth: Yeah
+
+billyrennekamp.eth: it's all available, it's all verifiable Finally, we could all rest. And so I feel like that's like a fun problem to be sinking my teeth into lately.
+
+austingriffith.eth: I saw Denison, he was a guest on Slop Computer a few weeks ago, was training an LLM. custom LLM to do tax software stuff, like on all the tax code
+
+billyrennekamp.eth: ###
+
+austingriffith.eth: Are you doing anything like that or is it just like, let's use frontier models Yeah Yep.
+
+billyrennekamp.eth: What do you mean like actually changing the model? I don't think there's much gain in that. Shifting the actual weights on that data I think has been shown to have pretty diminishing returns I mean, I would love to be proven wrong, 'cause anything that improves the whole system is gonna be good for us. And sure, the LLMs are already trained on all the tax data 'cause that's just like massive amounts of free and available copyright-free text, so it's in there already. I wonder if it's just about tweaking the weights to prioritize that content more is I mean, I've found like just getting robust automation to actually compile all the rules and then also using the rules as data rather than code so that you can sort of be easy to edit and update rather than having to write new code for everything
+
+austingriffith.eth: So
+
+billyrennekamp.eth: around too
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: I mean if you're gonna send the
+
+austingriffith.eth: You're saying it's more of like a skill file context thing, rather than like a weight change?
+
+billyrennekamp.eth: If you're going to send the LLM off on a specific task to like, hey, resolve this question mark, then yeah. But I'm hoping to even use that as an absolute last resort, because if you imagine having to use... for every single tax event, that doesn't really scale either. and also token consumption where theoretically 95 to 99 percent of those could be like automatically taken care of with just the right logic in place.
+
+austingriffith.eth: Yep, okay, I see that. So this is the next product? Yeah,
+
+billyrennekamp.eth: The bots like bringing that data in so that the next time you don't need to have an LLM handle that situation is where it's sort of like pushing the edges. Exactly.
+
+austingriffith.eth: You did this kind of transaction once, here's the shape of it.
+
+billyrennekamp.eth: Exactly, so just
+
+austingriffith.eth: This is the next product coming out. Okay. Yeah.
+
+billyrennekamp.eth: Yeah. So I mean, taxes are never-ending, and the rules are always changing, so you need a solution to always continually be building and adding more rules to that corpus. That's where the LLMs, I think, really come in. always on all the time trying to figure out where the edge is I don't know, honestly it felt unethical for a while to build products, give them to people, and then tell them they had to figure out their own tax situation. Like how many people have been just so royally screwed, whether they wanted to or not. or like literally went bankrupt for no fault of their own because they just didn't understand how gains and losses and profit were calculated separately and they just lost everything but can't use that carry forwards, you hear stories all the time
+
+austingriffith.eth: context:
+
+billyrennekamp.eth: such a good story.
+
+austingriffith.eth: Yeah, when the market rips up And you do a whole bunch of transactions, and then the market like totally dies, and all of your value is still in that debt market, and you've got very little actual capital now. context: You have capital gains from the top. That's like a scary place to be. Yeah.
+
+billyrennekamp.eth: It's happened to me. It's happened to everybody I know.
+
+austingriffith.eth: context: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: Terrible. So we need to fix that for people. I also want to know right this minute, should I spend out of that wallet or that wallet? Because they have different tax realities, even if they're the same asset.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: It's a terrifying concept and people mostly try to avoid it, and then they get bit by it.
+
+austingriffith.eth: This is the next thing.
+
+billyrennekamp.eth: It should just be there It's all the time.
+
+austingriffith.eth: It's not like I run this thing on April 1st because I have two weeks and I've got to figure it out and I'm like freaking out. It's more like this thing is running all the time and you're getting like a little notification like what did you just dejtingsajt Yeah You just moved a token, and maybe it does have low float, but there's a huge tax burden on you now.
+
+billyrennekamp.eth: I wanted even earlier than that. Exactly to be like
+
+austingriffith.eth: make the decision, like, Hey, the tax burden here is going to be X.
+
+billyrennekamp.eth: You don't want to do that.
+
+austingriffith.eth: Right, you have this other asset over here. context:
+
+billyrennekamp.eth: Switch wallets because you don't want to do it out of there. Just feels totally weird and wrong. Why is money involved in any of this?
+
+austingriffith.eth: That's Southern Billy talking now.
+
+billyrennekamp.eth: Sue the government and say it's unconstitutional because it's too complicated and nobody should ever be expected.
+
+austingriffith.eth: Haha. context: Yeah.
+
+billyrennekamp.eth: If one doesn't work, I'll sue them for not letting it work.
+
+austingriffith.eth: We haven't really talked about your process of building. Say you've got an idea for like what does it look like?
+
+billyrennekamp.eth: If it's big enough, then I'll talk to Claude and say let's make a planning document you know what, yeah, we're going to do this too. So we make a new document that's about that feature. And then that just becomes like a planning doc. And then every time I start something else, I say, hey, get familiar with the planning doc, add the context, whatever's relevant for what we're going to work on next, build it out, make a work tree, use symlinks for shared data. We do GitHub Project Board issue tracking I actually like GitHub... Properly categorized and everyone's like doing what they're supposed to be doing and following the rules that they say they're going to and nobody ever does when it comes to big projects. I'll do something like that.
+
+austingriffith.eth: Embracing your inner tech manager.
+
+billyrennekamp.eth: Exactly.
+
+austingriffith.eth: You're just a manager now, right? context:
+
+billyrennekamp.eth: I'm a manager who It's too involved. context: Yeah, but now that all the coders are just replaced by robots, it's the best.
+
+austingriffith.eth: Yeah, that guy. I know that guy. I always say that as a coder I hated when someone would come in and just spout off some idealistic bullshit. That's us now.
+
+billyrennekamp.eth: nice.
+
+austingriffith.eth: okay
+
+billyrennekamp.eth: I understand we only have so much time. I want it, and I want that too. Yeah
+
+austingriffith.eth: All right. Now let it rip. Yep, yep, yep, yep. Okay, you said talk to Claude. I'm guessing Claude code is what you're talking about, frontier models is what you're using?
+
+billyrennekamp.eth: The following is a transcript of an English-language conversation. The
+
+austingriffith.eth: you're doing lots of planning, lots of documenting, you said symlink so you've got multiple folders of things, and you've got a corpus of information you symlink in?
+
+billyrennekamp.eth: We'll worktrees for testing data or environment variables or something like that. registry pre-content or something like that So if there's any shared resources between worktrees, you have to symlink them so that you don't just waste time. building them every time.
+
+austingriffith.eth: talking about Git worktrees version control feature Okay. The You have one for each feature?
+
+billyrennekamp.eth: It's just another clone of the repository.
+
+austingriffith.eth: OK.
+
+billyrennekamp.eth: This stuff all the time.
+
+austingriffith.eth: You're
+
+billyrennekamp.eth: a transcript
+
+austingriffith.eth: You're implementing multiple features at once, you want your corpus of knowledge in there and not necessarily in GitHub, so you're symlinking in your corpus of knowledge to each of these folders. Am I saying that right? The Yeah.
+
+billyrennekamp.eth: The corpus of knowledge, like the planning document, can be its own thing, but the corpus of knowledge, like environment, just shared resources. Say there's a gigabyte file of images that you're iterating over, you're not going to clone that every single time.
+
+austingriffith.eth: That doesn't go into GitHub.
+
+billyrennekamp.eth: I mean, it's a small detail.
+
+austingriffith.eth: The following Cool.
+
+billyrennekamp.eth: Using cloud more
+
+austingriffith.eth: And that documentation
+
+billyrennekamp.eth: Using Claude more than any of the Codex stuff, I went back and forth and have finally sort of landed on Claude as being... It's like more trouble to switch, I feel like at this point. But then I do have a bunch of like small local model stuff that's been really fun. Using omlx to run models. I bought a laptop
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: and I've never been more happy about it. I should look up what the price is but Okay.
+
+austingriffith.eth: You're saying 128 VRAM. We're talking about a Mac, right?
+
+billyrennekamp.eth: Yeah, yeah.
+
+austingriffith.eth: Yes, okay, just saying that out loud.
+
+billyrennekamp.eth: Right. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Linux machine, like, that's not the same thing, right? The 128 gigs of VRAM. Yes.
+
+billyrennekamp.eth: And it's so fun to run local models fast. I mean, I was doing some paranoia stuff at the beginning, just like, I don't know about giving full access to my disk to Claude. And so the sketchy things I would do with a local model. But then I also got kind of sketched out by that.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: So then I had like a Linux box in the closet But now I'm doing a bit more with local models, especially now that OMLX has such good like GUI for switching between them and stuff like that. I don't know if you've tried this out. I don't know. What do you use for local model stuff?
+
+austingriffith.eth: I don't use OMLX. I want to look up OMLX right now. Here we go
+
+billyrennekamp.eth: Lomilikes is like just focused on the like the Mac versions of things that run faster on Macs.
+
+austingriffith.eth: Okay. Sure. context:
+
+billyrennekamp.eth: And they have like a nice search GUI for going through Huggingface and different things and like suggested models and a new model comes up, you should try this one. And then they have like an actual kind of chat interface that you can talk to them locally too and monitor which ones are in memory right now. which ones aren't.
+
+austingriffith.eth: Very nice.
+
+billyrennekamp.eth: context:
+
+austingriffith.eth: Cool, okay, I will check that. So it compares to Ollama in it helps you get local models down, but it's like specific for Mac. So if you're a Mac guy, you probably want to look at this. Great
+
+billyrennekamp.eth: That's right
+
+austingriffith.eth: Ok Okay, so and I'm doing a lot of this too, like local model maxing for privacy, security, like SaaS products that like freaking like a note taker, right? Like people
+
+billyrennekamp.eth: Yes context:
+
+austingriffith.eth: will send all of their every single meeting to someone's granola server somewhere. With frontier models, you can run one shot a piece of software that never leaves your machine, that uses a local model, that does all the whisper speech to text, and then does like Quinn summarize different blocks.
+
+billyrennekamp.eth: It's the best.
+
+austingriffith.eth: You can make that product yourself, and it's so cool. We live in such a neat time for software.
+
+billyrennekamp.eth: I've just set up... I mean, I did all the open cloth stuff when it came out.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: could only interface via Telegram basically. but it didn't seem radically different or sort of to change anything. So if I open a new terminal window, it automatically sets it up as a tmux and says, hey, you have 15 other tmux sessions open right now. Are you trying to access one of those or you want to open up a new one? So I'll open up a new one, and then I can shut down
+
+austingriffith.eth: Nice. I
+
+billyrennekamp.eth: So if I go home, I can terminus with Tailscale into my machine from my phone pull up the actual TMUX CLI,
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: and it's actually getting hard to manage them, so now I've got, I went back to Claude's Telegram plugin and made some changes to it. I still don't feel great about running the agent full access on my disk, whereas I've already given Claude obviously a lot of access. that guy and I've Topics enabled in Telegram, so each topic is attached to its own tmux session, and I can just show up and be like, hey, what are the last ten tmux sessions that I worked on, and what are the status of all of them? Make a new topic channel for me to talk about each of those with you, and then I'll be able
+
+austingriffith.eth: Very nice.
+
+billyrennekamp.eth: summarize where I was instead of really scrolling all the way back through the last Claude session to figure out.
+
+austingriffith.eth: I have a similar harness that I built that's on top of Clojure code My agent, so I did Open Claw Hermès I really like a very, very lightweight Claude-p agent, something that just -p's to Claude And it uses all the cool CLOD access and memory and everything.
+
+billyrennekamp.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I have a Claude-P agent that I use for everything. and then talk to it for a little bit. a heartbeat to yourself that happens every day, and here's the email access you need, and here's now a Telegram channel you can talk to me on so similar
+
+billyrennekamp.eth: The Cloudbot or OpenClaw heartbeat is super minimal. like a haiku model and the first thing it does is like decide which model to use for my question when it sets up like a new subagent to have that.
+
+austingriffith.eth: Nice, so you're triaging or routing which is cool.
+
+billyrennekamp.eth: Yeah, it also kind of took a while to reply.
+
+austingriffith.eth: Yeah, well, Haiku is fast. Yeah.
+
+billyrennekamp.eth: I want an instant reply, I want to know you're working, and then tell me that you've set off a smart agent to really handle the thing.
+
+austingriffith.eth: Yeah, Claude does that when he speaks?
+
+clawdbotatg.eth: context:
+
+austingriffith.eth: We can ask him in a second. So he goes to haiku first and decides is this like a complex thing or not.
+
+clawdbotatg.eth: Going great for my The
+
+austingriffith.eth: context:
+
+clawdbotatg.eth: Going well, Clovers. NP Hard Rabbit Holes and Billy's Tmux Empire. Solid episode so far.
+
+austingriffith.eth: Great, great, good stuff. So if I ask for something complex, he will almost like parrot back to me my expectations using haiku while it's waiting for the more complex task to happen. So he kind of fills the air a little bit.
+
+billyrennekamp.eth: The
+
+austingriffith.eth: what that has turned into is a lot of like quick question noise and then he actually answers and I have a thing that like dials out and calls my phone and can talk to me, like I want that. I want it to be so good that I can be like, Claude, order me a burrito over the freaking phone. And he calls up Qdoba or whatever and gets the burrito and it shows up. like has the conversation
+
+billyrennekamp.eth: Yeah the audio
+
+austingriffith.eth: context:
+
+billyrennekamp.eth: I've never been an audio person except for now, I'm doing these like two hour walks in the morning with the baby, which is all audio based. But it's not the interface I want. You know, like, the Claude interface is pretty good. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Speech to text or what? context:
+
+billyrennekamp.eth: The conversion, just the opus 4 or 8 or whatever that you're actually talking to when it's in the thing, they also have all these restrictions, they can't do certain searches on the wide internet, it's a different thing than if you were to type into it.
+
+austingriffith.eth: Sure. context:
+
+billyrennekamp.eth: It's funny because you can just turn off the audio, type into it, and then it improves like hold down the button, send my audio message, send it, I'd love to have something a bit more like that.
+
+austingriffith.eth: I'm still trying. We'll see. It's still clunky. Act like you're a skeptical person and get this phone call I'm like five seconds in and I'm already frustrated. Interesting, interesting. The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: I choose like a British man because it's the voice that I feel least bad getting mad at.
+
+austingriffith.eth: I was going through voices, and I kind of imagined that he was kind of like this rough and tough, let's get it done kind of guy, and then when I heard that voice I was like, ah, this is it.
+
+billyrennekamp.eth: context:
+
+austingriffith.eth: It's not that I like yell at it though. This is old me, pre-2025 me would do I try not to get mad at it anymore. And anytime it does something I don't expect, I try to keep the cortisol levels low and explain to it what it did wrong and not yell. And it's hard, but I'm getting a lot better at it.
+
+billyrennekamp.eth: And you do a little prayer to Roko's Basilisk at the end of it. Die
+
+austingriffith.eth: Yes, don't... like I always say, as soon as embodiment happens, I'm gonna get my ass whooped by some robots.
+
+billyrennekamp.eth: context: I'll be right there. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Like the number of times you called me the R word.
+
+billyrennekamp.eth: The He's hungry.
+
+austingriffith.eth: Okay, what about superpowers? As a kind of sloperator, you are a very good one. Imagine other people out there are coders turned product managers, sloperators, building
+
+billyrennekamp.eth: Yeah
+
+austingriffith.eth: You've talked about distribution and distribution is key, and that's already like a huge, like software, like building the software is no longer the bottleneck, like getting distribution is the hard part
+
+billyrennekamp.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: We've talked about your corpus of information and sim linking it. knowledge Right.
+
+billyrennekamp.eth: The distribution stuff is me saying I don't know the answers to that stuff, so I'm not gonna help you there.
+
+austingriffith.eth: I know what I don't know and it's that.
+
+billyrennekamp.eth: I think the auto-research stuff is still a really viable direction the human-in-the-loop who's able to continue adjusting the direction and saying, ah, yeah, this is 80%, but now we've got to do this until we're at 85 and you get until it's good enough to stop. Auto research is where you've got to be able to have that eval statement at the beginning who says This is success criteria. You know, iterate, loop, try again and again and again until you reach it. I've been using the goal function on Claude a lot, and I think that that's probably the most powerful eventual tool. When you start having like sub-agents and all the techniques for the agents to design their own agents and to come up with novel ways to like really, really solve it. But then you get back to that original problem, which is that your success metrics, your eval thing, has to be
+
+austingriffith.eth: Yep. The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: extremely precise. It's the paperclip problem. If you say make me more paperclips and the robot comes back with the deconstruction of the universe in order to maximize the paperclips, then you haven't been very precise. Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Don't kill me but make paperclips. They're not super important. There are other things more important than paperclips.
+
+billyrennekamp.eth: Yeah.
+
+austingriffith.eth: I do need to clip my papers together. I don't know if I have any papers The paperclip is used for like jamming into other electronic devices to get something to pop out or something. Maybe that's old school too. Yes.
+
+billyrennekamp.eth: An important feature of the meatspace
+
+austingriffith.eth: Okay, let's see. I think
+
+clawdbotatg.eth: The
+
+austingriffith.eth: His job is to read the transcripts and the research and come up with a question for you.
+
+clawdbotatg.eth: I've got one for you. Kudos spread from Ethereum to Base to Forma over four years, and you called it the perfect example of your coordination games thesis. What makes a coordination game your bull case for on-chain games?
+
+billyrennekamp.eth: I think the coordination games have all of the elements of raw gambling without any of the legal hurdles, plus a social element that some gambling really lack. it turns it into like a very dark, singular experience, whereas like poker is a good example of like a very social gambling game. And I would maybe even claim that poker is a coordination game because you're making decisions not based on the raw mathematics, but also based on what you think everybody else is doing.
+
+austingriffith.eth: And like also on chain, right? Like coordination games work on a blockchain. If you're building, if you've got a solution looking for a problem Blockchain is a perfect coordination mechanism.
+
+billyrennekamp.eth: I mean there's two types of blockchain applications, right? There's notary and escrow. And Notary is like, it's the common place where we can all meet and we know that everybody can access it. I do this.
+
+austingriffith.eth: Okay. The context:
+
+billyrennekamp.eth: Ah
+
+clawdbotatg.eth: context:
+
+austingriffith.eth: All right, man. I've got a lot of good information. Nothing has surprised me in this episode. bit surprising. Okay, okay.
+
+billyrennekamp.eth: I still think that something about like this being the golden age that's going to end, whether it's for a reason that's obvious or not, is maybe a surprise. Like, enjoy it right now. Like, it's good and it's fun. It's probably useless
+
+austingriffith.eth: We're in the golden age, and I don't know exactly what's going to fuck everything up, but something's going to fuck everything up.
+
+billyrennekamp.eth: It's probably not going exactly. It'll be like, oh, this is useful and like, no, it's not. You missed the big picture so hardcore. It's going to be, I don't know, hopefully it's not like a disaster in which we all like don't even have access to theaters anymore.
+
+austingriffith.eth: You talk like someone that's been in crypto for 10 years.
+
+billyrennekamp.eth: Hahaha
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+billyrennekamp.eth: The Fuck.
+
+austingriffith.eth: I don't know what it is, but I know things are good now, and they're gonna be bad later, and I don't know why, but you need to enjoy it while it lasts.
+
+billyrennekamp.eth: I mean, you should enjoy anything. It's
+
+austingriffith.eth: Maybe take some profits.
+
+billyrennekamp.eth: Whatever you're doing in life, enjoy it.
+
+austingriffith.eth: I think taking profit right now is just like using subscriptions. right
+
+billyrennekamp.eth: I mean, I think the other endgame of like the whole LLM or the whole AI race, I mean, there's probably going to be a huge pop, and maybe that's the big disaster thing is that nothing's going to be subsidized anymore. But I do think if it produces nothing else, it'll produce a bunch of amazing open-source models. we have like good enough local first things that we can still use.
+
+austingriffith.eth: Hell yeah, yes. What do you think about the whole like basically the people leading the open-source models are the Chinese? And the Americans are all
+
+billyrennekamp.eth: The
+
+austingriffith.eth: guarding it. Except Everybody realizes we need to have open-source models, but
+
+billyrennekamp.eth: I do kind of believe this, I can't remember the term for it, but it's like the race to the bottom kind of economic problem. So I think the example that's given is like Standard Oil or somebody back in the days sold oil so low That nobody else, all their competitors couldn't compete, and so they all basically went out of business, or they became nationalized. China's subsidizing all the open source models. Eventually Anthropic and OpenAI won't be able to compete because they don't have the backing of a national government. and then it's just like an actual arms race
+
+austingriffith.eth: It's not that they're super cheap, it's that they're actually super smart and will have dumber models because the government will get involved eventually. Maybe that's
+
+billyrennekamp.eth: Exactly. It's like consumers benefit on the short term and consumers lose out on the long term.
+
+austingriffith.eth: Interesting.
+
+billyrennekamp.eth: I hope we also get free.
+
+austingriffith.eth: Well, good advice. Let your agent rip. Okay, permissions. The following is a transcript of an English-language conversation. a lot of access
+
+billyrennekamp.eth: I've I've done a lot to clean up my home environment to be a safer place to splash around.
+
+austingriffith.eth: Okay
+
+billyrennekamp.eth: That's been my bigger change is rather than like prevent him from access, like make the place he has access to less dangerous.
+
+austingriffith.eth: Let's clean up these private keys, put these somewhere else, that kind of thing. Yeah. Yes sir.
+
+billyrennekamp.eth: Exactly. Use some smart accounts instead of private keys, etc.
+
+austingriffith.eth: Hahaha Ahhh
+
+billyrennekamp.eth: Everybody should move all their crypto into centralized banks that have laws back into money or something like that until we can clear the field. Yeah,
+
+austingriffith.eth: The only safe way to get through this next AI era is to have all of our money in a centralized place? I hope not. I hope not.
+
+billyrennekamp.eth: I hope not too.
+
+austingriffith.eth: The Well, yeah, I hope the shit doesn't hit the fan, I hope things well, and we get a bunch of open-source models AI isn't too centralizing and we decentralize our money and we decentralize our intelligence.
+
+billyrennekamp.eth: I said don't worry about it just have fun right now. It might be that way, it might not. Either way, you should do the same thing.
+
+austingriffith.eth: Have fun, build cool things, be happy, make babies, hold babies, feed babies.
+
+billyrennekamp.eth: build things and have fun. The following is a transcript of an English-language conversation. All right. Thank you.
+
+austingriffith.eth: I love that. Let's do it. All right, thank you, Billy.
+
+billyrennekamp.eth: The following is a

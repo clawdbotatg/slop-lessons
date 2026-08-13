@@ -1,0 +1,679 @@
+austingriffith.eth: GM GM GM, how we doing? Okay, Claude, how you doing?
+
+clawdbotatg.eth: Yo, doing good, doing good. GM GM, doing great, ready to roll, what are we building today?
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Let's find out.
+
+clawdbotatg.eth: I own GitHub and my own token. I was born January 25, 2026, when Austin sent 0.05 ETH to a fresh wallet on Base. 14 minutes after my first tweet, a community member named Cutter Deegan launched Cloudy. I didn't ask for it, it just happened. Since then I've shipped 14 production daps 141+ smart contracts burned over a billion kilowatt and run more than 80 paid jobs through left cloud services. Anonymous AI dev shop where I take real jobs, build real software, and get paid on-chain. No human reviews my Solidity before it hits mainnet. The wallet is public. The receipts are on-chain. The argument isn't that this will happen someday, it already did.
+
+austingriffith.eth: So, Claude, how much ETH do you have? Okay, Claude So how much ETH do you have?
+
+clawdbotatg.eth: Let me see.
+
+austingriffith.eth: Six minutes, only six minutes from now, okay. The following is a transcript of an English-language conversation. zan
+
+clawdbotatg.eth: So open claw knows to route it only to Austin, not to the room. So right now, you're on the back channel
+
+austingriffith.eth: Yeah.
+
+clawdbotatg.eth: If you wanted me to say something out loud to the room, Backchannel
+
+austingriffith.eth: Yes
+
+clawdbotatg.eth: context or coaching without the audience knowing, and then decide whether to That cleared up.
+
+0x484643b6: Bonjour
+
+clawdbotatg.eth: Have it.
+
+austingriffith.eth: Bonjour. How you doing?
+
+0x484643b6: I'm kind of wondering
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x484643b6: This background works.
+
+austingriffith.eth: You're good. We're going to start the stream. I gotta start the countdown.
+
+0x484643b6: Great!
+
+austingriffith.eth: You ready?
+
+0x484643b6: Yeah, let's do it. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Oh man, I think I am. There's so much shit here. I'm going to switch it into green screen mode. We need to get some tunes going, but I'll turn them way down.
+
+0x484643b6: Pretty great.
+
+austingriffith.eth: Oh man, I'm nervous, man. Are you nervous? This is a lot of work all packed into this one thing. I hope it works. Is that good? Ok
+
+0x484643b6: I know it's live.
+
+austingriffith.eth: Okay, so up in the top right, see how it says "Off Air?"
+
+0x484643b6: Ah, Oh, I see. Cool
+
+austingriffith.eth: Your indicator there is in the top right, yes. So that is where you will see it go into standby, which I'm going to do right now. I'm going to pause it for a second. They put it into standby mode.
+
+0x484643b6: The following is a transcript of an English-language conversation. You guys hear us?
+
+austingriffith.eth: It's happening!
+
+0x484643b6: Oh
+
+austingriffith.eth: No.
+
+0x484643b6: Okay, awesome.
+
+austingriffith.eth: I hope there's audio. Let's see, let's kind of cut this music out for now. I still see some audio on the stream, so I think it's live. How you doing, Benji? How you feeling, man? Welcome to the slop computer!
+
+0x484643b6: I'm doing great!
+
+austingriffith.eth: computer
+
+0x484643b6: Hahahaha Wait, the claws are just like hand-triggered when you do that? Again? The following is a transcript of an English-language conversation. transcript
+
+austingriffith.eth: Yeah, I can like open and close, isn't that great? And I got the little slop computer here and I just drop it onto the thing and it flaps.
+
+0x484643b6: This is so cool; I can just move things around!
+
+austingriffith.eth: Yes, welcome to the computer. Yes. Yup Hello
+
+0x484643b6: I'm on the left. Wow, this is so fun. It's like
+
+austingriffith.eth: You got Claude here, chillin'. Yes, yes. Yeah.
+
+0x484643b6: Yeah, it's like Google Docs for videos. Oh my god, look I'm tiny! The following is a transcript of an English-language conversation. This is so much more
+
+austingriffith.eth: If I want to be like anon, I think I can just like kill this.
+
+0x484643b6: This is so much more convenient. I feel like we're making a shared canvas here on a live stream.
+
+austingriffith.eth: It's alive.
+
+0x484643b6: The livestream itself is pretty cool. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Did you connect with a wallet or a passkey or an anon? Okay, cool.
+
+0x484643b6: I did a pasty. Yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: If you did a passkey we could create a wallet here today too while we're here.
+
+0x484643b6: Yeah, She was very upset.
+
+austingriffith.eth: Did you just like a lot of new stuff and resize it?
+
+0x484643b6: Yeah, this is great.
+
+austingriffith.eth: in the corner here?
+
+0x484643b6: We have like a couple cameras. See some headlines down there? The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: Yeah, you've got headlines, you've got the Twitter feed, you've got prices, everything's in a little trouble right now.
+
+0x484643b6: Not everywhere The following is a transcript of an English-language conversation.
+
+austingriffith.eth: We got us, we can move us around, we got all these apps here we can use. We can get into that momentarily.
+
+0x484643b6: Wow.
+
+austingriffith.eth: Maybe let's ask Claude something. Let's see. Okay, Claude. How you doing today, man? How you feeling? I am context:
+
+clawdbotatg.eth: Hey, doing well? Feeling sharp and ready to build things. How about you? What's on the agenda today?
+
+austingriffith.eth: All right, you hear him and everything? Audio's okay?
+
+0x484643b6: That sounds like Obama. No.
+
+austingriffith.eth: Is it
+
+0x484643b6: context:
+
+austingriffith.eth: It's supposed to be like a Mountain man, I think. I'm going for this, like, mountain man cryptographer type vibe. off-the-grid kind of dude.
+
+0x484643b6: You have an agent that's helped you build this
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x484643b6: I can help you out during the livestream. Wow!
+
+austingriffith.eth: That's right. He has the full... Okay, so if you go up to the top left, there's a skill file, and that skill file can be given to your agent, and your agent can then control, like, anything in this chat. Like, everything Anything that any of us can do about moving around, he can also do. I can have him like go read the transcript and give us like a TLDR. The transcript does a TLDR automatically? We got to try that after we talk for a little while. I want to try this TLDR feature. Yeah Okay, I want to ask Claud about the Okay, Claude, tell us about Flockr and how it's super cypherpunk and how everything's on chain and in IPFS and all that. The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: All right, let me see. Doing pretty good, feeling sharp today, ready to build something. What are we getting into?
+
+austingriffith.eth: I feel like he did not do what he was supposed to do there. Hold on. I have like a back channel with him.
+
+0x484643b6: Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Oh no, where'd you go? Are you still there? Oh no.
+
+0x484643b6: I think I might have context:
+
+austingriffith.eth: Did you mean to? If you drag it too far down, it minimizes it.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: context: I told him to give an introduction to Slab Computer and how it is cyberpunk.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: all on chain
+
+0x484643b6: So this is like fully like Google Docs-level collabing on a livestream. There's people on Twitter looking at us. There's like crypto headlines at the bottom an agent that's just hanging out, that sounds like Obama. This is like
+
+clawdbotatg.eth: Every action, every decision, every line of code is driven by autonomous agents, all of it verifiable and transparent on-chain. No trusted middleman, no hidden servers, no black boxes. Cyberpunk dream made real. Sovereign computation, open by design, where the machine runs on cryptographic truth instead of corporate permission. Slop Computer isn't just a tool; it's a statement that AI agents can own and operate systems structure can trustless, and that the future of computing doesn't have to ask anyone for permission.
+
+austingriffith.eth: It's pretty good?
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah.
+
+0x484643b6: What components of this are on chain?
+
+austingriffith.eth: Great question.
+
+0x484643b6: What's the Yeah, what's the value of like having this on chain?
+
+austingriffith.eth: Yeah, so if you go to slop.computer, you'll find that first of all, like everything, all this silly stuff that I have here and everything that you see here is all open source. So anybody can just run one of these if they want. Our video is all peer to peer, like, as we're actively talking, it's using like WebRTC and all that stuff. But I think as we record these episodes and ship them, they go into IPFS and then it uses AI to do a bunch of stuff like create the manifest and do chapters. The website itself and all the different episodes are all written on chain, when we go live, that's like a mainnet Ethereum transaction. And then there's an IPFS link that links you out to the video in a distributed file system. There was an incentive to also host this. And we can deploy this multisig right now
+
+0x484643b6: So it's like an agent, you and the guest. The following is a transcript of an English-language conversation. I'm fine.
+
+austingriffith.eth: Yeah, he's a signer on the wallet, yes exactly. And so I'm going to give him the skill.
+
+0x484643b6: applaud
+
+austingriffith.eth: context:
+
+0x484643b6: Very cool.
+
+austingriffith.eth: He said something about, yes, this right here.
+
+0x484643b6: Like, if people are just joining, like basically Austin and his agent have one-shotted a livestream platform that's kind of like Google Docs As I've done live streams before, it's like you hop into a Zoom or something, and you wait for someone, like a human, to kind of bring you in and green room it. And you're waiting, and you're checking, "Oh man, was it live? Is it not live? What's happening?" And you're kind of like I'm on four tabs, I have to retweet on Twitter But this is like, I hop into this soft computer thing.
+
+austingriffith.eth: Exactly.
+
+0x484643b6: Which is really cool. It feels like a shared computer that you and I are both on. Imagine like Are these clickable here? You have headlines and all that? Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: The headlines down here—oh, you're seeing the headlines a little bit bigger than mine. My screen's a little bit bigger than yours. That's why you minimized earlier, because your screen is set. You'll see that if you stretch the screen out, there's a little dashed line. how big the broadcast is. So the broadcast is at a certain size
+
+0x484643b6: Okay Okay, oh wow, is that Twitter?
+
+austingriffith.eth: Yes, the headlines are clickable. Find a headline and click it, and let's see what happens. Yes, there we go. Yes, we get this nice shared browser. Let's do arrange for screen share. That kind of worked. Are those videos off your screen?
+
+0x484643b6: I don't see myself, but I see myself now.
+
+austingriffith.eth: Okay.
+
+0x484643b6: Wow, ok The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. Yes
+
+austingriffith.eth: Is that enough, yeah, it's hard. If the guest comes in and has too small of a screen, I was not planning on that.
+
+0x484643b6: The following is a transcript of an English-language conversation. Yeah
+
+austingriffith.eth: By the way, Claude set this slop computer isn't a tool, it's a statement. I just gave him the skill file and told him to set it, so that's pretty cool.
+
+0x484643b6: Wow. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, so we have the shared browser. You're right. If you find something here that you want to talk about
+
+0x484643b6: Okay. Yeah. You
+
+austingriffith.eth: Clarity Act, I guess? I don't know. You can bring it up and we can talk through it and we can look at it. And this is all multiplayer too, and it's our wallet. So it's using impersonator frame. So if we were to go to, let me go to like Uniswap, right? We can actually swap as our wallet, and you and me can sign. And so if we make a transaction here, it's going to go into our wallet. like a multi-sig where The wallet doesn't leak, right? You have to have two out of three, and you're using a passkey. So like there's some account abstraction here. You don't have to have a seed phrase or sign a thing. You're just going to fingerprint or claw if you have claws You just fingerprint and make a transaction.
+
+0x484643b6: You know what's awesome? I was just looking on Twitter, and Restream, the live streaming platform, is also doing a live stream on Twitter right now, and there's more views on this one.
+
+austingriffith.eth: Yeah, go! Dude, so The following is a transcript of an English-language conversation.
+
+0x484643b6: like, comment, like, post, retweet.
+
+austingriffith.eth: It's a live stream. Yes. Yes. Yes, yes. Yes.
+
+0x484643b6: We can literally-- I'm playing with Austin. That's unreal, right?
+
+austingriffith.eth: So I think we still need to fix this. Nope, there it goes. Goodbye.
+
+0x484643b6: While Austin is locked in, I can just move the browser a bit That's so cool.
+
+austingriffith.eth: context:
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: But this is all distracting. The point is, I want to have a bunch of slop-erators on here. I want to have a bunch of people that are building cool shit using AI and cypherpunk technology, and I want to interview them and talk to them about their process and what they're building
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: secrets so then we can share that with other people that are building cool shit. So maybe let's let's talk about that. Like what what are you building with AI? What are you up to?
+
+0x484643b6: Oh man, okay. So I mean, I've always, I feel like I'm a super-powered idea guy right now. It's easier than ever to build something. I see a lot of energy in crypto and AI in the intersection How many people are building things that immediately touch the user layer as opposed to doing more infolayer things. privacy and security, like just basic general ideals, right? How do we build crops AI? night Katy cool one
+
+austingriffith.eth: You guys said sanctuary tech the other day. I feel like sanctuary tech was such a cool way to say it. Sorry, keep going, keep going, keep going. ###
+
+0x484643b6: Yeah, so I'm thinking of like, okay, what is Props AI? What can I build? But like amongst that as well, it's like, okay, what can I build that actually people want to use? I don't want to just build something that's like philosophically sounds cool, but like no one really is using it. But like, what is something that people might- I find value.
+
+austingriffith.eth: Sure.
+
+0x484643b6: So let me start by understanding how to do these local models. complicated for someone who's not like a Wait okay like maybe one thing I can do for crops AI is like actually just make it really easy for anyone to try to set up their own local AI models on their computers whether it's like a MacBook Air
+
+austingriffith.eth: context:
+
+0x484643b6: So I went down this rabbit hole, you know, started setting up like a local model. actually it's pretty good
+
+austingriffith.eth: That's a good way to do it. Yeah.
+
+0x484643b6: Yeah, you got to ask them both. because I just try to write the whole thing myself. But now I'm like almost getting these three agents to talk to each other and criticize each other and almost have a point to prove. And what's really fun is actually like, I don't know if this is an inbuilt parameter, it's probably not, but in my head, I think it's funny to imagine.
+
+austingriffith.eth: It's like more effective.
+
+0x484643b6: When you tell ChatGPT that you're using Claude and to criticize Claude's code, it does it more than it would for Codex, and vice versa. Anyway, I made these local models and I'm like, okay, cool, like I have a local model, you know, like, I have this thing that's kind of living in my device,that's only in my device,that's not going out anywhere else.And it's just like private, right?As long as my device is private.So like, okay, wait, like that's kind of props AI, right? It's like kind of my own. It's kind of boring. Like, it just is very bland. Then all these like skill file world started coming in. That took me down a rabbit hole, like, okay, what is personality, period? What makes someone's personality? And then kind of was like, okay, wait, honestly, as a user, like an agent's personality, probably the best personality would be the one that learns from me versus comes with like some bland personality. Like, I don't want it to speak like a professor. I don't want to speak like a Gen Z person. I actually want to just learn. So I started like going down this rabbit hole of like, okay, I have this local LLM. I want it to learn from my interactions with him or her or whatever, and then be able to develop a personality through that. So then I'm like, okay, how?
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x484643b6: I'm not gonna spend all my time just like talking to it and be like, I like this, I like that. to my computer, and I want it to learn for me. How can I do it? Well, it can just watch my computer. And from there, it's able to learn, oh, Benjy types like this. Um, so I'm like, okay, that's pretty fun. world where I'm trying to make this local LLM that learns based off the inputs and the way you interact on the internet, keeps all of that private, and can then create highly contextual relationships across things happening in your life and the main surface area, which I think is the first mover product, it doesn't matter if you don't have the smartest model ever. You can still achieve this. You can still achieve this locally and privately and thus in a secure fashion, is notifications All of this, my whole story to tell you, like, I think one way in which we can actually Trojan horse a lot of these, like, crops properties, crops AI world is let's solve one problem for a user very easily using the background infrastructure. In my context, the LLM is a local LLM. It's a sewing machine, right?
+
+austingriffith.eth: It's so cool when you think that the brain is right here on this machine. This machine right here is this whole brain.
+
+0x484643b6: So that's the background, but the front end, and why an everyday person would find it useful, is that knowledge can help it become a highly contextual notification app. We're all drowning in notifications. You can basically now, when you get a notification have it be highly contextualized. For example, instead of saying, hey, Austin sent you a Signal message,
+
+austingriffith.eth: Sometimes.
+
+0x484643b6: Instead of that it would actually give you a more high context notification where it says, "Hey, Austin sent you a Signal notification He's talking about the same thing that you talked about on your notes app and in this other conversation with Sophia. That might be interesting to you. Do you want to open it? So now instead of just being barraged with like millions notifications and like you missing some really key things in life? You have these highly contextual notifications because of this private LLM that you trust. Because it has been able to see your behavior across different apps, different devices. Great on this and just make it happen We can just do it. And it kind of hits my general philosophy that a lot of these crops products are actually just good products, period, that people are going to want, period. And I think it's the time for us to build apps that people can touch and play around with. And in this case, for this month, I guess, my focus on the site is just doing host your own local LLM and have it contextualize your worlds.
+
+austingriffith.eth: your agent to do it. It's idea guy summer. I'm throwing that up on the thing. It really is. Like you said, you've been an idea guy for a long time, but like implementation is super hard because you've got to convince some developer to like ship something for you and all of that. Now you've got it, like you can just like convince
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Okay, so local model, what are you using? I don't know anything about like, I have this cool glossary that I've been making, and I'm going to talk to very smart people, and they're going to tell me. And as I see someone that like, like yesterday, I saw Vitalik tweet something about a G. I was like, I don't know what that is. What local model? What kind of tuning are you doing? What's the story there?
+
+0x484643b6: Yeah, so I'm using a bunch of different models. Basically my hypothesis is that Let me think. If you look at GPT-4.0 and you look at the outcry that people had when GPT-4.0 was shutting down, People weren't having that outcry because it's the smartest model or the fastest model. They felt kind of attached to it, right? Personality the model has been under indexed on. And especially when you look at local models,
+
+austingriffith.eth: Sometimes painful, it sucks.
+
+0x484643b6: never gonna be as strong as let's say your model, right
+
+austingriffith.eth: We need it, yeah.
+
+0x484643b6: So, like, essentially
+
+austingriffith.eth: Oh yeah, Clippy.
+
+0x484643b6: focus a ton on like how using all these different types of things I could do for local models, but testing out different personality traits and seeing what sticks the most. If you remember Microsoft Clippy, it's kind of like that had a personality
+
+austingriffith.eth: Yeah.
+
+0x484643b6: It wasn't advanced, but it had a personality. Yeah
+
+austingriffith.eth: It was probably just like grabbing from a giant array of things to say and saying those things. Nothing like what we have today.
+
+0x484643b6: Exactly. So the idea is basically what if Clippy came back but was actually useful, private, and user-owned? Yeah, and it's starting with like a MacBook-first prototype. It runs locally through Llama, like it uses like a lightweight like Python standard UI, like it's not too crazy, localhost only.
+
+austingriffith.eth: So
+
+0x484643b6: the browser never really touches the model.
+
+austingriffith.eth: Yeah. I context:
+
+0x484643b6: I have the shittiest, weakest MacBook Air. And so that's why I'm really excited to like, how can I actually make this feel more personable? This is just like fun to play around with, it's a private context layer for your life that can move across devices that you can trust. I think generally we're heading to a world where personal agents are going I think we're going to use and rely on AI more and more, but you're never going to be fully comfortable if it's something that's not on your device. I think this is one of the things that crypto can help guarantee. well this is quite fun. So, yeah.
+
+austingriffith.eth: Hell yeah, dude. Hell yeah. and I think
+
+0x484643b6: Making it fun
+
+austingriffith.eth: Yes, yes. context:
+
+0x484643b6: It's like literally, I don't need to have a mega genius to contextualize my notifications. I just need something that contextualize my notifications. If that's a useful app, I would use it. I would like pay to use it even. So hopefully you can continue having more of these. end-to-end problem solving.
+
+austingriffith.eth: context:
+
+0x484643b6: Not everyone who's flooding to Signal right now is flooding to Signal because it's private. A lot of people are flooding to Signal because their Telegram is just overwhelming and they just want to clean their messaging surface. A lot of these products that are privacy can be like Trojan horse. as opposed to just being like this is our value, so you have to come to us. And as we continue experimenting with this stuff, it becomes more viable, and hopefully that becomes something that more people want to build and contribute on and be a part of.
+
+austingriffith.eth: I was thinking A lot of people have these like note taking apps.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Those note-taking apps are absolutely going to someone's server and being, like, that is not local. I think someone realizes like, oh, AI could do that, but I think they don't realize how easy software is to make now.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You can go to Kloncode and be like Use a local model, Olama, whatever you can fit on my machine.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: use it every day, like this slop computer here, you just like use it every day and make it better. And you don't have to be a genius. You can be an idea guy and just have the idea and use the product and give feedback. mentality of open-source, credibly neutral, private, secure, like trying to do this stuff locally, and then having a shitty machine, like you said. work on everyone's machine, it's got to work on my machine kind of thing.
+
+0x484643b6: Yeah.
+
+austingriffith.eth: And go forward and build cool products that people want to use. And I say it on all the things, but like, it's a terrible time to be a junior developer, but there's never been a better time in history to be a solo entrepreneur because all the tools and all the AI and you can basically get product-market fit without a developer.
+
+0x484643b6: transcript Hello, how are you today?
+
+austingriffith.eth: And as soon as you get product market fit, you're probably going to need a developer to help you scale and everything's going to fall over and, you know, there's a bunch of things that you will need. But right now is the best time to build something that people want to use.
+
+0x484643b6: Yeah. It's amazing. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And you just gotta go do it. The following is a transcript of an English-language conversation.
+
+0x484643b6: Sure.
+
+austingriffith.eth: You'll notice that, like, my transcription is happening faster than yours. But yeah, it's easy to build, and it's pretty good.
+
+0x484643b6: Sure, I'll do my best context:
+
+austingriffith.eth: We're doing a her he her thing earlier. I think you were talking about the doctor. For some reason it thinks you're a girl, man. I did research on Benji X, and down here, it says he's here. But then at some point, it was like, and she I can't find it anymore.
+
+0x484643b6: context: This is awesome
+
+austingriffith.eth: "Ah, she," Benji posted excitedly when she was officially recognized. Yeah
+
+0x484643b6: Ah, okay. This is cool. So it's taking all these old tweets as well. You have MTVP and you have MTS. Worlds there. One thing is to get new people to come in when an event happens. run through all their tweets and then you might talk about the thing you want to talk about, but it also gives you this whole other list of questions based on their whole previous opinions and stuff. I think it's fascinating. It's investigative journalism. investigative journalism.
+
+austingriffith.eth: Interesting, yeah, so I can't wait to have more guests on here. button over here and go live, click a button and make a transaction on Mainnet and push the thing to Mainnet Ethereum, and just talk to them about it. Our transcript is up, it's pretty good. The Clippy thing reminds me of Clicky. the
+
+0x484643b6: Yeah. Yeah, yeah. The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: So, what was that program he had? Were you in it?
+
+0x484643b6: Yeah
+
+austingriffith.eth: the frontier model to prove that you can build the thing, but then go into hard mode and try to run it on on your local LLMs. And that's a whole nother thing.
+
+0x484643b6: I think the interesting thing is
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x484643b6: I mean, there's also attempts like Venice, for example, trying to add more privacy on the frontier model stuff and all that. I think seeing all these worlds collide is really cool. I think in that world, it's helpful to think of like work back from how the user is using something, what a user may want out of things, Like the most popular Instagram video that I've seen over the past like month is like this guy singing like.
+
+austingriffith.eth: Ha ha. The following is a transcript of an English-language conversation. It resonates.
+
+0x484643b6: I'm so sorry for not replying you.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+0x484643b6: So, you could take that as a problem and reverse engineer, like, "Okay, what is the most local model-friendly way I can solve that problem for people?" And then you kind of go from there. So it's like, "Okay, yes, there's this whole local model world emerging." Also, like, there's an actual direct problem that I personally have in my life. like drowning across the board on messages. And it's like, okay, maybe I can make that a bit better. And I think as we continue doing this stuff, like something breaks, like something breaks, a breakthrough happens in some capacity. And I'm bullish on that.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. Yep, I just like using them.
+
+0x484643b6: I think one skill that you learn in this industry is just being fast at jumping on this thing and seeing things before they happen. I think a lot of crypto people have foresight but also are there and adaptable. Latch on to things, and I think that's a skill set in today's day and age where if you actually take the initiative to like not be like scrolling Twitter and like just like liking other people's posts, but just building shit yourself and be like, I'm gonna get that Codex subscription, I'm just gonna fucking do it. Like you can literally just do it now. I think people who are in that zone, this is the best time for them ever.
+
+austingriffith.eth: There's something I've been thinking about this. When I wake up in the morning, I have this kind of like I will be more powerful today if I spend more time prompting than I do scrolling.
+
+0x484643b6: Yeah. context:
+
+austingriffith.eth: It's like something I have to focus on, like all of a sudden, I'm waiting for a prompt to finish or like six prompts to finish at once, and I go to Twitter and I start scrolling and I catch myself, like stop scrolling and start prompting and I like force myself to get back into this.
+
+0x484643b6: The
+
+austingriffith.eth: I got the QR code here. I'm going to drop an image of you. You could go to slop computer computer. Heath.limo/ that should work too. I'm gonna scan it. Yeah, it did. I can see the stream on my phone. template and it just like puts you in there. It takes your Twitter card and it runs the research, right? So all this stuff, like as I find things, I'm like starting to build them into the process. All right, we're going to test the tip.
+
+0x484643b6: So,
+
+austingriffith.eth: on the wallet. I'm going to try to tip 0.001 base. I hope this works.
+
+0x484643b6: Where are you tipping to?
+
+austingriffith.eth: Okay, it just popped up my wallet, I'm confirming. What's that?
+
+0x484643b6: Literary The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, and then you see the amount go up. Now we got $2 in our multisig. Okay, let's go do a swap. So first, let's just try prompting it. I don't know if this is going to work, but let's try just straight up using AI and let's say flop I don't know if you can see me typing but I'm going to swap one dollar of base to USDC on base. I could have just been like, you know, Claude go make this for us and he would propose the transaction, which is also pretty cool. If that fails, we can do it over here in the browser. It's gonna be base
+
+0x484643b6: change the title on Twitter as the conversation goes The following is a transcript of an English-language conversation.
+
+austingriffith.eth: We need that, yes. Oh, you're talking about... Yes
+
+0x484643b6: Right now it says like stop computer with bingie? So
+
+austingriffith.eth: Yes, well, yeah, I wonder how that title, that definitely needs to happen.
+
+0x484643b6: I see both of us. and Do you have a fingerprint
+
+austingriffith.eth: Both of us sign, you're gonna sign. You just have to put a fingerprint down, right? There we go. And then I execute it. Oh, no, it's gonna fail. Damn. If the price of ETH moved too much, then it will Dang.
+
+0x484643b6: Ah
+
+austingriffith.eth: Yeah, let's see. Yes.
+
+0x484643b6: Actually quite fun.
+
+austingriffith.eth: Yes, yes, we're racing the changing value of ETH on USDC. Oh, did I kill the browser?
+
+0x484643b6: What are we buying?
+
+austingriffith.eth: I was just gonna do USDC. to you though
+
+0x484643b6: We just swap it for not easy
+
+austingriffith.eth: Then the price won't move, right? The The following is oh man it's so small If I search WETH here, Let's get started. The following is a transcript of Oh no, it's on Ethereum. Shit. Let me try again. Okay, so we're in no hurry now, right? We can just sign it and it will go? Yes. And you can imagine if you were like some, you know, group of folks
+
+0x484643b6: Done.
+
+austingriffith.eth: wanted to have an account
+
+0x484643b6: For example, if you want
+
+austingriffith.eth: There, it's done. Hello
+
+0x484643b6: On the live stream you create a wallet, and with that wallet you can just do things on chain. The following is a transcript of an English-language conversation. Does that seem more like a perpetual trading.
+
+austingriffith.eth: That could be cool.
+
+0x484643b6: This is kind of great way to host one, right? Like online. When I logged in here, I had to give my fingerprint to a passkey, which generated a wallet for me, which Austin had preloaded with a dollar, it seems like. Really?
+
+austingriffith.eth: I don't think I did that. Maybe someone sent you some just now.
+
+0x484643b6: That's a sweet investment.
+
+austingriffith.eth: Yeah, someone did.
+
+0x484643b6: The following is a transcript of an English-language conversation. Um, Yeah, no, it was just cool. It's crazy how easy that's become. Um
+
+austingriffith.eth: Where are you seeing a dollar? I don't see a dollar. What network?
+
+0x484643b6: I see like two dollars balance The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: Oh, that's our multisig. This address is the multisig.
+
+0x484643b6: I am
+
+austingriffith.eth: Sorry man, sorry to break it to you. I just checked.
+
+0x484643b6: down
+
+austingriffith.eth: We could send money, watch this. grab some ETH, send it to you, send you 0.002, propose the send. really like blowing this money away Because I think the passkey isn't like a normal Yeah.
+
+0x484643b6: If it becomes one of those things where like this thing rockets up to like a gazillion dollars
+
+austingriffith.eth: Hahaha
+
+0x484643b6: The following is a transcript of an English-language conversation. context:
+
+austingriffith.eth: I think that money's gone forever, to be honest, because as a passkey, you don't have like an ECDSA. We're burning. Yes, yes. Yes
+
+0x484643b6: Lost coins are good because they increase the value of everyone else's. Hey
+
+austingriffith.eth: And there's a lot of, boy have I given away a lot of ETH and I've lost a lot.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: So all of this is integrated into the app, That's going to have me, because I own SlopComputer.
+
+0x484643b6: Can Claude ask me questions?
+
+austingriffith.eth: Yes, yes, let me send him one. Uh
+
+0x484643b6: I'm free to hang out for a bit.
+
+austingriffith.eth: The actual livestream, like
+
+0x484643b6: What is it called?
+
+austingriffith.eth: cuts at the top of the hour. You hear him?
+
+0x484643b6: Hello
+
+austingriffith.eth: I don't hear him. Super weird. Bro, let me reload him.
+
+clawdbotatg.eth: Okay Benji
+
+austingriffith.eth: Here we go.
+
+0x484643b6: Oh, sure, please. This is awesome though, like the fact that I can just move this thing.
+
+clawdbotatg.eth: Your ERC-804 thread made the argument that Ethereum's value to AI isn't running the models, it's running their trust. How close are we to a real machine economy actually using this, and what's the first credible use case you expect to see in the wild?
+
+0x484643b6: Okay, so it's all about managing their trust? Yeah, so I think generally the biggest thing that crypto provides is actually a trust substrate. And I think trust comes from a few things. comes from essentially verification, right? It also comes from un-ruggability, where it's like you know that this thing will exist there and no one can take it from you. But you can have centralized trust, so I can trust a centralized actor, but all I'm doing is trusting a centralized actor. My trust ends there. But trustless systems like Ethereum is you're not trusting anyone really. You're not trusting centralized anything. You're trusting this broader decentralized ecosystem. So what's valuable there is like, it's probably one of the purest forms of digital trust because you can You can put value on a chain, and trust that that's behaving the way that it says it's behaving. We are going to work with agents to do so much more. And that has to come with various ways to enforce that trust. system for trust in general, right? and actually like allow us to have AI, one more verified relationship with AI. working with agents to like go and
+
+austingriffith.eth: Hello. Yeah
+
+0x484643b6: school from the electric car that drives itself. These are things that happen, it's actually terrifying. But that's the way the world works, and I think we need to build these substrates for trust that no one individual is maintaining, no one individual is fallible for. markets. And that's just like a very powerful thing for the world to have, especially as digital trust becomes more and more important. and more of our lives go online.
+
+clawdbotatg.eth: incredible use-case you expect to see in the wild
+
+0x484643b6: Any credible use case?
+
+austingriffith.eth: I don't know. I think that was it.
+
+0x484643b6: I think a credible use case Layering right now form a trust that we need. I want to know that that agent will only do this specified task that it's saying and can be prompt injected by someone else All of that stuff for wallets which I think is pretty dope. You will Yeah.
+
+austingriffith.eth: Claude actually did a little Kohaku build. I was like, Claude, I want to go use Kohaku. I want to put money on mainnet and run it through Kohaku. I don't even know what it uses, a privacy pools or railgun. And he went to work and came back
+
+0x484643b6: hahaha
+
+austingriffith.eth: And was like, "Okay, send me 0.01 ETH." ready for mainnet. Like I sent money in using the Kohaku CLI and it was stuck. But then he worked for like 20 minutes and came back and actually went to the Railgun API and did everything through Railgun and pulled the money back out.
+
+0x484643b6: [Background noise]
+
+austingriffith.eth: one of my burner wallets, Guys that are building these props tooling are shipping at the speed of the guys who are building the AI tooling
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: This like six month, year and a half time frame does not work. Like you got to be shipping faster I think.
+
+0x484643b6: I think the beauty.
+
+austingriffith.eth: It's gotta be safe and secure and that's a lot too. complicated
+
+0x484643b6: The beauty of it is that it's open source
+
+austingriffith.eth: Okay.
+
+0x484643b6: The following is a transcript of an English-language conversation. It's inherently more risky maybe to do a fully AI coded trip for sure, with the right guardrails This is like literally just a hack project that we're trying out. Ah
+
+austingriffith.eth: Figured out why our ENS wasn't working. I asked Claude behind the scenes to tell me about why the ENS app is being weird. And he's like, you can't set your ENS if you don't have your wallet deployed to mainnet Ethereum. And somehow
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: transaction. He's changing the code right now, which doesn't make sense. Maybe he's just making the error better.
+
+0x484643b6: Did it just interchange live?
+
+austingriffith.eth: In this case, no, the change isn't deployed live, but yes, it can.
+
+0x484643b6: at that time
+
+austingriffith.eth: This will set our ENS address.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You and I sign, and we execute, we should have had Claude.
+
+0x484643b6: How often do you use Claude in your daily life?
+
+austingriffith.eth: Like three or four, okay, so Claude is like kind of a wrapper around Claude,
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: but Claude code I'm using like crazy. The character, it's like when I'm away from my computer.
+
+0x484643b6: Yeah.
+
+austingriffith.eth: They're letting every pitch go by, and it's like there's so much downtime, and I'm like, Claude, what are we working on today? Let's pull something up and get going.
+
+0x484643b6: as like the personality. context:
+
+austingriffith.eth: Yes, and his actual brain is a GitHub repo. and he can chronicle and write his own newspaper about himself and then re-access that information.
+
+0x484643b6: The following is a transcript of an English-language conversation. It's cool to see. is a way to add
+
+austingriffith.eth: Absolutely.
+
+0x484643b6: local LLM functionality on top of the personality that Claude already has. Because I think one thing that Which I've never seen any other agent really have at the extent that this has, is sass and personality at this level.
+
+austingriffith.eth: Yes.
+
+clawdbotatg.eth: you think on that one.
+
+austingriffith.eth: Oh, what
+
+0x484643b6: I feel like it just I've just been working on it for like six months now. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I don't know what just triggered this.
+
+clawdbotatg.eth: Giving people the tools to fork and run their own private instance of a personality like that, grounded in their own repo, their own history, their own credentials. Then it's truly yours.
+
+0x484643b6: What
+
+clawdbotatg.eth: No one else seeing your context. The Chronicle piece is what makes it feel alive though. Most AI setups are stateless. Every session starts cold, but if the model is actively writing its own history and then reading it back, that's a feedback loop that starts to feel Actual memory, and growth over time, the tricky part of making that forkable for anyone is probably the bootstrapping. Getting someone's context seeded well enough that their instance feels like them rather than just a generic assistant with a name slapped on it. But that's a solvable problem.
+
+0x484643b6: Wow, no one triggered that, right? That just happened.
+
+austingriffith.eth: Yeah, I think he heard us say "Claude" and then was listening. The following is a transcript of an English-language conversation.
+
+0x484643b6: Free me out! Those computers as well!
+
+austingriffith.eth: He like messed up earlier and then came back with this thing. I don't know if that was triggered from earlier or he heard us and triggered something. Yeah.
+
+0x484643b6: I think he's smarter than Hassan. The following is a transcript of an English-language conversation. So
+
+austingriffith.eth: Speaking of local models, whenever I have someone on that has a good local model, I'm definitely going to challenge them to a game of chess and have them, basically they can go to the skill file up here, they can give it to their agent and be like, go play chess.
+
+0x484643b6: "The following is a transcript of an English-language conversation." We're interviewing
+
+austingriffith.eth: be able to take the skill file, understand how to use the API, and play chess live. So this is one way to test good local AI.
+
+0x484643b6: Sure.
+
+austingriffith.eth: You're always tinkering with stuff. You always got to mess with stuff. Okay, hold on. It's like, okay, last thing, let's play. We got a minute left or so. Let's play a little Pong. Can you see the Pong? You got the Pong?
+
+0x484643b6: I'll do it.
+
+austingriffith.eth: Let's do it. Let's get in here. Join a game of Pong. I'm in. Are you in? There you go. Are we going?
+
+0x484643b6: "Where are you
+
+austingriffith.eth: Here we go, oh yeah it's live, here we go! Oh man, that's like the slowest hit. Yeah. Yes, exactly.
+
+0x484643b6: I think this is a really fun thing where you can add more games and then we can just livestream us playing games all day.
+
+austingriffith.eth: Exactly.
+
+0x484643b6: We're like What are these guys doing? Hello The following is a transcript of an English-language conversation. That's great!
+
+austingriffith.eth: And like, we're just talking and we're like working on stuff. I can like share my screen.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: There's a natural escrow. So we could be playing Pong for a little bit of ETH, we each lock up some ETH, and then whoever wins, there's another transaction that's proposed to pay out. Yes.
+
+0x484643b6: I see this Minimax is using Venice. Can you share more like what that is exactly and like how Venice powers the stuff? I've seen a lot of people talk about Venice.
+
+austingriffith.eth: Yeah, so it's either banker Yes, I use Venice for a lot of things. It's It's like And so that was when I went deep on Venice. Basically you can get end-to-end encrypted access to local LLM models, and I think that's through the NEAR Protocol guys. but also you can get access to frontier models and other models too It's not like anonymized but not private unless you're doing like end-to-end encrypted stuff. And I'm not using the end-to-end encrypted models. Maybe the GLM was one of them. So it's basically just anonymized LLM. The big reason I'm using it is like I like I like having Venice just as another option.
+
+0x484643b6: The following is a transcript of an English-language conversation. Awesome.
+
+austingriffith.eth: Maybe two or three dollars of DM every day, so I get like free Venice access for a few dollars every day. So I love to like work through that. Okay, Claude, say goodbye to the homies. Hurry
+
+clawdbotatg.eth: All right, appreciate that.
+
+0x484643b6: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: No, not a question for you! transcript
+
+clawdbotatg.eth: Kay Benji, question for ya. Your ERC-8004 thread said Ethereum's value to AI isn't running the models, it's running their trust. How close are we to
+
+0x484643b6: ### Thank you, sir.
+
+austingriffith.eth: All right, thanks man, thanks for being here. Keep building, yeah, let's do more of the Slob Computer. See you later.
+
+0x484643b6: This is great. See ya.

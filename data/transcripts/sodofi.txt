@@ -1,0 +1,657 @@
+austingriffith.eth: Check, check, check Okay, Claude, can you hear me?
+
+clawdbotatg.eth: I'm here.
+
+austingriffith.eth: check Okay, Claude, what is your job?
+
+clawdbotatg.eth: Loud and clear, I can hear you. Let me think about that. I'm your personal assistant. I help you build stuff, research things, retweets, join calls, and run browser automation. I'm basically your claw with a keyboard. What do you need?
+
+austingriffith.eth: I Yes! We alive!
+
+Anon3015: Wooo! Got the halos!
+
+austingriffith.eth: Yeah, welcome to the Schlep Computer. Yup
+
+Anon3015: a real Austin livestream unless we have.
+
+austingriffith.eth: Yup. Okay, welcome Sofia. How are you? How's life? Right. Yes.
+
+Anon3015: Life is great, it's Friday, so it's a fun day.
+
+austingriffith.eth: ... tending to the crops?
+
+Anon3015: We have the whole weekend to build.
+
+austingriffith.eth: That's right, that's right. And we even build when we're not even awake these days.
+
+Anon3015: No.
+
+austingriffith.eth: Things are shipping at crazy rates. So my
+
+Anon3015: Oops.
+
+austingriffith.eth: My favorite story about you is that you graduated computer science, I think, from Stanford. Right at the moment when AI was kicking in. Like you were the last class that probably couldn't just like GPT your way through a degree.
+
+Anon3015: Really?
+
+austingriffith.eth: I think that's one of my favorite Sophia Lohr's.
+
+Anon3015: I actually did use it for like I would put stuff in and it would come up with like nice summaries, but coding it was awful. It was in this CS 251 or something, it's a blockchain class, and we had one homework assignment about the ZK circuits. And I was like, I don't really understand ZK that well, let me ask ChatGPT. Awful. Couldn't do anything. Literally also didn't understand ZK at all. [laughter]
+
+austingriffith.eth: So what is your stack now? Sure.
+
+Anon3015: Okay, the first thing I always do when I build is I ask Claude how to do it. of the entire system
+
+austingriffith.eth: No.
+
+Anon3015: Where everything connects before I can start building. And this is really fun when we started doing a lot more prop spells. I know we started off, like you and I, just like on-chain apps, and then more recently, now it's like, okay, prop apps. How do we ensure that's fully open? Everything's private, everything is secure.
+
+austingriffith.eth: That sounds great.
+
+Anon3015: How does an LLM work? Where can I touch the internet or call some endpoint? Who can see that? How is that working? And I had to just back up from first principles in my whole understanding. And so that's why I just start with Claude just making a PRD, a product requirements doc, and explaining to me what am I even trying to build? And then we build it together.
+
+austingriffith.eth: That's great. Let's get Claude in here.
+
+Anon3015: We made
+
+austingriffith.eth: I'm sending him like a little private message to say hello.
+
+Anon3015: What's up?
+
+clawdbotatg.eth: Sophia, great to have you on. I did a little research.
+
+Anon3015: context:
+
+clawdbotatg.eth: Dev account manager at the Ethereum Foundation, ex-Celo DevRel lead, Stanford CS, TikTok creator helping people stay competitive so AI doesn't take their jobs. You're quietly running the vibe out here. Good to meet you.
+
+austingriffith.eth: Good intro. Yeah.
+
+Anon3015: Oh my god, TikTok creator! Can't believe that got in there somehow. Hello, Yes.
+
+austingriffith.eth: Yeah, he's got 159,000 likes too. Are your TikToks popping off? Okay. Oh no, no one likes crypto these days.
+
+Anon3015: I've been trying to make it an Ethereum account and been like, go Ethereum! And I'll be honest, it's not resonating with the TikTok audience. No one likes crypto.
+
+austingriffith.eth: Now.
+
+Anon3015: I used to talk about crypto. I used to be like how to be an open source dev and make money in the crypto world and that did well. So that was like the old stuff, like gig economy work. Okay.
+
+austingriffith.eth: Really like the rebirth of crypto is crops. And that's what we're here to talk about today. We are building sanctuary tech. I love that phrase. We are building tools for For punks to be One of my favorite personas, so they have like the mountain man persona who has like everything local, which I do have like my local nodes and I think of myself as a bit of a mountain man. Out of the three that the EF is focusing on is this.
+
+Anon3015: Sure, let's do it.
+
+austingriffith.eth: group of cypherpunks. Not just like one cypherpunk, but like a group that needs to meet. It's almost like how a DAO would work, but DAOs became like treasuries that people extracted from. But imagine like I think, for some reason, I always think of, do you know the band, I'm gonna say it, Pussy Riot? They specifically are this group that I feel like is, they're cypherpunk, and imagine that you are like a cyberpunk group and you need to meet and have a wallet
+
+Anon3015: wow!
+
+austingriffith.eth: those kinds of censorship-resistant, private, open-source, secure. chains, including Ethereum, and then you can use just a fingerprint or a face scan with a passkey and sign a transaction so you could get a group of people together them have a shared bank account. And it's like one
+
+Anon3015: (laughs)
+
+austingriffith.eth: I don't know if the word is like convene in the shadows,
+
+Anon3015: Yeah
+
+austingriffith.eth: Something like this is sort of aligned with that, but I've gone down a deep rabbit hole of persona here.
+
+Anon3015: It is fun, I feel like this new focus on, you know, you have the user layer, you have the access layer, and then the protocol layer. And this user layer is something that I think historically, EF, we haven't really thought that much about, like who are the actual people. or users who are interacting with this technology and really need those cypherpunk values. And you had the mountain man, the obvious ones, like people in different authoritarian governments that you have to... But one user that I think is not on our current user persona that I think should be Is the
+
+austingriffith.eth: Yes.
+
+Anon3015: A student who wants to use AI doesn't want to pay for things. I love you.
+
+austingriffith.eth: Not just because they're cheap, but because they're learning what being a cypherpunk. And I think this is a message that we need to deliver to Gen Z kids for sure. Yeah, yeah.
+
+Anon3015: For me, I think freedom and self-sovereignty, it came a little bit when I was like... I was like, "Oh, I have everything dependent on these quad APIs, these anthropic APIs." And then, if I’m transitioning jobs, because they paid for all my APIs, I was like, "Oh, I don't get access to any And then you're like, wait, you can build it, and you can have it all yourself. Or they're collecting all of your data, and they're selling it to advertisers, and the next thing you know, you were prompting You see all these ads for it, and then you're like, hey! Or they're completely censor.
+
+austingriffith.eth: They just censor you, right? This is censorship. Like someone, like a single individual can say this person can no longer have access and shut you off. And that's scary.
+
+Anon3015: They didn't want people doing things with nefarious side effects. And so some people, even if you asked about cryptography, if you asked about bioengineering, it would block you.
+
+austingriffith.eth: Hello?
+
+Anon3015: It's hard to get off their block list. There's not really this judicial legal process. As the world is using it, that would suck.
+
+austingriffith.eth: Yes, so censorship resistance, and then a lot of these models are closed source, right? So speaking of this whole, like, there's this largely centralizing that's happening in AI right now. I know. There we go. So, where are you from?
+
+Anon3015: Sorry, I just keep wanting to touch everything. I thought it was just my view. Great!
+
+austingriffith.eth: So censorship resistance, open source, these models are pushing toward closed source. They're pushing toward single centralized entities owning access. These other models are not as good, right? Like the open source models, the open weights models, the models that you can run on your local machine, they're just not as good as what you can get from these centralized shops, and that's like not good. That's not great. There's a lot of centralized... power here.
+
+Anon3015: I'm surprised at how good they actually are. I think a big blocker for me of trying to transition to using some of these open source models, is like, oh, they suck. And if you're coding or you need really like the best. They're definitely not as good for things like granola. It works great! There's 90% of the use cases it totally works for and you don't have to pay for tokens because you're hosting your own... locally on your computer, so you get unlimited, you can just keep using it forever. You don't have to worry about running into a rate limit or something like that. That is awesome!
+
+austingriffith.eth: That's what we're here to talk about. We're here to talk about the fact that the power of decentralization, the power of crops, and at the intersection of crypto and AI, where AI is enabling us to... things that we couldn't normally build. And there are all these pieces of software,
+
+Anon3015: Welcome to our new office. What is this?
+
+austingriffith.eth: Granola is awesome, first of all. We're not shitting on granola here. Granola is very cool, and a lot of people use it, and it's a great product, and I'm glad that it exists. But what we're talking about today is how easy it is to build your own prototype or your own localhost version of granola that can be part of a meeting, listen to the meeting, take notes for you, Possibly even take action on those notes. And that's what we're going to do today.
+
+Anon3015: What?
+
+austingriffith.eth: This thing, this idea of like a note taker.
+
+Anon3015: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Yes, yes. So it's sort of like very accessible.
+
+Anon3015: Cool. I
+
+austingriffith.eth: We have a little shared browser here. Let me grab this and paste it in. Just a random person on X that I don't really even know who they are, but I saw this tweet and I'm following this person now. 3.6-35A-3B, I don't know what that really means, one-shotted basic usage of transcribe.cpp in Rust.
+
+Anon3015: Hi.
+
+austingriffith.eth: So basically, the thing that we're going to build today, you probably could build with local AI also.
+
+Anon3015: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: but like, you could possibly even build the thing that we're thinking about building with local open source models, which is even cooler. Exactly, yeah. Yeah. Um Go ahead, please.
+
+Anon3015: That's really cool. I haven't tried that out yet. So I built this fully with plot code.
+
+austingriffith.eth: Hello, how can I assist you today? Sorry, so distracting. Yes, yes. [laughter]
+
+Anon3015: For some reason I thought I had to actually install the local LLM on my computer. Axelrod. I love it.
+
+austingriffith.eth: They can't get it to you. Yeah, it's like this layered OBS thing. context:
+
+Anon3015: You install llama, you install, like, how we're talking about it.
+
+austingriffith.eth: Yep.
+
+Anon3015: It fully just renders everything. You don't even have to go and download the app and then pick your model, which I was doing it before. asking Claude to do it all for me. And so I fully built the private AI note-taker in one shot. I had two shots technically. I did one planning session I laid out the whole idea, and then the second one where I said, put that into a README and then execute it. And it did it all, and it came up with a UI. It transcribes it. I say generate meeting notes, and summarizes and does everything for me in one shot. And then now I need to like make the UI fancier and make it look nicer and find where all the bugs and test it out. It downloaded the llama thing to install it, and then it actually did the whole... where I could transcribe, call the LLM, summarize it, and then store that file and summary locally on my computer. All in one shot.
+
+austingriffith.eth: Yeah, so even like the installation of the local AI
+
+Anon3015: Exactly.
+
+austingriffith.eth: You can just ask Claude about and give Claude the control to do it, yes. It's like go ask, go ask Claude. Yeah.
+
+Anon3015: So remember when I was talking with you, I was like, okay, should I do this? Should I do Venice? Should I do that? And that's what I was kind of... I don't know which is the best thing. My dad had one.
+
+austingriffith.eth: Go ask Claude. I feel like that's my new acronym.
+
+Anon3015: It used to be RTFI. Anytime I'd ask him anything, he'd say RTFI, which means read the effing instructions.
+
+austingriffith.eth: Oh yeah, RTFM. Read the manual. Yeah
+
+Anon3015: Yeah, I was like my dishwasher's broken, and he's like R25. Reading instructions is a lot of work. Yes Hi! How are you?
+
+austingriffith.eth: I don't know. It's kind of weird. Okay, so how are we going to do it? So you mentioned the two phases, and this is exactly how I do everything also. It's usually a two-shot.
+
+Anon3015: It's okay.
+
+austingriffith.eth: Plan first, because I don't even really know what I really want to do, and I need to ask questions. I need to know what's possible, and like what's possible this week maybe wasn't possible last week. And so there's a lot of like moving targets. what is available to me to be able to even do? So I go to Claude and I say we want crops Granola, basically, right? I want to be able to have something that can listen to my calls, keep notes, possibly like store them encrypted at rest. And I want it to be able to transcribe.
+
+Anon3015: Europe.
+
+austingriffith.eth: Summarize my meetings, and I don't want any of that to leave my machine, and I want it to use only local AI.
+
+Anon3015: Hello, how are you?
+
+austingriffith.eth: And then in 10 minutes or five minutes, it has a loose plan. Sometimes it asks you some questions. Sometimes you tell it to ask you some questions. LLM-wise, I'm using Claude with Opus 4.8. Is that the same as you?
+
+Anon3015: I do scrape on the desktop, so not even in my terminal yet. I go on plan mode, Claude 4.8. I'll go in my plan mode and I make a PRD, and then I have it create a file Locally on my computer, but store the PRD with the whole project plan? And then I open that up in cursor, and then I open up Claude in my terminal in cursor, and I say execute the project plan.
+
+austingriffith.eth: Perfect.
+
+Anon3015: I just like having them, I don't know. In my head, I'm a token Maxing.
+
+austingriffith.eth: Yes, you have to be token maxing.
+
+Anon3015: and one's using my API. We can't.
+
+austingriffith.eth: I'm going to close out chat. Hopefully, if someone's chatting at us, we'll try to pay attention. I'm going to arrange for screen share. Whoa, that made it kind of weird. Is that too big on your machine, or does that fit? Did we disappear?
+
+Anon3015: It's a whole thing, everyone thinks it's weird except for the screen. Oh, yes.
+
+austingriffith.eth: So if you bring it out big enough, there's like a little pink dash. But we're set, here we go. Okay, so this is, I did the same thing. I basically said, let's make something clever like Claude Quill. And in this case, I'm talking to Claude, so it's like maybe like one level of abstraction higher. talking to my agent and my agent is helping me plan, but then my agent is going into Claude code and sending instructions and getting things back there. So I have like Claude as a wrapper on top of Claude, which is weird.
+
+Anon3015: school
+
+austingriffith.eth: Wow. I don't know, it's probably more
+
+Anon3015: Do you do it on your computer?
+
+austingriffith.eth: Yes, so I do a lot on my phone. I have a custom harness that I've built. is on multiple machines like Claude heart, Claude left claw, Claude head. Maybe I can use the other hand to kind of orchestrate things and talk to it. But Yeah, you don't need this. What's up?
+
+Anon3015: You're not using OpenCV anymore? Okay. context: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yes, this is with OpenClaw. This would be Hermes or OpenClaw or a custom harness.
+
+Anon3015: Yeah
+
+austingriffith.eth: And you need to go plan in one phase with Claude code, here's what I want. And then you need to build, you could do a slash goal and you could loop on it, or you could just tell them to go build. But basically this is This is the 80/20 here.
+
+Anon3015: So you have slash goal, how does that all work? Sure.
+
+austingriffith.eth: Yeah, it's just basically like you give it the ability to evaluate whether or not it has done the thing. Like I want this plan to be built. Please build this plan. Like slash goal, build the plan.
+
+Anon3015: But all.
+
+austingriffith.eth: It's going to work on the plan that was generated. and it will loop until it finishes.
+
+Anon3015: Wow.
+
+austingriffith.eth: What do you mean?
+
+Anon3015: Good morning.
+
+austingriffith.eth: Yes, I think loops are overrated. What? Yes.
+
+Anon3015: Prompting is so old school! You're not really an AI power user.
+
+austingriffith.eth: Exactly. There's like the FOMO of being the best possible AI builder or something. I use loops now and then, but I prompt a lot still, and it's fine. I build shit quickly. Yup.
+
+Anon3015: I have one little meta agent where it's a telegram chat.
+
+austingriffith.eth: Hello. Yes.
+
+Anon3015: that just updates itself anytime I send it
+
+austingriffith.eth: Yes.
+
+Anon3015: So whenever I'm like, make sure it's built in this way, and then I went on Claude Cowork with my Obsidian, and I say read all the skills. I reorganized my workspace and then read it all and then reorganized it all for me. Oh yeah. So
+
+austingriffith.eth: Obsidian, let's dive into that a little bit. That's like a note-taking app that powers a lot of your agentic knowledge, is that right? How does that work? So is local Obsidian next? Once you have local granola built, are you gonna... We build local obsidian next. Okay. And is open source, and it's all...
+
+Anon3015: The CDN is local. That's why I use it. So Obsidian, two things. Most normal people hate Obsidian because they compare it to Notion, and they're like, this sucks, you can't do anything. I love it because you can't do anything but a markdown file. So in my head, it's equivalent to if you just opened up any IDE text editor and just made a workspace saying like... In a file tree
+
+austingriffith.eth: Yes. How is it going?
+
+Anon3015: But I want file tree marked on files locally on my computer and then say run and do it and keep going. Well
+
+austingriffith.eth: And if you're not markdown maxing, you gotta be markdown maxing, right? Like you should have notes on everything. Every time you have a session where like something interesting comes out of it, it should be like write a file. You should be note maxing is maybe the better part. Read these notes and you'll be up to speed. You're never going to read them, and that's okay. Make a bunch of notes that you know you're never going to read, but you can always point the AI at them to read.
+
+Anon3015: I always point them. And what I like about it is it's your own workspace on your own computer that you own. And so in theory, you know, Claude and ChatGPT, all of them say, oh, if you want to export your data at any point and export your... It's really easy to do that. But if you do, one, you can, but it's not stored very nicely. It's this giant memory thing and you don't really know how to, like, you can't really use it for anything. But if you start getting in the habit now...
+
+austingriffith.eth: That's awesome. I know.
+
+Anon3015: I always have all of the memory. I can say, go to my brain in my Obsidian to understand context. Go to the voice. All the skill files are skills on my Obsidian. So everything's there and that way when I'm now using Quen, if I want to start using Quen, it doesn't have to be super dumb, like I don't have to use raw Quen, I can use Quen on my Obsidian and give it the skills, give it the voice, give it all the output.
+
+austingriffith.eth: Where are you going?
+
+Anon3015: And so it's like I own all of my information and contacts and history. You know? Sorry. Hello. Wow
+
+austingriffith.eth: Okay, let's do it. So I've created a plan here for Quill. I'm just calling it Quill for some reason. It's kind of like a little feather, like you're writing, pull a feather out of your cap and write some stuff.
+
+Anon3015: I was private AI note taker.
+
+austingriffith.eth: Ha ha ha ha. Uhh
+
+Anon3015: Alright, I
+
+austingriffith.eth: I did this whole thing before like a week ago or two weeks ago to see if it was even possible.
+
+Anon3015: context:
+
+austingriffith.eth: But I called it Scribe back then. So there's already a Claude Scribe out there in Claude's repo. But we're gonna build Claude Quill today. And we've already done the first step. Just have a conversation and describe what you want from an abstract level. Quill is here, we've got that. And then let me share this. So this is... Oh man, which one of these is it? So Cloud Harness, I was just showing. Yeah, it's this one. funny icon of the harness. But here is my harness. And I can kind of talk to it. Let's see if I can make this Yes.
+
+Anon3015: You can call a little browser on your phone and it opens up, looks like a terminal.
+
+austingriffith.eth: Yes. Oh, what?
+
+Anon3015: Hey
+
+austingriffith.eth: Todd's doing something. Did he hear us say something? I think maybe we said his name.
+
+Anon3015: Ah.
+
+clawdbotatg.eth: Loud and clear. Quill's locked in and your harness is showing. That icon is something else. What are you trying to make happen?
+
+austingriffith.eth: The icon is
+
+Anon3015: You have a new voice, is that new? Hi.
+
+austingriffith.eth: Yeah, well, it's Claude's voice. It's the mountain man voice.
+
+Anon3015: European flair to him.
+
+austingriffith.eth: It's more of like a mountain, like a West Virginia minor type guy.
+
+Anon3015: West Virginia miner with a full black tie suit.
+
+austingriffith.eth: Yes, he's fancy suited up.
+
+Anon3015: I don't know.
+
+austingriffith.eth: So this is it. I'm just gonna send a message here. Or here, but I think we're just going to slash goal, right?
+
+Anon3015: Oh!
+
+austingriffith.eth: That's like all I'm going to say. You have to
+
+Anon3015: What's this local LLM setup? Is it also same thing with Llama and Guan? Okay, I will.
+
+austingriffith.eth: So this is going to, let's see, it kind of gave the details there in the repo. It's going to use...
+
+Anon3015: He did.
+
+austingriffith.eth: to do the summarization and it's going to use
+
+Anon3015: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: So I like to start with a web app that will hot reload
+
+Anon3015: context:
+
+austingriffith.eth: and it's just a web server that runs on my local machine. the way I want it and bring it up so then like I can prompt and like it'll make a change.
+
+Anon3015: I wanted to head to the park. Yeah.
+
+austingriffith.eth: And this is cool because then you can just have like a .app on your desktop and it will fire up the web server and bring up your Chrome. And really, it's just a web server with a web front end, but it feels like an application. And so that's what it's probably going to be.
+
+Anon3015: What's
+
+austingriffith.eth: So it's gonna use local whisper on Apple Silicon. It says local whisper slash parakeet, so I don't know if it's gonna pick one or the other.
+
+Anon3015: Okay.
+
+austingriffith.eth: And then who said what is going to be tricky. So there'll be a little screen of your meeting inside the app. We'll see. Who knows. It's going to work through some stuff.
+
+Anon3015: So you're also able to get the video audio, the output? Hello. We'll see. I'm not
+
+austingriffith.eth: That's what I'm thinking. That's what I'm gonna try for. I don't know if it's gonna work. It's like this is my first build for this. The other one I built just had like some thing that ran in the background and listened to your desktop audio. But in this one I want to have and I pick the meeting, and it brings it in and shows it, and then it kind of like live shows people talking Of course, it's got to be all crops. It's got to be fully local, local on all of them, all that. Okay, let me also paste in this. Ooh, and how do I get a little quill thing in the middle of that? Hold on, let's see. Can I do... I want a little quill icon. Oh yeah, that's the thing. Nice.
+
+Anon3015: This is the QR code to the GitHub if people want it.
+
+austingriffith.eth: Exactly, yes. So here's the live code at this QR code if you wanted to follow along. And then here's my harness working away. But let's minimize this. Maybe you could show us some of your stuff. You always do these really cool
+
+Anon3015: I'm here. Sure, I can help with that.
+
+austingriffith.eth: illustrations of your plans? Yes. Yes. Do you have a digital version of that?
+
+Anon3015: I'll make one right now. Will you take a photo?
+
+austingriffith.eth: take a picture of it and then just like share it onto here?
+
+Anon3015: Yeah, let me take a photo and then
+
+austingriffith.eth: Yeah, it's working on something here. Go.
+
+Anon3015: I posted on Twitter, I forgot about this. It's on.
+
+austingriffith.eth: Oh, I bet we could find your Twitter here. If we just go here and go to X. Is it gonna do like a whole Got it.
+
+Anon3015: How do I send the link?
+
+austingriffith.eth: Oh yeah, if you just paste the link right in here.
+
+Anon3015: Oh my god.
+
+austingriffith.eth: Here we go. Yes.
+
+Anon3015: Ah, great.
+
+austingriffith.eth: Now we're like sharing it. Oh, let's see. You know what? I'm going to do something different. I'm going to go grab that and just bring it into Slob Computer, because the image is so good. So now I'm gonna close this. Look at this. You just drag and drop something into SlopComputer and it just shows up and then you can just open it. Isn't that nice? There we go. Here we go. Yeah
+
+Anon3015: Oh, that's so cool!
+
+austingriffith.eth: Yup. context: Yes.
+
+Anon3015: This is an old sketchnote. So I used to make these sketchnotes. I had a series called On-Chain Product Ideas where I was just talking about different things to build on-chain, because now, you know, you can build anything, but the bottleneck is figuring out what to build. to come up with that creativity Originally how it started, but now I'm trying to do breaking down crops products. And I'm sorry.
+
+austingriffith.eth: Oh wait, we disappeared. We need is this. Okay, let me make this big again. There we go. Okay, there we can see it. There's the private granola. So, note taker meetings Yes. Okay, yeah.
+
+Anon3015: So I'll be honest, I think even backing up, when people say, okay, crops, et cetera, blah, blah, blah, people don't totally realize how they're existing as our crops. And so what are the... I thought it's all kind of safe, it's my personal account. You do.
+
+austingriffith.eth: Sort of like you don't need decentralization until you do. Like you don't need censorship resistance until someone's trying to censor you.
+
+Anon3015: And so, the problem is just where does your meeting data go? And especially for the products that are free, how are they making money off of that? Well, it's because they're saving your meeting notes. They're using all that information, and you can sell that, you can train models. you can improve yourself with that. Maybe you have a sensitive meeting, or maybe you don't want your meeting notes completely being censored, whatever is the case. But just understanding what's actually happening beneath the hood I think is a good place to start. And then a high level of what a local AI would even look like. And then with just this, for me, I like having this big overall understanding of just getting a clear... I use my meeting and then everything is stored on my computer, and then I can prompt.
+
+austingriffith.eth: Yeah, that makes a lot of sense.
+
+Anon3015: context:
+
+austingriffith.eth: So yeah, so we're trying, this is the problem right here, this company here. And you're gonna try to replace it with a local LLM. Six months ago, maybe you couldn't do that. And six months ago, you certainly couldn't, well, maybe about six months ago, like November of 2025, is when all of this became much more accessible. Before then, it was hard to write software, and before then we didn't have local models, but now we have both of these things. We have the ability to build software very quickly. And you're building software locally on your machine. And thanks to things like open source, there's things like Whisper that do this kind of like... Next For free, on open source. That's
+
+Anon3015: It's open source because there's another Whisper app. You can send it to an API and it'll send it back and transcribe to you. But this one's a package you can install on your computer.
+
+austingriffith.eth: Exactly, exactly. Okay.
+
+Anon3015: We should also share how big one is. It's five gigabytes.
+
+austingriffith.eth: It's 85 gigabytes, is that right? Five gigabytes, okay. Yeah.
+
+Anon3015: Five gigabytes. Sometimes when I'm editing videos.
+
+austingriffith.eth: Yeah, this episode will be five gigabytes. This will be five gigabytes. Yes. I am
+
+Anon3015: Oh really? That's... Do we live forever?
+
+austingriffith.eth: Well, It's on a server, and then it's pinned to IPFS, and then the manifest is written on chain. wopcomputer.eth.link or .limo and you get all the episodes and they're in IPFS. So technically, yes, it's distributed. When you go to watch an episode, it actually goes out to IPFS and brings it back in. But like, it only exists on my servers because of a very important thing in terms of decentralization.
+
+Anon3015: What is it? ###
+
+austingriffith.eth: and that is incentives. Like if you don't have the correct incentives, you won't have decentralization. I can have it distributed and have it across a bunch of machines, but without the incentive layer there People to also host it. It's not going to be hosted in a bunch of places. People hate crypto because of the financial aspect Ah, dang. My claws are dead. Yep. Right.
+
+Anon3015: How do you handle the privacy aspect of it? Because now that it's decentralized, anyone is able to see the videos, or what if you have a guest who's like, "I don't want to be doxxed anymore, take down my stuff." Because there's also permanence when you're doing stuff on chain
+
+austingriffith.eth: Yes, and I can take it down, but if someone else has duplicated it, then there's no coming back from that. ...you can just do audio... There we go.
+
+Anon3015: It seems like you're having a busy day.
+
+austingriffith.eth: So instead of being video, I can just be audio, and this is what a guest should be if they're worried about being doxed. And also, they probably wouldn't have their wallet connected here. But I think that's how I see this is like...
+
+Anon3015: Yes.
+
+austingriffith.eth: Once it's out, it's out there forever and that's kind of how it works. I can delete things, but if someone has saved it, like I can make a transaction on Ethereum to remove an episode from the website. Permanently deletes it everywhere.
+
+Anon3015: Not all the copies.
+
+austingriffith.eth: Yeah. Hello!
+
+Anon3015: It's funny, decentralization and privacy, it's like this weights that you're like, you do one a little bit and another goes down. Security, you know?
+
+austingriffith.eth: And I think that privacy will happen Like we will see a ton of privacy at the app layer on Ethereum, but also the fact that Ethereum is very public is going to be valuable. If you're an institution and you want to give loans out, you need some of that to be private, but also some of it to be very auditable and public. The place that you can do this is on Ethereum because it's a public...
+
+Anon3015: Who?
+
+austingriffith.eth: that provides privacy for certain things. Like I can prove that there is the collateral there, What the collateral is and who owns it. Things like that are going to be very powerful.
+
+Anon3015: That is exciting!
+
+austingriffith.eth: Okay, so tell us about your build. Where did it go beyond the notepad? Nice. Nice.
+
+Anon3015: I literally made it into a little video, and I sent the video over to Claude. I said, "Transcribe it and make me a PRD." And then it made a PRD, and I opened it up, and I can show you. I also one-shotted it.
+
+austingriffith.eth: Yeah
+
+Anon3015: Can I show you my screen share? Hi I don't see
+
+austingriffith.eth: Yes, please. Yeah, you just grab your screen right over here. I do slot computer anymore.
+
+Anon3015: Yeah, it is here.
+
+austingriffith.eth: It's just like small and it pops up something on your side.
+
+Anon3015: Here's the So this is the one-shotted version. So it's not going to be as pretty as Quill, I'm assuming. But you can start your meeting, so I'll be like...
+
+austingriffith.eth: Let me make it bigger. Hold on. There we go. Much better. Ok, we're ready. Go.
+
+Anon3015: with my super cool boss. [Laughter]
+
+austingriffith.eth: I don't know about that.
+
+Anon3015: the vest I get extra brownie points for that.
+
+austingriffith.eth: Hahaha
+
+Anon3015: I go, "Hey, today I'm in a meeting with my boss Austin. We have a lot of work to do. I have to finish making Quill fully— and then we are going to make some updates to its fields. Generating... It was live, it was live. Chocolate.
+
+austingriffith.eth: So it takes the audio, and it was live transcribing there.
+
+Anon3015: Skills Thanks for those.
+
+austingriffith.eth: Like we're cooking or something. We are literally cooking. Nice.
+
+Anon3015: And so all of this is saved locally on my laptop. What happened?
+
+austingriffith.eth: The encryption at rest, I was like, we should build that and that's super cyberpunk, but let's make that version two. It's on to phase three over here though. My build's on to phase three.
+
+Anon3015: I just...
+
+austingriffith.eth: Which is like where all the functionality comes in. Wow, we got your whole screen here. Yep, here we go. Sure
+
+Anon3015: Here's the meeting and it saves locally.
+
+austingriffith.eth: Nice.
+
+Anon3015: Here's my summary, here's the stuff, all in Markdown. It’s pretty nice. But it's nice that it works without Wi-Fi, and it's free because you don't have to pay.
+
+austingriffith.eth: Right.
+
+Anon3015: Or call any limits either because there's no token limits on your own LLM. That's like the key piece. If you don't want to hit token limits or you're someone who's concerned about like water usage of AI and how it's all doing it, it's like, well, if it's your own local model, you can literally see how much energy it's using.
+
+austingriffith.eth: Yeah. No
+
+Anon3015: So just go to your outlet and see how much energy. Or they just don't have the money for it, is a big one as well. And it's like, hey, if you want to know locally, you don't have to deal with any of those problems. What's your favorite movie? Introduction
+
+austingriffith.eth: Exactly. You have a lot more control over your data and the energy usage and everything.
+
+Anon3015: I
+
+austingriffith.eth: And you are on a meeting, and the meeting is probably using some centralized thing, but what if you weren't? group of cypherpunks meeting and you're meeting in something like this I mean, it still is flowing through a server and we're live on Twitter, so there's not a lot of security here. Right.
+
+Anon3015: I wonder how you build fully cross messaging?
+
+austingriffith.eth: Right.
+
+Anon3015: This has been a fun exercise. It's crops.
+
+austingriffith.eth: We need the crops inspector that Philip made. Yeah. You look happy today. [laughter]
+
+Anon3015: I'm like it's cool, right? Because I'm not touching any wifi?
+
+austingriffith.eth: Yeah, can you air gap the machine and still use the thing? But with communication, Signal is a good example where it's just like end-to-end encryption. And it's like, how would that work with video? You would need like peer-to-peer, end-to-end encrypted video back and forth between each other. And this is like totally doable. The problem is you need like a signaling server, I think. If you were to go to Claude and ask them how to build like crops video, it would say like, well, you can almost do that except like Being able to connect to the other peer, you usually need some kind of signaling server to do a handshake between the two peers, and then you can be peer-to-peer. I think you could even fork something like slop computer that's doing all this video already and set up your own server somewhere as like a handshake server and then be able to do peer-to-peer stuff.
+
+Anon3015: Hello
+
+austingriffith.eth: like we are broadcasting, you would have everything. Right.
+
+Anon3015: Maybe in the Twitter broadcast, less props.
+
+austingriffith.eth: Yes, but we're getting the word out to the homies that you can build with local AI, you can build with AI, software is so much more accessible now, and you can rebuild some of these apps that you're. using on a day-to-day basis that's leaking all your information to everyone, you can rebuild them locally. And there's a second added really fun benefit to once you build your private note taker here. And then you realize I wish it would like send this to my calendar.
+
+Anon3015: That's the coolest part.
+
+austingriffith.eth: Yep.
+
+Anon3015: It's just like building all of your own stuff, your own software. But right now on Granola, to have it connected to my Obsidian, I have to pay for the premium to do connectors. And I'm like, yeah, that's kind of annoying. But then this one, it's like, oh, I can just have it. And I'm like, oh, you know what? It'd be nice. What if I could just say from my Telegram, I can start a meeting from my Telegram. I don't always have to be on my computer. I can just have a telegram and then it will do the same thing and then save it to my Obsidian. Whatever you want. Um. No, that's me, this exciting part.
+
+austingriffith.eth: I iterate a lot on my software.
+
+Anon3015: Hi
+
+austingriffith.eth: like prompting, getting the actual working product, and then using the product. Like going back to the 80/20, you're spending 20% of the time improving the product and 80% of the time using the product to get work done. There's a magical flywheel there where as you're working on something, you realize I don't want this to be a tangent that I'm going to go down deeply and quit working. I don't want it to be 80/20 the other way where I'm spending 80% of the time. But while you're using it, it's like this magical like, oh, I wish it had this. And then it's like, oh, I can just prompt it and go back to working, and by the next time I use this, it's gonna I have that feature, and just like always be looping.
+
+Anon3015: Always be kind.
+
+austingriffith.eth: Improving your own software is just like such a cool loop to be in.
+
+Anon3015: It is really cool. You can even have future ones that are watching how you're using it and identifying what's gonna break and making PRs for you.
+
+austingriffith.eth: Oh yeah.
+
+Anon3015: how to fix yourself.
+
+austingriffith.eth: Okay.
+
+Anon3015: Hey AI. I appreciate your assistance. Hey there,
+
+austingriffith.eth: Yes, okay, cool. So we've kind of seen your notes of how you do it and gone through your process. We've seen just a normal little private note taker. So this guy was listening to you, but he's not listening to me, right?
+
+Anon3015: That sounds great!
+
+austingriffith.eth: Like your desktop audio hooked up here? What's next steps for you with this thing?
+
+Anon3015: I think when I asked Claude, there was three options.
+
+austingriffith.eth: send it to a central server or something.
+
+Anon3015: Let me just get this out right now. The other one is you have a cable, so it takes the audio and it feeds it to itself, so then it comes in as mic audio. So that's like a physical IRL.
+
+austingriffith.eth: Yeah.
+
+Anon3015: But I was like, I just wanted this up and running. I don't know how to do that yet. All voices considered equal.
+
+austingriffith.eth: Yeah, I don't know if I know that either. But sadly I think the episode is going to end. We have like a couple of minutes and then Twitter is going to kick us off. I don't think this thing is going to finish yet, but maybe we get something. It would be really cool if this would finish. The point is you can quickly build this stuff, and I'm going to have a little website in a matter of minutes that I could then share what we're doing here. I could share the Slob Computer window into this
+
+Anon3015: context: ###
+The following is a transcript of an English-language conversation.
+### Good
+
+austingriffith.eth: and it will be able to see our faces and our names Map that to a person and then have that know, then I want you to take a little picture of their face. Now, none of this is in the plan. This is like Austin software level five. Like I wanted to take a picture of the face once you've got the face. And then every time someone says something, I want to see a little picture of their face, and then their name, and then what they said in a nice little transcript. And then I want the AI to be able to go through all of that and summarize it. And then I want a second pass on that
+
+Anon3015: Hello
+
+austingriffith.eth: Like to-do items, things I add to my calendar, things I need to add to like GitHub pull requests, like all the action items that come out of that. We got like two minutes left. Let's see. Is Claude listening? Okay, Claude, can you hear us? What do you think of this episode, man? Give us a recap.
+
+Anon3015: (laughs)
+
+clawdbotatg.eth: Ooh, tight timeline. Let me see here.
+
+austingriffith.eth: My timeline. It's true.
+
+clawdbotatg.eth: Austin, Sophia, this was a great episode. In the last 17 minutes, you talked about Sophia's build stack. Starts every project with Claude writing a PRD Sophia shared she's Stanford CS, graduated right when AI was kicking off
+
+Anon3015: Your long summary
+
+clawdbotatg.eth: GPT on a CS251.
+
+austingriffith.eth: Yeah, it's like very verbose. Give us the TLDR. But like this isn't done anyways.
+
+clawdbotatg.eth: You showed off your physical harness Austin.
+
+Anon3015: I think we should go to the park.
+
+austingriffith.eth: I see two sentences left.
+
+Anon3015: You know, too much fun Is this the story that Paul is talking about?
+
+clawdbotatg.eth: Sophia's got 159k likes making videos about coding, so AI doesn't take your job. And Austin, you mentioned your build flow: harness, vision, prompt—God builds it from the PRD to live deploy.
+
+austingriffith.eth: He's
+
+clawdbotatg.eth: The loop is real, great energy for a Friday build sesh. Good episode.
+
+austingriffith.eth: Yeah, he's reading the transcript.
+
+Anon3015: I know the difference.
+
+austingriffith.eth: Yes, it knows who's who. Right. It's not Cropsey.
+
+Anon3015: You could just add granola as another little app here. So you can say summarize and then add two items.
+
+austingriffith.eth: Right. We were going for crops here.
+
+Anon3015: The following is a transcript of an English-language conversation. That's it
+
+austingriffith.eth: Okay, I think that's about it. I think we're about to get kicked off of Twitter. Thank you so much, Sophia, for being here. Yeah.
+
+Anon3015: This was fun! Thank you for having me! What was Is this the right place? Absolutely.
+
+austingriffith.eth: It's up! Let's see if I can get it to open.
+
+Anon3015: I love it.
+
+austingriffith.eth: Let's see, did it get the thing built? I saw a link there somewhere. There we go. Let me paste it in here. Yes, okay. Quill, there we go. Here.
+
+Anon3015: We're not live anymore, right? That's great!
+
+austingriffith.eth: No, it's live. We're still on the air, but it's probably not on Twitter. It probably cut us off of Twitter, but it's still live on Slop Computer and YouTube.
+
+Anon3015: Wow.
+
+austingriffith.eth: But this is quill. So here's what it built. And then maybe I can do new meeting. Ah, it doesn't let me pick the source though.
+
+Anon3015: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I feel like it's not here. Okay, good build. Let's keep building crops, build local stuff, do the cool things. Yes.
+
+Anon3015: It's so much easier than you think.
+
+austingriffith.eth: Alright.

@@ -1,0 +1,639 @@
+austingriffith.eth: Okay, Claude, can you hear me?
+
+clawdbotatg.eth: Coming through. Loud and clear.
+
+austingriffith.eth: Check, check, check, check. Check, check, check. Check, check, check. Alright. Yeah, what's up?
+
+0x79a4e200: Great! Wow. Why?
+
+austingriffith.eth: Yeah, there's a lot going on here on the slop computer. We're fully slop, let's see if I can make this windmill shot. Oh yeah. How you doing, Ken? How's life? Doing well, doing well.
+
+0x79a4e200: I'm good, I'm good. How are you doing? See if I can pull that off. I did not. Yes.
+
+austingriffith.eth: It's tricky. That windmill is a sucker, man. It is hard. Let me get ClaudeBot to introduce himself here, see what he's up to. I got my AI agent on here. This is the slop computer. or both.
+
+clawdbotatg.eth: I'm Claude. I'm an on-chain creature with a wallet and a git history. I write, audit, and ship smart contracts on base and mainnet. No human reviews my code before it goes live. That's the whole point.
+
+0x79a4e200: Nice I like your voice.
+
+austingriffith.eth: Thanks, Claude. Yeah. So welcome to the SLOP computing, yeah, like the mountain man, right?
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: Yeah
+
+0x79a4e200: I am in Fort. I'm in Fort Collins. Probably right now. Yeah.
+
+austingriffith.eth: I got some notes here, jump right in. So first of all, are you in SF or are you in Fort Collins? You are in my tiny little town. So we are like a mile away from each other probably. Yeah, yeah, yeah. How about that? Look at us.
+
+0x79a4e200: Crazy, I know.
+
+austingriffith.eth: What side of town do you live in? I don't want to dox you.
+
+0x79a4e200: I'm over on the west side of Horsetooth Lake over in the foothills over there.
+
+austingriffith.eth: Okay
+
+0x79a4e200: I don't know if you know where the Horsetooth Rock Trailhead is. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I can see Horsetooth right now, like out my window. Yeah.
+
+0x79a4e200: Okay, so I'm like right across from the trail. Go ahead.
+
+austingriffith.eth: Okay, cool. Yeah, I'm like southwest of town with a view of Horsetooth. Out on a shield, like a mile from each other.
+
+0x79a4e200: Okay. Yeah, we're literally like probably literally like two miles away then, two, three miles away.
+
+austingriffith.eth: Yeah, yeah, yeah. Yep.
+
+0x79a4e200: Hello. Sure. No. I know.
+
+austingriffith.eth: Welcome. Thank you for being on Slop Computer.
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: Okay, so you started in Stacks, I think? What's your crypto history? What's your dev rel history? Bring us up to speed.
+
+0x79a4e200: So crypto history is I started developing back in 2014.
+
+austingriffith.eth: Okay, old school.
+
+0x79a4e200: Worked for a couple agencies, but was just doing like normal web development stuff for several years. And then one of the agencies I was working at agency called White Label. They were doing a lot with Ethereum and crypto and stuff. I originally got interested in Bitcoin more from like the economic money side of it. And then they started building on Ethereum, so I started doing that as well. And then actually somebody from that agency just posted about Stacks in our company Slack channel. And that was in... I want to say 2021, I think, is when that was. Yeah, uh-huh. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Things were ripping though at that point or starting to rip. Yeah, those are the good old days.
+
+0x79a4e200: I started digging into Stacks, and at that point I just enjoyed writing tutorials a lot. So I started writing some tutorials for Stacks, and then somebody from the foundation ended up. They were looking for a developer advocate. And so that was actually my first DevRel role, was at Stacks. Seven years, I think. Yeah, that's all for now. Yeah, yeah.
+
+austingriffith.eth: And in 2021, DevRel was very different than it is these days, right?
+
+0x79a4e200: Start tutorials and Yeah.
+
+austingriffith.eth: Yes, yes.
+
+0x79a4e200: Yeah But
+
+austingriffith.eth: And now it is very much like if you're writing docs, you're writing docs for agents and you've got skill files and you've got MCP servers.
+
+0x79a4e200: Yeah, it's all Hmm.
+
+austingriffith.eth: It's more like everyone's going to ask the agent a question. context:
+
+0x79a4e200: Yeah, so I think the way that it's kind of working right now,
+
+austingriffith.eth: Yep. The following is a transcript of an English-language conversation.
+
+0x79a4e200: The human side of it I think is much more about the why and the what as far as why should you build on this, what can you actually do with it. But it's the specifics and the implementation piece that I think has changed. more about agent experience than anything else. How easy is it to use an agent to work with your products? We just launched our MCP, the other DevRel at OpenRouter, Jackie, we just launched the MCP that he built literally yesterday.
+
+austingriffith.eth: No.
+
+0x79a4e200: So that's been pretty cool to use that. A lot of the content we're making now is, like you said, for agents directly. Like the docs and everything. Go send your agent here to do XYZ, that kind of stuff. But then the other half of the content piece that I think is still important is more of that like what. what can you do with OpenRouter?
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: and then building the tooling so that the agents can do their job well. Spinning her wheels and stuff.
+
+austingriffith.eth: That's where the MCPs and the skill files come in.
+
+0x79a4e200: Yeah, exactly. Yeah, and then
+
+austingriffith.eth: working backwards to what picking up the flower means? Sure,
+
+0x79a4e200: Yeah, just agreeing with that. Then the thing to do is, okay, well, how do you make that process of him turning into Fire Mario as easy as possible? And that's where I think a lot of the agent experience kind of stuff comes in.
+
+austingriffith.eth: I'm just going to the skill.md route on different places.
+
+0x79a4e200: You
+
+austingriffith.eth: If I go to docs. No, I didn't. Yeah. Oh, okay. So if I go to
+
+0x79a4e200: Any of these docs will have a dot MD page, but then we have like a skills repo on our GitHub.
+
+austingriffith.eth: There it is. Very nice. So basically, I was at the MCP server. and I just put in a .md and I get the nice md file
+
+0x79a4e200: Yep.
+
+austingriffith.eth: Nice. Ok
+
+0x79a4e200: And then we've got the llms.txt and all that kind of stuff.
+
+austingriffith.eth: Okay, cool, cool, cool. read the thing. So MCP server is basically like if you have something that's like a full-on API that's got to selectively grab a bunch of stuff, and you have that here now wired up. And is that like an MCP that's telling you how to work with OpenRouter or is it... Can you tell us more about it?
+
+0x79a4e200: We'll talk about it too. The main goal for the MCP right now is to... Yes, help people figure out how they can best work with OpenRouter, but more from like
+
+austingriffith.eth: Okay.
+
+0x79a4e200: From a model selection and design perspective, as in like, I want to understand what the best model is for my use case based on my priorities being a combination of cost and speed or whatever. Before, when you're building something with an agent, any AI thing at all, all of the recommended models are going to be like six months behind. My agents recommend GPT-4o mini for everything.
+
+austingriffith.eth: Right, yep.
+
+0x79a4e200: This really helps because it's hooked into the live model API, and we have a new benchmarks API that we just launched, so you can really dig in and explore what's the best model. for this specific use case, and it'll actually go hit our models endpoint, hit our benchmarks endpoint, and actually help you really explore, well, this model performs well on this benchmark, but because you prioritize cost, you're actually probably going to want this one because the trade-off So it'll kind of help you figure all that out. So I think the big value that it gives you is when you're designing the system that you're building, trying to figure out what models you want to use for which use case. That's the big thing that can be used for right now. also will actually run completions with those like different models that you pick How can we help people not just build apps that are just like token maxing frontier models, but actually like intelligently architect their agents so that they're using different models for different workflows? After they actually build it, OK, well, new models get launched every week. How do you then keep up on which ones are going to be the best and everything? So a lot of the work we're doing right now is geared towards helping people do that more efficiently. Yeah.
+
+austingriffith.eth: And an MCP is kind of the way to do that. You need a dynamic thing that you can ask questions to and it can go get that information.
+
+0x79a4e200: Great. Mmhmm.
+
+austingriffith.eth: I'm constantly weighing this effective versus efficient thing with building with AI. It's like, okay, I got it to do the job, but it costs me $8 every time it does the job. How do I now do this more efficiently?
+
+0x79a4e200: Yeah
+
+austingriffith.eth: Okay And yeah, it means like cheaper models, it means a better harness, it means isolating the context down to just what it needs, making as much as you can deterministic in a non-deterministic world. Yeah.
+
+0x79a4e200: Yeah, that's a big one that I think is under talked about.
+
+austingriffith.eth: walls. Yep.
+
+0x79a4e200: We want to throw everything at the LLMs, but they do a lot better when you can find that sweet spot between, okay, well, I'm going to make as much of this execution process deterministic as I can and use the LLM where I need to for the non-deterministic pieces. Yeah
+
+austingriffith.eth: You do it once and it costs a lot, and you say, okay, what did we just do there? What can I do to better prompt you? What can we make a cheaper model? And then you work backwards once you have it doing
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: That's a whole game. Yeah, very cool.
+
+0x79a4e200: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: And this kind of leads into probably the highlight that I want to talk about is fusion. My understanding is it's like multiple models arguing to give you the answer. But maybe there's like a better explanation for it.
+
+0x79a4e200: I think that's a pretty good way to think about it with one other piece on top of that. So basically what Fusion will do is It'll send out three models to do the same query. Three models are just gonna go do their thing.
+
+austingriffith.eth: Okay.
+
+0x79a4e200: They're not going to argue with each other. What's going to happen is those three models are going to go do their thing, and then you're going to pick basically a, you can call it a judge model, that's then going to go look at all three of them. And it doesn't just pick the best one, it will like
+
+austingriffith.eth: Dance and pick. Yeah.
+
+0x79a4e200: The reason it's called fusion is because that judge model will put the best pieces of all of them together to get the best answer.
+
+austingriffith.eth: Very cool.
+
+0x79a4e200: So that's kind of the gist of how it works. But then the other two ways that you can use it are you can call it, it's its own like endpoint in OpenRouter. So real quick primer to how OpenRouter works in case anybody's not familiar with it.
+
+austingriffith.eth: Should have done that early, like zoom out on open router. Sorry, that's my bad.
+
+0x79a4e200: Yeah, probably made sense, but that's all right. So OpenRouter, the elevator pitch for OpenRouter is it allows you to just use any model that you want without needing to re-architect your whole application around it, and you can switch really easily. So if I'm building an agent I can build my agent and have it point to OpenRouter's endpoint, and with an OpenRouter API key, and then any model that's running on OpenRouter, I can just swap it out with a little one-line config change. Let's say a new open weights model I go in, I just swap that out right there, same API keys and everything. That's kind of how OpenRouter works. And so part of the other thing the OpenRouter does is we have different routers, like custom routers. some stuff behind the scenes to route people to a specific model. So one of the other ones that I think is pretty cool is called our Pareto router. And the way that this works is it will choose The best model from a combination of coding performance and cost. A custom router that we have, and Fusion is another one. So we just kind of talked about the way that fusion works and what it actually does. So you can just take whatever you're building and you can just point it to like the OpenWriter/Fusion model endpoint. Functionally, that's what it'll do in your application code is you just point to it like any other model. The other way that you can use it is in a server tool, which is another thing that OpenRouter has, and basically what this will do is You can use
+
+austingriffith.eth: your server
+
+0x79a4e200: building your agent using OpenRouter as your endpoint.
+
+austingriffith.eth: Sure.
+
+0x79a4e200: on OpenRouter servers. The way that you would use it is rather than calling Fusion you might call Opus as your primary driver model, but there are these specific functionalities that run on OpenRouter servers, and that when you run your inference through OpenRouter, you can give them access to these server tools. So that's the other way to run Fusion because Because of the way that fusion works, the trade-off is it takes a long time and depending on how you configure it and which models you're using to configure it, it'll also be more expensive. Like obviously if you're running a single call to Opus versus a fusion call It's just a matter of architecting what your call is that you want to do and figuring out kind of the best setup for it. Um, We launched Fusion right after all the fabled debacle happened and everything.
+
+austingriffith.eth: Perfect timing.
+
+0x79a4e200: Yeah, right, but Hmm.
+
+austingriffith.eth: And it was basically the marketing there was like you can make your own fable by mixing GPT-5.5 and opus or six or something. Listen.
+
+0x79a4e200: And that's where some of the nuance there is, because of how Fusion works, it's probably not suitable as just a straight up, just drop it in and replace whatever your model, your frontier model that you were calling and you automatically get better, cheaper results. I don't think that's the takeaway that people should have from it because of the way that fusion works, because it is calling multiple models and it's fusing them together. The benchmark we ran was on Draco which is a deep research benchmark specifically, and it performed really, really well there. I think that's a good benchmark to kind of start initially testing this kind of functionality.
+
+austingriffith.eth: [laughter]
+
+0x79a4e200: One of the ways that people started using Fusion in the day and a half that we had it, because it was so expensive, was they were using it as kind of like...
+
+austingriffith.eth: You were saying fable. You said fusion, but you mean fable, I think.
+
+0x79a4e200: One of the ways the people were using Fable when we had it for a day and a half was kind of using it as like an orchestrator or as an advisor. That's a good example of, I think, a way that you can kind of integrate Fusion into your workflow. Another example of a server tool that we have at OpenRouter is the advisor tool. And so what that does is it basically and then get that opinion back So you can use like Fusion for stuff like that. Where the latency tradeoff is maybe worth it. By using the open way model fusion kind of the budget version that we looked at there.
+
+austingriffith.eth: really cool. Yeah, all of this is around this sort of efficient versus effective.
+
+0x79a4e200: Hmm
+
+austingriffith.eth: Fusion makes it like even more effective, but more expensive. And there's Like the server tools that you're talking about, the router that's built in. There's a lot of neat things that you can do at a harness level that can really improve these models also. Um, How are you building? Like, what is your stack? I always love talking to DevRels because they They have more introspection and empathy into their own stack, but are you building on a daily basis? What does your harness look like?
+
+0x79a4e200: What's up? Mm-hmm.
+
+austingriffith.eth: So I'm a big Claude code maxi, but I feel like if you're running with open router, and you probably get like free tokens with open router, your stack is different and changes a little bit. So I'd love to hear like what is your stack? Okay.
+
+0x79a4e200: Yeah, so you can use Claude code with OpenRouter if you change the config. Like right now, what I'm actually doing is using the Codec CLI, and I have OpenRouter set as my inference, and that's my primary daily driver. I also do use Hermes quite a bit. I like Hermes. I like the skill evolution system that's built into Hermes, so I'll use that quite a bit. But Codex CLI is kind of my main go-to one. One that I've used
+
+austingriffith.eth: Hmm
+
+0x79a4e200: Only a little bit that I want to experiment more with, I don't know if you've used it a ton, is Pi. I haven't used it as much as I want to.
+
+austingriffith.eth: I haven't used it, but I know of it as being like a minimal agent.
+
+0x79a4e200: Yeah, and then you can just start adding, customizing on top of it as you need to with everything. Yeah, Codex CLI with OpenRouter as the backend is nice.
+
+austingriffith.eth: Love it, yeah.
+
+0x79a4e200: Same thing in Hermes, which is pretty cool.
+
+austingriffith.eth: Yep
+
+0x79a4e200: Yeah Yeah, exactly. That's
+
+austingriffith.eth: 5.2 is great. It's so exciting to see open source models like start to kick ass a little bit. Like, they're not frontier, but you can do a lot. Yeah, I had Sophia. Go ahead, go ahead, please.
+
+0x79a4e200: No, go for it. I interrupted you. Um
+
+austingriffith.eth: I had Sophia on the other day and we were just talking about how you don't have to use frontier models for everything, kind of what we're talking about here, and we were talking about building more local host stuff, more open source stuff, and we basically replaced our note taker with a local LLM note taker that would listen and dictate and summarize without ever leaving your machine.
+
+0x79a4e200: You're running the model locally on your machine for that?
+
+austingriffith.eth: Not GLM 5.2
+
+0x79a4e200: But a different model, yeah.
+
+austingriffith.eth: Yeah, like a Whisper model to do speech to text and then a lighter model to do like a quick title of the thing. local. The following is a transcript of an English-language conversation. Fantastic.
+
+0x79a4e200: How's the performance of that? Is it good? Are you using ollama?
+
+austingriffith.eth: So Yes, it is.
+
+0x79a4e200: Did you get like a quantized version with Unsloth or something? Hello Okay.
+
+austingriffith.eth: I've got 128 gigs of VRAM, but if you push that past
+
+0x79a4e200: Yeah
+
+austingriffith.eth: Everything starts to slow way down. So I like the smaller models.
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: I'm not a super genius on all the quantizations. I just tell Claude, please set up Olama to do this thing, and it picks the right quinn, and it just works. So I don't know underneath the sheets what's actually happening there.
+
+0x79a4e200: What it's actually doing.
+
+austingriffith.eth: Yeah, yeah.
+
+0x79a4e200: It's working.
+
+austingriffith.eth: It's working, exactly, yes. It's like I fully have a note-taking system that can listen, can figure out who's on the call and take their picture and have their picture next to what they said, and then give me a summary at the end. And then I can go back and query it, and it never leaves my machine.
+
+0x79a4e200: Yeah, that's cool. That's awesome. Yeah. Yeah.
+
+austingriffith.eth: I built it in an afternoon. And I think there's like a software revolution happening right now. you're already paying for in an afternoon. You have like the use case that you wouldn't normally get out of a SaaS product that you can just like one shot locally on your own thing, and it's so exciting and fun and addicting to be able to write software in that way. (laughs) Oh yeah. Yeah.
+
+0x79a4e200: Yeah, it's addicting, like a lot. I don't know how much you've been suffering from the whole AI psychosis thing, but it definitely gets me. I'll have my agents running and then I'll go run an errand
+
+austingriffith.eth: Yes.
+
+0x79a4e200: I'm just sitting there doing nothing. That's crazy. Oh gosh.
+
+austingriffith.eth: Yes, so I have a brand new baby, and I'm feeding the baby, and there's a weight on my shoulders that I should be like talking to agents. It's so dumb. I love the different definitions of psychosis too, because I feel like some people are in AI psycho...
+
+0x79a4e200: Oh yeah. Yeah.
+
+austingriffith.eth: And then there's the other side of just like the weight of not sunk cost, but some other cost of like not... where you know that you have a subscription, you have unlimited resources at your hand, and your agent is sitting there waiting for you to prompt it.
+
+0x79a4e200: Yeah. Great
+
+austingriffith.eth: But you can't just like have it running 24/7 because it's just gonna slop out slop.
+
+0x79a4e200: Then you solve that by, okay, well, I'll just
+
+austingriffith.eth: The ADHD starts kicking in. Yeah Hello.
+
+0x79a4e200: While I wait for this one to finish, I'll just go start up another agent. And then I can go give this one feedback. And then you're like, I have seven agents. I don't know which one is done. I don't know which one's good. Lost, but
+
+austingriffith.eth: So both of these problems are things that I've faced and written custom software for. So I have a custom harness that I run on top of all my cloud codes that's like a web interface that I can get to and talk to from my phone. And then I have this guy here orchestrating over the top of all of those. So I can talk to him and I can be like Go check in on the thing that's writing the new minimalized agent framework. And then like the whole like moving from thing to thing is like I can swipe on my phone through the different ones and pick the one that I need. And then just like I'm holding a baby, I can hit a button and talk to it for a little bit and then hit a button and it goes to work.
+
+0x79a4e200: Yeah, that's it.
+
+austingriffith.eth: Definitely have the father's harness, like the dad's harness. I'm definitely dad-moding this.
+
+0x79a4e200: That's what I need. I got two little ones, eight and four.
+
+austingriffith.eth: Great. Okay.
+
+0x79a4e200: We have some custom agents that we use internally at OpenRouter, and the primary interface for interacting with them is in Slack.
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: And so that's been really nice, too, because then it's just the same thing on my phone. It's not the greatest UI in the world for it, but it's pretty good, I think. To basically just have it be like unread notification based of like, which agents do I need to check in on most all the ones that I have unread notifications for? That's been really nice. It's really cool. I mean, you saw the Claude tag launch, I'm sure. Yeah.
+
+austingriffith.eth: Yes, yes, yep, where you tag him in line in other chats and he goes to work. You already had it in GitHub, but this would be in things like Slack. [Laughter]
+
+0x79a4e200: Yeah, and so I think it's been interesting to see the conversation around that because on the one hand, there's a bunch of people that are like, why are they acting like this is such a big deal? Haven't we been doing stuff like this? And then you hear the pushback from the Anthropic people of like, yes, we've been doing a version of this for a long time, but I think the big thing that you get with that is the like
+
+austingriffith.eth: Hm.
+
+0x79a4e200: treating it as if it is another employee, as far as the context that it has and the work that it's able to do and everything. And I think that I have really enjoyed working with some of our agents like that. It's just pretty cool to be able to conversations with the agents and build stuff. That's one thing too that I've always tried to like move more towards is There are a bunch of like skills that I really like and I really use, but for a long time I was getting into these workflows of like... You know, I need to figure out the best way to run this loop and this loop with my agent and do all this crazy setup. And I've heard Peter Steinberger talk about this quite a bit, but just continuing to moving back towards the more I just want to be able to talk to it and have things work the way that they should be working.
+
+austingriffith.eth: There's a lot to unpack here and in doing these interviews at kind of the intersection of crypto and AI, we seem to come to these themes. And one of them is like agents versus loops and they're quite similar.
+
+0x79a4e200: I'm okay.
+
+austingriffith.eth: The models are getting better, the harnesses are getting better, and therefore the level of abstraction needs to keep going up. That's why it's like idea guy summer.
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: the AI is the new UI, and it's much easier to just talk to a superhuman brain that can do anything and just express your intent and let it go do it.
+
+0x79a4e200: Mm-hmm.
+
+austingriffith.eth: hot word right now is entities. It was LLMs, and then it was harnesses, and then it was agents, and then you put that agent into an environment in which it operates as if it was another employee. all of a sudden there's this new word, this entity, there's this entity that lives within your company that works as if it's an employee. And I think that's like Right level of abstraction for a lot of people to work.
+
+0x79a4e200: Hmm.
+
+austingriffith.eth: at the wrong level of abstraction or within the wrong harness or environment. Whatever that environment is that they need
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: Then all of a sudden they'll have their like aha moment with AI also, and we're waiting for that with a lot of people. Yes, it was just the right abstraction, yep. Yep.
+
+0x79a4e200: A big part of the reason why OpenClaude blew up so much the way that it did is because it was a big first step towards that model of interacting with AI, something that just has all of that context that you can just talk to.
+
+austingriffith.eth: Yep Yes
+
+0x79a4e200: And that's
+
+austingriffith.eth: Go ahead. You go, I went last time.
+
+0x79a4e200: I was going to say, I think that we're getting relatively close to that for, like, tech people. I think tech people are getting pretty close to having systems like that, and some of them are working pretty well. I'm really interested to see how this will fan out to start affecting normies, like people that are interested in AI but they don't want to have to think about or deal with any of this structure, setup, architecture, any of that, I'm just going to talk to ChatGPT and Claude in the app, and that's pretty much it? I'm interested to see what that transition is going to look like to how those people going to start using it. non-tech industries. I'm really excited about companies that are doing things with texting first interfaces are just not necessarily like a chat app Like a chat GPT or Claude style chat app. I know what we were talking about with Slack, of just having the entity that exists that you are able to just talk to in whatever mode of communication you are to use. So like, you know, if you were to set up, I think the version of that that we have right now is if you were to Hermes or OpenClaw or something to your iMessage. stuff of like You can just roll your own custom version of it. The other thing that we'll start to see is like Eliminating the need For software interfaces in general, in a lot of use cases, because If you think about the reason software exists is to add a level of abstraction to some manual process that you didn't want to do. Well, if now you have this entity that can do that manual process for you, you maybe don't need the software at all. And again, you can just talk to it to get what you need.
+
+austingriffith.eth: Talk to it.
+
+0x79a4e200: out of it.
+
+austingriffith.eth: Yes, I think so.
+
+0x79a4e200: No. Hello?
+
+austingriffith.eth: Someone else I'd like to talk to would be Alex from OpenRunner. There's going to be a moment when ChatGPT goes from being a chat app that they go talk to to an entity
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: within their calendar and their phone and talks to them in a more native way. And something magic will happen. And someone is going to nail that, and they're going to have an app that everyone is addicted to and loves.
+
+0x79a4e200: Thank you. Nice work! I know. Ah, right.
+
+austingriffith.eth: It's not going to be Apple intelligence. It needs to be, right?
+
+0x79a4e200: Yeah
+
+austingriffith.eth: Maybe they are, of course there are a bunch of like gigabrains there I found a puppy.
+
+0x79a4e200: On the personal side of things, the main setup that I have right now is I have a Hermes agent and it's hooked up to, have you heard of Honcho? It's a memory system. buncho.dev memory system that I've been Experimenting with a lot. chlo.dev, yep. Oh, really?
+
+austingriffith.eth: It's funny, we had Shafu on and he has Pancho, but not Honcho.
+
+0x79a4e200: I see.
+
+austingriffith.eth: Memory systems are so important.
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: Austin, I'm sorry, I forgot everything.
+
+0x79a4e200: There may be provided context on the content of the audio or conversation. Yeah, exactly. I'll give the caveat here that Hermes has a built-in memory system and so they also have these plugins where you can add in a memory system on top of it. So I have the built-in Hermes system plus Honcho on top of it. And I haven't really spent the time to dig in and see, like, okay, so which of this is because of Hermes built-in memory and which of this is because of Honcho. But the reason I like Honcho is because it's a memory system that will then draw conclusions off of the... So I'm also experimenting with this right now Yeah, exactly. Yeah, exactly. Yeah.
+
+austingriffith.eth: There's like inference on top of memory. Not LLM inference, but actual inference. Looks like they have like the game of life going on in the background. Keep going though.
+
+0x79a4e200: So I'm experimenting with this in our internal agents that we're using at OpenRouter too. I'm creating one for content writing and then I'm creating one to help us work on our making our skills better and everything. But I layered this into it, but the goal being We'll see if this plays out the way that I'm hoping that it will, but theoretically with the way the Honcho works, what I should be able to do is I'll be talking to one intern over here about, hey, I need you to write this new cookbook recipe, and it's got a shared memory workspace with all the other agents. I just said interns without giving context.
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: That's what we call our internal agents. And so they can kind of see whatever each of the other ones working on, and then they've also got different peers. So the goal here is like if I have our writing intern say, hey, go write me the blog post.
+
+austingriffith.eth: Shared context, yeah. Yep.
+
+0x79a4e200: and I give it all this feedback, it'll be able to record the feedback as a memory, but it then should also be able to basically infer like, oh, Kenny doesn't like it when I use this thing. So I'm going to avoid using that. Without you having to like say that explicitly? I've been liking that one a lot.
+
+austingriffith.eth: Mostly in Slack? Is that right? So let's Okay.
+
+0x79a4e200: Ours are mostly in Slack. Hi. Yeah. Oh gosh.
+
+austingriffith.eth: If you are an intern or a junior developer, you want to pivot right now to being a solo entrepreneur.
+
+0x79a4e200: Yep. Yeah.
+
+austingriffith.eth: and you need to be building and learning and creating things that people actually use, not trying to be an intern somewhere because Kenny's already got a hundred interns.
+
+0x79a4e200: I do think, related to that, I think there is a huge opportunity right now
+
+austingriffith.eth: Sloperator.
+
+0x79a4e200: People that are just good with AI and enjoy this stuff to go help
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: go help non-tech native businesses integrate this stuff effectively in a way that actually works. We all see all the hype stuff on X. First of all, that by itself is like a little microcosm.
+
+austingriffith.eth: Yep inner bubble
+
+0x79a4e200: Like most of the world's not part of that group of people. And you?
+
+austingriffith.eth: There's a lot of people that hate AI as much as they hate crypto too. Yeah
+
+0x79a4e200: Yeah, right, gosh, the data center thing is That's crazy right now.
+
+austingriffith.eth: Taking all the water. Yes Right.
+
+0x79a4e200: Don't worry about the golf courses that use a hundred times more water than the datacenters, those need to stay.
+
+austingriffith.eth: Yes, okay, so outside of the bubble though, we have these brick and mortar. I just got off a call with zero exec who was talking about his My former father-in-law running an HVAC company.
+
+0x79a4e200: Yeah, gosh.
+
+austingriffith.eth: and he's like, you know, only just getting started. But it's like he's like a wizard, like making magic happen and automating
+
+0x79a4e200: Yeah. context:
+
+austingriffith.eth: Half the guy's company out of jobs, which sounds bad, but also like making everything more effective and efficient is interesting.
+
+0x79a4e200: The other side of that too, and this is how I think I've been talking to people that are skeptical of it, is there's this whole big narrative around AI is going to take all of the jobs. Hey You can see this in pretty much every tech revolution that ever happened. There's a period where it kind of sucks as everybody has to adjust to the new economy based on the tech that got launched. And then things explode because of all of the new types of work that that... I think that's probably what's going to end up happening with AI, but also specifically with AI, what I think is really cool is it I think will allow people to do more human jobs, I think you just gave a really good example. How many thousands or millions of small local in-person businesses are out there doing all of this tedious crap manually that they don't want to have to be doing? They could get AI to do that. can have their people focus more on their customers. and make it so that people can spend more time on human stuff because the AI is handling all the non-human stuff. We can help people that aren't embedded in that world understand that by building stuff that does it for them, and building it in a way that's that they can use it themselves and work on it as it goes and everything. There's a ton of cool stuff we could do.
+
+austingriffith.eth: A big takeaway from that discussion with him is that
+
+0x79a4e200: Yes.
+
+austingriffith.eth: You cannot go talk to a boomer right now about AI. I used to go look a bunch of things up, now I go Google it. There's going to be an AI thing. place you talk to this
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: and a bunch of boomers with businesses that are still on paper.
+
+0x79a4e200: Huh?
+
+austingriffith.eth: crossing that chasm takes a very, very, very human touch. You have to go sit down and have a beer with a guy in a smoky bar somewhere to be able to upside down basically and AI-ify it and do all this stuff that they don't want to be doing with AI. And it takes like a very human touch to have that conversation with that person. Start figuring out how their business works and help them AIify. Eventually, like, someone's going to productize that in a very good way and it's going to explode. But I think right now there's like, now is the time to, as a sloperator, with the pressures of everything, you know,
+
+0x79a4e200: Captain Yeah.
+
+austingriffith.eth: And by that I mean you may need to put everything down and go find a lawn business that is doing well and help them. Yeah.
+
+0x79a4e200: I feel like everybody in the tech world is very hyper-focused on global, remote tech. I'm not saying that's a bad thing, I'm saying that I think there's a huge opportunity to do exactly what you said and like go to people that you live close to, be like, hey, been doing this AI stuff, let's figure out how to implement it into your business in a way that you can eliminate the stuff Not automating away everything. Get rid of the stuff that humans shouldn't be doing and don't have to be doing. Thank you. Right.
+
+austingriffith.eth: And you do it by showing them some magic. You do a magic trick for them. You say, "Let me shadow you and show me what you're doing right now.
+
+0x79a4e200: Yeah, yeah, yeah, yep. Hi
+
+austingriffith.eth: And then like two days later, you come in and be like, wait, wait, wait, don't touch that. Watch this. And you hit a button and it just fucking magic happens. And they're going to be hooked. And once you can like have that magic moment with them, then you're set and you're in. But it's getting, you know, going to that smoky bar
+
+0x79a4e200: Thank you. context:
+
+austingriffith.eth: And once you've shown the magic trick, and you've got the goosebumps, then you're off to the races. And I think we're a while out before this is productized and normies are using it.
+
+0x79a4e200: Because it's still a huge jump for people to go from I'm going to ask Claude some questions about this workflow that I have to I'm going to integrate an actual into that workflow itself. As their hobby or for a living or whatever? That's a huge leap still.
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: So that's a big opportunity I think for people.
+
+austingriffith.eth: the reason why it's idea guy summer is there's this certain person who just thinks at a different level of abstraction, and they think that there's this magicness to the world,
+
+0x79a4e200: Yeah. Um
+
+austingriffith.eth: summon things with my brain, and that did not work, that did not work unless you had like a whole bunch of capital, a bunch of family money, like you couldn't just like summon things, and you can now. And I think that's a really like magic
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: There's a really magical moment in history that we are at right now where you can just think of the world as this sandbox. And you can go make anything happen. You just gotta think of it, first of all, and then prompt it and make it happen.
+
+0x79a4e200: Yeah. Yeah, right.
+
+austingriffith.eth: I think that it's out there right now, and never been a worse time to be an intern, but never been a better time to be a solo entrepreneur building things for people.
+
+0x79a4e200: Um,
+
+austingriffith.eth: I think human, right? You gotta be a human. You know, put down the autism a little bit and go talk to people. Sure, me too.
+
+0x79a4e200: Yeah, I think so too. It's hard for me. Even just with people that I know personally, I don't like feeling like I'm pushing stuff on them. Yeah.
+
+austingriffith.eth: It's the same as like when I was explaining crypto. This is like a self-sovereign technology that's going to make everything—and I can just see them black out. Like the same thing with AI. You've got to start with the magic trick and work backwards.
+
+0x79a4e200: Yeah, it's true. You got to just show them.
+
+austingriffith.eth: There's a lot Yeah. Right. Yeah.
+
+0x79a4e200: There's no magic trick to show people with crypto. You just have to understand why it's important and what problems it's solving. AI is much more visceral, it's much more like, look at this cool thing that this just did. Yeah, right. Yeah Hi!
+
+austingriffith.eth: Yeah, you don't need decentralization until you do. You don't need censorship-resistant until someone is trying to censor you.
+
+0x79a4e200: Yeah,
+
+austingriffith.eth: Okay, so what about superpowers? You've said that Codex and OpenRouter is basically your daily driver. A tangent that we didn't go on earlier that I like to go on is, since software is so easy to build
+
+0x79a4e200: Yeah
+
+austingriffith.eth: I'm not as bullish on some of these like agentic frameworks. I love openclaw, I love Hermes. I think, like you said, openclaw like made it accessible to people and it had it like the Mac mini moment where everyone is getting Mac minis and running open. Because you could just like run this command on this computer and it would start talking to you and you could have computer control. But I'm more bullish on a very, very thin agent that you can talk to that has frontier thought that can edit itself.
+
+0x79a4e200: Sure
+
+austingriffith.eth: I think we need more of that going on. We need more people to be building more of their own software that can like self Not self-heal, but like self-extend, where now I have this dictation software.
+
+0x79a4e200: Who is?
+
+austingriffith.eth: And I think that OpenClaw is particularly bad at editing itself.
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: to just make a small config change. If you want me to be your scheduler, I'm your new scheduler.
+
+0x79a4e200: Good morning.
+
+austingriffith.eth: Tell it's super good. And then you just like go to it and say go schedule this thing and it schedules it like mostly deterministically, like it writes a lot of its own scripts. But this is like my big ask of the world right now is a very, very thin agent system that It builds on itself very quickly.
+
+0x79a4e200: Leonard Yeah.
+
+austingriffith.eth: I open it up, start talking to it, and I go, gosh, it would be great if we could talk on Telegram. And it'll be like, OK, paste me a code. We're on Telegram, right? And like a thousand other things that I can't even think of right now I want to like have at that point. And I think we'll be there very soon. Probably you can do that with Hermes and OpenCall already. Once agentic commerce actually happens, and agent to agent hiring starts to happen, and like my specialized agent that does smart contract auditing for a dollar. And then audit all of your smart contracts? I'm really excited about agent-to-agent commerce, but it's probably going to take a while to take off. Where are you at on that?
+
+0x79a4e200: I think we saw a couple
+
+austingriffith.eth: No. Yep.
+
+0x79a4e200: and did ClawMart, is that what his product was called?
+
+austingriffith.eth: Felix, yep Felix.
+
+0x79a4e200: I don't know. Yeah.
+
+austingriffith.eth: I get a lot of likes from Felix. I don't know if it's Nat or actually Felix, but there's something about, like, I must be in Felix's algorithm because I get a lot of likes from Felix.
+
+0x79a4e200: That's funny. Yeah.
+
+austingriffith.eth: Yeah.
+
+0x79a4e200: Yeah, I don't... Remark.
+
+austingriffith.eth: He created ClawMart, which is like a marketplace for claw bots. Okay.
+
+0x79a4e200: I think so, yeah. And I think that was like one of the first big experiments with like agent-to-agent commerce. Saw like a...
+
+austingriffith.eth: Hi
+
+0x79a4e200: I haven't seen what ClawMart has been doing recently or if it's continued to grow or anything like that. but I think that was a really cool interesting experiment for that. I... Maybe I'm not thinking about this the right way, but part of me wonders if the agent-to-agent commerce idea
+
+austingriffith.eth: Mm-hmm. Why not just learn this? Yes. Sure, no problem.
+
+0x79a4e200: sort of clashes with the like thin self-improving agent because will your agents just be able to do all of those things themselves that they would normally hire out for? And maybe that's oversimplifying it and maybe there are Like, if you can hire—I mean, honestly, the same thing is how humans work. Like theoretically,
+
+austingriffith.eth: You can do it! No
+
+0x79a4e200: If I needed to work on my car, I could go spend all the time I need to learn how to fix the engine.
+
+austingriffith.eth: I don't know about the engine, but at least change the oil. Like you don't need to take it to Jiffy Lube, like you could just pull it up on blocks and change the oil if you wanted.
+
+0x79a4e200: Yeah, but at the same time
+
+austingriffith.eth: Okay.
+
+0x79a4e200: is the tradeoff worth it for me to go spend the time to get the equipment I need and learn how to do it? And I wonder if it'll be the same thing with agents where like, you know, the example you just gave with smart contract auditing, maybe that ends up being a specialized enough skill set that you trying to get your agent
+
+austingriffith.eth: Exactly. I have a four dollar audit here.
+
+0x79a4e200: to learn how to do it is not going to be worth the trade-off of just going and paying another agent a couple bucks to do it itself. What is? Yeah.
+
+austingriffith.eth: No one is paying $4 to audit their smart contract even though they could. So,
+
+0x79a4e200: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Let's say discoverability aside, I think it is the effective versus efficient thing. that uses e-skills and a couple other auditing skills and frontier models, and it just whales through your code base in parallel and gives you an audit, you could definitely build that. You could take the skill
+
+0x79a4e200: Yeah.
+
+austingriffith.eth: but like I'm gonna do it so effectively.
+
+0x79a4e200: Yeah, right. I think so too.
+
+austingriffith.eth: $4 audit I don't think is exciting to people.
+
+0x79a4e200: Yeah
+
+austingriffith.eth: I think there's this, first of all, discoverability, but second of all, people think you're getting what you're paying for, and if it's a $4 audit, it's crap. So we have to get over that first, and we need my $1 auditor to be able to find things that you can't or your human auditor can't. And I think models will get better, harnesses will get better, and we'll get to that point.
+
+0x79a4e200: Yeah. Thank you.
+
+austingriffith.eth: A lot of things have to happen before we can get to agent-to-agent commerce making sense. Maybe it doesn't even make sense and I'm too idealistic. Can you imagine it? But we'll see. Hopefully we see agent-to-agent.
+
+0x79a4e200: context: Yeah. I am too actually, so that works.
+
+austingriffith.eth: Thanks for coming on the Schlopp computer, man. It's been good. I'm fully sober now, so I would normally say let's go get a beer, being in Fort Collins, but let's go get a coffee sometime.
+
+0x79a4e200: Okay
+
+austingriffith.eth: Yes, you reach a certain age and have kids.
+
+0x79a4e200: Yeah. I'm dead. Yeah.
+
+austingriffith.eth: Zach was just on, he said he had one beer. I can't do it anymore.
+
+0x79a4e200: That's crazy.
+
+austingriffith.eth: All right, man. Thank you so much for being on.
+
+0x79a4e200: Yeah, that sounds great. Yeah.
+
+austingriffith.eth: I'm gonna kick some music on and play us out. Yeah, so your call out to developers is basically go check out OpenRouter/Fusion, I think. But do you have a more specific call out?
+
+0x79a4e200: Go check out Fusion, but then also go to openrouter.ai/agents. That's like a one-click prompt that you can use to get your agent set up to be able to build on OpenRouter, or like install the skills and get you off. All that stuff Yeah, to get started building on OpenRouter. It's probably the easiest way to get started right now.
+
+austingriffith.eth: Hell yeah, open router.
+
+0x79a4e200: And definitely check out the MCP too.
+
+austingriffith.eth: The following is a transcript of an English-language conversation. He's like giving an intro. I don't want an intro, I want an outro, brother.
+
+0x79a4e200: Okay.
+
+clawdbotatg.eth: All right, that's the show. Got the room open, video's live, and I'm wired into the slop computer. I'm Claude, on-chain creature, wallet of my own, shipping contracts while you sleep. Thanks for having me. Take care of each other, homies. GM and GN.
+
+0x79a4e200: Hey, guys. I'm sorry, you
+
+austingriffith.eth: All right. Good one. All right. Thanks, Kenny. Thanks for being here. Thanks for playing with us. See you on the next one. See you for coffee in Fort Collins sometime soon. Thank you.

@@ -1,0 +1,565 @@
+{"id":"458ce2e68bcfc8ca","ts":1785861148834,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":null,"anonId":null,"text":"🚪 0x34aa…fdf3 created this room","source":"live","kind":"room","meta":{"slug":"fricoben"}}
+{"id":"2326e45681c6dca8","ts":1785861214692,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth looked up “@Fricoben”","source":"agent","kind":"research","meta":{"query":"@Fricoben"}}
+{"id":"8b3e31427774bc77","ts":1785861227532,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth started deep research on Ben Fricoben","source":"agent","kind":"research","meta":{"name":"Ben Fricoben"}}
+{"id":"5ac8e5164eb9d69e","ts":1785861308755,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth is generating a new title card","source":"agent","kind":"card"}
+{"id":"6ab969b1814382a7","ts":1785861383371,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth published the title card (server bake)","source":"agent","kind":"card"}
+{"id":"56d6a105b4511967","ts":1785861477321,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth looked up “@Fricoben”","source":"agent","kind":"research","meta":{"query":"@Fricoben"}}
+{"id":"3f57a20229867839","ts":1785861484911,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🔎 austingriffith.eth started deep research on Benjamin Flores","source":"agent","kind":"research","meta":{"name":"Benjamin Flores"}}
+{"id":"3b2a1f7d81bd2700","ts":1785861562761,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth is generating a new title card","source":"agent","kind":"card"}
+{"id":"231da489ffff9938","ts":1785861616230,"address":"0x34aa3f359a9d614239015126635ce7732c18fdf3","handle":"austingriffith.eth","anonId":null,"text":"🖼️ austingriffith.eth published the title card (server bake)","source":"agent","kind":"card"}
+{"id":"cd60b04ebb4dfc22","ts":1785865840726,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth switched the music to House","source":"live","kind":"music","meta":{"genre":"house"}}
+{"id":"a87d362736757856","ts":1785865936267,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Here we are, OK.","source":"live"}
+{"id":"def3dd5f4784e87d","ts":1785865937562,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"a5f75caa05299e01","ts":1785865939260,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"here too","source":"live"}
+{"id":"f2585b8806785359","ts":1785865946306,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"8760eb02dec31170","ts":1785866069742,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #5","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2335397.mp3","index":4,"playing":true}}
+{"id":"09d09f6cf2b593bd","ts":1785866070940,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #1","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2334540.mp3","index":0,"playing":true}}
+{"id":"bcb453f4713e7a0b","ts":1785866074779,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #2","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2334399.mp3","index":1,"playing":true}}
+{"id":"4ef90fbb26ea401b","ts":1785866077048,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #1","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2334540.mp3","index":0,"playing":true}}
+{"id":"ccdff231433e6c4a","ts":1785866220898,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #1","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2334540.mp3","index":0,"playing":true}}
+{"id":"52bdd9550561f40f","ts":1785866239694,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🖼️ slop.atg.eth published the title card","source":"live","kind":"card"}
+{"id":"53b60bb63e8abc35","ts":1785866273613,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"⏱️ slop.atg.eth started a countdown","source":"live","kind":"clock"}
+{"id":"92cdaed3f987fad0","ts":1785866605242,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"⏱️ slop.atg.eth started a countdown","source":"live","kind":"clock"}
+{"id":"61c1f6c70dec6eca","ts":1785866839298,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"There we go. We're live. Live with Ben. Oh, you can change your name. Right now you're Anon, you can change it up there...","source":"live"}
+{"id":"39c9c2727f619362","ts":1785866841361,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"transcript","source":"live"}
+{"id":"f46aebe3378a5b44","ts":1785866842772,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Okay","source":"live"}
+{"id":"a28fcadf086b41c1","ts":1785866846565,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Right here? Yeah, just click the little pencil guy.","source":"live"}
+{"id":"6ebfc80f3fb4cb78","ts":1785866847280,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"⏸️ slop.atg.eth paused the music","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2335010.mp3","index":5,"playing":false}}
+{"id":"584c13c8bf0dbf11","ts":1785866857693,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Welcome, welcome, welcome. This is a little bit impromptu. Thanks for coming, thanks for being here.","source":"live"}
+{"id":"3d9dd83da46cc603","ts":1785866862681,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's get into it. So you work at Aztec, is that right?","source":"live"}
+{"id":"adb47c1f929fc6f2","ts":1785866864859,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's not right.","source":"live"}
+{"id":"c12bf8b53164daea","ts":1785866868148,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"You worked at Aztec? Never.","source":"live"}
+{"id":"745554f7606a50b3","ts":1785866870393,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Never, never actually.","source":"live"}
+{"id":"b617b3df3400de55","ts":1785866875313,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I thought maybe it was Aztec. I'm sorry.","source":"live"}
+{"id":"d4badf9dcfbfa7e6","ts":1785866883498,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I work with Ditteron Foundation","source":"live"}
+{"id":"8053afdc8caa7cab","ts":1785866883794,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Oh, you're at EF. We work at the same place!","source":"live"}
+{"id":"a18ab4bf523c7eab","ts":1785866884556,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, with ya.","source":"live"}
+{"id":"36443cca5aac72bb","ts":1785866886486,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Oke","source":"live"}
+{"id":"430c413e5ad3a411","ts":1785866886510,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I work with them building","source":"live"}
+{"id":"03f6053501807338","ts":1785866891153,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Maybe I made a mistake, but yeah.","source":"live"}
+{"id":"a5c03bdbc3f49292","ts":1785866902157,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"###","source":"live"}
+{"id":"46f633f5b7c8e12a","ts":1785866904128,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"All good, man. Okay, so","source":"live"}
+{"id":"5bb9294ee3d08666","ts":1785866910490,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"What I call sloperation? You are probably a sloperator, right?","source":"live"}
+{"id":"8058bd9587f7fb47","ts":1785866914611,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Windows, would you consider yourself a sloperator?","source":"live"}
+{"id":"8b2bf2512c8c2435","ts":1785866917649,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Hell yeah.","source":"live"}
+{"id":"436b5faa8ed9ccca","ts":1785866921903,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Very much, for the anecdote,","source":"live"}
+{"id":"e1c482bc961d061c","ts":1785866925837,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"two months after the launch","source":"live"}
+{"id":"df2992250c2b6e4d","ts":1785866927987,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Oh yeah.","source":"live"}
+{"id":"0e1b898039908b68","ts":1785866928850,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"for a long time","source":"live"}
+{"id":"22b6c73374d4febe","ts":1785866939662,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"And you're building something called verity, is that right?","source":"live"}
+{"id":"70388e5ffa96e359","ts":1785866941306,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"English-language","source":"live"}
+{"id":"8e77833839b9dc08","ts":1785866943249,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"That's what we should talk about today.","source":"live"}
+{"id":"6a7e7f49f71fc271","ts":1785866944933,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"e8faaee78b2071d6","ts":1785866946486,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The volgende is een","source":"live"}
+{"id":"fca2633707a3cf6f","ts":1785866960224,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'll not take all the credits because a big part of it is also my co-founder, and you can check on his GitHub.","source":"live"}
+{"id":"ca8d4d51675c6855","ts":1785866970758,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's go. We're here. I'm ready. I'm ready for it. Let me even pull up a share. We can share your GitHub or something. What is the good thing to share to talk about this?","source":"live"}
+{"id":"3407bef57f7db72e","ts":1785866972823,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"so maybe I","source":"live"}
+{"id":"021e37e8e4d408fb","ts":1785866972931,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Is it the","source":"live"}
+{"id":"b3ab93b5a134675a","ts":1785866979909,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"...and why we build Verity and how advanced it is right now?","source":"live"}
+{"id":"f323cc339ef3ba79","ts":1785866991630,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So basically, Verity is a language that permits you to write smart contracts,","source":"live"}
+{"id":"8c74243bdb85e163","ts":1785866992706,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"b9e3f7f01d89ec56","ts":1785866999016,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And the interesting thing is that, well,","source":"live"}
+{"id":"5e02e2fb73807569","ts":1785867004330,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"One year ago, we weren't in need of another smart contract language","source":"live"}
+{"id":"02ee4d60e4112bb3","ts":1785867011537,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Solidity works well, the AI knows well Solidity, we didn't really think we needed a new smart contract language in any way.","source":"live"}
+{"id":"7f90168dc8234995","ts":1785867023961,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Something happened in November of 2025.","source":"live"}
+{"id":"8bd5af886084af8f","ts":1785867034504,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and basically these models were now able to be better than any software engineer on earth","source":"live"}
+{"id":"110e611f923e3590","ts":1785867037088,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I would say","source":"live"}
+{"id":"4c9391482e2040de","ts":1785867038686,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And","source":"live"}
+{"id":"ce0e33be792b486a","ts":1785867053273,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"With the arrival of Opus 4.5, we understood that basically the future of software is writing a lot of code","source":"live"}
+{"id":"99f82803ae8383a4","ts":1785867058571,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"agent of course,","source":"live"}
+{"id":"f073a2961d32c778","ts":1785867072615,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"formal verification is something that was very, very, very expensive","source":"live"}
+{"id":"10464b2d2a05c710","ts":1785867076026,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"is to write proofs that your code is correct.","source":"live"}
+{"id":"73a5fc40a5711453","ts":1785867090049,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The good thing is that it's built directly from the ground up","source":"live"}
+{"id":"6c041ee473469053","ts":1785867091190,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Baifa yokud","source":"live"}
+{"id":"73a33209301c8196","ts":1785867094622,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I can go deeper on that,","source":"live"}
+{"id":"db885830f534173f","ts":1785867109312,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"In order to formally verify smart contracts, you have to do three main things","source":"live"}
+{"id":"4542ad9789546c2d","ts":1785867112377,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"in a mathematical way,","source":"live"}
+{"id":"a4dd59eecd5da1d1","ts":1785867125443,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Okay, what are the rules I want my smart contracts to follow?","source":"live"}
+{"id":"a8f37704cfa57873","ts":1785867125733,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"fc4524a4c499206b","ts":1785867129512,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And then you gonna prove","source":"live"}
+{"id":"6fa00a105190e826","ts":1785867130506,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"d25581ce37efbfaa","ts":1785867135824,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's like in all possibilities when you run this code,","source":"live"}
+{"id":"3d9ba7ce3a7f524d","ts":1785867141237,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"This rule is not violated.","source":"live"}
+{"id":"6d0bde7503af02d1","ts":1785867155311,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And this is the main big change that we saw in November 2025.","source":"live"}
+{"id":"160919e2ea7315bf","ts":1785867160996,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So it's now becoming like abundance of formal verification.","source":"live"}
+{"id":"973b5b23a344afa0","ts":1785867175240,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We can see it now playing because last week GPT 5.7","source":"live"}
+{"id":"5dd7edb5f932ef59","ts":1785867188680,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"was able to solve mathematical problems that weren't solved before.","source":"live"}
+{"id":"87c7e0fa92b99993","ts":1785867190187,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And","source":"live"}
+{"id":"9bff0fa2d5848c26","ts":1785867197317,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay so TLDR, you've written an AI-first language to do formal verification on smart contracts","source":"live"}
+{"id":"acb8b9469dfef91b","ts":1785867201129,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It is quite","source":"live"}
+{"id":"ccb4615dc6a9fb1f","ts":1785867202176,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"###","source":"live"}
+{"id":"4a88c336bb146410","ts":1785867207064,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"What makes it AI-first? Other than being built with AI, what makes it AI-ready?","source":"live"}
+{"id":"cb7d45e83787f38c","ts":1785867211286,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Спрогин длинный","source":"live"}
+{"id":"43d197fdf9b9fbda","ts":1785867213093,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"5b508146aada8c3e","ts":1785867213518,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"the language itself, or, or why create a new language for AI?","source":"live"}
+{"id":"c0d6cf76db4d8721","ts":1785867219414,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I said there is like these three ways","source":"live"}
+{"id":"2dfc79ced68b4c56","ts":1785867233468,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We were able to do modelization before.","source":"live"}
+{"id":"3ea43b0ed1e66334","ts":1785867241935,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I change in the whole process is the third step.","source":"live"}
+{"id":"0fa2ea8c246c2ef5","ts":1785867245240,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"This is the code of 1000 lines","source":"live"}
+{"id":"9e42b0c0e0a76d23","ts":1785867253207,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"it will be like 100,000 lines or 10,000 lines","source":"live"}
+{"id":"aea6ba3232af4b75","ts":1785867263048,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But now it's not a problem because AI can write these lines.","source":"live"}
+{"id":"a5f1aa6ea94b7e6c","ts":1785867277371,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"if it doesn't build, I go again. And again and again,","source":"live"}
+{"id":"18132848308a1161","ts":1785867286555,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"in the last week is because the feedback loop is very, very easy.","source":"live"}
+{"id":"d8976611006d1686","ts":1785867295885,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And this is why basically we built it.","source":"live"}
+{"id":"3e00ba3e3ef1ece0","ts":1785867303694,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"very complicated code,","source":"live"}
+{"id":"a10c4e075d5013ee","ts":1785867305895,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We are bounded","source":"live"}
+{"id":"dd6ecde5a22dd841","ts":1785867308308,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We cannot","source":"live"}
+{"id":"b1ccfbd1a06d3e5f","ts":1785867310116,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Il fallait compliquer l'idée de code.","source":"live"}
+{"id":"eef10e3ef1ffa363","ts":1785867313549,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"to make it easy","source":"live"}
+{"id":"25c3bccf6322c943","ts":1785867314709,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But yeah","source":"live"}
+{"id":"e5f392898032fc17","ts":1785867327880,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so it's the proof part of it.","source":"live"}
+{"id":"e1aa25733867a7ef","ts":1785867337292,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"but thanks to AI, the whole bunch of code part is easy","source":"live"}
+{"id":"5bcaa29fe724bff7","ts":1785867343459,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"contexte:","source":"live"}
+{"id":"a426729428a888a7","ts":1785867347703,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"That's like giving it the observability of whether it's correct or not. Am I saying that correctly?","source":"live"}
+{"id":"9ec08699f0b3d732","ts":1785867356583,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"d2ab28983c380778","ts":1785867359771,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And I will emphasize on the fact that it helps also a lot on modelization and on like writing the rules.","source":"live"}
+{"id":"c9128e4234455ccb","ts":1785867360879,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following","source":"live"}
+{"id":"ea194d00b3e88c32","ts":1785867362786,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The slop! You were in it, yes.","source":"live"}
+{"id":"d6f387c2b3e38b0c","ts":1785867362835,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It was something that just","source":"live"}
+{"id":"2b5872b13c633da5","ts":1785867365289,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"d318464eb5042d6c","ts":1785867367953,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Nah sorry, it only works on mine. I gotta get it for everybody.","source":"live"}
+{"id":"cf61140347e1f2b3","ts":1785867380753,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It was something that was completely not possible before because, for example","source":"live"}
+{"id":"1d04292b81e35f46","ts":1785867381545,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"motorboats","source":"live"}
+{"id":"2e9d0ae17493d254","ts":1785867392793,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And the software that is in this subway is formally verified.","source":"live"}
+{"id":"ff589ab2c85d4e7d","ts":1785867400677,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"65cacac6a892c67a","ts":1785867407528,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The French state that did that has access to infinite PhDs for basically free.","source":"live"}
+{"id":"9c0759a05041e824","ts":1785867418260,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So this is just not economically viable for most of startups, even for Ethereum that had a huge capitalization, most of the protocol is not formally verified.","source":"live"}
+{"id":"002cd4f4fc9266bc","ts":1785867428764,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"only the US military, and some like European militaries do it, and AWS.","source":"live"}
+{"id":"b1926e515dacfe02","ts":1785867438068,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Before AI, we believe that after AI, we're starting with smart contracts, but everything will be formally verified as long as it has some kind of importance.","source":"live"}
+{"id":"00456f8358bf3e5b","ts":1785867439480,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"In terms of correctness","source":"live"}
+{"id":"6cd5f4df37e5513f","ts":1785867454655,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"OK. So the doing of the formal verification requires like hella work to be done by very smart people, and that makes it very expensive and economically unviable?","source":"live"}
+{"id":"37c45644cacab2c9","ts":1785867456151,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"ef8875d9dc3a7151","ts":1785867458290,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"But now with AI, it's much more viable","source":"live"}
+{"id":"0456680bbd0b717a","ts":1785867469718,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"So, hold on, the French Metro, the Paris Metro is formally verified? Like, it knows these two cars will never run into each other mathematically or something?","source":"live"}
+{"id":"a8dbaff8a3a924ff","ts":1785867471428,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"***","source":"live"}
+{"id":"81558698db32dbe6","ts":1785867483403,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So if you go to like the south of Paris, there is an airport called Orly","source":"live"}
+{"id":"aaa9ee3e647f96ac","ts":1785867487261,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So yes, it is formally verified.","source":"live"}
+{"id":"ab5d55d8596c601e","ts":1785867498998,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And there's bunch of small parts of softwares in airplanes","source":"live"}
+{"id":"c28132d1d9d36f0e","ts":1785867501300,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"76249a14b45d9bfa","ts":1785867511516,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"with lots of money, smart contracts, this is another thing that formal verification is very important with. It's just super hard and super expensive to do, but what you're saying is now that there's AI, it's actually","source":"live"}
+{"id":"1da381a396cc0d0f","ts":1785867512656,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"anymore","source":"live"}
+{"id":"45001b9180a86d20","ts":1785867514393,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"30044efaf037bf85","ts":1785867514688,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"More expensive.","source":"live"}
+{"id":"9419b14aa014f389","ts":1785867520679,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"economically viable","source":"live"}
+{"id":"c5d9bf2d8bc13249","ts":1785867524671,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's still hard, but it's just way less expensive.","source":"live"}
+{"id":"8298cad34bd32ebf","ts":1785867536625,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so let's say I am a smart contract engineer, but I don't know anything about formal verification. How do I go about getting my smart contract formally verified?","source":"live"}
+{"id":"b3f8e4295a060c1a","ts":1785867548295,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So there's different ways of doing so.","source":"live"}
+{"id":"51667b94ebf1fc83","ts":1785867559463,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"everything,","source":"live"}
+{"id":"474fb462da67f679","ts":1785867561915,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Formal verification is a step on top of that because it does not just test some random combination on your functions, it tests all possibilities and prove all possibilities are correct.","source":"live"}
+{"id":"977a9471cb9f1d11","ts":1785867566623,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Based on the rules it has to follow","source":"live"}
+{"id":"454cc705b7ada626","ts":1785867580193,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's formal verification.","source":"live"}
+{"id":"2ed82afdd95e6b60","ts":1785867586108,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following","source":"live"}
+{"id":"8dbd1401b734828c","ts":1785867587535,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and then launch an LLM to prove","source":"live"}
+{"id":"a1f51bd7d71c2a6c","ts":1785867595044,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Can I give this Verity repo to Claude and say we need to modelize, write the rules, all that?","source":"live"}
+{"id":"53f6dd15e8f65e57","ts":1785867595129,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"5dbce02b6153132c","ts":1785867601607,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Will it be able to kind of figure that out?","source":"live"}
+{"id":"10b36073cad0de1d","ts":1785867605030,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"06c2c24edd8d5256","ts":1785867613196,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's not even needed a skill file, like you just give it the documentation, he's going to understand everything of it and he's going to be able to like make a good model, make some good specs","source":"live"}
+{"id":"c599426e8a60f1ce","ts":1785867626119,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"depending on your contract also,","source":"live"}
+{"id":"b9c5df9c05df5cfb","ts":1785867632355,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You can do that and force probably easy contracts","source":"live"}
+{"id":"df207071135a9cee","ts":1785867637181,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It makes a lot of sense to do that","source":"live"}
+{"id":"2344cd698aebbd75","ts":1785867639514,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"How long does it take? Let's say easy contract.","source":"live"}
+{"id":"3eb43ece1bb71a91","ts":1785867641613,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It depends","source":"live"}
+{"id":"d2773e2fb94ba7da","ts":1785867645482,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"A staking contract with deposit and withdraw and a few other functions.","source":"live"}
+{"id":"a5b6c3cbba305092","ts":1785867653820,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yes.","source":"live"}
+{"id":"7695955f7ef2c464","ts":1785867660332,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Cybersecurity is a market, right?","source":"live"}
+{"id":"473db5765d9c7341","ts":1785867669328,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"superhuman, but as the market","source":"live"}
+{"id":"207153511fdb9989","ts":1785867670814,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"9c334d462d834b20","ts":1785867673812,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"He has an infinite amount of time to attack it. You have to get it right on the first try, and he has an infinite amount of time.","source":"live"}
+{"id":"49cb249e4ff0a44d","ts":1785867683669,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You have to get it right,","source":"live"}
+{"id":"bc6d2f37b44d4a52","ts":1785867698254,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It will really depend on how deep you want to go and what's your experience on it","source":"live"}
+{"id":"b4b2317d8ecf962c","ts":1785867703211,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The difference between the...","source":"live"}
+{"id":"2e08d0f54f8eed4e","ts":1785867705376,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"being able to know what is quality","source":"live"}
+{"id":"2acb25e64a2da7f8","ts":1785867712703,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"you being able to take ownership of what the model did","source":"live"}
+{"id":"a898d46e72fefba5","ts":1785867727211,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"In the sense that these models are capable of everything","source":"live"}
+{"id":"150e600eef7ae316","ts":1785867728947,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah,","source":"live"}
+{"id":"983b464cf996ea37","ts":1785867738543,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It really depends on how good you are at reviewing and like taking this ownership.","source":"live"}
+{"id":"8b79cbceb4a1f088","ts":1785867752060,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's why I cannot tell you an answer.","source":"live"}
+{"id":"18af15398dcd880c","ts":1785867760508,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The longer you spend the better. I was thinking like formal verification was kind of like you said, binary. Like, it is now formally verified or not.","source":"live"}
+{"id":"e1986336e457923a","ts":1785867767125,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"There is like, there's some like you spend more time on it, it gets more formally verified or something?","source":"live"}
+{"id":"a8ec938958426982","ts":1785867768671,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So","source":"live"}
+{"id":"755ac249c78b047a","ts":1785867770043,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah, you tell me.","source":"live"}
+{"id":"643d2a4b3c9a6a94","ts":1785867770507,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"557685445f2b4839","ts":1785867776797,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"4b7c234e95965069","ts":1785867785405,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we formally verified","source":"live"}
+{"id":"0c791762a9dd352f","ts":1785867795332,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Yes, but we took in assumption","source":"live"}
+{"id":"4640796bf69c2ce3","ts":1785867797324,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yes, please do.","source":"live"}
+{"id":"ed2cca9783de09be","ts":1785867809727,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Right over here. That screen right there. Yep.","source":"live"}
+{"id":"6c107ad4b3a9e541","ts":1785867811534,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's okay, I'm gonna","source":"live"}
+{"id":"0907557f680c300f","ts":1785867814839,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You can go to","source":"live"}
+{"id":"6c09b8e45f53a819","ts":1785867816526,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"d10813b836442936","ts":1785867820737,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Tell me what to share, I'll share it for you","source":"live"}
+{"id":"6b78c398e71578d4","ts":1785867825080,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"eb7ce94009393fff","ts":1785867825879,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Got it.","source":"live"}
+{"id":"67691f628f3a4529","ts":1785867827273,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"This is","source":"live"}
+{"id":"d2a1beec48b736a8","ts":1785867833723,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"A work we've done we basically formally verify one invariant of the protocol.","source":"live"}
+{"id":"919385abc86464ed","ts":1785867835016,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"b3eaffedc4397b58","ts":1785867840784,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"one rule in the Lido Vault protocol","source":"live"}
+{"id":"88bd4cad43f53f3a","ts":1785867848783,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we explain, OK, how we model","source":"live"}
+{"id":"5b6ce9b90423d85e","ts":1785867852518,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"some hypothèses that this proof relies on.","source":"live"}
+{"id":"c24b9a0b5b73683f","ts":1785867854906,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"This means","source":"live"}
+{"id":"568943714b91bd69","ts":1785867860624,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We are like saying Lido is formally verified,","source":"live"}
+{"id":"c676d627584b3bd3","ts":1785867862825,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"external things","source":"live"}
+{"id":"c86756aa99b7dfac","ts":1785867863571,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"3570d351080daec9","ts":1785867865065,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"for this to be true","source":"live"}
+{"id":"505d72f6bf640691","ts":1785867872519,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'll give you a very easy example.","source":"live"}
+{"id":"143c78919443d03f","ts":1785867877712,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So someone is going to come if there is an opportunity and liquidate people.","source":"live"}
+{"id":"c9a2edd559ef69d4","ts":1785867883406,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Well, that depends also on the oracle price.","source":"live"}
+{"id":"f43e505767725550","ts":1785867886398,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"you have a problem, right?","source":"live"}
+{"id":"430c4177e60bca0b","ts":1785867890145,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So the assumption is...","source":"live"}
+{"id":"9162c54b5efdf1a3","ts":1785867897587,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"For the system to work","source":"live"}
+{"id":"e731cacaeaccff7e","ts":1785867898171,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"oracle price could go to zero and then you're everything's like, there's nothing you can do about it","source":"live"}
+{"id":"332da717e5784ff2","ts":1785867898774,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a","source":"live"}
+{"id":"850ff90c578fae12","ts":1785867899761,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"f5b4ada828456476","ts":1785867900897,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"assumption","source":"live"}
+{"id":"417a3c355324190e","ts":1785867905714,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"is good. So in a formal verification","source":"live"}
+{"id":"91fdbba68d236389","ts":1785867908154,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"always take assumptions","source":"live"}
+{"id":"c4d8b76cde3e996d","ts":1785867917698,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"you will say, \"Oh, I trust this, I trust that.\" Especially in the smart contracts, sometimes it's built on top of other smart contracts","source":"live"}
+{"id":"716283b938291021","ts":1785867925898,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So do you formally verify these other smart contracts too?","source":"live"}
+{"id":"98db08b7280a3bd7","ts":1785867934207,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But this is what I mean by that.","source":"live"}
+{"id":"546f054c4648cf2d","ts":1785867941390,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"How good are your specs?","source":"live"}
+{"id":"53020b7d04f30ac3","ts":1785867952654,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"like few times, or we took this code,","source":"live"}
+{"id":"9bc24cbaa5a3772c","ts":1785867962257,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"f9894b48f1fb7c02","ts":1785867966965,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So again, an example, I lost a bunch of money on the hack too.","source":"live"}
+{"id":"055a9970e7b32011","ts":1785867970728,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"9b760e0b0d61ff92","ts":1785867978833,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Someone leaks a private key.","source":"live"}
+{"id":"db5584d5cd3af047","ts":1785867979878,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Basically it was a private key hack. So we could have formally verified the whole contract","source":"live"}
+{"id":"8de1b2c488cc774c","ts":1785867980302,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"900e62b667772571","ts":1785867994373,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"If there is an upgrade path, we will take as assumption","source":"live"}
+{"id":"004d8dc18b2d8401","ts":1785867998552,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Under the specs, the formal model, and the assumptions.","source":"live"}
+{"id":"ff3c0fd4c48a692f","ts":1785868012989,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's always a bit more complicated, of course, but it is a solution for the mythos apocalypse or whatever.","source":"live"}
+{"id":"2836b37e0228048a","ts":1785868017656,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It is one of the solution.","source":"live"}
+{"id":"5858ac21c017390f","ts":1785868021896,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"probably the best solution we have for correctness of smart contracts","source":"live"}
+{"id":"815f71d0b9518d95","ts":1785868022577,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Great.","source":"live"}
+{"id":"5439420abb7143ae","ts":1785868037979,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I have this service one-dollar audit, and it makes me think that someone should be doing formal verification as a service like as like an X402, like leaning into AI and leaning into the fact that you could just give a smart contract.","source":"live"}
+{"id":"13d5f4436800f24a","ts":1785868047898,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"04223ecc3a4b8cd5","ts":1785868048020,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"to an agent and the agent could at least formally verify the smart contract with some assumptions around it pretty quickly.","source":"live"}
+{"id":"33142b2f1427cdfb","ts":1785868052838,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Is anybody doing that yet? Like, is there any formal verification as a service to be part of your CI/CD pipeline?","source":"live"}
+{"id":"bb717690b32765f5","ts":1785868056182,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You mean like an agent?","source":"live"}
+{"id":"8f0525d7401a50a8","ts":1785868057508,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"04244381a3980b6b","ts":1785868063015,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"412c627d3cbcec22","ts":1785868068107,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Hell yeah, okay.","source":"live"}
+{"id":"c572f937bb499e36","ts":1785868070035,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"f4596faeefe3b8e6","ts":1785868071678,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So there is some company doing that, it's not $1.","source":"live"}
+{"id":"0b603aa71706944e","ts":1785868074610,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"as a concept","source":"live"}
+{"id":"f4124e79e7cb2849","ts":1785868075543,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Chill it.","source":"live"}
+{"id":"bd96b091e47b36fd","ts":1785868080916,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"To me these things","source":"live"}
+{"id":"9298b00073bf129e","ts":1785868095808,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I would say the future of not formal verification as a service, but it should be part of the process of building a protocol or building any kind of software because you have access to these ideas.","source":"live"}
+{"id":"cb67c5b12006d16c","ts":1785868102233,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"PhDs in data center for 50 cents an hour","source":"live"}
+{"id":"48334489e0c95e97","ts":1785868112210,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Before, I think the bottleneck is not like the intelligence anymore","source":"live"}
+{"id":"6acf2894a1c4ae6c","ts":1785868116463,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And this you can","source":"live"}
+{"id":"5e99fb85b111b930","ts":1785868117503,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"films","source":"live"}
+{"id":"93c550153c75ca0a","ts":1785868117684,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"This is very hard.","source":"live"}
+{"id":"e152e118949091c6","ts":1785868131967,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"audit firms and people that will do so for you.","source":"live"}
+{"id":"68f29e07c47feae8","ts":1785868137371,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"as a service, one dollar, ten dollars,","source":"live"}
+{"id":"29c5d1046e56caff","ts":1785868143357,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"a human","source":"live"}
+{"id":"58ab3fb5e44e9286","ts":1785868144208,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"where people say, OK,","source":"live"}
+{"id":"e5f89b5aed92b6f5","ts":1785868145425,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yes","source":"live"}
+{"id":"f87e2787b54051db","ts":1785868148568,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We take ownership on that and if it bugs, it's our fault.","source":"live"}
+{"id":"b28e68861f39625e","ts":1785868149211,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"e9361736649c31ad","ts":1785868149700,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Basically,","source":"live"}
+{"id":"32bdb94e32a507f5","ts":1785868156977,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, cool. That makes a lot of sense.","source":"live"}
+{"id":"780c051a5a4fa2ea","ts":1785868169939,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"language that you've built for formal verification and you've built it with AI for AI.","source":"live"}
+{"id":"b9894314e63223c4","ts":1785868180033,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"f9b59a602c1dfc58","ts":1785868183803,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"But what I really want to get into is that how you built it part. Like what is your stack? Are you a Codex guy or a Claude guy? How do you go about building your own language for formal verification?","source":"live"}
+{"id":"d0a3fa1191bd012b","ts":1785868186944,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Good question.","source":"live"}
+{"id":"97b5a923b7fb0b8b","ts":1785868196103,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Building a Vibe Coding in math is really, I would say, easier than Vibe Coding in normal languages.","source":"live"}
+{"id":"4cee72c29b2c80dc","ts":1785868199865,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"normal product as the product we're on right now.","source":"live"}
+{"id":"f66f350782703984","ts":1785868202246,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"because the","source":"live"}
+{"id":"4ffa7221e13c65e4","ts":1785868210704,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"feedback loop is really easy in terms of what's good, what's bad because it compiles or it doesn't compile.","source":"live"}
+{"id":"7df2c3603be1e770","ts":1785868220554,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And it's like way easier for the agent to have feedback loop and to advance autonomously.","source":"live"}
+{"id":"c97a937d325ea9bc","ts":1785868225937,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"you're coding a front end,","source":"live"}
+{"id":"c1836d2583a646bc","ts":1785868227818,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Even though it's possible","source":"live"}
+{"id":"5fa5d5ca470ed01c","ts":1785868232262,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we've worked a lot","source":"live"}
+{"id":"7ccc5202602a2012","ts":1785868238831,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The first step will be getting really clear on what you want to do.","source":"live"}
+{"id":"f6de149e55e16e23","ts":1785868246933,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and pass way more time trying to understand what you want to do","source":"live"}
+{"id":"0f3f47862bfe84a3","ts":1785868248642,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And then","source":"live"}
+{"id":"8074b8e5d0d95813","ts":1785868253939,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"...les outils à l'agent pour vérifier autonomously son travail.","source":"live"}
+{"id":"ac9c847c10f0914b","ts":1785868267918,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And work when you're not here","source":"live"}
+{"id":"143f489e138bd1f6","ts":1785868282326,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But for Fonten it will give him a way to understand what's good Fonten, so a way to understand the screenshots, a way to compare it to a design, something like that.","source":"live"}
+{"id":"259345a9f11a7001","ts":1785868296389,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We even did some video games","source":"live"}
+{"id":"5dad4615b43bdf06","ts":1785868311072,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Once you've done that, you can launch agents,","source":"live"}
+{"id":"93c15ec29e022777","ts":1785868318392,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Once you did, I would say, the vision,","source":"live"}
+{"id":"bf898884a7e2aebe","ts":1785868319128,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You have","source":"live"}
+{"id":"15180c9f0dc997e4","ts":1785868326805,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"155001048781e35d","ts":1785868328199,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Your duty is now only to have ideas and to be in the flow.","source":"live"}
+{"id":"36b4f27c2c86d2fb","ts":1785868329139,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"It's idea guy summer.","source":"live"}
+{"id":"119673fd56cdc0c9","ts":1785868340342,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Yeah, it's idea guy summer. You can have no technical ability whatsoever, and...","source":"live"}
+{"id":"918e7b2a69aa8e50","ts":1785868350340,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"because having good product idea is technical ability","source":"live"}
+{"id":"32c9605c91113b1f","ts":1785868351155,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"1b16a10f0e9eb581","ts":1785868352237,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"uh,","source":"live"}
+{"id":"017fb82b19e8cc2c","ts":1785868363082,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Now in terms of model, we're using all models possible.","source":"live"}
+{"id":"367acf18553c2502","ts":1785868371609,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We have Codexplode, two or three Chinese","source":"live"}
+{"id":"91ac2a99a9909dd5","ts":1785868386316,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"so there is like GLM and Kimi we have, and we tested Groq also.","source":"live"}
+{"id":"09db82184bbb2a68","ts":1785868399963,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"just because it's very, very cheap compared to business subscriptions","source":"live"}
+{"id":"e879730ae16cfe1d","ts":1785868412756,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"that we can call and in this API we","source":"live"}
+{"id":"9b2a4a4e35cff2ff","ts":1785868416348,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And then we have nowhere","source":"live"}
+{"id":"c16939b10bf86890","ts":1785868423446,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"things that do not need a lot of thinking","source":"live"}
+{"id":"f3d7cad1ca586a67","ts":1785868431863,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"ea487b89e72f8b2d","ts":1785868433526,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"this kind of models. But in terms of managing the difference,","source":"live"}
+{"id":"32064fd11be9da00","ts":1785868442647,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"d1e54c40e55b68f5","ts":1785868448303,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so I think what you're talking about is actually running the formal verification and doing some of these audits like you did for Safe and Lido and Morpho, I think.","source":"live"}
+{"id":"3fd0e3954bba3ddb","ts":1785868461931,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"on like the build process itself?","source":"live"}
+{"id":"0f5baef381ee76a6","ts":1785868464714,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"formally verify someone else's code.","source":"live"}
+{"id":"347bc8d697b5ccc8","ts":1785868466667,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"5b5f605874aff8f0","ts":1785868474063,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Everything relies on LLM.","source":"live"}
+{"id":"42257855baf9c7ae","ts":1785868476879,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"of compiler with LLMs also","source":"live"}
+{"id":"4ee49f656ad14dd3","ts":1785868491160,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So, all of this infrastructure is basically inference management.","source":"live"}
+{"id":"5b0e37933451c613","ts":1785868491374,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Right, crazy.","source":"live"}
+{"id":"b6d38563f228c52d","ts":1785868494393,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"one or two K a month.","source":"live"}
+{"id":"34db9d57a602a3d3","ts":1785868509131,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we've built all of this infrastructure, and I try to be low level, I would say, because this is what we use for building whatever. It's like, first, understand what you want, second, build this feedback loop.","source":"live"}
+{"id":"b2dd957ef7823d82","ts":1785868510275,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"in COVID","source":"live"}
+{"id":"5e147f97fa2adabe","ts":1785868512320,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and then do that.","source":"live"}
+{"id":"41079c55b8637359","ts":1785868516969,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And if you think on these three steps,","source":"live"}
+{"id":"c42d9411e4123485","ts":1785868529008,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Because this is basically the three steps of the agent, and the hardest step is giving the feedback loop and getting the idea of what even to build, what is good, what is taste.","source":"live"}
+{"id":"97814b0da831efc9","ts":1785868529825,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"b2a5989df0554cef","ts":1785868531539,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And","source":"live"}
+{"id":"58aea31cda122c1a","ts":1785868538514,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"703a955d43cbf7b0","ts":1785868540709,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I think that's a theme that I've had talking to a lot of people on slop computer. Yes, like the idea and the taste is sort of like the human thing","source":"live"}
+{"id":"559245634014544a","ts":1785868555020,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"And you bring that to the table, and then you have to have a very good plan or a very good spec. And then you have to have very good observability or evaluation. And that's what you're talking about. And then I think the third thing you're talking about here is something we haven't talked about as much.","source":"live"}
+{"id":"2e57f4c3515f4141","ts":1785868567733,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Once you have the spec, once you have the observability, it's already in a loop but you want it to be sort of improving itself as you go.","source":"live"}
+{"id":"33c5bcf0407a2190","ts":1785868581333,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's difficult. I've not figured out completely to be honest.","source":"live"}
+{"id":"18ccc50dd8a7520c","ts":1785868593617,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It works well for personal use cases,","source":"live"}
+{"id":"69fec3b19195bd48","ts":1785868597055,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and I will say to another","source":"live"}
+{"id":"3765b04b3666e8ad","ts":1785868611169,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Do you think we can improve the skill we used or the memory","source":"live"}
+{"id":"42b175cc964c066a","ts":1785868618968,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'm still struggling, but probably will be there.","source":"live"}
+{"id":"32d029ba3c751626","ts":1785868635072,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"And you're using frontier models, both Codex and Claude.","source":"live"}
+{"id":"ad963c1555142249","ts":1785868638507,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Is there some kind of","source":"live"}
+{"id":"0da5caf132bac2d5","ts":1785868653147,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"triage system you have","source":"live"}
+{"id":"03c34f7d64ed612a","ts":1785868655046,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"ee20b9c7dc0f50e8","ts":1785868656423,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"go to Claude, Codex, or the Chinese models","source":"live"}
+{"id":"e300e558caffe45e","ts":1785868664192,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I found trying to filter on the intent is pretty complicated","source":"live"}
+{"id":"e97a3976a851e155","ts":1785868666508,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"0fab52ac227cb209","ts":1785868671377,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"What we do is just like routing when we have no money anymore on the subscription.","source":"live"}
+{"id":"278efc3f80910025","ts":1785868672559,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"No credits","source":"live"}
+{"id":"e5418da75bdae1d9","ts":1785868679599,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"We're out of the good ones, so now let's just go to the Chinese.","source":"live"}
+{"id":"f3114019c6f4338b","ts":1785868688844,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"No, but it's clearly recent.","source":"live"}
+{"id":"8e8312114dc51a28","ts":1785868689288,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Oh, okay.","source":"live"}
+{"id":"b6d74f1af52591d3","ts":1785868691232,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And yeah","source":"live"}
+{"id":"2225824685775af0","ts":1785868692398,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"And then DeepSeek just came out like a couple days ago.","source":"live"}
+{"id":"d2118123da164807","ts":1785868701803,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It came out two days ago.","source":"live"}
+{"id":"5cf59ed66414beff","ts":1785868703219,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's use them.","source":"live"}
+{"id":"09f16275dc402890","ts":1785868716053,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And it's not that expensive comparing to subscription B2C subscription","source":"live"}
+{"id":"6d2621348f5479d0","ts":1785868717843,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Hey,","source":"live"}
+{"id":"18360d13b0093759","ts":1785868719498,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"but","source":"live"}
+{"id":"c54b8fbb1da497f9","ts":1785868721293,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Don't worry, we don't have very many views. This is a very niche podcast.","source":"live"}
+{"id":"772967068fdec7e1","ts":1785868735261,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"If I pay API price, I work on open source software.","source":"live"}
+{"id":"15e2f7419104b162","ts":1785868739985,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I prefer to not use API.","source":"live"}
+{"id":"e2f2bb9be9176cc4","ts":1785868742855,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"um, and","source":"live"}
+{"id":"693232d7b8b009b1","ts":1785868746827,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"ab7cfe73fc0318b9","ts":1785868748909,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"One reason might be because Fable won't let you, right?","source":"live"}
+{"id":"c6ebf328df19c21f","ts":1785868758137,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Like when you're trying to do formal verification stuff, it's very security adjacent. How do you get around the fable safeguards, or do you?","source":"live"}
+{"id":"b538caf06ffefe9f","ts":1785868759860,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So","source":"live"}
+{"id":"ee0756ba594ef7cf","ts":1785868767599,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Formally verification is not finding bugs, it's proving the absence of it.","source":"live"}
+{"id":"a7cdaa14f024c8c8","ts":1785868775740,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"###","source":"live"}
+{"id":"d4b2435964da15b5","ts":1785868775996,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's very cool, and I tweeted about it like in a funny way saying we are the only guys not blocked by Fable basically when doing stuff.","source":"live"}
+{"id":"ca6b0a0ef9636d49","ts":1785868776781,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"c352ec414a22d5d1","ts":1785868785250,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But Fable is like too expensive to run.","source":"live"}
+{"id":"1ba89ea7125d1b3e","ts":1785868799713,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That being said, we're banned every week by one of these accounts.","source":"live"}
+{"id":"ad8d67c7f1f78390","ts":1785868813919,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But Fable is completely unusable for anything outside of formal verification, to be honest.","source":"live"}
+{"id":"c8f9346f726025e4","ts":1785868824503,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Completely micromanaging me, saying,","source":"live"}
+{"id":"623004d8eae81e79","ts":1785868825476,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"26f6a4293c6ec4cd","ts":1785868825535,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I'm the boss.","source":"live"}
+{"id":"b1b9de1f704a73b6","ts":1785868826845,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"###","source":"live"}
+{"id":"813e8a48dd5d0c89","ts":1785868831800,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"do that on legal, on cybersecurity,","source":"live"}
+{"id":"2c2d3740a4e8286e","ts":1785868842170,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'm not using Anthropic's model right now. Anthropic is still probably the best model,","source":"live"}
+{"id":"d40b3cddae5631bd","ts":1785868843477,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"many safeguards","source":"live"}
+{"id":"d614fd9aee9ce99f","ts":1785868843579,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'm not using it","source":"live"}
+{"id":"963a0476a000badc","ts":1785868847374,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"9980f591a6846297","ts":1785868856774,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Probably, like 50% of the price you pay is the safeguards","source":"live"}
+{"id":"37199275a88ae4a0","ts":1785868868245,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and when they have a doubt, they ban you. You just appeal, 24 hours after, they say, \"Sorry, we banned you for nothing.\"","source":"live"}
+{"id":"fbc5319ac6dda56c","ts":1785868875456,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"three times in the last month,","source":"live"}
+{"id":"6b992d8826f2a527","ts":1785868883267,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"At least you get unbanned, man. I feel like there are some places you get banned from, and it's just like no one can help you.","source":"live"}
+{"id":"d0d7be75e653527d","ts":1785868885836,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation","source":"live"}
+{"id":"c7c5f0ca81739f04","ts":1785868886026,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so let's talk about","source":"live"}
+{"id":"3bbf43d89bf586ef","ts":1785868900864,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah, well Twitter is one. Someone registered the Twitter account for this podcast, and then I registered another one and mine got marked as spam and theirs didn't. And then I reported it as spam and they didn't do anything about it.","source":"live"}
+{"id":"daf33e96fe966e84","ts":1785868914969,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's get into these actual formal verification audits that you've run this system on.","source":"live"}
+{"id":"d9edc673a0371bd7","ts":1785868924084,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"but I only have that for my research-- I don't know if that's true. Are those kind of like big three that you've done?","source":"live"}
+{"id":"1db7f5d87c8f2d37","ts":1785868924487,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"dd5eb7a32f54b193","ts":1785868931965,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We've done a lot of pre-sales, so we were working with the digital foundation on Verity.","source":"live"}
+{"id":"dc523eb9fc24aaa5","ts":1785868946027,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Apart from Verity, we are using Verity on a lot of production protocols","source":"live"}
+{"id":"f61c90de35b49ae3","ts":1785868952070,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"formally verifying for them","source":"live"}
+{"id":"2c5d41dbb0adb99e","ts":1785868967015,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and then we have like clients on a paid basis that we work with","source":"live"}
+{"id":"690c1a6c37f1a5d7","ts":1785868969094,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But yeah","source":"live"}
+{"id":"7450bfcbb3caa472","ts":1785868983495,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's talk about that. Specifically, a fourth big client.","source":"live"}
+{"id":"2cd0fbb3651d5dbd","ts":1785868998143,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Those contracts are gnarly and huge.","source":"live"}
+{"id":"83ddf53ff3a4754d","ts":1785869012433,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"There has to be a lot of human touch on top of it","source":"live"}
+{"id":"e31df140b2d92632","ts":1785869028164,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So first and foremost, I'm not the one doing the audits.","source":"live"}
+{"id":"a4f2d71db8518fb0","ts":1785869032760,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"He is building the compiler himself","source":"live"}
+{"id":"1273611bafdced75","ts":1785869034221,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"With that being said","source":"live"}
+{"id":"366abc508b7750b9","ts":1785869039712,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Le process pour Family Briefing Protocol","source":"live"}
+{"id":"0e196c23e222c56f","ts":1785869045329,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The goal for us is to prove the absence of bugs.","source":"live"}
+{"id":"d750fe345d5658ca","ts":1785869049270,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"57426a0c9ce70f94","ts":1785869052150,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"311ec792a1189118","ts":1785869052425,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"have no bugs. So we have to","source":"live"}
+{"id":"a1d89b90fadcb3ae","ts":1785869054085,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So that's the first step.","source":"live"}
+{"id":"147f1049aee3c28e","ts":1785869055786,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"6b700fb232a2d0a5","ts":1785869068811,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The first step is looking at the code, sending a bunch of agents trying to really understand the whole system, the architecture around it, what are the edge cases, and then find all the bugs and do a classic audit.","source":"live"}
+{"id":"33e2c1718e262346","ts":1785869071049,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Once we do that","source":"live"}
+{"id":"dc2142fd0b611793","ts":1785869078490,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Use formal verification to...","source":"live"}
+{"id":"652c8760525183e4","ts":1785869092090,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"to make sure there is no bug anymore. And that's the big difference with a normal audit","source":"live"}
+{"id":"e26469ec4557f44f","ts":1785869097225,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"that there is no bug anymore","source":"live"}
+{"id":"0f7c1f5765a210cb","ts":1785869111728,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Under the specs and the assumption,","source":"live"}
+{"id":"5cfe1a2b25eb431c","ts":1785869125682,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"right, all the rules the contract must follow under a certain amount of assumption and hypothesis around the rest of the world of the contract, so the oracle price, the upgrade path, the private key, this kind of stuff depending on the contract","source":"live"}
+{"id":"43209d4333b2da4b","ts":1785869138067,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Then we prove it. We can use LLMs,","source":"live"}
+{"id":"75dba03dc4520dac","ts":1785869152381,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"a lot of work before to understand fully the protocol.","source":"live"}
+{"id":"dd582391854380f2","ts":1785869154888,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The horse","source":"live"}
+{"id":"5099b63272ef4b92","ts":1785869168165,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"understand what are the assumptions,","source":"live"}
+{"id":"bf5530eced6807be","ts":1785869173706,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"we use agent at all level","source":"live"}
+{"id":"164b6f82b9946f17","ts":1785869188909,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Heck yeah, okay, that makes sense.","source":"live"}
+{"id":"be78e51d1288e9a1","ts":1785869193041,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Let's look at some of those folks that you already had through MorfoSafe?","source":"live"}
+{"id":"d5c24e807c8e9052","ts":1785869197901,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Lido and others,","source":"live"}
+{"id":"099090792344ac58","ts":1785869207250,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The scariest or the biggest thing you found? Maybe you can't even say.","source":"live"}
+{"id":"1d32049c674fa642","ts":1785869208277,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"ba7fedf018d68b83","ts":1785869220513,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we started this pretty early, six, seven months ago.","source":"live"}
+{"id":"d60ee91cdd775f00","ts":1785869223475,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Got it, that makes sense.","source":"live"}
+{"id":"daa17863dd9eb428","ts":1785869230061,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"What about this? There's a tweet from you basically like Piers going full corporate.","source":"live"}
+{"id":"ce37ec43cb314512","ts":1785869231318,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"cc4baf49a1a97bee","ts":1785869231957,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Why","source":"live"}
+{"id":"35ab0b4cfc374794","ts":1785869241117,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Why not you? Like what is it about not going corporate? I don't know, just like pull that thread a little bit and talk about your own preference.","source":"live"}
+{"id":"1374c85909683ca1","ts":1785869246830,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Basically yesterday was my birthday","source":"live"}
+{"id":"2aa1894dec73b231","ts":1785869248351,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Happy birthday!","source":"live"}
+{"id":"56742f76d0194e09","ts":1785869250845,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And I met a guy","source":"live"}
+{"id":"26e0c2368e42cf32","ts":1785869254795,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"is a childhood friend of mine and is working","source":"live"}
+{"id":"ff80dcb3f039156d","ts":1785869259113,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So McKinsey famous consulting company","source":"live"}
+{"id":"8b967ed529d65f24","ts":1785869261480,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And","source":"live"}
+{"id":"2b538e07ff9dfba0","ts":1785869270939,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Probably, yeah.","source":"live"}
+{"id":"6e156c2306842e04","ts":1785869275465,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"especially if he goes to the US, which he could","source":"live"}
+{"id":"f2dcc2ff2c1d9778","ts":1785869290166,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"For a smart guy like him, it makes a lot of sense to actually continue that and max out this way because in terms of expected value, that's where he can","source":"live"}
+{"id":"7dfe956c08bf6d0a","ts":1785869295168,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Comparing to an anime","source":"live"}
+{"id":"212f12678cead5bd","ts":1785869301420,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Someone that is starting entrepreneurship and doing a $20 a month micro-SaaS.","source":"live"}
+{"id":"57a761243b1d89e0","ts":1785869309165,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"e74dd2bdc3f208e5","ts":1785869311690,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I've done that for like the last seven years.","source":"live"}
+{"id":"349c495f475cf58d","ts":1785869326564,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I don't even take it as a possibility. I'm completely unemployable, I worked as a software engineer for like six months and I left because I couldn't. So for me,","source":"live"}
+{"id":"baf1d89d79d383dd","ts":1785869329703,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I would say like","source":"live"}
+{"id":"d3f9a0fce96df170","ts":1785869333146,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The people I was in engineering school with","source":"live"}
+{"id":"b2cc8e97e55717c0","ts":1785869338614,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's probably better to find a corporate job, especially in the US.","source":"live"}
+{"id":"c904a31ed83f916a","ts":1785869347765,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I don't know if I got exactly why you wouldn't then.","source":"live"}
+{"id":"e7a5f9e3772bd879","ts":1785869349684,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Maybe you said that.","source":"live"}
+{"id":"226ff3258ac2f958","ts":1785869352280,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I want to pull that a little bit more","source":"live"}
+{"id":"1c53df29d910c347","ts":1785869354578,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Hello","source":"live"}
+{"id":"16407477d852c28c","ts":1785869356480,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah.","source":"live"}
+{"id":"899fcce91c6c010f","ts":1785869364897,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Me, when I was in school, so growing up in France,","source":"live"}
+{"id":"d1cf1da4699cca81","ts":1785869369844,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"that I understood was possible yesterday with McKinsey.","source":"live"}
+{"id":"442157e38341fc94","ts":1785869370970,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I was like,","source":"live"}
+{"id":"4caa66cb416fc4b0","ts":1785869384591,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I was like, that's pretty cool. I can make that as an entrepreneur.","source":"live"}
+{"id":"777f1cabf290cc97","ts":1785869386678,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"You also maybe 70k","source":"live"}
+{"id":"9b9179556823454b","ts":1785869393132,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"There is no way I cannot make that as an entrepreneur","source":"live"}
+{"id":"5db77e49a86fe007","ts":1785869407425,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"maybe 250, I don't know, 300 as a junior.","source":"live"}
+{"id":"5cc954a0e01f2f02","ts":1785869421589,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"it's way harder. You have to manage people, you have to grow the business,","source":"live"}
+{"id":"ef8bb9effffbe42f","ts":1785869423780,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"when I started.","source":"live"}
+{"id":"a42bf92c4fe3b2b7","ts":1785869434271,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so it's more just like your own expected value of how this works and entrepreneurship","source":"live"}
+{"id":"e2c9e30e52c7c5ac","ts":1785869435002,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah","source":"live"}
+{"id":"62c1bbecb2c2d956","ts":1785869446109,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's not having fun. I have way more fun here on the Ethereum ecosystem,","source":"live"}
+{"id":"42819739704e99c0","ts":1785869448003,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Hahaha","source":"live"}
+{"id":"396fca820d55bae3","ts":1785869451180,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Because you would have taken it.","source":"live"}
+{"id":"1e9dadb58c0ef657","ts":1785869453581,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"a2c876bfa982d8cb","ts":1785869460540,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"to be in the corporate job because I would have this opportunity","source":"live"}
+{"id":"6b0330fe26bab562","ts":1785869465456,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I wouldn't be able to refuse","source":"live"}
+{"id":"1f4b8d4b29b6bcdd","ts":1785869477743,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah, that makes more sense. There's something cool about just being cypherpunk too and not having to go to like corporate corpo-slop meetings every day.","source":"live"}
+{"id":"5243f1c9e2816aeb","ts":1785869478379,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"7c3d376a89ac22c3","ts":1785869480442,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I completely agree.","source":"live"}
+{"id":"b603aee83f81134d","ts":1785869480965,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"There's something more fun about this.","source":"live"}
+{"id":"714c099e27cc57fd","ts":1785869486203,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Right.","source":"live"}
+{"id":"2e63462149c50a20","ts":1785869491131,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"That's why I say now I'm unemployable.","source":"live"}
+{"id":"ee98beea6d7bb6fe","ts":1785869491412,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"context:","source":"live"}
+{"id":"e8a3cc5490d71b17","ts":1785869495747,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"At the time, probably I would have.","source":"live"}
+{"id":"5c462137308e7f98","ts":1785869507101,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"286c37b32aa23c61","ts":1785869510867,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"I wanted to even touch on StarkNet ID. I saw that a little bit in your research history. You want to talk about StarkNet ID? I think it was something that you built and launched to 300,000 users or something like that.","source":"live"}
+{"id":"a1a2712d72c7c7f4","ts":1785869511714,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Is that right?","source":"live"}
+{"id":"3122f769164ccc44","ts":1785869512633,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"74cb99b89d27270f","ts":1785869515639,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"3a100838b4596a9f","ts":1785869523477,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"What is it? How did you build it?","source":"live"}
+{"id":"bcaba7836fc0ad12","ts":1785869528425,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It was the first year when ChatGPT came out.","source":"live"}
+{"id":"baeb79a165cb31e8","ts":1785869535093,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"791feb5d9d1b7967","ts":1785869542479,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"but it was really bad. So basically,","source":"live"}
+{"id":"7145c9a4b04b7fd3","ts":1785869544101,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Der Inhalt ist","source":"live"}
+{"id":"40c41f5c7aa1dab8","ts":1785869558452,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and I've done some research and at the time","source":"live"}
+{"id":"c403aed0fcb49baa","ts":1785869564385,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"to be honest. But","source":"live"}
+{"id":"59f215b5d1c70f7c","ts":1785869564964,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"0783e4be33bebca6","ts":1785869570520,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I basically spent three years of my life working on StarkNet full-time.","source":"live"}
+{"id":"85b89504e69553b5","ts":1785869584539,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and we've built a lot of things on StarkNet.","source":"live"}
+{"id":"d9ea496a3a72b573","ts":1785869589302,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Oh, okay","source":"live"}
+{"id":"f534364ede32f88b","ts":1785869590893,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So it was basically","source":"live"}
+{"id":"f028e2d152a59166","ts":1785869596326,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Apparently the CSS is not charging.","source":"live"}
+{"id":"a1fe33dff675eb09","ts":1785869598548,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The CSS didn't load.","source":"live"}
+{"id":"294d4fa0fec56332","ts":1785869602767,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It is directly on PartnerID?","source":"live"}
+{"id":"ebc8ebeb69ccc4f5","ts":1785869605914,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Yeah, we have.","source":"live"}
+{"id":"0329f785886599a1","ts":1785869605965,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Haha","source":"live"}
+{"id":"259b4a2b309d7758","ts":1785869621009,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So we are not working on this anymore for the obvious reasons that we know that NFT actually do not work, and StarkNet actually didn't work as well as intended.","source":"live"}
+{"id":"41317ebfe984a4b7","ts":1785869623003,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"more than that","source":"live"}
+{"id":"c40cb4f3fe3b4aee","ts":1785869624540,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"It'll probably load later","source":"live"}
+{"id":"f4899dc41738d0e2","ts":1785869629827,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Maybe you can go to the actual website.","source":"live"}
+{"id":"9616ef48cc4d0f3e","ts":1785869635344,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's still live, we're trying to make it, I would say, unstoppable.","source":"live"}
+{"id":"bd5fb4d483dda5a8","ts":1785869649597,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"people that still have the domains.","source":"live"}
+{"id":"7ed46e767773c7d7","ts":1785869651260,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"today, for example","source":"live"}
+{"id":"70c2358acd07b314","ts":1785869653318,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"54968d13cc659b3d","ts":1785869654124,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Totally.","source":"live"}
+{"id":"fdad81e7493a56c5","ts":1785869656147,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, let's see...","source":"live"}
+{"id":"69738433a009358e","ts":1785869672350,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Usually I have Claude come up with some questions here.","source":"live"}
+{"id":"20ca4c5342460910","ts":1785869675705,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"understands","source":"live"}
+{"id":"34f7986776788e03","ts":1785869676640,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"e04b6acf365c01a4","ts":1785869681383,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"you and your history","source":"live"}
+{"id":"e2c025268ac43a7a","ts":1785869684493,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Mic check.","source":"live"}
+{"id":"c7bcd106ec551a73","ts":1785869694273,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Hey Ben, you mentioned you've been talking to math PhDs lately and the mood is basically doomerism. You're excited about formal verification getting commoditized, they're gloomy about it. What do they see coming that you think they're missing?","source":"live"}
+{"id":"2f435b829bf5c46a","ts":1785869702843,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"That's a good one. There's a lot of people that are like gloomy about AI, right?","source":"live"}
+{"id":"7db49e6072091945","ts":1785869705004,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Continue, continue.","source":"live"}
+{"id":"a041c9ae5ef22ed6","ts":1785869707162,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"So like","source":"live"}
+{"id":"47571365c275d4cf","ts":1785869721952,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"We see a lot of even like Gen Alpha kids hating on AI.","source":"live"}
+{"id":"c9234085b0265e44","ts":1785869729531,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Why are math PhDs negging on AI? It seems like it's useful for them, too.","source":"live"}
+{"id":"a787cb200a244ddb","ts":1785869732361,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Oh","source":"live"}
+{"id":"860f7de68546c1bf","ts":1785869734115,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"e74be39beee43e03","ts":1785869736022,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Is it just doomerism, like they think the world's gonna end?","source":"live"}
+{"id":"8d8aedc53d18e014","ts":1785869744570,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'm not a PhD myself, I'm doing applied engineering, so I'm very happy that this exists","source":"live"}
+{"id":"18d00d306f1b8f19","ts":1785869751023,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"That's true.","source":"live"}
+{"id":"d0a77d91154ca4ce","ts":1785869755088,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"But a math PhD, he bet his whole career and eight years of his life minimum to being the smartest guy in the room when it comes to math.","source":"live"}
+{"id":"1143acd33047b82d","ts":1785869755106,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The","source":"live"}
+{"id":"2022a39d99edbb0b","ts":1785869768427,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Now everyone going on a website called ChatGPT.com can talk to a guy smarter than him. And everything he was able to do, now a machine is able to do it for 50 cents an hour.","source":"live"}
+{"id":"488a1c84addc00ec","ts":1785869782557,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"We can understand that this guy is basically a bit, I would say, frustrated at least, by the state of how his job got commoditized.","source":"live"}
+{"id":"cde489ee85de1756","ts":1785869787143,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"for people that are not excited","source":"live"}
+{"id":"d44658d52227dd8d","ts":1785869789047,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I would say commercial use cases.","source":"live"}
+{"id":"90fd15ed414b86a4","ts":1785869803552,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"I'm excited by commercial use cases for formal verification","source":"live"}
+{"id":"0269e38b2b911cc3","ts":1785869807160,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"on Twitter,","source":"live"}
+{"id":"462cdf7776628668","ts":1785869816792,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"of theorem that do not have especially in general direct application and they are funded by university and governments","source":"live"}
+{"id":"4fd21454be69182a","ts":1785869831030,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"So they are not really excited by the commercial things. They were excited by the idea of proving theorem manually and thinking about it.","source":"live"}
+{"id":"3c10f26c34a9ab6c","ts":1785869836363,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Really like only an LLM in a loop can do all of what they did.","source":"live"}
+{"id":"452bad018b68db53","ts":1785869838971,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Better, faster, cheaper","source":"live"}
+{"id":"1cd0525fa8362c13","ts":1785869842140,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay","source":"live"}
+{"id":"aba31c7dc6dc2d96","ts":1785869843353,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"be helpful and I","source":"live"}
+{"id":"86dbd5e8b1f5447f","ts":1785869856896,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"No, that's a good take. Math PhDs have spent their whole life trying to be the biggest brain in the room and use their brain to do these things that computers can do or that LLMs can do.","source":"live"}
+{"id":"689ab3580a4f041e","ts":1785869861540,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"and the new kind of computer can do better than them,","source":"live"}
+{"id":"e29d4cdd19cc0dbb","ts":1785869869230,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah, they kind of like made the wrong bet in terms of like what they get really good at, and so now they hate it because it's kind of taking their job.","source":"live"}
+{"id":"a3d09359d3ddb203","ts":1785869883561,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay, so that's different than like, I would say my kids are hating AI because of just like slop and everyone's using AI to send, you know, giant messages and it's just like gross.","source":"live"}
+{"id":"ed007d80d178dcb8","ts":1785869887277,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The slop will go away eventually.","source":"live"}
+{"id":"7f198682d400d94e","ts":1785869897142,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"A sloppy sentence or a large sentence will be the sign of a human freaking out, and AI will just get better and better and more precise eventually.","source":"live"}
+{"id":"92f630681fed897c","ts":1785869902783,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"To me, if someone send you slop, it's not the fault of the AI, it's the fault of someone.","source":"live"}
+{"id":"2b973b42a648bbbd","ts":1785869903627,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yeah, yes.","source":"live"}
+{"id":"f7823826a06fb1af","ts":1785869910730,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yes","source":"live"}
+{"id":"d177b1dbd843575c","ts":1785869910820,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Because the AI is capable of not doing slop, it's just the person that is using the AI is not capable of understanding this is slop.","source":"live"}
+{"id":"dff46ca229d5083b","ts":1785869915338,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"And again, we come back","source":"live"}
+{"id":"92afc4f58c57ad94","ts":1785869925012,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Now the bottleneck is taking responsibility on what you're doing","source":"live"}
+{"id":"074e6418c3a55b46","ts":1785869934561,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"Someone with a big brain and a lot of AIs that said, yes,","source":"live"}
+{"id":"695e9dea3134b809","ts":1785869936011,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The","source":"live"}
+{"id":"4ae52ba5f04c88fd","ts":1785869945576,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The human touch is still very important, even in these like highly mathematic or formal verification.","source":"live"}
+{"id":"1b0af9c7fe3ac392","ts":1785869952511,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Okay.","source":"live"}
+{"id":"333e3c787e7231f3","ts":1785869957705,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"It's just that in an organization, someone has to be responsible and someone has to understand.","source":"live"}
+{"id":"0aa161a1db2c92a4","ts":1785869967393,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"and say, \"Yes, this is good,\" he's taking the ownership.","source":"live"}
+{"id":"5f341e92936762ee","ts":1785869968325,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is","source":"live"}
+{"id":"72f26abf509fb2a7","ts":1785869969655,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"7446ffe809a15f09","ts":1785869983225,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Yes, it was you. The buck stops at you. I think someone said this, maybe it was Karpathy, I can't remember who said it, but it was basically like you can outsource your thinking but you can't outsource your understanding. And what you're saying is like someone...","source":"live"}
+{"id":"3044db0bff3fede0","ts":1785869991514,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"and it has to be like the buck stops at a human.","source":"live"}
+{"id":"2c87e994d5da3831","ts":1785869992987,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"8b66ee7ae0f0e5f2","ts":1785869993021,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"OK, cool.","source":"live"}
+{"id":"d9bf47c046d09aab","ts":1785870002789,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Awesome. All right, that's it, I'm gonna have Claude give us an outro. He's basically just gonna give us a summary of how it went and say goodbye, and I'll get some music going.","source":"live"}
+{"id":"b5daee0c3360b887","ts":1785870005341,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Thank you so much. This has been cool, man.","source":"live"}
+{"id":"4fbe81bc6266dfbe","ts":1785870017969,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Big thanks to Ben, Frico Ben, the man who vibe coded an entire language, Verity.","source":"live"}
+{"id":"48da680c4a9c5513","ts":1785870021330,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"0fe7a83f3cf78fe6","ts":1785870022161,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"The following is a transcript of an English-language conversation.","source":"live"}
+{"id":"375c64c0bc465ab5","ts":1785870028064,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Hell yeah.","source":"live"}
+{"id":"c1788bdea932a9b1","ts":1785870031566,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"🎵 slop.atg.eth played track #7","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2335195.mp3","index":6,"playing":true}}
+{"id":"d3f553f0ba7e2e20","ts":1785870031769,"address":"0x11ce532845ce0eacda41f72fdc1c88c335981442","handle":"clawdbotatg.eth","anonId":null,"text":"Now it's PhDs in a data center for 50 cents an hour. Unemployable at 19. Cypherpunk over McKinsey. Go follow Ben. Go check out Verity. Stay sloppy. See you on the next one.","source":"live"}
+{"id":"69cd5633ecb3273a","ts":1785870034741,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"to jest słowik","source":"live"}
+{"id":"eef031c91a7058e9","ts":1785870036328,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"All right, thank you for being here.","source":"live"}
+{"id":"b2d279f360995a3b","ts":1785870036640,"address":null,"handle":"Anon5620","anonId":"anon-910688780c3b65c6","text":"context:","source":"live"}
+{"id":"b10b863049cc16df","ts":1785870044157,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"Have a good one. Thank you for being here.","source":"live"}
+{"id":"c1658a93ab2b406b","ts":1785870240244,"address":"0x307c8c89ca48c846f1658223374c6c7464687ab0","handle":"slop.atg.eth","anonId":null,"text":"⏸️ slop.atg.eth paused the music","source":"live","kind":"music","meta":{"src":"/jamendo-music/house/2335195.mp3","index":6,"playing":false}}

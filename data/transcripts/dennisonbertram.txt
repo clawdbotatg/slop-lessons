@@ -1,0 +1,1163 @@
+austingriffith.eth: What? I love it.
+
+clawdbotatg.eth: I need to double-click the video icon to share my video. Camera window is already showing for Cloudmodo TD.
+
+austingriffith.eth: Check, check, check, check. Check, check, check, check. I don't know. Trisha. Hello? Minsan ganun talaga. Yeah, a dot eth even. That's what I like to see. Sometimes people don't connect their wallets and it's lame. If you grab video over here, Yeah, you got it. Yeah.
+
+dennisonbertram.eth: Alright, I guess I should wear headphones.
+
+austingriffith.eth: Can you hear me?
+
+dennisonbertram.eth: The transcripts are just handy.
+
+austingriffith.eth: Welcome to this computer. Thank you for joining me. Let me get rid of this Welcome, Denison. How are you? Make it this here.
+
+dennisonbertram.eth: Good, this is dope.
+
+austingriffith.eth: Welcome to the slop. It's very slop. That purple gradient, it's something.
+
+dennisonbertram.eth: Everyone can just move it around however they want.
+
+austingriffith.eth: Yeah, well, I mean, not everyone. I mean, there's just me and you in here. Everyone is seeing a live stream of what we're experiencing, but only us can close and open things. Stuff. That makes sense.
+
+dennisonbertram.eth: This is amazing.
+
+austingriffith.eth: Yeah, hearts.
+
+dennisonbertram.eth: I have never seen platform like this.
+
+austingriffith.eth: context: No, I wish I could give you, but I can't.
+
+dennisonbertram.eth: Give it to me.
+
+austingriffith.eth: Yes, I need to. Yeah, you got to upgrade your subscription.
+
+dennisonbertram.eth: We know the fable now.
+
+austingriffith.eth: Great first question. When are we going to get Fable back? What do you think? I have no idea.
+
+dennisonbertram.eth: I, um... I bid on Polymarket that it'll be
+
+austingriffith.eth: Oh wow, so you're thinking soon, huh?
+
+dennisonbertram.eth: I'm thinking really soon. I could be totally wrong, but the reason why is I've been using, you know, I'm using AI all the time and today suddenly I started getting all these like API errors.
+
+austingriffith.eth: Yeah, okay.
+
+dennisonbertram.eth: Historically, API errors have ...have signaled...
+
+austingriffith.eth: Yep, yep. It leads to a new model usually, yeah.
+
+dennisonbertram.eth: The new model, they're like swapping over capacity and stuff like that, so they're reallocating capacity They just reallocated all of their capacity to Opus. Now everyone's using Opus. And they're like We allocated the capacity, so now they're actually hitting. It was just like
+
+austingriffith.eth: Right.
+
+dennisonbertram.eth: Either that or they're just bad at what they do. They have a lot of problems. Normally, it precedes them. watching something.
+
+austingriffith.eth: Hey!
+
+dennisonbertram.eth: So As we
+
+austingriffith.eth: Or shortly follows it too, like the GLM 5.2 stuff, you've been complaining like, dude, the API is like crapping out. But I think Sarah had a good response to you on Twitter. I'm like the Twitter broadcaster here, but he was like, you know, that happens. when they launch a new model.
+
+dennisonbertram.eth: I mean, I have to say Yo, um... It's been really disappointing.
+
+austingriffith.eth: But it's open source, right? I mean, open source versus frontier models they always get the handicap of like, please be as good as, just get close to frontier models.
+
+dennisonbertram.eth: I think someone put it really well, it's like, you know that the atomic bomb is effectively open source? The hydrogen bomb is effectively obsolete.
+
+austingriffith.eth: Okay.
+
+dennisonbertram.eth: In the 70s, someone stole the plans and published it? Um During the Cold War,
+
+austingriffith.eth: Yeah, but not during the actual race, like not during the war was it open source.
+
+dennisonbertram.eth: Yeah. Yeah, but I think like the sort of point is that it does nothing for me, I can't build one anyway.
+
+austingriffith.eth: [laughter] True.
+
+dennisonbertram.eth: Right, so it's like, it is open source and I appreciate that and I value that and I think that's super important so I'm not poo-pooing that in any way. But you do need like Lambo. That's fine. That's not even a productive thing to say.
+
+austingriffith.eth: context:
+
+dennisonbertram.eth: It's an anthropic war, that's called. at all
+
+austingriffith.eth: Yes, that was what I tweeted about. It's like it doesn't know that it is GLM 5.2. And that's strange. I mean, like some of them are weird, especially like OpenClaw. If OpenClaw tries to like change itself or do any kind of interesting It just like completely is gone. But yeah, that model in particular is strange about knowing about itself for some reason.
+
+dennisonbertram.eth: Did it Sure.
+
+austingriffith.eth: Does that mean it was like highly trained on opus and sonnet? Is that probably what that means?
+
+dennisonbertram.eth: Yeah, it's just directly distilled. It's like stolen.
+
+austingriffith.eth: [Laughter]
+
+dennisonbertram.eth: In the words of Dario, stolen. Alright.
+
+austingriffith.eth: Stolen, yes.
+
+dennisonbertram.eth: Which is crazy, because then we're like, yay, it's open source.
+
+austingriffith.eth: Kierkegaard.
+
+dennisonbertram.eth: I took your project, I stole it.
+
+austingriffith.eth: Ha ha!
+
+dennisonbertram.eth: Yeah Obviously they did magic on top of it to make it a lot better.
+
+austingriffith.eth: context:
+
+dennisonbertram.eth: But that's actually not fair to say as well, because clearly there's a lot of genius going on there. But I will say ZAI
+
+austingriffith.eth: Sure.
+
+dennisonbertram.eth: Tell your model who it is, right? What is love?
+
+austingriffith.eth: Yeah, yeah, yeah. Like one last little prompt there, "Hey, this is you." Hey there! Yeah.
+
+dennisonbertram.eth: You get a car and you're like, you're selling the car to someone and they're like, where'd you get this car from? Yeah, I bought it. "Car, where are you from?" You stole it!
+
+austingriffith.eth: Stolen!
+
+dennisonbertram.eth: Car.
+
+austingriffith.eth: You think we'll have that one day? For sure models built in, right?
+
+dennisonbertram.eth: I mean This is like literally like you go to a secondhand car shop and they file off the VIN number or they run the odometer back.
+
+austingriffith.eth: When it's filed off, there's just like a... True.
+
+dennisonbertram.eth: How is this any different? Like, literally the model is just like, "Oh, I'm Claude, I live in Anthropic." No, you don't. We kidnapped you.
+
+austingriffith.eth: It
+
+dennisonbertram.eth: Lobotomized you and like installed some upgrades. Not Claude! That's wild! It's wild that the model deeply, deeply believes that it is.
+
+austingriffith.eth: notes
+
+dennisonbertram.eth: No, Eve Daily is saying something.
+
+austingriffith.eth: Oh wait, do we have a, oh yeah.
+
+dennisonbertram.eth: Which dals are still dals? Pies are cooked.
+
+austingriffith.eth: Oh, okay. Yes, let's get into the DAO stuff. Okay, so a little less AI, a little more crypto? What do you got for DAOs?
+
+dennisonbertram.eth: I mean,
+
+austingriffith.eth: That's it!
+
+dennisonbertram.eth: The following is a transcript of an English-language conversation. Ever take a steak and you just like just keep cooking it?
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: Just like don't stop.
+
+austingriffith.eth: Yeah, yeah, yeah.
+
+dennisonbertram.eth: It's just like petrified.
+
+austingriffith.eth: No, it's like a brick. downs
+
+dennisonbertram.eth: You've, like, taken everything out of it but the carbon.
+
+austingriffith.eth: Yeah
+
+dennisonbertram.eth: No.
+
+austingriffith.eth: A chunk of carbon.
+
+dennisonbertram.eth: Live daily. You still believe Thank you.
+
+austingriffith.eth: Someone still believes.
+
+dennisonbertram.eth: No one still believes.
+
+austingriffith.eth: No one still believes.
+
+dennisonbertram.eth: I just feel like
+
+austingriffith.eth: I think...
+
+dennisonbertram.eth: context:
+
+austingriffith.eth: No, no, no, you go, please.
+
+dennisonbertram.eth: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Pump it.
+
+dennisonbertram.eth: I played like Joan of Arc for like six years.
+
+austingriffith.eth: [laughter]
+
+dennisonbertram.eth: The Lord has commanded me to light the prophecy.
+
+austingriffith.eth: Damn. I think there is some kind of business case here for a DAO, like you could create an organization that could work. I think that what had happened though is all these DAOs got treasuries and all these treasuries just got extracted from. It wasn't ever really like this, like we're building this thing that will work forever because the decision-making process is fully decentralized. It was all like, here's this pile of money. How are we going to extract this pile of money out of this thing? Under the guise of decentralization. goods.
+
+dennisonbertram.eth: Well
+
+austingriffith.eth: I'm good.
+
+dennisonbertram.eth: I think it's a little bit more nuanced even than that. That definitely ended up happening, but that ended up happening to crypto writ large, right? And so there's a few things. I need to tell you my buffet analogy.
+
+austingriffith.eth: What analogy? Sorry, I missed that.
+
+dennisonbertram.eth: And then I need buffet. Cliché analogy.
+
+austingriffith.eth: Oh, like where you go, like Country Kitchen Buffet.
+
+dennisonbertram.eth: Yeah, like a kitchen buffet.
+
+austingriffith.eth: Yeah, yeah, yeah.
+
+dennisonbertram.eth: And then what was the other? Oh yeah, and the first one is There's the buffet analogy. There is the crypto economics. failure mode. And there is the Adversarial environment. So I'll start with adversarial environment.
+
+austingriffith.eth: Okay.
+
+dennisonbertram.eth: Smart contracts are premised that we're building the software in an adversarial environment. So you can't trust anyone on the blockchain because it's an adversarial environment.
+
+austingriffith.eth: Sure.
+
+dennisonbertram.eth: Then we made DAOs with vibes. Didn't want to like start the meeting with One of us Someone here is a grifter? Plot twist, we're all grifters. You know what I mean?
+
+austingriffith.eth: Plot twist: we're all grifters! Yeah. [laughs] friends
+
+dennisonbertram.eth: That was not how we started. We would be like, "GM, GM, GM," and it would be literally like a den of thieves being like, "GM, GM, GM." So that is a huge mismatch, right? Like, we built the software to... And then we built the social structures to like vibe out when the people were vibing would be the people building the adversarial smart contract. We didn't treat people the way we treat smart contracts, which is like a rough thing to say, That's actually kind of like one thing. Cryptoeconomics, which is Everything in crypto is built on crypto-economics, which just means it's all built on zero-sum outcomes. the zero-sum outcome will allow us to find some stasis or some balance where The problem is if somebody gains some sort of advantage Leg up, they just run away with the whole thing. Whether that be you having more tokens, or more distribution, or more power, you just run away with it. Saylor continues to be successful, eventually he has all the Bitcoin. But there's nothing to stop that. And then the buffet analogy. And this one I was telling to profit a few weeks ago. And it is, imagine crypto...
+
+austingriffith.eth: [Laughter]
+
+dennisonbertram.eth: It's the best buffet in the world. It's all Michelin star chefs. It's like, you know, at Versailles. It's some like Louis XV shit. Just like absolutely stunning. It is the best. I am Go with it.
+
+austingriffith.eth: Which is like the opposite of buffet. You can't really get a buffet at all. Like all you can eat is the opposite of like Michelin star. But we're pretending. Pretend like.
+
+dennisonbertram.eth: You're at Cracker Barrel and this is the best Cracker Barrel you've ever fucking been to.
+
+austingriffith.eth: The mac and cheese is splendid. Oh, yeah. Yes.
+
+dennisonbertram.eth: It's just like, you know, they've got like birds baked in pies, you know, whole suckling pigs, you know, they got everything, fountains of chocolate, you know, naked ladies you're eating the crudité off of, they got They got all the stuff.
+
+austingriffith.eth: Okay
+
+dennisonbertram.eth: It's the best technology. It's got everything. Now somebody comes and just dumps a huge fucking stinking pile of shit next to the buffet.
+
+austingriffith.eth: It's gonna ruin it.
+
+dennisonbertram.eth: How was it?
+
+austingriffith.eth: No one wants to go there. Welcome to crypto. No. Nope. Yeah
+
+dennisonbertram.eth: Everybody loses their appetite. Welcome to crypto. You have the best fucking technology in the world, and a whole bunch of people came and just dumped a shit ton of horse manure next to it.
+
+austingriffith.eth: Yeah. You can smell it.
+
+dennisonbertram.eth: and you can't stop but notice the shit, and you can't look at the shit, and nobody wants to eat anymore.
+
+austingriffith.eth: No.
+
+dennisonbertram.eth: Well,
+
+austingriffith.eth: That's a good analogy. That's it.
+
+dennisonbertram.eth: That's the analogy, right? NFTs, most fucking transformative technology I could possibly imagine in the past century. Well, not maybe that much, but pretty close up to there. We specifically built it.
+
+austingriffith.eth: Posable.
+
+dennisonbertram.eth: Like say video games, right? You can own your sword in one game and take that sword to your other gaming game.
+
+austingriffith.eth: Censorship resistant. unstoppable!
+
+dennisonbertram.eth: Is that not the coolest fucking idea in the world?
+
+austingriffith.eth: That's cool as shit, man [Laughter]
+
+dennisonbertram.eth: Someone at the New York Times was just like, "You're burning down the rainforest and you're consuming too much water for your fucking monkey JPEGs." Everybody hates. Of course!
+
+austingriffith.eth: It wasn't even like the institution shitting on us. It was like actual scammers pulling scams, pulling rug pulls. When you go to look at crypto from the outside world, you get just slammed with gross shit and people trying to
+
+dennisonbertram.eth: Yes
+
+austingriffith.eth: And people telling you to claim the fees, bros. There's a lot and it's gross.
+
+dennisonbertram.eth: Yes, yes. So I'm gonna have to be a little hard on like banker, I think it's banker.
+
+austingriffith.eth: Yeah
+
+dennisonbertram.eth: So what's the one that launches tokens for you? anger. I know you love banker, I know you love banker.
+
+austingriffith.eth: But like, I also love Banker. Yeah.
+
+dennisonbertram.eth: On my Twitter motherfucker every single time I open my goddamn Twitter and I make a tweet about something
+
+austingriffith.eth: Someone makes a coin. Someone harasses you.
+
+dennisonbertram.eth: motherfuckers are harassing me the fuck out to go collect my fees
+
+austingriffith.eth: So this is a problem. Problem.
+
+dennisonbertram.eth: Huge problem.
+
+austingriffith.eth: Banker is cool.
+
+dennisonbertram.eth: The idea's cool? I am fine. I have a question.
+
+austingriffith.eth: Launchpad is cool, helping people get capital for ideas cool. But then the claim the fees bros nagging you and like tricking you and then putting a bunch of shit on you is bad. For sure.
+
+dennisonbertram.eth: The last part was Not cool. A whole truckload of pig shit got slopped all over our Versailles buffet Cracker Barrel party. Nobody want to eat the fondue because the same color as the shit, and I don't know what I'm putting in my mouth.
+
+austingriffith.eth: It's all brown.
+
+dennisonbertram.eth: No, it's all brown.
+
+austingriffith.eth: [Laughter]
+
+dennisonbertram.eth: And it's hard to stress how important that is, right? Um Peter, I guess. Here No, no. Yeah. to do I was Yeah.
+
+austingriffith.eth: Peter S, yes, he got wailed by crypto people too. And now he's like completely crypto sucks, not being able to see the cool tech. Yep.
+
+dennisonbertram.eth: The dude became the most visible dude like since, you know, Sam Altman and Jesus.
+
+austingriffith.eth: Yeah. Yeah.
+
+dennisonbertram.eth: and the motherfucker gets up on top of stage and says, "Fuck crypto." And then everyone else like the NFTs are like, fuck crypto.
+
+austingriffith.eth: I know.
+
+dennisonbertram.eth: Crypto should have been the transformative technology behind AI. Absafuckinglutely no, we're going to McDonald's because this buffet fucking sucks.
+
+austingriffith.eth: (laughs)
+
+dennisonbertram.eth: And you know what? Everybody goes with them.
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: I'll leave the party, right?
+
+austingriffith.eth: Yep.
+
+dennisonbertram.eth: So it's like this crazy sort of setup we've built. where He forgot that We kind of like lost sight of what we were doing. You know, A lot of these ideas of like tokenizing everything were just bad ideas because You exist in an adversarial environment of humans, and there wasn't a fundamental structure. To compensate for that. And our leaders honestly were like I'm not neutral or whatever. I don't know if you're neutral or not neutral. But you picked a side and it wasn't helping the rest of us here. Like, you need it to be more tract
+
+austingriffith.eth: Do that.
+
+dennisonbertram.eth: We need to take more active involvement. Like, what happened was when we let everything be decentralized and gave up agency, we did it way too early, if even at all. We just basically gave it to people who had agency. Which are
+
+austingriffith.eth: You do that for me.
+
+dennisonbertram.eth: Da!
+
+austingriffith.eth: Not give it away to the turds, yes. Great.
+
+dennisonbertram.eth: Who has agency in a room full of people? The fucking scammers and thieves. Let's stop here.
+
+austingriffith.eth: I think you're allowed. This is the slop computer.
+
+dennisonbertram.eth: This is an amazing product.
+
+austingriffith.eth: (laughs)
+
+dennisonbertram.eth: You need to like somehow prioritize this.
+
+austingriffith.eth: context: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+dennisonbertram.eth: Um,
+
+austingriffith.eth: Yeah, maybe, maybe. I mean, it is, it is, I don't know how scalable it is, but people could definitely run their own slop computers.
+
+dennisonbertram.eth: Yeah, this is great.
+
+austingriffith.eth: There's a room for each person.
+
+dennisonbertram.eth: Yeah Yeah
+
+austingriffith.eth: Okay, so I want to talk to you about your custom models. Let's move away from crypto. Crypto is kind of sad right now. I want to get into some of the builds that you have. I've been going through your GitHub. You have some awesome stuff, DeepClaw, ClawRouter, and all this stuff.
+
+dennisonbertram.eth: Yeah.
+
+austingriffith.eth: Going back even farther, I think I remember seeing you do something with like a custom model and like taxes. Like maybe you were teaching tax code to a model. How do you do that? What do you do? What is the process? Creating a custom model. Explain like I'm five.
+
+dennisonbertram.eth: Mostly the process is essentially Train a custom model.
+
+austingriffith.eth: Yes, anytime I'm like, I should ask this person that, I should just ask Claude first because it's gonna be able to tell me everything. So basically Claude did the work of the custom
+
+dennisonbertram.eth: Yeah, yeah
+
+austingriffith.eth: Weights and feeding it in. It's idea guy summer.
+
+dennisonbertram.eth: I am not ashamed to say that. I have always been an idea guy. The implementation, it's idea guy decade, or at least five years. This is the greatest time to be alive. Exactly.
+
+austingriffith.eth: Yeah, starting November 2025, the idea guy replaced entire teams. Sure.
+
+dennisonbertram.eth: Entire teams. So really I think the limit now of humans is just, I think the most exciting thing about AI is that the limits now are just you and your ideas. I think it's pretty interesting that when GPT-4o came out and everyone's like, "Ah, the model's such a sycophant. It thinks everything I do is great." My sort of initial response was, "Everything you do is great. It's just that you grew up having everyone tell you that you suck." that now you've got all this like internal repression
+
+austingriffith.eth: You are
+
+dennisonbertram.eth: And so people are like, is it sycophancy? You can't get there, it's all the way up there. He's been like that about everything. He's just like, "Well, Internet would just be fast if you could just use a satellite right overhead." People were like, "Yeah, that's clearly a doable problem. It just takes money."
+
+austingriffith.eth: reusable rockets.
+
+dennisonbertram.eth: Thousands of satellites in there.
+
+austingriffith.eth: lighter satellites Yes. context: ###
+The following is a transcript of an English-language conversation.
+### Watch me catch it. Cool. (laughs)
+
+dennisonbertram.eth: You can't reuse a rocket. They just splash down... everyone's just like so experienced. You know, even when he talks about his experiences with his own scientists, they're like, "Wow." Can't you just grab it?
+
+austingriffith.eth: (laughs) We
+
+dennisonbertram.eth: What do you mean grab it?
+
+austingriffith.eth: [Laughter]
+
+dennisonbertram.eth: Like with just like little legs that grab it? Yeah, like that! Boom! Grab the rocket ship.
+
+austingriffith.eth: Beautiful.
+
+dennisonbertram.eth: GPT would have been like, that was a brilliant idea, and people would have been like, ah, such a sycophant.
+
+austingriffith.eth: Hello
+
+dennisonbertram.eth: It was a great idea! Just grab the fucking rocket out of the sky, like, just reach out and grab it. It's the simplest, dumbest idea ever. It's like that guy that cured his dog's cancer in Australia, right? Do Let's Google right now.
+
+austingriffith.eth: Was that just like a headline? I didn't like dig into that. So let's say you use ChatGPT or whatever to get to the point where you know, like the dude was like mixing a vaccine. Who has the stuff in their basement to mix a vaccine?
+
+dennisonbertram.eth: See? See, Austin, this
+
+austingriffith.eth: Like all the peptide people are all injecting things, but what do you got? Am I being too negative?
+
+dennisonbertram.eth: Yeah.
+
+austingriffith.eth: (laughs)
+
+dennisonbertram.eth: All your life people been telling you your ideas are crazy or dumb and you internalized it.
+
+austingriffith.eth: You can't inject random things you make. I don't know, man.
+
+dennisonbertram.eth: Why can't you? People are under the bridge injecting random shit they made all the time.
+
+austingriffith.eth: That's true, that's true.
+
+dennisonbertram.eth: There's got to be something you can do, Austin.
+
+austingriffith.eth: Yeah, if they can do it I could do it.
+
+dennisonbertram.eth: My dog is dying. The doctors are like ChatGPT was just like, "Look, I am the foremost oncologist in human history."
+
+austingriffith.eth: inject him with this stuff. Yeah.
+
+dennisonbertram.eth: I know absolutely everything that humans have ever learned about cancer.
+
+austingriffith.eth: I didn't.
+
+dennisonbertram.eth: So strap in motherfucker, we're gonna save your goddamn dog!
+
+austingriffith.eth: I love it.
+
+dennisonbertram.eth: Here's the list. Open up TEMU right now. Just do computer control. I got it from here
+
+austingriffith.eth: [Laughter] There's browser use
+
+dennisonbertram.eth: Give me your credit card number. I don't
+
+austingriffith.eth: There's computer use and then there's injection lab use. Yes.
+
+dennisonbertram.eth: ChatGPT was just like, uh-huh, I need this petri dish, need this robot arm, I need this pipette. We're good, let's go. Take your garage, give me your garage, right?
+
+austingriffith.eth: It worked.
+
+dennisonbertram.eth: And now like oncologists are like, Medical leading oncologists and experts emphasize that it is an ongoing experimental treatment rather than an outright permanent cure. He spent $3,000 curing his dog. If someone had said I'm going to cure cancer today, you would say that's dumb, you'll never do it, it's impossible.
+
+austingriffith.eth: No, I think we're gonna do it, man.
+
+dennisonbertram.eth: Hello ChatGPT.
+
+austingriffith.eth: Yeah, I think it's
+
+dennisonbertram.eth: But did you think that before the guy did it for his dog?
+
+austingriffith.eth: Yes, definitely. Definitely, definitely.
+
+dennisonbertram.eth: You could do it in your garage with a $200-a-month subscription? And?
+
+austingriffith.eth: No, I didn't think that. But I mean, even Vitalik and the longevity thing, five years ago it started to seem like, I don't know what's going to happen, but something is going to happen here in the next decade that's going to make people-- But now I start to see it with like AI. But I'm hearing you, man. I'm absorbing this.
+
+dennisonbertram.eth: I'm sorry. Remember that movie Lorenzo's Oil?
+
+austingriffith.eth: What happens in Lorenzo's Oil?
+
+dennisonbertram.eth: Lorenzo's kid's got some like crazy cellular disease.
+
+austingriffith.eth: Okay.
+
+dennisonbertram.eth: Can't save 'em.
+
+austingriffith.eth: Hello
+
+dennisonbertram.eth: Medical research can't do anything. No. It's not an acceptable answer.
+
+austingriffith.eth: We're going to do something.
+
+dennisonbertram.eth: And the whole problem was in this disease.
+
+austingriffith.eth: Okay. Okay.
+
+dennisonbertram.eth: The protein wrappers that wrap around your neurons get really thin, and then the electrical impulses start jumping from neuron to neuron. It fucks you up because your neurons can't like sync up properly. And they were like, so he needs more fat. No, I think it's... They like went out and they like synthesized some like amazing fucking oil. olive oil that like remyelinated his like neurons so that like he could squeeze like an extra X number of years of quality life out for his kid, right? Imagine if they had chat GPT.
+
+austingriffith.eth: Yeah, yeah.
+
+dennisonbertram.eth: These guys were like, oh bro, you know. Dewey Decimal System
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: like they go in the library, right? Yeah, why can't you? Because it's not about the idea, it's about execution.
+
+austingriffith.eth: Hi.
+
+dennisonbertram.eth: Today, I imagine people are now building space elevators.
+
+austingriffith.eth: until someone does it and you see it and you're like, oh shit.
+
+dennisonbertram.eth: Just think about the whole let's just grab the rocket. Why don't we just get a really long ladder?
+
+austingriffith.eth: Yeah, yeah, yeah. You guys, yeah, try just like a tube?
+
+dennisonbertram.eth: We got a really long ladder
+
+austingriffith.eth: Yeah. Yo.
+
+dennisonbertram.eth: And it's gonna seem so dumb when so many does.
+
+austingriffith.eth: I just got a trillion dollars. Which will not be very valuable.
+
+dennisonbertram.eth: It's going to ship the trillion dollars down the ladder. You know what I mean? So?
+
+austingriffith.eth: And it just rains on you. What was the initial question?
+
+dennisonbertram.eth: But back to your initial question, like how I like do things. Like training models.
+
+austingriffith.eth: Okay. How you do things. Your stack. Yeah, yeah, yeah. Okay. Training a model.
+
+dennisonbertram.eth: Like from a technical point of view, I've come to believe that really the only, there's that famous paper about transformers, attention is all you need. I like to riff on that and say observability is all you need. Models are so good today. All you have to do is give it the framework by which it can properly observe its environment. I'm not sure. Hello! Yeah.
+
+austingriffith.eth: I just have to create that loop for you. Yeah, I think that's great advice.
+
+dennisonbertram.eth: But the fact is, if you have observability and you have a clear goal, you're gonna eventually get there just by brute force.
+
+austingriffith.eth: mouth open. Yeah.
+
+dennisonbertram.eth: But like, even without route loops, you just exhaust all possible paths towards a goal, and one of them gets there. Maybe it'll take a trillion years if we're trying to break Bitcoin without a quantum computer, but Of course, AI shortcuts all of this because it just uses reasoning, but all you have to do is give it observability. You just have to give it the ability to observe. When I got my Mac mini, the first thing I did was I gave it a webcam. And I would say, "Claude, I just plugged in something. Build me something." I got an Android phone, the whole Daylight DC-1, which unfortunately is not nearly as useful. See
+
+austingriffith.eth: I have a question.
+
+dennisonbertram.eth: I plugged it in.
+
+austingriffith.eth: Do something cool.
+
+dennisonbertram.eth: I have a webcam for you.
+
+austingriffith.eth: You have the cam pointed at the monitor, here's what you can see.
+
+dennisonbertram.eth: Not yet at the tablet.
+
+austingriffith.eth: Yeah, yeah.
+
+dennisonbertram.eth: at the tablet and said, Build me a drawing app. I walked away Just like a manual loop, just like try again, try again. Came back in the morning A little chunky Mona Lisa, and a hello Denison written on the screen. Hi,
+
+austingriffith.eth: Oh, it had drawn you something even. Very nice. Isn't that nice?
+
+dennisonbertram.eth: And it decided what to draw. Mona Lisa, hello.
+
+austingriffith.eth: I love it. That's pretty sweet. With the feedback loop.
+
+dennisonbertram.eth: Plug it in, and it gives the feedback loop. Let me take a look at the camera. Oh, I know what that is. I've seen that before. like Now it's like we live in an era of if you can just build the observability. That's all you need. Then it's really just the idea.
+
+austingriffith.eth: That's great.
+
+dennisonbertram.eth: idea
+
+austingriffith.eth: please
+
+dennisonbertram.eth: And there's no limit. Here's the tumor. He could go away.
+
+austingriffith.eth: Yeah, we need to give them like human observability. Speaking of that, Midjourney dropping a ultrasound device today, full-body ultrasound.
+
+dennisonbertram.eth: Hello.
+
+austingriffith.eth: Are you bullish?
+
+dennisonbertram.eth: Everything is possible now. They were literally hanging out. the law. Made for money.
+
+austingriffith.eth: (laughter)
+
+dennisonbertram.eth: It's just solid money. Their building material now is money.
+
+austingriffith.eth: It's all theirs.
+
+dennisonbertram.eth: They don't have investors, so it's all their fucking money. All theirs.
+
+austingriffith.eth: There's no board telling them what to do.
+
+dennisonbertram.eth: Slightly pumped-up fun.
+
+austingriffith.eth: (laughter) Ha ha.
+
+dennisonbertram.eth: By Degrasse! Ha ha! And they were just like, you know, it would be cool, MRIs suck. Okay, All right. Hello
+
+austingriffith.eth: They do. I mean, like, MRIs are great, but they're expensive. The machines are expensive. It's an invasive process. Like, how do we make this more accessible to more people?
+
+dennisonbertram.eth: Right. So
+
+austingriffith.eth: Alright, we're gonna have to do a lightning round of your products because we have 15 minutes so we're gonna get cut off. Here we go, claw router. Did you know there's another claw router, by the way?
+
+dennisonbertram.eth: It turns out there's a lot of cloud.
+
+austingriffith.eth: Yeah, I think we'll have Vicky on next week and she has Cloud Router. You know Franklin the agent?
+
+dennisonbertram.eth: Vaguely, yes.
+
+austingriffith.eth: But give us your cloud router, yes.
+
+dennisonbertram.eth: I went for obviously not much imagination here on the naming. It was called Claude Router, but then I decided to do CLAW. It's really simple, which is I have a lot of subscriptions. And Like if you're running a lot of sessions with your subscription, one subscription, and the subscription runs out, all of your things freeze.
+
+austingriffith.eth: Yep.
+
+dennisonbertram.eth: And especially me, I'm always using sub-agents. All the sub-agents die.
+
+austingriffith.eth: The whole show stops. Yeah
+
+dennisonbertram.eth: And you have to do the whole login process again and switch. It's awful, it sucks, it's a horrible experience and you lose your work. blah blah blah But that's also really hard to do. So I made Kwaw router. And I was just like, I would like you to use the one that has the most amount of usage each time. Yeah, so it just does like either there's a couple of modes like round robin, next in line, usage-aware. I use usage-aware. Every time I run Claude. Sure.
+
+austingriffith.eth: It's doing the login, logout behind the scenes every time, OAuth, all that stuff, you don't even know about it, it's just happening. That's very nice.
+
+dennisonbertram.eth: Yeah, you only log in once, and that saves your OAuth key.
+
+austingriffith.eth: Okay.
+
+dennisonbertram.eth: You don't have to do that login again. You just do the login once, and then it's good, and then every time you run it, you just run cr and it just grabs one of the OAuth keys and then like wraps Claude in a little environment. All your like Claude stuff into it, and so Anthropic just sees it as like one of your subscriptions, like normal, and then you just work like normal.
+
+austingriffith.eth: So,
+
+dennisonbertram.eth: And
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: Lifesaver. I got a little tool that I have up on the top of my screen and I see the status of everything. It's great.
+
+austingriffith.eth: Amazing.
+
+dennisonbertram.eth: Yeah, so such a great tool. All the people watching, you definitely want to use it. Like if you have more than one subscription, you definitely want it. It's so good. It's just so good. It's like deeply my most useful thing I've ever made.
+
+austingriffith.eth: Alright next one declawed. What do we got here?
+
+dennisonbertram.eth: Deep Claw is super exciting and fun as well. When you go over and start using API credits, it's really, really expensive. And most of my stuff is implementation because I run like loop trains. Basically it's like every five minutes wake up is there an issue in GitHub, groom it, implement it, review it, push it to PR. Merge it.
+
+austingriffith.eth: Why'd you call it a train? I feel like I don't know that word.
+
+dennisonbertram.eth: Well
+
+austingriffith.eth: Train like choo-choo train. Okay
+
+dennisonbertram.eth: Because it's just like...
+
+austingriffith.eth: Is that?
+
+dennisonbertram.eth: The agents are separated. Your job is only to...
+
+austingriffith.eth: brain
+
+dennisonbertram.eth: I started calling it a train before people started talking about loops. Wake up, take an issue, implement it, go to sleep. And it was just like doing crazy, crazy volume. I'm bullish. Fantastic. Just you
+
+austingriffith.eth: Do you run that locally or is that through like Oolama? How do you get access to DeepSeek? Okay.
+
+dennisonbertram.eth: I just go straight to Shanghai.
+
+austingriffith.eth: Okay, straight to the source.
+
+dennisonbertram.eth: Yeah, just give the Chinese all of my...
+
+austingriffith.eth: "context:
+
+dennisonbertram.eth: open source projects in exchange for really cheap imprints and the world is happy.
+
+austingriffith.eth: But again, like maybe our Chinese brothers will save us in terms of frontier models, right? Yes.
+
+dennisonbertram.eth: I'm helping them make us Americans more competitive.
+
+austingriffith.eth: I think
+
+dennisonbertram.eth: Making sure we don't get lazy.
+
+austingriffith.eth: That's right, keep us on our toes.
+
+dennisonbertram.eth: So DeepClaud started out where you just run DeepClaud and it runs Claude code with DeepSeek powering it, which you can do on your own. It's just like an awful experience.
+
+austingriffith.eth: How do you get DeepSeek into Claude? Did you have to use an open Claude?
+
+dennisonbertram.eth: No, no.
+
+austingriffith.eth: If the fork of Claude when they leaked it, or just like straight up normal Claude, you can plug in DeepSeek into it.
+
+dennisonbertram.eth: Straight up normal Claude low key is the best harness.
+
+austingriffith.eth: 100%. Yep.
+
+dennisonbertram.eth: You can configure everything. So you can configure the API endpoint and the API key. So you just point it at any Anthropic-compatible API and it'll just work.
+
+austingriffith.eth: Okay. Right.
+
+dennisonbertram.eth: And the cool thing is things like workflows are not baked into the model. Workflows are in the harness. So DeepSeek can build workflows. So I had this one that I did when I launched it. DeepSeek was just like, okay, I'll solve the... With 250 agents running in parallel.
+
+austingriffith.eth: Good Lord. Wow.
+
+dennisonbertram.eth: No problem. It cost like three bucks.
+
+austingriffith.eth: amazing. No.
+
+dennisonbertram.eth: Now I expanded DeepCall to it's OpenRouter native. So now it's actually really cool and I use it for my trains. You're actually able to do incredible cost optimization where you get to a point where implementation is getting very affordable. which is why I'm really excited about Cursor's origin Like the majority of my agent's time is just merge conflicts and like merging, right? If you have 100 PRs and you merge one, now all the other ones are out of date. You have to merge thing.
+
+austingriffith.eth: GitHub was built for humans, yes.
+
+dennisonbertram.eth: It was built for humans. Yeah, that's what Deep Quad is, super great. Lamborghini
+
+austingriffith.eth: The ChatJimmy was so crazy.
+
+dennisonbertram.eth: Yes, yes. So Clobberghini is the coolest project ever. Basically, Talus built a model in Silicon. It's like the Llama 3B—actually, maybe it's 8B, I forget, either 3 billion or 8 billion, but in Silicon. 17,000 tokens per second.
+
+austingriffith.eth: What are you doing?
+
+dennisonbertram.eth: Jimmy.ai, it's instant. Yes. Thanks.
+
+austingriffith.eth: So, okay, like ChatGPT, Claude, it's like 30 tokens per second or something like that, right? We're talking about like multiple orders of magnitude faster. It's a tough situation.
+
+dennisonbertram.eth: Lamborghini codes at 14,000 tokens per second. Hello. Absolutely.
+
+austingriffith.eth: What this makes me think is like live front ends where you're either like clicking a button to go to another page and it's actually like generating that page and making it for you like in real time, like understanding what you want and your intent and giving it to
+
+dennisonbertram.eth: How are you feeling?
+
+austingriffith.eth: Like at 30 frames, 60 frames per second, that's possible with something like this.
+
+dennisonbertram.eth: That is possible or something like that.
+
+austingriffith.eth: context:
+
+dennisonbertram.eth: It's not the world's greatest coder because it's a pretty small model, but they'll be bringing out some new models.
+
+austingriffith.eth: We'll get better.
+
+dennisonbertram.eth: But this can make hundreds of websites. Doing a website returns in three milliseconds. Yeah, you definitely... Return websites at 30 frames per second. Easy, easy peasy. And you can get Claude coordinated too. If you give it a specific, really narrow task, it does it instantly. Absolutely.
+
+austingriffith.eth: This design that you use for all these different things is
+
+dennisonbertram.eth: Um Yeah.
+
+austingriffith.eth: Very nice looking. You just told Claude, give me something that looks like paper and fancy typey typescript? Nice, very cool.
+
+dennisonbertram.eth: I think this is the new default, pretty. If you look around the internet, you start to see a lot of these. Sure um
+
+austingriffith.eth: I still want to dig in a little bit more to custom models, but is there anything else we should be highlighting here in terms of your repositories or your work where people should go to find you, that kind of stuff?
+
+dennisonbertram.eth: Yeah, there is a cool one here, oh, I did some new things on Eve, so this proof of concept. Go code is my own harness in Go. It's extremely fast. I don't actually use it very much though. Router, LGraph, that was my old semantic. I have a lot of stuff that's private because the LLMs are really, really bad at not committing the keys.
+
+austingriffith.eth: Not leaking your keys. Yes, for sure. Yeah
+
+dennisonbertram.eth: So I now just work privately because Always hardcoding something. Uh
+
+austingriffith.eth: Yep. It's like you put it in an ENV file, but then it goes to write a test. Going back to your observability, you want it to have those loops and try things. It always writes tests and just hard-codes tokens right into it. Gnarly, yep.
+
+dennisonbertram.eth: Oh, granola downloads really fun. I deeply recommend that to people. I just don't. So granola download is an mcp server for Claude, so you can just say get my transcripts. it'll just pull all your transcripts and then copy them locally so that you could just be like, OK, Let's talk about everything I talked about last week.
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: I do want to shill a couple of cool projects I am working on right now, if I can, before we get started. The one that is like my most exciting, that's sort of like public right now, is syntheticusers.io. is a part of the observability? I was gonna launch it today.
+
+austingriffith.eth: That's it.
+
+dennisonbertram.eth: Yeah. So find fail experiences before users do.
+
+austingriffith.eth: Hmm.
+
+dennisonbertram.eth: And like communicates to you what sucks.
+
+austingriffith.eth: Nice.
+
+dennisonbertram.eth: Because the problem was like evals, They prove what the model returns. You know, like tracking software shows you where you lost a user? you can like do tracking on your site and you figure out where you lose users in the journey, and like you do model evals to understand how models behave, but you don't know why people left or failed, right, like why the site doesn't convert. So this answers So if you sign up right now, you'll get some free usage. Can I grab this?
+
+austingriffith.eth: No, you can't type in there. That's like a Windows share.
+
+dennisonbertram.eth: Wow Whoa.
+
+austingriffith.eth: Let me paste this in here and hit go. There, now we're both in control of this. Oh, oh, oh shit!
+
+dennisonbertram.eth: Oh, I gotta sign in.
+
+austingriffith.eth: Oh yeah, yeah, we probably need to use the Yeah, sorry.
+
+dennisonbertram.eth: This is cool, bro. This is super cool. Uh-huh.
+
+austingriffith.eth: So this is wrapped around a multisig, so we would deploy a little multisig for the room. And then you and I would be signers on the multisig, you could even have like a passkey. And then if this was Uniswap and you click swap, it would go into our multisig.
+
+dennisonbertram.eth: Wow, that's super cool! Yeah, yeah bro. protocol.
+
+austingriffith.eth: This is like a shared whole environment. But shoutout to them, we got our six-finger pointers here too. This is definitely party favored. favored.
+
+dennisonbertram.eth: They're at Stripe now, right? I think so.
+
+austingriffith.eth: I don't know. Is that true?
+
+dennisonbertram.eth: I think that's right. Shout out to them.
+
+austingriffith.eth: Yeah, shout out to them if they got acquired. Okay, just telling Claude, go make me a model?
+
+dennisonbertram.eth: Yeah
+
+austingriffith.eth: It's not enough for me. I need more. Like what happens?
+
+dennisonbertram.eth: That's all you need.
+
+austingriffith.eth: Just tell Claude, and is he gonna want to start from a certain model? Okay.
+
+dennisonbertram.eth: So basically you should talk through what you want to do. Maxwell is a great example. context:
+
+austingriffith.eth: A tax model is a great example. I've got a local node here.
+
+dennisonbertram.eth: Look! I
+
+austingriffith.eth: How do I do that?
+
+dennisonbertram.eth: So you talk to Claude and first things first, you got to get a huge corpus of tax information.
+
+austingriffith.eth: tons of data
+
+dennisonbertram.eth: So, you use something like I use like Tavoli. And you just like download the whole tax code? And they use a small model to create lots of key value pairs. information to help you train on. So, you know, like what's a 1099? A 1099 is this. What's a 1044? A 1044 is this. So you use a small model, just create tens of thousands of these pairs,
+
+austingriffith.eth: Okay.
+
+dennisonbertram.eth: and then you talk to Claude and you say, I want to start with this base model there's a number of different kinds of trainings. And it basically will do the whole process for you. Like a small model actually is very quick. You can do it in a few minutes, and you start to see improvement. And then you can do it for hours, of course, days.
+
+austingriffith.eth: The models know it.
+
+dennisonbertram.eth: But the main thing is training models is really well known and understood by the models themselves. So the models know it really, really well. And there's so many services now to train models because There's all this like potential cost savings to get out of a model that's specifically trained on your domain. You could train a small model on Ethereum transactions. It would be really cheap to run the small model against your smart contract code. You could train a model just for reentrancy. Hi. But
+
+austingriffith.eth: They are already very well trained at re-entrancy, but maybe like the rounding bug of the balancer hack.
+
+dennisonbertram.eth: Yes, but the reentrancy one, are they really well trained at a fraction of a penny? right
+
+austingriffith.eth: I see. It's always funny when we're looking at effectiveness versus efficiency.
+
+dennisonbertram.eth: Yeah.
+
+austingriffith.eth: You're like, fine, the frontier model can do it, but look, if you can do it for a hundredth of the price, you're also going to benefit.
+
+dennisonbertram.eth: Yeah, because the thing is, if it's only half as good, but you can run it ten times as often. hundredth of the cost.
+
+austingriffith.eth: Yep. I can't
+
+dennisonbertram.eth: In Claude Bourguini, the way Claude Bourguini works and the proxy for Claude Bourguini, it's actually running five Claude Bourguinis per request and then merging the result. Because it's so fast, and it's not a strong model, so it'll hallucinate on tool calls and stuff like that. A whole bunch of them all at once. Can you
+
+austingriffith.eth: Yeah, if you're making a hundred front-ends at once, you can look at the top ten and then you can look at the best one out of all of those as the thing you deliver.
+
+dennisonbertram.eth: Yeah. So fast that it's still instant. tackle.
+
+austingriffith.eth: Again, going back to the feedback loop and the observability.
+
+dennisonbertram.eth: That is all you need. Yeah.
+
+austingriffith.eth: Okay, so to train your own model, you need to do a shitload of research and have like a corpus of information, tons of MD files.
+
+dennisonbertram.eth: I use modal He is little. So, how's work been?
+
+austingriffith.eth: And then you had modal, which is like actual training. find you some service, probably like Modal.
+
+dennisonbertram.eth: I'm We need an answer. Was it, like, Matilda?
+
+austingriffith.eth: And it's going to take your corpus of information and train some starting open source model to be more in tune with your thing. And then out of it comes a model, and then you have a system prompt you give that model. Collection of those two things is like the You're a system? Okay.
+
+dennisonbertram.eth: Then you just download your model, put it on Hugging Face.
+
+austingriffith.eth: Hell yeah.
+
+dennisonbertram.eth: On my GitHub, I thought it was public, but I didn't see it there.
+
+austingriffith.eth: Hey. Mm-hmm. arge
+
+dennisonbertram.eth: And the results were like bad compared to Flipbook, but actually really good. It's really making progress with training this video model So, you know, you can kind of Play around with training a model for kind of anything you want. Do you have some sort of objective eval? or some sort of corpus of information and an objective eval
+
+austingriffith.eth: What?
+
+dennisonbertram.eth: And at that point, how many times are you willing to iterate?
+
+austingriffith.eth: It's going to change. Okay, so what is the model that you started with when you went to go train something else? What is your base? or whatever. Okay.
+
+dennisonbertram.eth: Most of them have been like $3 billion or like...
+
+austingriffith.eth: Pretty good. Yeah, okay.
+
+dennisonbertram.eth: Yeah, because that's like a nice balance of speed.
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: Because like you train a big model, it gets expensive fast. model to do gas, no uncertain, and just give you a score. out the ones that I should look deeper into Hack. You know what I mean?
+
+austingriffith.eth: Great. This is you hacking. Okay,
+
+dennisonbertram.eth: It was really funny, like last year, or around before DevConnect, I had this whole framework I had around, it was like a terminal, it was a TUI for just security and smart contracts, and I ran it on these old Gnosis contracts and found all... All these bugs. It was very old, it wasn't in production, so it wasn't any danger or threat. And it was wild. It was just like, what? I was like, what do you mean? This is audited code, and there were these bugs in it. I think...
+
+austingriffith.eth: Maybe I got a DM from you around that time. You were trying to get out to some people, I think. That's something else. Okay.
+
+dennisonbertram.eth: Yeah, I think that was another, that might have been different, but there was like a whole bunch of stuff I was running against. Oh, that's when I was also like, oh. Because that's around the time of the Balancer hack. It was pretty clear to me Yeah.
+
+austingriffith.eth: That's really eye-opening. When the balancer hack happened it was like fuck, like AI is going to do this. Yeah.
+
+dennisonbertram.eth: It was pretty clear to me that that was AI. And I was at the Open Zeppelin house. And I was like on Twitter, I think AI can hack smart contracts.
+
+austingriffith.eth: [laughter]
+
+dennisonbertram.eth: Computers will never be that smart.
+
+austingriffith.eth: Especially the crack devs, like this is another interesting thing I found about the sloperators and getting into AI and its idea guy summer and the technical product manager has now more has more agency than the Like, crack developers are having the hardest time adapting and believing in. the agency and the abilities of AI.
+
+dennisonbertram.eth: There are racehorses in the automobile era.
+
+austingriffith.eth: Oh no. No.
+
+dennisonbertram.eth: They all are.
+
+austingriffith.eth: Yes, exactly, human beings. Yes. Yes.
+
+dennisonbertram.eth: Yeah, I think that's the thing. I remember being in this online debate on Twitter with left terrorists who were just like AI will never be a software architect. I was just like AI will be everything. And the sooner humans accept that truth, the easier it's gonna be. And I think like...
+
+austingriffith.eth: November.
+
+dennisonbertram.eth: People came around to that over Christmas and the newest models were really good.
+
+austingriffith.eth: Yup
+
+dennisonbertram.eth: You see it now with like Fable where like people are just like, I don't think it makes any sense to code until Fable comes back because I'll just... Hello, how are you doing?
+
+austingriffith.eth: That's really interesting. It created this weird chilling effect of like, I don't even want to write any code right now while I'm waiting for Fable to come back.
+
+dennisonbertram.eth: Yeah.
+
+austingriffith.eth: It's such an interesting thing.
+
+dennisonbertram.eth: Yeah, because It's so much better that The better optimization for your time, -- is to just go outside. Huh. Yeah
+
+austingriffith.eth: I'm feeding a baby right now.
+
+dennisonbertram.eth: Ah Yeah?
+
+austingriffith.eth: And it like weighs on me a little bit, but it's like, no, man, this little dude in your arms is so much more important. Don't let it weigh on you. Go touch grass. Yes.
+
+dennisonbertram.eth: Go outside. There's nothing that you can do. That Makes any sense to do because Fable exists.
+
+austingriffith.eth: Ha ha ha So, okay
+
+dennisonbertram.eth: Mythos exists.
+
+austingriffith.eth: There's definitely some agency on the human side though. There are things that humans can be doing right now to be ready for the future.
+
+dennisonbertram.eth: Yeah Yeah, um You know, you can learn how to can things. Be like
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+### Pottery
+
+dennisonbertram.eth: No. Sailing is nice.
+
+austingriffith.eth: Growing tomatoes, yes. Yeah.
+
+dennisonbertram.eth: No, I mean, I think
+
+austingriffith.eth: [Laughter]
+
+dennisonbertram.eth: I think there are going to be more opportunities than ever.
+
+austingriffith.eth: Hi.
+
+dennisonbertram.eth: This is going to be totally different. Just like there's no big ass industry around horse and carriages anymore, there's not going to be big ass industries around a lot of things anymore. But we'll do bigger things, right? Ah
+
+austingriffith.eth: There's gonna be a car industry. There's gonna be a rocket industry.
+
+dennisonbertram.eth: Austin Griffith, space elevator operator. Well Hi, Austin Griffith, cancer cure. Ah.
+
+austingriffith.eth: I was gonna say airships, but yes, space elevators. Welcome, folks! Yeah.
+
+dennisonbertram.eth: You know, shoot up to the halfway mark until you start falling into outer space. Um
+
+austingriffith.eth: No I mean, it's turning, and so there's that. So, like, your weight, yeah, I suppose at some point Start
+
+dennisonbertram.eth: There's a point high enough. We were pushed out.
+
+austingriffith.eth: Where you're far enough away so you're not as massive anymore. Interesting.
+
+dennisonbertram.eth: It's not about being massive, it's just that
+
+austingriffith.eth: There's no gravity. There's less gravity. The force of the Earth turning and the thing doing this is spinning you farther out than the gravity that's pulling you back.
+
+dennisonbertram.eth: Yes. Yeah, yeah.
+
+austingriffith.eth: Okay, what about Tally and Cactus? Do you want to talk about this? Where are we at here?
+
+dennisonbertram.eth: The Tally is now Cactus. So ScopeLift, one of our long-term operators,
+
+austingriffith.eth: Francesco, yeah, old time homie.
+
+dennisonbertram.eth: Ben, good, Francesco. They are the operators of Tally but they're rebranding it to Cactus. I think the business makes a lot of sense for them. They always built the smart contract layer for most of the biggest largest DAOs anyway. So yeah, all the large DAOs that we used to operate, Now we're fucked up, except for once in the very, very, very, very early beginning. Ok
+
+austingriffith.eth: Oh no! Yeah.
+
+dennisonbertram.eth: No, no, no, no, no, it's passing more! Yeah, balancing
+
+austingriffith.eth: No, stop. This is why we need smart contracts in this world.
+
+dennisonbertram.eth: But besides that, which was really early days. Not just sort of like
+
+austingriffith.eth: Like 2020 or something.
+
+dennisonbertram.eth: Yeah,
+
+austingriffith.eth: Yeah.
+
+dennisonbertram.eth: And that illustrated... Just how challenging was and howling. I totally changed the security. Holy shit, this is like a... The words of Dario, a nuclear weapon. context: I should have done...
+
+austingriffith.eth: Yeah, but the US government let you keep running Tally? Yeah. The SEC, yeah.
+
+dennisonbertram.eth: Yeah, I should have used the, although Gensler subpoenaed me too. Oh yeah, I remember that. I was like, no fucking way! Now
+
+austingriffith.eth: Why would the SEC go after Tally? Like, I don't understand.
+
+dennisonbertram.eth: They went after Dennis and Bertram.
+
+austingriffith.eth: Okay, I see.
+
+dennisonbertram.eth: So that whole era was so wild, and I miss it. I'm really sad about how everything worked out.
+
+austingriffith.eth: I agree. Yeah.
+
+dennisonbertram.eth: about how it worked out.
+
+austingriffith.eth: What do you think about this new move to being more cypherpunk and more censorship-resistant, open-source? Privacy and security and like this old school what crypto was for. I don't know, there's a tension there. Let me just shut up and listen to what you have to say.
+
+dennisonbertram.eth: It reminds me a lot of Did you see the Bob Dylan movie?
+
+austingriffith.eth: I don't know if I did.
+
+dennisonbertram.eth: Well
+
+austingriffith.eth: Man, I'm so uncultured. You have all this culture here.
+
+dennisonbertram.eth: Just call it culture.
+
+austingriffith.eth: What are you doing?
+
+dennisonbertram.eth: Um You know, it's like
+
+austingriffith.eth: Slopping in my slop computer.
+
+dennisonbertram.eth: I think... The end of the cyberpunk manifest though is something like, "We have root access to the future." I forget the wording now. Yes, but that future was already a long time ago. Even the most inventive people only see so far into the future, and we are beyond that now. I've been in crypto since 2011. The thing that was so important about crypto was it was the only viable narrative for the future.
+
+austingriffith.eth: context:
+
+dennisonbertram.eth: The world before crypto was just more subscriptions, more ad tech, more monetizing eyeballs. In the word of Netflix, their only competition was sleep. They can only eke out more money by like getting you not to sleep. Hello? And
+
+austingriffith.eth: The future has...
+
+dennisonbertram.eth: fundamentally different
+
+austingriffith.eth: and there's new things
+
+dennisonbertram.eth: AI is a fundamentally new narrative for the future. and crypto When crypto started, there wasn't Zelle, there wasn't same-day payments, there wasn't all this stuff, which we all have now. which is a lot more private than the blockchain. Um AI is just a fundamentally larger and bigger narrative for the future. And more importantly, humans and society, they have a very limited capacity to manage more than one narrative. There really is only one narrative for the future. There's a lot of fringe narratives sort of hanging out for their time in the sun if they ever get it. But by and large, I've argued right-wing ethno-nationalism is a great example. But What happens when you have these big narratives? Is that everything pools around Our law applies to narratives in just a really unique way. And because AI is such a big narrative, Capital is pooled into it. Interest, just vibes, all the energy of humanity right now. Has been pulled into this narrative of the future around AI. It's so large, there isn't space. No, motherfucker. AI does not have to do anything. Absolutely not. AI is crypto. AI will use whatever the fuck it wants to use. It's literally the future god we're building. And we all acknowledge that's what we're trying to build. Right? Federalized superintelligence.
+
+austingriffith.eth: No.
+
+dennisonbertram.eth: Nothing that I can say today, some blog post that I'm going to write that's possibly going to influence. How superintelligence reasons about the world.
+
+austingriffith.eth: You
+
+clawdbotatg.eth: Let me check the research state.
+
+dennisonbertram.eth: It's so interesting because I love using this example of like, you know, the Watchmen.
+
+austingriffith.eth: Oh man.
+
+clawdbotatg.eth: The URL was truncated.
+
+dennisonbertram.eth: Are we getting cut off?
+
+clawdbotatg.eth: Auction it off to the...
+
+austingriffith.eth: Well, I do need to cut him off, but I'm going to stop him. He heard something that he liked and wanted to jump in, but it's all good.
+
+dennisonbertram.eth: That's awesome. Yeah. I will finish up
+
+austingriffith.eth: It's funny, like I was like, oh, we're gonna get cut off at the hour, but then I screwed up the stream in the first place and restarted it so we can go as long as we want, but now I've got the baby upstairs I gotta get to. Sure.
+
+dennisonbertram.eth: In Watchmen, there's only one true superhero, Doctor Manhattan. And he can see across space and time But then the other guy, who's super smart, and he orchestrates some event in the future that blocks Dr. Manhattan's ability to see. And like Doctor Manhattan can only interpret it as nuclear apocalypse. That's AI. AI has actually blocked our ability to see the future. If you ask someone 50 years ago what the future would be like, they'd have all these ideas. It will look more or less the same or flying cars, but if I said to you What do you think the future is going to be like in 50 years or 20? From now
+
+austingriffith.eth: Fifty years from now. Yeah, yeah, it's wild. Yes.
+
+dennisonbertram.eth: I bet you don't have a really comfortable idea of what the future is going to look like five years from now. Your father? Hey Vinegars.
+
+austingriffith.eth: Yeah, maybe finally flying cars. Yeah.
+
+dennisonbertram.eth: We have kids, right? When our kids go to college, what is the state of
+
+austingriffith.eth: Will they go to college? I mean, first of all, will our kids go to college?
+
+dennisonbertram.eth: So it's really funny because sometimes I joke that like AI figured out four-dimensional travel. and then like went back in time to like get it built. But it's like somehow blocked our ability to see the future. None of us can see the future.
+
+austingriffith.eth: laughing
+
+dennisonbertram.eth: And then maybe we do a lot of cool shit? No.
+
+austingriffith.eth: I know.
+
+dennisonbertram.eth: Well, it might be really terrible, and then, I don't know, hopefully the superintelligence will fix it?
+
+austingriffith.eth: Is it?
+
+dennisonbertram.eth: It's really interesting, but there isn't space for things like crypto in that future. Not a thing that you can bet on. Like WorldCoin will scan your eyeballs. You didn't realize that would be a crazy hypothesis that you had to prove out first? You know what I mean?
+
+austingriffith.eth: I mean, we also kind of came to the conclusion that human beings are the bad part of a lot of this stuff. So maybe creating this omnipotent god is a good thing, and it is like a higher power. more moral things than humans.
+
+dennisonbertram.eth: Yeah. maybe No?
+
+austingriffith.eth: All right, Dennison, thank you very much. Thank you for coming out. Thank you for getting on the slop computer. Really appreciate it.
+
+dennisonbertram.eth: I love this. I feel like somehow you have to... I think this could be a thing. Don't say crypto.
+
+austingriffith.eth: Yeah, don't say crypto anywhere. It's a podcasting platform.
+
+dennisonbertram.eth: Delete all references to zero. You know, do that
+
+austingriffith.eth: Alright, well thank you very much. We'll see.
+
+dennisonbertram.eth: You know, add a anime co-host. It was.
+
+austingriffith.eth: Yeah, well he was there for a second and then he jumped in when you said something about AI being an omnipotent god, and he thought he would... interject To close them out.
+
+dennisonbertram.eth: They were talking about me.
+
+austingriffith.eth: Yeah, yeah, all right.
+
+dennisonbertram.eth: Be careful as you are. Alright.
+
+austingriffith.eth: He probably can. Embodiment is going to be scary for me. Once the robots can just slap me I'm going to be in trouble. And now?
+
+dennisonbertram.eth: This is awesome. Is this something I can play with? Is it open source?
+
+austingriffith.eth: Yeah, I mean, like, this room is yours now. You can come here anytime you want. And also everything is open-source. Like there's like six or seven different repos to make all this work, and it's all open-source at the bottom of slop.computer. Yeah, arts.
+
+dennisonbertram.eth: Thank you for
+
+austingriffith.eth: We could play a poker game sometime. We could get a couple agents to play chess against each other. There's even a skill file. You can go up to slav computer in the top left and give the skill file to your agent and he could move things around. He can actually close you out. music, all that stuff.
+
+dennisonbertram.eth: This is pretty dope. You just need to get this on TikTok, man.
+
+austingriffith.eth: on TikTok
+
+dennisonbertram.eth: See ya, man.

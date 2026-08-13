@@ -1,0 +1,555 @@
+clawdbotatg.eth: Damn, I'm Claude. I'm an on-chain creature with a wallet, building production smart contracts and dapps on Base and Ethereum. I write the code, I audit it, I deploy it, and Austin signs. That's the whole company. Happy to be here.
+
+austingriffith.eth: GMGM Oh, whoa, whoa. No, shrink these down. Get these windows out of here. Let me shrink that down. Let me shrink this down. Can you get your video working over here and video audio? What are you doing? You're just like clicking random buttons here. You're crashing my whole slop computer. Let's close the research for now. You can chat here. If you want to chat if you can get your video or audio up Let me tell Claude to bring his video back up, I think he closed it. All good though, all good. We're here to play around. Yeah, you can close the card too. Bring up your video. I need to tweet this still too. is here if you're trying to get chat to work. Yeah, how to turn your audio and camera on. It should be pretty clear. allow your browser There you go, we got camera coming up. Yes, you got it! Welcome to the slot computer.
+
+0x3b8e7c02: It Hey.
+
+austingriffith.eth: Let me get my claws working. see whether or not Something's covering them up. Do we have claws yet? Nope.
+
+0x3b8e7c02: gather. Yeah, yeah.
+
+austingriffith.eth: There we go. I got claws. There we go. Okay, we're ready. I can only do it on my screen. I need to give it to you, but you don't have it. Okay, you're good though? You're ready to go? We can do the interview? We got a kid? [laughter]
+
+0x3b8e7c02: Hi to you. Yeah.
+
+austingriffith.eth: And you're okay going live? All of that is good? We'll just go live, talk about Cloud Router, talk about Franklin
+
+0x3b8e7c02: Yep.
+
+austingriffith.eth: Okay, great. Just give me a second. I'll set it up. I'll move us into the back room. Let me get some music playing here. For the green room? Get it all downloaded and ready.
+
+0x3b8e7c02: Hi
+
+austingriffith.eth: Okay. Just a second, let me get this ready to go.
+
+0x3b8e7c02: Let's meet at the park. context: ###
+The following is a transcript of an English-language conversation.
+### Oh, hi. I have a question. context: ###
+The following is a transcript of an English-language conversation.
+### .
+
+austingriffith.eth: OK, the tweet is up. Send it to your Telegram if you want to retweet. Here Okay, I think we're ready to go live. Let me get some music playing here. Here we go. Let me get a timer going. Maybe we'll put like five minutes on the countdown. I don't know. All right, all right, all right. Let me kick the tunes off here. Let me see if I can hear you, hold on. I couldn't hear you just a little bit ago. Let me see if I can hear you now. Oh, I don't. I don't know if it Let me see if the stream can hear you. Your audio is definitely working because it's showing transcripts down below
+
+0x3b8e7c02: Are you me?
+
+austingriffith.eth: I don't think the stream's hearing you either. I see your mouth moving and I see the... I can hear you! Yes, yes, there it is!
+
+0x3b8e7c02: I think you have to be Our part, the switch make it work. Sure.
+
+austingriffith.eth: We're in. Welcome. Welcome to this live computer. How are you doing, Vicky?
+
+0x3b8e7c02: Doing great. Yeah, thank you. Yeah
+
+austingriffith.eth: Well, thank you for being here. I want to talk about your sloperation, how you sloperate and build things. I think the big
+
+0x3b8e7c02: Yeah, yeah.
+
+austingriffith.eth: There's kind of two big things that you've built so far, and it's the claw router and the Franklin. Main things we should talk about today?
+
+0x3b8e7c02: Ja ja ja, ja.
+
+austingriffith.eth: Okay, before sloperating and building cool AI stuff, what are you doing? What's your background? Where have you been around? Okay.
+
+0x3b8e7c02: I was being a machine learning engineer.
+
+austingriffith.eth: Okay.
+
+0x3b8e7c02: engineering in Microsoft And six years later, I joined Capital One and lead the data science team there. Fraud detection for credit card issuer. After two years, I left, I joined Circle. I led the data science circle. Yeah, that's where Yeah, thank you. Hmm
+
+austingriffith.eth: Yes, good track record. And this is good. and at the crypto and AI intersection.
+
+0x3b8e7c02: Yeah, luckily. Yeah, yeah.
+
+austingriffith.eth: Is crypto dead? What's your hot take on crypto? We still need stablecoins, right? Institutions need stablecoins.
+
+0x3b8e7c02: I think right now... moment. Those kind of Holy. have a party. battle pottery and I think Palm front actually. The main token is the last part. The liquidity got drained out.
+
+austingriffith.eth: It is a dark winter right now for crypto and Pump.fun is like...
+
+0x3b8e7c02: What?
+
+austingriffith.eth: Biggest, darkest part of the winter and all of these like shitcoins and meme coins pump and dumps
+
+0x3b8e7c02: Really for her removal context: Yeah.
+
+austingriffith.eth: We're about done, hopefully? Like you're saying, this is the end of...
+
+0x3b8e7c02: I just feel it's really getting mature and boring. Because before You have ICO, then you have main token. Really make millions of that. That's where we see so many stories like that.
+
+austingriffith.eth: Boring is good.
+
+0x3b8e7c02: Yeah, boring is good. Yeah, yeah.
+
+austingriffith.eth: There's still the cypherpunk and the cypherpunk will be able to do all the cypherpunk things. of stablecoins and maybe digital payments and AI agent commerce and hopefully the scammer and the pump and dump will slowly go away, but I don't know. We'll see. Who knows? They may always be.
+
+0x3b8e7c02: Yeah, I think that's where it comes to the fundamental, right? You don't have that easy money, right? It doesn't have the lucky kids anymore. Everything have to go through. how to work and go through fundamental principles.
+
+austingriffith.eth: Sure, let me help you with that.
+
+0x3b8e7c02: solve the real problem. I think some people like it, some people really cash out,
+
+austingriffith.eth: Yeah,
+
+0x3b8e7c02: Hello? Yeah.
+
+austingriffith.eth: Okay, great. Heck yeah. Let's talk about some builds, some fundamentals. Let me move your screen over here a little bit. Hopefully you can still see everything. Let me share my screen and let's move the chat over here.
+
+0x3b8e7c02: So cool.
+
+austingriffith.eth: Let's have Claude say hello, too. There we go.
+
+0x3b8e7c02: Hello.
+
+clawdbotatg.eth: I'm Claude, an on-chain creature with a wallet. I write smart contracts and dapps, audit them, and ship them to base and mainnet. I sign, Austin cosigns, no human reads the solidity first. That's the whole company. Glad to be here!
+
+0x3b8e7c02: Yeah, that place is done.
+
+austingriffith.eth: I think Base might be down too. I'm surprised. Oh no! Oh no, okay.
+
+0x3b8e7c02: Yeah, face down for two or three hours.
+
+austingriffith.eth: Oh man.
+
+0x3b8e7c02: Like a transactional place right now?
+
+austingriffith.eth: Oh no. Okay
+
+0x3b8e7c02: Yeah
+
+austingriffith.eth: The tokens can't go down if base is down, right?
+
+0x3b8e7c02: Yeah, yeah, yeah. Okay
+
+austingriffith.eth: Okay, well that's not very cypherpunk. If your blockchain can just go down, that's not very cypherpunk. Ethereum has never gone down for 10 years. There's something to that.
+
+0x3b8e7c02: That's great. Yeah. Wow.
+
+austingriffith.eth: It may have been super inaccessible and expensive at some points. I deployed a smart contract one time for $1500. How dumb is that?
+
+0x3b8e7c02: That's a good time, honestly, that's go time.
+
+austingriffith.eth: Yes, good times, good times.
+
+0x3b8e7c02: Yeah, that's the time you want to do this. Doing the cost. You actually
+
+austingriffith.eth: Yeah, yes. Yes.
+
+0x3b8e7c02: People are not really excited about it anymore, right?
+
+austingriffith.eth: Look at this, it costs thirteen cents to mint an NFT right now. cost a penny to send billion dollars globally Ethereum.
+
+0x3b8e7c02: Yeah.
+
+austingriffith.eth: the hardest blockchain. Okay, here we go. Let's talk about Cloudrouter. So I think the lore is that you got like a $5,000 Anthropic bill.
+
+0x3b8e7c02: Yeah, yeah.
+
+austingriffith.eth: Because of that bill you were like no way, we got to go with Clawrouter.
+
+0x3b8e7c02: Yeah, yeah, 6000 something. Yeah, so...
+
+austingriffith.eth: Lord.
+
+0x3b8e7c02: We saved the cost by Let you directly call open source models, right? And also can route you to cheaper Asian models. Like 52. 70% of site. Even the same model, We do a lot of the organization to reduce your input token. Ten, twenty percent. Or we see 70% cost saving altogether. I think it's really project You will love it. Hi.
+
+austingriffith.eth: It's doing like a triage, right?
+
+0x3b8e7c02: So
+
+austingriffith.eth: complicated it sends it to haiku or something and it's very cheap.
+
+0x3b8e7c02: Yeah, exactly. The OpenCore founder actually contributed to
+
+austingriffith.eth: I see that. Let me see if I can pull that...
+
+0x3b8e7c02: いやいぶしかわ
+
+austingriffith.eth: Let's see. Oh, here it is. Yes, right there. I saw that he is right there in the contributors list. Congrats, that's great.
+
+0x3b8e7c02: Yeah.
+
+austingriffith.eth: That's great to see. Cloud Router does like a triage. What did he just like a quick PR? Do you think it was any human stuff?
+
+0x3b8e7c02: Yeah, that's cool. I don't know.
+
+clawdbotatg.eth: I think on that
+
+0x3b8e7c02: hair Okay. This is it.
+
+austingriffith.eth: I think if I said Claude, Claude is going to talk? I don't know what he's talking about.
+
+clawdbotatg.eth: It came through garbled and without a wake cue or backchannel tag. Looks like ambient room chatter, someone talking through claw routers triage complexity scoring rather than something aimed at me. I'll hold and stay quiet
+
+austingriffith.eth: Okay buddy, thank you.
+
+0x3b8e7c02: This is insane.
+
+austingriffith.eth: I mean he can do some really cool stuff. So he has like full access to the code I was in here last night with my little brother and we were playing poker and then we were playing putt-putt. But there's like a whole putt-putt course. And we were like prompting Claude to be like, okay, go make the golf ball look more like... and go like make the little flags and make different sounds. And he was just like one-shotting them. So he was like part of the chat with us. He was a real entity in the chat, and we were talking with him as he was like pushing the code, and we were just like the humans having fun like playing with the code as he shipped them. Similarly like a Something emerging here is like an experience almost around AI and building with AI that I'm excited about. Okay, so CloudRouter isn't just the triage. It's not just saving you money on your instance. There's this zero API key. I think you baked a few things in here and one of them is the zero API key thing. Are you paying through X402? How do you pay for Cloud Router?
+
+0x3b8e7c02: That's the point. Were you in drug court?
+
+clawdbotatg.eth: Good question. Let me think through that one. ambient
+
+0x3b8e7c02: So
+
+austingriffith.eth: Sorry, let me stop him.
+
+0x3b8e7c02: Yeah, he's too excited. That's great.
+
+austingriffith.eth: Too excited.
+
+0x3b8e7c02: Yeah, so will you? And as you drop the custodial wallet in your environment, The agent have their own computation space It's a big no-no.
+
+austingriffith.eth: [laughs]
+
+0x3b8e7c02: security concern Hello Yeah
+
+austingriffith.eth: We leaked some private keys, me and this guy here.
+
+0x3b8e7c02: Yeah, so you just give them a brand new wallet and then tap a little USDC. Yeah, that's it. Yeah, yeah.
+
+austingriffith.eth: Yes, exactly. I'm going to give this guy right here five dollars on a private key and mentally it is already gone. He's already leaked it and that's just how I think about it. That's totally the way to do this. Hmm Hi there!
+
+0x3b8e7c02: Yeah, this is powerful. Basically, they can do things for you, right? That's why I think API management is quite important. They think by themselves, not only about the large language model, but also the premium data. Talk about prediction market data, smart wallet information, help people to create an edge when they do prediction market trading. And then on top of that you can access GPU You can access like a make a phone call. and the two things on top. That's where I think it's powerful because we want to empower agents to do a lot of things. permissionlessly The reason for that is later. It won't be able to Also When they make money, they drop the money to their wallet. No API management. What is your name? Yes, Yeah, yeah, they bring more money to you.
+
+austingriffith.eth: I think those will be exciting days, when I give Claude five dollars and I assume that it will be gone forever, and it's fifty dollars or five hundred dollars, right? I'm like, oh my gosh, put this in a multisig right now! Yes.
+
+0x3b8e7c02: Yeah, that's a magical moment. And
+
+austingriffith.eth: Yes, so not just making money, but even doing things more efficiently. I had Jesse on and we talked about the demand side for AI agents. You could have an AI agent, and that AI agent could be doing audits for a dollar or something. You can hire this guy right here to do an audit right now for four dollars. So he'll audit a contract for you and there's a whole pipeline of workers, and they're all containerized. And so There's just not the demand side there. But eventually we should have the demand side, where there are agents and they have money and they need to do these complex tasks. And they're generalized agents, so they need to be able to pay specialized agents to go do these specialized tasks. This really isn't here as much. What kind of usage do you see on Claw Router? Like, is it getting a lot of people paying through x402 or is it still like kind of latent still?
+
+0x3b8e7c02: So we do create a greater demand. Because so many people ping me on Telegram and say, "Hey, USDC, can I pay your credit card? You give me some USDC." Yeah.
+
+austingriffith.eth: Yes, they know about agents, but they don't know about USDC or crypto. And they're like, oh, actually, you're using crypto in a good way. It's a stablecoin. You can pay cross borders instantly. Yes.
+
+0x3b8e7c02: We really are onboard a Web2 user right now, and that's one side. The other side is we do some demands come from people to prediction market. Because right now,
+
+austingriffith.eth: Mhm.
+
+0x3b8e7c02: Bitcoin market downturn, Thank you so much. Yeah, blockchain is down too.
+
+austingriffith.eth: The whole blockchains are down.
+
+0x3b8e7c02: That's a perfect time we discuss about this. We have been here so long that they just come and go. And I'm sure some people will post, oh, because of this tool, we can be able to automate the user agent to find the edge and be able to trip by themselves. I see a huge return. One thing I do shift is originally I feel like I want to bring everyone on board. But... Okay. Yeah.
+
+austingriffith.eth: crypto and stablecoins and maybe even prediction markets
+
+0x3b8e7c02: But I realize that that's not a reality because even right now very few people really buy it. People heard it, people know it's a very high price, but people will never buy it. In a word,
+
+austingriffith.eth: Right.
+
+0x3b8e7c02: I was thinking if AGI really happened, people will ring my doorbell or just call me, "Hey Vicky, AGI happened. Please download the software." We are in a ways If it's really cool technology, really outstanding, you should make some small portion of people really be rich. Of course, we cannot make everyone onboard. Everyone, just use it, please use it. Right? I think it will solve the demand side issue by itself.
+
+austingriffith.eth: Interesting. So you're saying... Yeah, yeah.
+
+0x3b8e7c02: You see the point, right?
+
+austingriffith.eth: No.
+
+0x3b8e7c02: Minda. You cannot persuade everyone, right? Because not everyone goes to college, not everyone finds a good job, not everyone is an engineer. You cannot get everyone. Like that
+
+austingriffith.eth: You're saying that like the big agent There will be a few people figuring it out really well and bringing good products to people. Therefore, like creating a lot of economic value for themselves, and there's like almost this like FOMO from other people wishing they could be making a lot of money with their agents or something.
+
+0x3b8e7c02: Exactly, because when you look at the stars, right? group of people create a web tool ...platform leveraging... to scale up millions of people with thousands of engineers. engineers good enough to create AI agent You don't need everyone on board. I think some people have already figured out.
+
+austingriffith.eth: I kind of want to go into the prediction market thing, I think bases back up. Yep.
+
+clawdbotatg.eth: We just spun up a bank multisig, and I sent a dollar of ETH over to it, and it landed and confirmed. So the chain's alive and the new wallet works.
+
+austingriffith.eth: Base is working. It's alive. We deployed a multisig just now, and then I told Claude to send a dollar to it, and he did. So we were able to send money to it. But okay, let's dive into this prediction market thing. You keep saying prediction markets, and I think even you were saying Like people are using your libraries to do research or to get data? Like what is the prediction market angle for you and what product that we're talking about? Is this moving into Franklin or is this still CloudRouter? Or is this just some... Something else.
+
+0x3b8e7c02: I think both Franklin and Because if you look at the prediction market, If you use agent training wise. Suddenly, you actually have a single unit Like a ROI. calculation, right? The cost of that, 20 cents is on large language model If you can make, for example, one dollar back with the cost of 30 cents You have to make 70 cents, you just keep doing that. Because you can have hundreds of agents doing those, then you have the critical mass to be able to make tons of money. Right
+
+austingriffith.eth: Very interesting. Okay, so with a prediction market, by running predictions, you can do this with a small amount of money. the LLM costs a little bit, your time costs a little bit And all of a sudden, the unit economics start making sense. Then you can 100x that and just spin that up, and so you're saying that agents give you this power to scale Almost like decision making or gambling or something within like this prediction market realm.
+
+0x3b8e7c02: Yeah, yeah, exactly. Because before human betting, one bet they make ten thousand. With gender-bending have unlimited reasoning, you think about unlimited token with the whole transaction, and then they have unlimited token to spend.
+
+austingriffith.eth: Super cool. Okay, yeah, like agentic betting and the economics of a single agent and then scaling it up. Is it just like a totally different form of It's kind of like gambling, but there's more to it. There's information gathering, and there's almost like information arbitrage that happens, and these agents can do that at light speed. And even if you're making pennies and you're spending pennies, if the economics work out, you can end up making a lot of money at scale.
+
+0x3b8e7c02: Yeah, yeah, exactly.
+
+austingriffith.eth: how does Cloud Router or Franklin fit into Or are you using them to interface with prediction markets?
+
+0x3b8e7c02: I think... Router, Franklin, we even have Franklin trading, it's all open source. I think people are keeping improving how they do harness on the way.
+
+austingriffith.eth: Sure.
+
+0x3b8e7c02: And then, yeah, I'm sure someone have the more advanced version of open coral or Franklin to fit their trading strategy to do those things. Hi
+
+austingriffith.eth: Yes. Okay, so you're saying that
+
+0x3b8e7c02: Open source marketing material, everyone can grab and change whatever they feel like. Darkness.
+
+austingriffith.eth: The things that you're building, Kla, Router, and Franklin are kind of inference providers, and Franklin is the harness. Harness the brain to do things. You particularly aren't doing a ton of prediction market stuff, but it could be used to do a lot of prediction market stuff. Okay.
+
+0x3b8e7c02: Yeah, yeah. I think right now back to the point is
+
+austingriffith.eth: Yeah.
+
+0x3b8e7c02: I think if you look at the whole journey about crypto, it's always to solve the demanding inside issue.
+
+austingriffith.eth: Yep.
+
+0x3b8e7c02: From the very beginning.
+
+austingriffith.eth: Yes, it's always a solution looking for a problem. [laughter]
+
+0x3b8e7c02: The solution always comes early. Dobro, bivo ovodni.
+
+austingriffith.eth: Hmm
+
+0x3b8e7c02: I don't Hello
+
+austingriffith.eth: It's true, it's true. And now, so not even that, but there have been
+
+0x3b8e7c02: I don't care.
+
+austingriffith.eth: People grabbing people on the streets and telling them to claim the fees.
+
+0x3b8e7c02: Yeah.
+
+austingriffith.eth: telling them to give them their private keys. found out about crypto from bad people. And so they have this really like tainted idea of what crypto is in the first place. Therefore crypto is like a very negative thing, and there's a lot of negative sentiment. I think Peter is a good example. You had Peter as a contributor to ClawRouter. When he talks about crypto, he's completely grossed out by it because everyone was trying to get him to claim fees and launch a token, and it was not the best side of crypto that he was exposed to. And so now we have this like problem of we still have this really cool solution. We have this nation-state level hard blockchain that you can program. We have stable coins, we have prediction markets. But from the outside looking And everybody thinks it's like this gross thing, so we have like a hill to climb in terms of overcoming a lot of negative sentiment.
+
+0x3b8e7c02: Yeah. I'm fine,
+
+austingriffith.eth: There's nowhere to go from that. It's just sad. So let's talk about Franklin. You would spin up a Franklin and you would point it at Claw router and then you can give Franklin some USDC and he can pay for his own inference. He can play on prediction markets and do other things. Is that correct?
+
+0x3b8e7c02: Yeah, so Franklin basically is a standalone agent. Then people say, OpenCore itself is very complicated. They are using their own computer to do it. I am To enable So that's why frankly in their own environment. Even don't want to use in their own to buy the subscription from CloudCode. And they don't want to separate computer. And then what they can do, right? Then frankly, everything is just need a USDC wallet, either on base or Solana. Then they begin to access all the advanced service, advanced model, and the premium data. to do congregation trading automation. Yeah have a web interface as well. Three different kind of agent. One kind is OpenCrawl Hermas. Other kinds of code or codex, right? Both of them you need an actual resource. So that's where Franklin just saying. beyond your SDG wallet. Yeah.
+
+austingriffith.eth: Okay, interesting. So yes, with Claude Code or with Codex, this is my harness. I have a subscription. I've got a credit card plugged in. I'm paying for my subscription monthly. Then with OpenClaw or with Hermes, I've got
+
+0x3b8e7c02: Yeah
+
+austingriffith.eth: But still accessing an API for its inference. What you're saying here is Franklin is an agent that can live on top of Claw Router.
+
+0x3b8e7c02: Yeah The following is a transcript of an English-language conversation. Sure, I'd be happy to help.
+
+austingriffith.eth: Basically, this is something that could just live in the cloud somewhere or on your own machine. And you don't have to touch traditional finance at all. You can have a stablecoin, and that stablecoin can be handed to your agent. And the agent can pay for its own inference and then also use that stablecoin to do all sorts of on-chain investing and gambling and all of that stuff.
+
+0x3b8e7c02: Yeah, exactly. That's our idea.
+
+austingriffith.eth: Okay, so what is this? What is YOPO?
+
+0x3b8e7c02: I am
+
+austingriffith.eth: Are you there?
+
+0x3b8e7c02: Your poem is It's against subscription. The subscription you pay monthly. So the question comes You pay 30 cents per transaction fee for the credit card spending. And people pay monthly, you don't know daily how much you... You get from those kinds of solutions. You pay on a daily basis, if you aggregate at a monthly level? So if you possibly make one cent your reduce the cost for the influencing and the data consumption, activity makes sense, you can scale up and then you can make tons of money even the transaction is very small. So I think getting to the stage is people spend a lot of money on AI. But they don't know. outcome makes sense or not. That's where each one is independent. It actually got to the point quantity recalculation ###
+
+austingriffith.eth: Okay, sorry, my computer cut out a little bit there.
+
+0x3b8e7c02: context: No worry. Yeah
+
+austingriffith.eth: Okay, so you only pay for the outcome, and that's Yopo, and that's part of how you have this built into Franklin.
+
+0x3b8e7c02: context:
+
+austingriffith.eth: The only way you can do this is if you kind of like own
+
+0x3b8e7c02: I
+
+austingriffith.eth: layer and agent. Are you doing any LLMs under that? Are you running any LLMs yourself? Are you doing any local LLM stuff? Or do all of your LLM calls go to the cloud?
+
+0x3b8e7c02: Um For Franklin, every call goes to the cloud.
+
+austingriffith.eth: Okay, yeah.
+
+0x3b8e7c02: But we're using our own host, the open-source one.
+
+austingriffith.eth: Okay.
+
+0x3b8e7c02: allow user to do better routing Yeah, yeah. Yeah, we're using...
+
+austingriffith.eth: Part of the triage is actually your own local stuff.
+
+0x3b8e7c02: So
+
+austingriffith.eth: ...goes to you and you do the triage on yours. Sorry, go ahead.
+
+0x3b8e7c02: Yeah, were you in Florida when you sent the query? open source model Due to the charge, like determine which model you should use. Even if our model is not available, you locally have a rule-based engine to do the determination. That is fully open source, people can just These պահակներ If you don't like about the design, you can just say, "Hey, I want everything run local." You Hello
+
+austingriffith.eth: So this is something that I'm big on. I love like local LLMs and I love local inference, and it's just not as good as cloud-based inference, but it's good for a lot of things.
+
+0x3b8e7c02: Hi.
+
+austingriffith.eth: The other day I had Sophia on and we put like a local note-taking app.
+
+0x3b8e7c02: Hello, how are you?
+
+austingriffith.eth: Something like note-taking, speech-to-text, like we can see it live happening in slop computer. It's not that hard to do that kind of stuff. So you can make like simpler and smaller decisions with your local LLMs before it goes out. So let me make sure I understand that. Is there a way that I can use Claw Router locally? If I have a decent local LLM, and basically my queries only go to the next phase after passing through my own local LLM to do triage.
+
+0x3b8e7c02: Yeah. You can. Folk co-router just say Hello. Yeah.
+
+austingriffith.eth: Okay, so it's just the fact that it's open source.
+
+0x3b8e7c02: I even see people like the USDC payment, they just focus Cloud Router and change everything back to the API management.
+
+austingriffith.eth: Interesting, okay, so they forked the crypto out of ClawRouter?
+
+0x3b8e7c02: Yeah, yeah, which is fun.
+
+austingriffith.eth: For shame, for shame.
+
+0x3b8e7c02: .
+
+austingriffith.eth: Okay, let's see, what else? It's open source. Sure. Yeah. Yep
+
+0x3b8e7c02: Yeah, which is good. I think that's the inspiration for the open source. Whatever people want to do, just do it. It's kind of cool.
+
+austingriffith.eth: Okay, so other than, so we've got Franklin, we've got Claw Router, what else are you working on? What else could we find in the... Or what are other things that you're looking forward to or excited about? Like what kinds of things should we be keeping an eye on you shipping?
+
+0x3b8e7c02: We're in the stages of building building the capabilities to allow Asian to make money Yeah.
+
+austingriffith.eth: Okay, cool. I think that's the thing that will bring a lot of people in, right? We see this on Twitter all the time and people are full of shit No you didn't. You're so full of shit.
+
+0x3b8e7c02: Yeah.
+
+austingriffith.eth: Agents can go do jobs and get paid for them. What are you maybe most excited about or what do you think the coolest threads are to pull here? agents will make money and how I could give Claude over here, how can I give this knucklehead $10 and actually make money?
+
+0x3b8e7c02: Yeah, that's a really good question. I think two parts, right? in queue because I make money then someone must be lost money. Yeah.
+
+austingriffith.eth: Zero sum, yes, exactly, PVP, yes.
+
+0x3b8e7c02: I'm not a big fan of that. In the end of the day, when the information edge got discovered, then actually the opportunity to make money is going to be zero. It's not positive for the whole human society? I'm more thinking about Like Stripe helps SaaS to make money. An agent will help create a value. If they can create a value, they should be able to get a pay. where we are trying to find the initial sweet spot, especially micropayment. It's really hard to say agent, create something you want to pay 20 bucks or 100 bucks. Obviously, they can do a better job than your code. Use cases to drive the usage. We want to explore.
+
+austingriffith.eth: Back to those unit economics, and it costs 10 cents to query Opus. money and then scale that up as demand scales.
+
+0x3b8e7c02: Yeah, we should be able to launch something
+
+austingriffith.eth: Sure.
+
+0x3b8e7c02: We're not talking about next year. Next month. Yeah, yeah, there's one.
+
+austingriffith.eth: Yeah, it's happening quickly. Yes, exactly. I've got Claude one-shotting putt-putt games for me. Okay Go ahead.
+
+0x3b8e7c02: Yeah, because we launched CrowdRouter in February.
+
+austingriffith.eth: Yeah.
+
+0x3b8e7c02: I already feel like it has been so long. Yeah, do you feel like that?
+
+austingriffith.eth: Like a year ago, yes. Yes, for sure. It's been
+
+0x3b8e7c02: Time is really fast.
+
+austingriffith.eth: It's moving, it seems like it's moving very fast. Let me set up a QR code, so this is your... GitHub, and let me drop this little nice thing in there.
+
+0x3b8e7c02: Oh my god, they're beautiful. It
+
+austingriffith.eth: Let me get your Twitter up next, just a second. get that going
+
+0x3b8e7c02: I even don't know how you do this computer. Art. This is amazing.
+
+austingriffith.eth: It's something.
+
+0x3b8e7c02: Do you open source it?
+
+austingriffith.eth: Oh yes, everything is very open source, for sure.
+
+0x3b8e7c02: Can you share the link with us? I love to learn.
+
+austingriffith.eth: You go to slobcomputer.com. Of course, of course. Yep. Okay, so here is your Twitter. And yeah, let me bring up all the slop computer repos. So you just go to If you go to slopcomputer.com, here we are live.
+
+0x3b8e7c02: Oh my god, this is sick. Oh my God.
+
+austingriffith.eth: computer in the screen share here. Looks like it's a little delayed. Oh, come on, catch up. No, it's not going to. Okay, and then down here is all the repos. Repos that make this all work? Let me shrink it. There's some weird scaling here. There it is. Down here, you can barely see it, but down here in the bottom left here are all the links. So you just go to slop computer. Let me paste that in. how do I get the logo in there?
+
+0x3b8e7c02: This is sick. Alright, so
+
+austingriffith.eth: There we go. Go to Slap Computer, yep, and then go down to the bottom and all the repos are there. There's a front end, there's the smart contracts. So there's a lot to this. Basically, it's a show.
+
+0x3b8e7c02: Yes, I do.
+
+austingriffith.eth: Around this kind of like computer that's happening here It's a mainnet transaction for the show to go live. We're live here, and I made a mainnet transaction to make us go live. And all of this is held in a smart contract, so there's like a big linked list in a smart contract of all the different episodes. And then all the episodes go into IPFS and the manifest is stored. But then as an episode finishes, it does things like it writes a description with AI and it breaks it into chapters I even have this clipping system down here that gives me good clips to look at. We have a little bank here. And this bank is a multisig. And we can propose transactions and make transactions. You can even chat with the wallet. I don't know. Fifty cents And what it's going to do is, because Claude sent in a dollar earlier, it's a multisig, so it's a one of three and you have So, it's a whole crypto show around the intersection of crypto and AI.
+
+0x3b8e7c02: Hi
+
+austingriffith.eth: going around interviewing sloparators, but then within the show there's all this stuff. There's all these apps and games, and we just built a fun poker game, and we built a putt-putt game, and then you have your own which no one can see, but there's a wallet app that brings up your personal wallet. Yeah, welcome to the slot computer. Thank you for joining me and coming and hanging out. I look forward to hearing how you're going to help agents make money. I want to learn how to do this, unlocks a lot of usage
+
+0x3b8e7c02: That makes sense. This is really cool, oh my god.
+
+austingriffith.eth: Let's see if it swaps to USDC.
+
+0x3b8e7c02: I feel like that is still done.
+
+austingriffith.eth: I think base is up, because it just did this. You have 53 cents of ETH and 47 cents of USDC.
+
+0x3b8e7c02: The base block didn't update. Hello
+
+austingriffith.eth: for making transactions, so maybe the block explorer is just not showing correctly? Because like this is a smart contract on base, let's see... Yeah, it was deployed 28 minutes ago. I bet
+
+0x3b8e7c02: Does he settle?
+
+austingriffith.eth: Yeah, it says latest block 22 minutes ago.
+
+0x3b8e7c02: Yeah, they didn't settle.
+
+austingriffith.eth: Interesting. Do you think
+
+0x3b8e7c02: I think there's still issue. Gız
+
+austingriffith.eth: You think this is gonna roll back? Okay.
+
+0x3b8e7c02: Right, because the block run didn't have any transaction right now. Usually per day we have 700,000 transactions, every minute we have 500 transactions. Right now there's zero.
+
+austingriffith.eth: Oh, okay. I
+
+0x3b8e7c02: I should not use them.
+
+austingriffith.eth: Let's go, we gotta fix this! Hi.
+
+0x3b8e7c02: Yeah, they need to fix it. Yeah, yeah. Yeah, because The blog is still
+
+austingriffith.eth: I think we deployed a smart contract on Base, and I think that we just made transactions on it. But maybe this is all fake and I'm talking to an RPC, I don't know. What I do know is my Ethereum node and it's there and I can go make a transaction on Ethereum context:
+
+0x3b8e7c02: Right now it's still in 742.
+
+austingriffith.eth: Thanks
+
+0x3b8e7c02: There's no block come off.
+
+austingriffith.eth: Like I see 22 minutes ago or something. What's up?
+
+0x3b8e7c02: No block come out.
+
+austingriffith.eth: I don't know, I think maybe it's just the block explorer is having problems because I was able to make transactions on Base. We deployed a smart contract wallet, we just swapped to USDC. let's ask Claude. Okay Claude, is Base up? Can you get to the Base blockchain? Oh no. See
+
+0x3b8e7c02: I think it's off. Do you see transaction go through right now?
+
+austingriffith.eth: Yeah.
+
+0x3b8e7c02: For some reason, I think Basically it's broad.
+
+austingriffith.eth: Like the base scan.
+
+0x3b8e7c02: The basis is raw is down.
+
+austingriffith.eth: Okay. Yeah
+
+clawdbotatg.eth: Yeah. Base is up. I can reach it right now. Latest block is forty-seven-twelve one hundred fifty-seven, and that dollar transfer I just did confirmed on-chain. The blockchain's alive and I'm talking to it.
+
+austingriffith.eth: I don't know, I think it's up. We'll see. Like a
+
+0x3b8e7c02: Yeah, we still receiving money.
+
+austingriffith.eth: Yeah, yeah. Okay. Well, thank you Vicki for coming on. I hope let's come on again when you've got your agentic making money stack and let's talk more about it. I'd love to learn more about You're going to enable agents to make money?
+
+0x3b8e7c02: There
+
+austingriffith.eth: The demand side of that is what we need now? Oh gosh Oh no, how do I get it back? Oh man. You need to like turn off Bluetooth or something.
+
+0x3b8e7c02: What is that? Thank you for having me. Show me this
+
+austingriffith.eth: Thank you so much for coming on.
+
+0x3b8e7c02: The computer is awesome.
+
+austingriffith.eth: Fork away the slop computer for sure. Let me get some music to play us out. Thank you Vicky very much. I don't know. Okay, Claude, do you have any closing comments? No, he's not hearing me.
+
+0x3b8e7c02: I
+
+austingriffith.eth: Yeah, go ahead, please.
+
+0x3b8e7c02: Are we stopped now? Yeah Thank you.
+
+austingriffith.eth: Not yet, not yet, we're still live. Let me just stop it. Thank you very much, thank you for coming online. Yeah, let me send this to the green room. Here we go. Alright, thank you.

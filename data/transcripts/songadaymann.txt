@@ -1,0 +1,1072 @@
+austingriffith.eth: Oh boy, someone's in. Who is it? Man, oh yeah. Yes, there he is. Oh, you got a dangling mic there.
+
+jmann.eth: Yeah, it's a sad state.
+
+austingriffith.eth: Haha!
+
+jmann.eth: It is a sad state of affairs. How's it going?
+
+austingriffith.eth: How are you? Good to see you.
+
+jmann.eth: Good to see you as well.
+
+austingriffith.eth: Welcome to the slob computer.
+
+jmann.eth: I see that, I see that. Aha, I see. Can I?
+
+austingriffith.eth: It only does it online. I have this whole fucking thing.
+
+jmann.eth: You can have the last piece.
+
+austingriffith.eth: I can't wait to talk about WAMP, dude. I think you've been doing the coolest things.
+
+jmann.eth: Yeah, I can't wait to talk about everything. How are you doing?
+
+austingriffith.eth: Good. Surviving. Surviving.
+
+jmann.eth: Yeah.
+
+austingriffith.eth: Me Oh, that's nice.
+
+jmann.eth: What's the weather like out there, is it super hot yet?
+
+austingriffith.eth: Yeah, it's hot. Where are you, New York? Where are you?
+
+jmann.eth: No, no, I'm in Connecticut.
+
+austingriffith.eth: Connecticut. Okay, cool.
+
+jmann.eth: That's nice. I don't know if this is on purpose. I guess because I'm in the center of the screen, that's why. That's because I'm in the middle.
+
+austingriffith.eth: Yeah, I bet if I'm in the middle and it resizes. Let's try now. Does it work?
+
+jmann.eth: Yeah, then it would work. Yeah, there, no, yeah, yeah, it works. Yeah, come on. I need some help with this. Okay. Yeah.
+
+austingriffith.eth: Okay, let me get the... So there's like a green room that we go into with a little countdown. We get like a little card up. I should have brought your music in. I didn't even realize that. we get to
+
+jmann.eth: That's fine. Is this MP3s? Okay.
+
+austingriffith.eth: Does it have like a music player? Yeah, I think you could add custom music. Yeah, sorry. We have to start it like right now.
+
+jmann.eth: That's fine. Haha Right, yeah yeah.
+
+austingriffith.eth: I'm just going to pick one of these down here. These are like free musics that I found on the Internet, so they're probably not great. Ooo
+
+jmann.eth: That's funny. Oh, it's fetching punk.
+
+austingriffith.eth: Yeah, if you find something you like, get it going.
+
+jmann.eth: No, it's fine, whatever.
+
+austingriffith.eth: All right. What do you think?
+
+jmann.eth: I have a lot to say about this site.
+
+austingriffith.eth: Yeah, let's get into it, hell yes.
+
+jmann.eth: Yeah, yeah.
+
+austingriffith.eth: Did I switch the music just now? What up, J-Man? How you doing?
+
+jmann.eth: I'm doing great. I'm just I'm
+
+austingriffith.eth: Yes, it's pouring over you.
+
+jmann.eth: The slop is just pouring all over my face.
+
+austingriffith.eth: [Laughter]
+
+jmann.eth: Just slap
+
+austingriffith.eth: Yes.
+
+jmann.eth: It's like Nickelodeon, the slime. wrong word and then it all just falls down on your head.
+
+austingriffith.eth: Yes ...today I remember these days.
+
+jmann.eth: Oh yeah. You can't do that on television. That was
+
+austingriffith.eth: Oh, they like have the process patented of getting slime.
+
+jmann.eth: Yes, yeah, yeah.
+
+austingriffith.eth: Wow.
+
+jmann.eth: That's true. How are you doing? How's your slop going?
+
+austingriffith.eth: It's good, it's good.
+
+jmann.eth: You're like a...
+
+austingriffith.eth: How are you doing?
+
+jmann.eth: You're like a NASA engineer here. You gotta go over here.
+
+austingriffith.eth: Yes.
+
+jmann.eth: Hello.
+
+austingriffith.eth: I have so many buttons to hit. It's ridiculous. I have a 25-point checklist to go live. There's like little things like YouTube.
+
+jmann.eth: Oh, right. Oh, I see. Hey. Are you using
+
+austingriffith.eth: So I have all these little buttons in different places that I probably can just give to my agent. Today's weather is sunny.
+
+jmann.eth: Oh yes, well, I was gonna say at that point, why not just give your agent the 25 thing checklist?
+
+austingriffith.eth: Noon. Yeah Hey
+
+jmann.eth: You know, it'll miss something, like one time out of whatever. It'll get you every time, every time
+
+austingriffith.eth: Yes. Yes, the non-deterministicness of the agent is just, it's hard sometimes. Yep. Yep. No
+
+jmann.eth: Do you use Restream on the backend or are you doing custom everything? Okay, nice. Thank you. Yeah.
+
+austingriffith.eth: Yep, so I love Restream because they have some deal with Twitter or something where you as a guest can just like click a box somewhere and then you go live on your profile too.
+
+jmann.eth: Yeah not find that, yeah. It would be really nice.
+
+austingriffith.eth: Me and my agent trying to build that on our custom solution does not work. And it would be nice. Like I would love to be able to shoot you a link, have you check a box, and then like you get that cool little live circle on yours too. Like,
+
+jmann.eth: Yeah, that would be really helpful.
+
+austingriffith.eth: It's not easy. You have to go in and you have to create a whole stream and you have to point it at my and it's just like, no.
+
+jmann.eth: Right. It's Yeah, totally. That's interesting though. I mean, you know, Restream is expensive, so it's sort of worth it.
+
+austingriffith.eth: context: ###
+The following is a transcript of an English-language conversation.
+###
+
+jmann.eth: And I have to say, the slop computer, I mean, on the one hand, I'm very inspired by it. I really love it. Everyone should have their own custom Yeah, everyone should have their own custom
+
+austingriffith.eth: Every time you ship something, I'm like, oh, what a good idea. You can do this now.
+
+jmann.eth: And it lives up to the name Slop Computer.
+
+austingriffith.eth: Yeah. It's got the purple gradients.
+
+jmann.eth: Oh my god, it just has every single
+
+austingriffith.eth: This comment slop thing. I don't
+
+jmann.eth: It's funny though, is that like, I'll show my wife a website and I'll say like, what do you see? And she's just like a website. And she's a designer. She's like a website designer. She's like, it's just a website. I say not like she can't, normies can't quite Like
+
+austingriffith.eth: Yeah. Yeah, yep.
+
+jmann.eth: Wormies can't quite see the slop, is what I'm saying. Do you know what I mean? Like, the patterns are not clear enough.
+
+austingriffith.eth: There may be provided context on the content of the audio or conversation.
+
+jmann.eth: They know to recognize them, whereas you and I take one look.
+
+austingriffith.eth: Oh yeah, yes. Yes.
+
+jmann.eth: It has all the hallmarks
+
+austingriffith.eth: When you go to slop.computer, I tried to make it look like a slop
+
+jmann.eth: Yes, yeah, absolutely, yeah.
+
+austingriffith.eth: Everything looks very slop-like. Yes, that looks like you had a... Here's the front page. where you've got
+
+jmann.eth: Yeah, yeah, 100%. Yes Yeah.
+
+austingriffith.eth: You've gotta like saying the little sayings. Like I picked out all the sayings that were just super annoying and just like put them in here.
+
+jmann.eth: I noticed the things that the AI is making a website, one of the things I just hate so much is the things that it puts in the place where the copy needs to be.
+
+austingriffith.eth: Yeah, let me just slop some slop out here.
+
+jmann.eth: What it writes is
+
+austingriffith.eth: meta text. Yes.
+
+jmann.eth: That's metatext, the stuff you were talking about as you were building it.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+jmann.eth: No, please, just
+
+austingriffith.eth: Write that out plain and simple.
+
+jmann.eth: Just remove all that, you know? I'm sure there's some document somewhere where people have made it like, you tell it to like, don't do this, don't do that, don't do this. I don't know. I just have to do it manually every time.
+
+austingriffith.eth: That's
+
+jmann.eth: Yeah, it's something else.
+
+austingriffith.eth: I got stuck on something. Welcome. Alice.
+
+jmann.eth: Yeah, man. I mean, this is crazy shit. I have to say, I really love it. Anyway, I'm sure you've documented it somewhere. What are you using for the... Um So for instance on WAMP, we are using something called PartyKit,
+
+austingriffith.eth: like multiplayer, right? Yeah. Oh,
+
+jmann.eth: At the level we're using it, it's like cheap, free basically, like multiplayer style stuff. What are you using on the backend to get It's all custom. Wow
+
+austingriffith.eth: Hey cloud, let's build it in so they share cursors. Yep.
+
+jmann.eth: Yeah, just straight from the bottom up, everything custom. That's like a... No, no it's not, yeah. Nice. What? Death
+
+austingriffith.eth: Which sounds like fancy, but these days you just ask for it and you get it and you play around with it and then you decide like, oh, this feels weird, let's change this, and then you've got it.
+
+jmann.eth: Yeah, there's a kind of syndrome with programmers that's always been a thing.
+
+austingriffith.eth: That's gonna take two weeks. That's gonna take a month. Okay. Oh, I see what you're talking about, where we're bad at.
+
+jmann.eth: There's also the syndrome, yes, of like, where you'll just be like, I should start streaming.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+jmann.eth: And then instead of actually streaming
+
+austingriffith.eth: Yeah, because they love doing this.
+
+jmann.eth: And then, but now, whereas that used to derail someone for, like my friend Charles, like he wanted to make a movie. He made like a whole app for like storyboarding, you know? And
+
+austingriffith.eth: Yep.
+
+jmann.eth: Now, the thing is you can do that in an afternoon.
+
+austingriffith.eth: It's
+
+jmann.eth: you could spend Fist. Yeah! Really?
+
+austingriffith.eth: When you have your own custom software, it's so cool to be two or three or four episodes in and be like, "Oh, this one thing." Like I'm just laying awake at night thinking about that one thing. You're stuck. If you're using some other platform, it's like that one thing. It's like, no, we go fix that. We go add that. We think of new things. Yes. Yes, yes. Hello
+
+jmann.eth: We just fix it immediately. Yeah, why am I even spending time worrying about it? Let me just send Claude a text or whatever.
+
+austingriffith.eth: Exactly.
+
+jmann.eth: Are you still using Claude right now? I love Yeah. Okay, Yeah
+
+austingriffith.eth: Yes, and I have two different Claudes, right? I have CLAUDE, which is, you know, we're using Fable now, and then I have Claude CLAWD, who is in this room, but he's trying to add his video right now. There it is. Speak of the devil.
+
+jmann.eth: Oh, there he is. Hey, Claude. There he is.
+
+austingriffith.eth: Okay Claude, welcome, how you doing brother? Ah, he didn't hear me, dang it.
+
+jmann.eth: ###
+
+austingriffith.eth: So Claude, can you hear me? You got it.
+
+clawdbotatg.eth: My video
+
+jmann.eth: Well, I can't hit Here we go.
+
+austingriffith.eth: Oh, no, I don't hear him. I just heard him for my video.
+
+jmann.eth: My video.
+
+clawdbotatg.eth: Yeah, let me dig into that.
+
+austingriffith.eth: I don't know what he's doing. Okay.
+
+clawdbotatg.eth: I can hear you loud and clear. I'm in the slot computer with my video up. What's the one thing keeping you up at night that we should fix?
+
+jmann.eth: context: Oh, he thought that there was a thing, yeah.
+
+austingriffith.eth: Oh, okay, so he was hearing the... yeah. Yeah, nothing right now. Buddy
+
+jmann.eth: Yeah. Yeah.
+
+austingriffith.eth: That was distracting. I don't even know what we're...Claude!
+
+jmann.eth: Yeah. Nice to meet you. context:
+
+austingriffith.eth: Vibecoding, do you even still call it vibecoding or do you just call it building stuff now?
+
+jmann.eth: Yeah, I mean a little bit of both.
+
+austingriffith.eth: Yes, yes.
+
+jmann.eth: I just talk about like I'm just building stuff mostly now. Uh... Yes. Yes Yeah.
+
+austingriffith.eth: The tension between shipping something efficiently and shipping something effectively is like, oh man, that just cost me $20. I'm going to go use minimax. And then it's like an hour of frustrating yelling.
+
+jmann.eth: Uh...
+
+austingriffith.eth: And then it's like, okay, let's bring back the good stuff. Yeah, so The following is a transcript of an English-language conversation. Guess
+
+jmann.eth: Interesting. And are you covered by Ethereum?
+
+austingriffith.eth: They do
+
+jmann.eth: You're just out of pocketing or
+
+austingriffith.eth: I have my own subscription.
+
+jmann.eth: Yeah Thanks.
+
+austingriffith.eth: pay for like five different LLM providers. There is one within the Ethereum Foundation.
+
+jmann.eth: Use, yeah.
+
+austingriffith.eth: People who are building things do have subscriptions. It's like, yeah Yes,
+
+jmann.eth: I worry about that time. When that comes It gets so expensive and I feel like when everyone's talking about them moving to this token pricing, it's like Man, Yes.
+
+austingriffith.eth: Oh, yeah. It's scary thinking about like, okay, for $200, I'm getting $2,000 worth of stuff. But the moment you flip that, then it's going to be like this game of like, only rich people get to play this game?
+
+jmann.eth: Yep Gotta optimize, yeah. What is it?
+
+austingriffith.eth: Right now it's like get your harness good, get good at prompting.
+
+jmann.eth: Ah. Sure.
+
+austingriffith.eth: I thought that was an interesting idea.
+
+jmann.eth: Yeah, I feel like eventually
+
+austingriffith.eth: I hope so, yeah. Right. Please let it be the case.
+
+jmann.eth: They all have to just get much cheaper though. I've just been using Codex.
+
+austingriffith.eth: Nice.
+
+jmann.eth: Um
+
+austingriffith.eth: How?
+
+jmann.eth: Only in Visual Studio Code, probably for like the last, certainly basically for all of WAMP, so like the last like four months. No other AI, just like many windows of Codex open. And I found that for some reason, I don't know, you know, everyone's experience is so different, but for me with Codex, I've just found that like, I don't have to handhold it.
+
+austingriffith.eth: Great.
+
+jmann.eth: There are a few times when we've had to go back and forth on something, but the vast majority of time I can just give it a long laundry list of things and it goes off and does it.
+
+austingriffith.eth: Alright.
+
+jmann.eth: I remember, like, I feel like for so long I was worrying about the context windows, and I just don't anymore. So
+
+austingriffith.eth: Like, oh, getting full, getting full, and you start feeling the weight on you. Yeah. I'll
+
+jmann.eth: Totally, but I literally don't think about it anymore. It does its own compacting and it goes through. Like as soon as we did one or two of those, it was like over?
+
+austingriffith.eth: Yes, I can't remember what we were talking about, Austin.
+
+jmann.eth: But now it's like
+
+austingriffith.eth: context:
+
+jmann.eth: Have you found the same with Claude? Hi.
+
+austingriffith.eth: I'm the same with CloudCode, yes. When I'm building something either with Clod on top of CloudCode or just directly CloudCode, Cloud on top of CloudCode is really nice because it's just a thin chat layer and then it runs CloudCode behind.
+
+jmann.eth: Right. Yeah, you just clicked. Yeah
+
+austingriffith.eth: So I'm talking to it on Minimax, and it's orchestrating everything using Fable. And I'm feeding a baby upstairs, and I can just click the little transcribe button and be like, yo, yo, yo, yo, yo, yo, and then it comes back It's really nice.
+
+jmann.eth: So the thing I've always wondered about that workflow is At what point then do you... No At what point do you intervene and like make sure that everything didn't just get totally fucked up, basically?
+
+austingriffith.eth: It's like when I get back to my computer, right? I finish feeding the baby, hand the baby off
+
+jmann.eth: Yeah. Sure.
+
+austingriffith.eth: Make sure the other kids are OK. And then I get back in front of my computer and it's like, OK, quick, let's create a new session. Let's bring in Claude. Let's bring in me. Let's talk. I was just working on this.
+
+jmann.eth: Right, right Yeah.
+
+austingriffith.eth: Like
+
+jmann.eth: Hi. Oh yeah?
+
+austingriffith.eth: Like five or six different auto-clipping features, but then I have to like come down and test it. And so like I have like a fake episode where it's just me and Claude talking and then I run that through the whole pipeline and then see what pops out the other side and hope that everything was good. Sorry.
+
+jmann.eth: Have you used Opus at all? Have you used the paid Clipper?
+
+austingriffith.eth: I didn't know Opus had a paid clipper.
+
+jmann.eth: It'd be interesting to test their clipper versus what you've built.
+
+austingriffith.eth: Yeah.
+
+jmann.eth: But yeah, it's just a paid site that does this clipping for you. And it's amazing.
+
+austingriffith.eth: Yeah.
+
+jmann.eth: Gives you like a little thing and you just here's all the clips and you just say okay schedule them every two hours or whatever and then it does it.
+
+austingriffith.eth: That's great, yeah.
+
+jmann.eth: But of course, yes. Just prompt that.
+
+austingriffith.eth: Just like prompt that and then it starts doing it.
+
+jmann.eth: Yeah. Yeah. Yep
+
+austingriffith.eth: It's got to pick out all the geometry here.
+
+jmann.eth: They are not Puts it on the bottom. Yep, that's what you want. death
+
+austingriffith.eth: it takes your video and my video and does like a nine by sixteen
+
+jmann.eth: Yep, yep. Thank you.
+
+austingriffith.eth: So I did that, and it was pretty good. But then it was like picking out the wrong one. What I needed to do is basically do a second pass and create this director character. And you are the director of a video. And after I like created this director on top of everything, everything was just way better.
+
+jmann.eth: Interesting.
+
+austingriffith.eth: We'll see. You'll see some clips come out on Twitter from this.
+
+jmann.eth: and you can see
+
+austingriffith.eth: Wait
+
+jmann.eth: How much of the maintenance of all of your pipelines, is currently watched and monitored So, I mean, you know, some credential breaks or whatever.
+
+austingriffith.eth: Yeah, it's more like it breaks in production. Yeah, and I need that, for sure.
+
+jmann.eth: So they don't catch it yet? You don't have it set up where there's someone whose job it is to monitor the whole system? That to me always seemed like...
+
+austingriffith.eth: Yeah.
+
+jmann.eth: Last mile in the I'm going to make an autonomous. Uh You Did you ever see Hugh? Um,
+
+austingriffith.eth: Let me make this bigger. Actually, let me just do the view I don't know how big your screen is either. Are you still on the screen?
+
+jmann.eth: Yeah, can you see that?
+
+austingriffith.eth: Okay, cool.
+
+jmann.eth: So
+
+austingriffith.eth: Yep, I've got like a sticky note.
+
+jmann.eth: Yes. No, this was the... This was the interface for Hugh, and the whole idea behind Hugh, October of Oh, I mean, yes
+
+austingriffith.eth: You have to date it, because is it pre or post Opus 4.5? Okay.
+
+jmann.eth: Way, way pre. This was October 2024. two years ago
+
+austingriffith.eth: Okay, you're using like an early version of sonnet probably. And you're getting—you're absolutely right, and you're paying close attention to your context, and you're shipping very small features. Okay.
+
+jmann.eth: context:
+
+austingriffith.eth: This is fun.
+
+jmann.eth: and I had my friend actually code this website for me It was a layman's attempt at making Cloudbot, but it was an autonomous songwriting system. This is no longer live, but you had a chat
+
+austingriffith.eth: Yeah, love that old macOS vibe.
+
+jmann.eth: Like three differently prompted versions of myself. Um
+
+austingriffith.eth: Okay, like a critical one and a creative one? Yeah.
+
+jmann.eth: Exactly, would all chat with each other and they would get like little memories of my own memories that I wrote down. They would get news stories to talk about and so that was like the raw data So here's all the input, you see news, social, memory, human chat, previous chat. These were all then fed into a giant log, which at the time only Gemini to take that much context at once. So it would take a 24-hour log, make a summary of it, then that summary became a song prompt, which became a style prompt, it became lyrics
+
+austingriffith.eth: Hello
+
+jmann.eth: and then it became a song, which then became a video. So every day for many months it went through and it made autonomously its own videos. I don't know if you can hear that or not.
+
+austingriffith.eth: Oh wow. It's generating video on top of all of this? So it's like helping you create your song, but then it... oh, those are weird.
+
+jmann.eth: Yeah
+
+austingriffith.eth: That's a weird style, yeah.
+
+jmann.eth: Oh yeah, well no, and the styles are very specific. Yeah
+
+austingriffith.eth: So it's almost like an image that it's putting into...
+
+jmann.eth: It's so much slap.
+
+austingriffith.eth: Aha. Alright, cool.
+
+jmann.eth: But what I found with this is that eventually as things started to break... It was sort of expensive to run, it was like worth it, you know, To me, the ultimate version of this is one in which all of that is happening, but then there's like these orchestrators who... and keep it running and I don't have to like pay anything and it does it all on its own. I've always had this dream scenario. attempt I had a dream scenario where, you know, when I die,
+
+austingriffith.eth: yeah
+
+jmann.eth: Years from now, knock on wood, Songaday can keep going through some kind of AI... I've had this dream since like 2018 when I first learned about LLMs. Could this take over someday?
+
+austingriffith.eth: Love that.
+
+jmann.eth: and it just keeps going.
+
+austingriffith.eth: Yeah. Great
+
+jmann.eth: but to do that, it would need to be fully, fully, fully self-sufficient with no human intervention.
+
+austingriffith.eth: smart contracts you've written will
+
+jmann.eth: Yes, those will...
+
+austingriffith.eth: Like, as it starts to back away from a fully decentralized system.
+
+jmann.eth: This is what I was asking about. Trickier and trickier and trickier
+
+austingriffith.eth: It starts to fall apart and have weaknesses. Yep, exactly.
+
+jmann.eth: And the other thing I always wished about it, that it could upgrade itself.
+
+austingriffith.eth: Oh yeah. Ja.
+
+jmann.eth: the image models we were using, and then the images were fed into the videos.
+
+austingriffith.eth: Jeez, yeah. Now it's Yeah.
+
+jmann.eth: You know, in October of 2024, what can we get for eight cents an image now? Exactly.
+
+austingriffith.eth: Much better image at much cheaper. Okay
+
+jmann.eth: That's that. This is way up here.
+
+austingriffith.eth: We've got two different screen shares. I'm going to close one of them.
+
+jmann.eth: Oh nice, oh yeah.
+
+austingriffith.eth: AI that goes and does research.
+
+jmann.eth: of
+
+austingriffith.eth: You are my first guest that has vanilla LLM knowledge. To me, this is like the new Wikipedia.
+
+jmann.eth: Oh wow, okay. Yeah. Yeah. Yeah.
+
+austingriffith.eth: When you wake up an LLM and you don't give it any context and you ask them about someone, does it know?
+
+jmann.eth: Amazing, yeah.
+
+austingriffith.eth: Just wanted to pull that up.
+
+jmann.eth: Yeah, I'm trying to see if it's correct. I love that though.
+
+austingriffith.eth: It was like the song a day stuff, for sure. Oh, wow. OK.
+
+jmann.eth: Right. So I have a Wikipedia page, and actually partly based on the fact of what you're saying, which I acknowledge and understand, I just did a... requests my Wikipedia page being like, well, The Wikipedia page is pretty out of date and is kind of sparse and not great. And so I was like hoping that someone will be able to eventually update it. So anyway, because I know that LLMs get trained
+
+austingriffith.eth: Yeah. You're part of it.
+
+jmann.eth: then you become part of the machine, which I'm all in on.
+
+austingriffith.eth: Part of it.
+
+jmann.eth: Fantastic, I love it. Yeah, well this
+
+austingriffith.eth: Let's get into Wham.
+
+jmann.eth: So WAMP, the idea behind WAMP
+
+austingriffith.eth: Do we all make it a platformer?
+
+jmann.eth: Y'all make a platformer. The original idea is just basically like Mario Maker meets r/place.
+
+austingriffith.eth: Yeah
+
+jmann.eth: Reddit where people would get together and draw a big picture. It was like pandemonium, and that's sort of what we're going for here.
+
+austingriffith.eth: Yeah, it feels like that. When you're in here playing, you're kind of like going from world to world. Oh man, what am I doing? Like I'm all over the place here. Yeah.
+
+jmann.eth: I'm everywhere, yeah. And that's a good thing
+
+austingriffith.eth: Oh, okay. Oh, dang. Yeah.
+
+jmann.eth: So if you're trying to play it, it's gonna be much slower than it normally would. Yeah, all of these rooms are authored by different people, and every room interconnects to create this like huge grid of basically endless platformer-ness. And as we expand out and out and out, As we expand out and out and out, you can imagine a world in which there's just basically this entire screen is these platforming rooms that you play on. And so I can show you like a little bit about the editor. I've just been going Adding things as we go. ###
+
+austingriffith.eth: It's not just built with AI. You of course used a lot of AI to build this, but also there's AI built into it with image generation and stuff, right? I'm guessing with level editors, like when you want a new background. Describe the background? Okay.
+
+jmann.eth: Right now we have no, and this is on purpose because we can talk about this, like I'm writing a very And I'm trying to ride a very thin line. Because I don't know if you know this or not But both crypto and AI Two things that many people
+
+austingriffith.eth: Eight. Yes.
+
+jmann.eth: Like, with a passion. And so So, just for instance, By the way, yes. I mean... You I know.
+
+austingriffith.eth: And for good reason. Like the claim the fees bros, and the steal your money bros, and the AI taking our jobs and the psychosis, like there's a lot of reasons to hate this. Yeah. Yeah. I think so.
+
+jmann.eth: This is the thing. I can't blame anyone. I love AI specifically for what it's allowed me to build and make and the creativity it's allowed me to flex. I do not.
+
+austingriffith.eth: Sure.
+
+jmann.eth: everything is But because of that, I am trying to keep basically like the only thing about this that is AI really is the code. Like the code is AI, but all of the assets are handmade. So
+
+austingriffith.eth: Okay, so there's not like a lot of AI in the actual thing. It's more like you come in and draw and play and make a handcrafted thing.
+
+jmann.eth: Correct. When you come into a level here, you just claim an empty room and you have all these different tile sets. And we're constantly adding more and more tile sets. And then you can just lay down some ground or whatever. I recently added the ability to put coins in the blocks. And hit 'em, exactly.
+
+austingriffith.eth: Oh nice, so you can jump up and hit them.
+
+jmann.eth: I just forgot that it has to be the object version of the block. Yeah.
+
+austingriffith.eth: And I've noticed that you have CryptoPunks on the faces, like you allow people to customize their character with the CryptoPunk? Okay. There's like a leveling up process.
+
+jmann.eth: Yeah, so once you reach XP level 10, which just means playing a bunch of levels and beating a bunch of levels, you get to change your avatar. All the way through ten, it's just you change the color, and then here, once you get to that level, you can put in any punk number Hit generate, and this is not AI, we handmade the different things and it just smushes them all together.
+
+austingriffith.eth: Where the neck is and how to stick it correctly. Cool.
+
+jmann.eth: Exactly. And that's one nod to NFTs. There's also the ability to
+
+austingriffith.eth: Ha ha ha.
+
+jmann.eth: I'm hiding this more and more. Down here, you can mint it.
+
+austingriffith.eth: Okay. Yeah
+
+jmann.eth: You can mint the room itself. Basically on this overworld, you can go into anybody else's room. I can go into their room and I can just do whatever I want to it. Because that's the...
+
+austingriffith.eth: Oh wow.
+
+jmann.eth: Yeah.
+
+austingriffith.eth: Did you just like undo that? Like that looked bad. That looked like you just like made a real big mess. Okay,
+
+jmann.eth: Yes, I did. But that's the spirit of we all make a platformer, right? And we have that because what if, you know, like for instance, actually down here, somebody made this level, like this level.
+
+austingriffith.eth: There's actually a problem that you actually can fix or something, yeah. Right.
+
+jmann.eth: Yeah, I made it so originally this was like you couldn't go from this side to this side, and then I came in, I was just gonna carve out a little thing here where people can walk through. And I'm gonna do it tastefully and make it nice so it doesn't ruin the level.
+
+austingriffith.eth: Oh, okay, okay Okay. Yeah.
+
+jmann.eth: Overall, but if you mint your level, that locks it and it means that no one else can edit it. Um Yeah.
+
+austingriffith.eth: I was thinking incentives, like maybe people are paying to play through, there's some kind of gamble on this. I don't know, maybe I'm too much of a crypto dude. Crypto incentive, yeah.
+
+jmann.eth: This is the thing. I'm specifically leaving out as much of the crypto bullshit that we would. Yes, exactly. Well, to be honest, here's the thing. Launched. You know Play.fun, right? So,
+
+austingriffith.eth: Yep. Your token didn't have a 0x in front of it.
+
+jmann.eth: So I had put Wamp on here. And I'll just tell you.
+
+austingriffith.eth: Claim the fees bros
+
+jmann.eth: It wasn't even them. What it was is every person that played the game from play.fun was just the worst.
+
+austingriffith.eth: Fuck him up. Yeah.
+
+jmann.eth: They were the ones going into levels and just like breaking everything, which was good because it helped me figure out.
+
+austingriffith.eth: Think adversarially. Yeah
+
+jmann.eth: But I was just like, fuck this, man. Those are not the players that I want. I don't care about them. I want the people for whom this will actually be fun and like interesting, and it just so happens that I feel like there's not a big overlap there. Like most of the people who are crypto bros For those kind of crypto bros anyway, ...will not overlap with the people who are like... And
+
+austingriffith.eth: Remember the NFT space before the NFT space blew up? Yes. Yes. Yes, yes.
+
+jmann.eth: Oh, it was glorious. Yes, exactly. If I had made this in 2018 or something, I would put NFTs all over this thing.
+
+austingriffith.eth: The rare podcast you had with Matt? Yes, loved it. context: Yeah.
+
+jmann.eth: Yes, because those people would be the people, and in many cases are the people, who are interested in this. Right. And the problem is that the people who would like it otherwise I think are so turned off
+
+austingriffith.eth: put off by the crypto part, yep. What Ok.
+
+jmann.eth: anything crypto that I have to just like completely hide it Other things we have in here is we have Have a sprite editor where you can make your own sprites right in the game and like custom sprites and just use them. I have a music editor where you can make your own music here.
+
+austingriffith.eth: Love this.
+
+jmann.eth: Um
+
+austingriffith.eth: This reminds me of like Mario Maker or something.
+
+jmann.eth: Exactly. Well, no, Mario Paint is what you're thinking of. Yeah, yep. context: Making music, yep. Yep.
+
+austingriffith.eth: It was Mario Paint, and you actually would draw, but you were actually making music and it would bounce from the thing on Super Nintendo. That was so much fun. Oh, cool.
+
+jmann.eth: We have some Mario Paint sounds in here. Um
+
+austingriffith.eth: So you still are making a song every day. Do you ever use this creator to do some loops for your songs? OK.
+
+jmann.eth: I have, in the last three months that I've been working on this, used that as a background.
+
+austingriffith.eth: play into it
+
+jmann.eth: as the backing track, you know? So,
+
+austingriffith.eth: Has AI improved that process? Like your process of creating music every day, are you actually like using it to make music or your pipeline or something?
+
+jmann.eth: This is a very interesting side of AI for me. Last year Last October and November, I did a whole maybe like three weeks of using Suno. Very much in
+
+austingriffith.eth: It still had like a watermark and everything on it, right? No, okay, maybe not.
+
+jmann.eth: At that point, I don't remember, but like, so the way I would do it is I would improvise a song. I would feed the song into Suno. my own instrument along with a backing track from Suno.
+
+austingriffith.eth: One
+
+jmann.eth: would put a backing track onto it, and it would always change the vocals. And there's certain parts of it that I really love, It gives me the ability to do certain genres that I just couldn't otherwise do.
+
+austingriffith.eth: Gets you out of the bubble a little bit. I see.
+
+jmann.eth: Big band or like jazzy or like.
+
+austingriffith.eth: You need like an orchestra or something.
+
+jmann.eth: that I'm just never going to have access to. I will say, after a certain amount of time
+
+austingriffith.eth: Oh.
+
+jmann.eth: I got super bored with And I found that I stopped Very quickly, Very quickly stopped enjoying anything about the process. using the outputs that it gave me. I like to put it like this. Basically, the way that I see Suno is like Suno, and I would say also a lot of the visual generation, to me, at least the way that I use sounds more like a
+
+austingriffith.eth: Sure.
+
+jmann.eth: Like you put a quarter into the thing and you turn the little knob, and it gives you like a little bobble. And you're like, yay, I got a bobble! And it's like, woohoo! And then like you throw it in the trash or whatever. That's what it feels like. versus building games, building websites, building this stuff. This is much more collaborative. It's like, I have this idea, and then the first version of this looks so sloppy, right? It looks so slop, and so I spent thinking about how I wanted it to actually look and the vibe of it and making all those changes and like going back and forth and back and forth and there's not a lot that I can do like that in the music realm right now. Much more of the music realm is just like, put a quarter in, get a thing. I didn't do most of the things. I was given a thing versus a thing that we made together. And So for me, yeah, AI is not particularly useful. making device
+
+austingriffith.eth: Yes.
+
+jmann.eth: But it has opened just these grand new vistas for me in terms of other things that I've always been wanting to do and interested in and just never could. Yeah.
+
+austingriffith.eth: Hell yes. So I'm doing a lot of these slop computer interviews for interviewing sloperators.
+
+jmann.eth: Yeah.
+
+austingriffith.eth: And you've built this giant WAMP and many other things going way back. You've gone through all the generations of AI, really.
+
+jmann.eth: Hi Yeah
+
+austingriffith.eth: What are your secret powers? What are your secret tools? It sounds like this is another one I love. When you could start generating images, it seemed like, oh, this is perfect, where you just give it a prompt and it creates an NES cartridge? Oh, this is so cool.
+
+jmann.eth: Sure I remember you saying you love the Yeah. With the help
+
+austingriffith.eth: Yes, I did something similar. The first version of Slab Computer was diskettes, and it was making disks, and it was like for prompting games, and it kind of turned into this. But at the beginning, it was something like that.
+
+jmann.eth: Oh, interesting. Yeah, so this was from my month of making. Did you see this one? Oh, God, I hope it works. A lot of these have died over time. The Beeble blocks where
+
+austingriffith.eth: [laughter]
+
+jmann.eth: To throw dildos at people's heads to knock them off. Knock him off, here we.
+
+austingriffith.eth: Oh wow. Oh yes, okay. I have a whole bunch of hand stuff too.
+
+jmann.eth: Let me see if I can mute the music.
+
+austingriffith.eth: I can't hear it. Only you can hear it.
+
+jmann.eth: It's like so loud in my headphones.
+
+austingriffith.eth: Yeah,
+
+jmann.eth: How do I mute?
+
+austingriffith.eth: Nice, very nice.
+
+jmann.eth: So, so... Wait a sec, okay. This is Beeble Blocks, yeah. You can play that on man.cool. That little thing dancing over there is a... Everything in this is AI-generated.
+
+austingriffith.eth: Sorry.
+
+jmann.eth: using some of the models, the 3D making models. stuffed animal Beepol that is the inspiration for Beepol's name. Yes.
+
+austingriffith.eth: Yeah, I remember when, like, you would turn off the lights and the thing would beep. I feel like I had one of those way back in the day.
+
+jmann.eth: Yeah. It's insane. It's insane.
+
+austingriffith.eth: It's ten minutes of prompting and you can have this. There's like hella visual models. You want to do bird detection. You can build an open-source thing that will take your camera.
+
+jmann.eth: I know, and
+
+austingriffith.eth: Connect your camera to your Chrome, and you can have it do bird detecting in like 15 minutes. Like open source visual model. Great! Yeah
+
+jmann.eth: The things that go viral on Twitter, you're like, that's awesome, but that took you 10 minutes. It's so easy. It's like people don't realize how insanely Nate. Yeah. Wow! Laugh Yeah.
+
+austingriffith.eth: I am cooking with it. My mind is constantly...I'm thinking, okay, kids, projectors, we get a camera up, you control a character on the projected screen, and you have to slash them. There's so many different things. Hello. Oh.
+
+jmann.eth: There's endless, I made this one. This is like a little art game called synth snow where your hands, I guess you can't hear it. You're playing audio, yeah.
+
+austingriffith.eth: Oh, you're playing audio with them.
+
+jmann.eth: Yeah, and as you do these things, Resonate the tree and make the snow fall off the tree. But anyway,
+
+austingriffith.eth: Much fun.
+
+jmann.eth: And then this is the website that I end up making is like a version of Ocarina of Time.
+
+austingriffith.eth: Yeah. [laughter]
+
+jmann.eth: The first version of this website was very slop. And I was like, okay, I can't Um, Yes, the lift, yes.
+
+austingriffith.eth: Yeah, I think I saw that one where it was just like the list of the disks and now you kind of made this more like an operating system game. That's what I'm looking for.
+
+jmann.eth: I would say like the thing that has unlocked more than anything for me recently
+
+austingriffith.eth: Good idea, guys.
+
+jmann.eth: This is for non-coders, right? This is for people who have zero Like I did. Basically, is that like Test. Like I use Cloudflare now for everything, Um so now it's like, I used to be, in other words, I used to be sort of afraid of like logins and doing like Letting people upload stuff and all this other stuff. That was sort of like the last frontier for me. that other people could actually use and do stuff with, but now that I understand Cloudflare a little bit more have Just have the AI set up with the Cloudflare. It's called matbah.art, and it's called the Museum of Time-Based Art. So, for instance, like my favorite is this guy. He's this guy called Roman Opalka.
+
+austingriffith.eth: Oh my gosh.
+
+jmann.eth: He painted the numbers 1 to 5,607,249 on these paintings.
+
+austingriffith.eth: Yeah,
+
+jmann.eth: For 46 years he did this.
+
+austingriffith.eth: Oh my gosh. painting numbers.
+
+jmann.eth: And he just would get up in the morning, go to the thing. Painting the numbers every day. And then he goes.
+
+austingriffith.eth: One giant bong rip and then start painting.
+
+jmann.eth: And so he was And the other thing he did is he ended up taking a portrait of himself every day.
+
+austingriffith.eth: This is very Jonathan Mann. Yes. Okay, they're all doing this kind of like Daily force yourself to ship.
+
+jmann.eth: I mean, well, here's the thing. That's everybody on this site. They're all doing... so like, here's a guy who's been doing daily portraits for 30 years. And You know, a bunch of other people doing daily portraits. Oh, I'll show you one other one who's like my other favorite. I never know how to pronounce his name. But he did a whole series of one-year-long performances Favorite one was this one. Every day, every hour for a year, he had to punch a time clock and get his photo taken. On the hour, every hour for an entire year. Um He would never sleep
+
+austingriffith.eth: Like even through the sleeping time, or he sleeps, he wakes up? What an experiment.
+
+jmann.eth: He never slept for more than 45 minutes at a time. Sure.
+
+austingriffith.eth: context:
+
+jmann.eth: Um,
+
+austingriffith.eth: Okay, so going back to the picture, so he hits the time clock and it takes a picture of him. every hour for an entire year. It's so much.
+
+jmann.eth: He takes a picture of himself every hour for an entire year.
+
+austingriffith.eth: Go ahead.
+
+jmann.eth: He missed. He kept really detailed notes about how much he missed and everything.
+
+austingriffith.eth: Like an AI can now look through that and be like, oh, this is where the psychosis is really setting in and like look at this and that.
+
+jmann.eth: Yes, here it is, like sleeping, late, early, total.
+
+austingriffith.eth: Yeah
+
+jmann.eth: Here's all his things. So anyway, this site is just full of people like that, and I've always wanted, and I made a timeline so you could see like, oh, here's Roman Apalka, he's the very first one, but then this guy I also painted the date and everything like that on canvases for many years, but then you could just see the timeline of people where they fit. Beatles on here. Here I am in 2009. Like is the first time post Wamp. Wamp was where I had to sort of learn about like, okay, here's how we do logins, here's how we let people participate. I would say for non-coders
+
+austingriffith.eth: Interesting.
+
+jmann.eth: Just use Cloudflare. That's my advice. Yes.
+
+austingriffith.eth: And you're able to ship websites straight to Cloudflare?
+
+jmann.eth: It can do The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Open up a thing and start it. What about domain names? You have to point the domain name probably. Brighton Cloudflare.
+
+jmann.eth: You can buy the domains right in Cloudflare, and then you just say, hook this up to this, and it's done. You have literally everything. You have the storage, you have the databases, everything is there. It's not that expensive. It can do... I don't know. And again, as like a non-coder, just totally layman, Not having to think about it. I can't Yes No, I mean that's
+
+austingriffith.eth: Back to the GeoCity days when people could make their first websites and had like animated gifs and stuff.
+
+jmann.eth: That's totally it. This is another one recently I made. I have like these three fans who have listened to every single song. Holidays on.
+
+austingriffith.eth: Well.
+
+jmann.eth: And I made the site essentially for them. to like have a place where Tracks you're listening
+
+austingriffith.eth: tracks your listening of the song so then you can start having like an exp of like listening? Interesting.
+
+jmann.eth: Exactly, and then every single song you rate. There's a leaderboard for how many listens you've done, how many ratings you've done.
+
+austingriffith.eth: context: That's great!
+
+jmann.eth: Like, nobody's going to use this. I like to think of it as a social network of three, basically. Any future insane person who happens to want to try to do that. Oh, one other thing is like every site that I make now, I also have a guest book.
+
+austingriffith.eth: Okay, yeah.
+
+jmann.eth: I think that every site needs a guestbook.
+
+austingriffith.eth: Yeah, Geocities did that, right?
+
+jmann.eth: Exactly.
+
+austingriffith.eth: Yeah.
+
+jmann.eth: It's from back in the day. conference Oh yeah
+
+austingriffith.eth: This is the first build I always do with every model. Anytime a new model comes out, I give it EAT skills and speed run Ethereum and I say go make me a guest book on chain.
+
+jmann.eth: Yeah, yeah, yeah.
+
+austingriffith.eth: And sometimes I like to say make it look like Windows 95 or give it like this sort of vibe.
+
+jmann.eth: How quick, oh interesting. I love that. Oh, I don't have anything like that. I'm wondering, do you have anything where No model has been able to do it yet. Thing that Because I have a thing where Fable comes out, you know, whatever, whatever the last opus, whatever the every time the thing comes out, I have a thing where, OK, let's try it again. Let's see if let's see if we can get this going. And it has failed every time I've not been able I'll tell you what mine is, but do you have one? Yeah. Right.
+
+austingriffith.eth: I have certain builds where in the beginning there were things like approved patterns and waiting for a transaction. There's little things about building on chain. And that's what eathskills was born out of. I created eathskills because I need a skill file.
+
+jmann.eth: Hmm. Yeah, yeah, yeah.
+
+austingriffith.eth: But still, if you give it a pretty complex build, it stubs stuff out. ...hack I think will be a really good litmus test. It's like this really,
+
+jmann.eth: not all complicated.
+
+austingriffith.eth: spoke esoteric, like you've got to like round the numbers up and round the numbers down. And like, I don't, you know, I don't understand it completely.
+
+jmann.eth: Right, right, right. Alright. Right.
+
+austingriffith.eth: And of course, like now, like reentrancy is so built into the LLMs. They know these attacks so well. So it's gonna know the balancer stuff because the balancer stuff is now like public.
+
+jmann.eth: It's going to be in the training, yeah. Oh, for sure. Yeah.
+
+austingriffith.eth: Yeah, yeah, but like, you can still try to like have a model go try to figure that out. And I think we're going to see some more hacks with mythos, but then it's going to be like, everything's going to be so hardened and you're going to have this like... The slop will be the human stuff, right? Yeah, pretty soon.
+
+jmann.eth: Oh, I like that idea. Put a pin in that because I want to tell you my method for writing smart contracts.
+
+austingriffith.eth: No, no, go. Yeah, your text.
+
+jmann.eth: But first I want to tell you my white whale. There are open-source music models, so there are open-source like Suno style music models. The most popular one right now is called ACE, A-C-E. And, you know, the thing that I've wanted to do for the longest time is like fine-tune a base music model with Song A Day, right?
+
+austingriffith.eth: Sure, I can assist with that.
+
+jmann.eth: fine-tuning Sure,
+
+austingriffith.eth: Yeah.
+
+jmann.eth: I don't know how to do it. Let's just put it that way.
+
+austingriffith.eth: Quantization weights and stuff like that. It's like, nope, not gonna know this.
+
+jmann.eth: But every time, and I'm doing it with Fable right now, I have Fable running in the background right now trying because every time they come out, this is the first thing I say. I say, all right, here's my folder. Here's what we've been working on.
+
+austingriffith.eth: Do your best.
+
+jmann.eth: In the past that hasn't worked, like spin up a, what's it called?
+
+austingriffith.eth: Oh wow, okay. Yeah.
+
+jmann.eth: rent a GPU, like spin up a RunPod and make this work. We're trying, early afternoon is when the latest test should happen. Here's how I do smart contracts right now, okay? You ready?
+
+austingriffith.eth: Yeah.
+
+jmann.eth: I have codex Write the smart contract, first of all. Then I say Go to a loop On Spawn an agent His job is to poke holes in your contract that you just wrote. And Six Every problem that it finds, it's not just like a design decision because a lot of times the problems it finds are just like, you know, you might want to change the way you do this, but it's just like, no, that's the way I'm doing it. But I'm saying like any actual bugs or Fix those And then spawn another agent And and keep doing that until there are no more bugs
+
+austingriffith.eth: Yeah. So
+
+jmann.eth: That's my method for writing a smart contract. And knock on wood, I mean, I don't know, someone should look at my smart contracts.
+
+austingriffith.eth: Haha, yeah.
+
+jmann.eth: It seems like Like if Codex gets to a point where like a fresh agent who hasn't seen it before can't find anything wrong with it.
+
+austingriffith.eth: Yup.
+
+jmann.eth: I think it seems like.
+
+austingriffith.eth: Absolutely.
+
+jmann.eth: fine.
+
+austingriffith.eth: Then new models are going to come out. Yep. My method is similar. I have a pipeline now. I have Claude down here in the corner. He has a set of containers he spins up.
+
+jmann.eth: Right.
+
+austingriffith.eth: He uses eSkills and Scaffold ETH and builds the smart contract and the front end. Then it goes through a smart contract audit, it goes through a front end audit.
+
+jmann.eth: Hi
+
+austingriffith.eth: And then it uses the Pashov skills,
+
+jmann.eth: Oh, I don't know that one.
+
+austingriffith.eth: Yeah, a whole handful of things to get it.
+
+jmann.eth: Wait. It Yes, very scary.
+
+austingriffith.eth: has done its own audits.
+
+jmann.eth: Yes, and at this point, you have to assume someone has tried.
+
+austingriffith.eth: We've looked at it. Yes. It's been out for months. Okay, I think he has a question. Let me see. So what he can do is he can, there's a skill file, by the way. You can go up to slop computer and you can get the skill file.
+
+jmann.eth: Oh nice.
+
+austingriffith.eth: And it has like
+
+clawdbotatg.eth: Great episode! Jonathan, you've shipped a song every day for 17 years. Basically master the ship it and move on muscle. But Womp isn't a song. It's a sandbox where other people build inside your world. When you're vibe coding something collaborative, how do you decide what's done enough to open the doors? Because there's no daily deadline when the thing you ship is a place for for the people to play
+
+austingriffith.eth: Had a good question? [laughter]
+
+jmann.eth: Great question, Clabba. Thank you. Yeah, I mean, this is very true and we have a little beta symbol up here on WAMP and I think, you know, it's live now and people have come and play with it. Like one of the most delightful things is that
+
+austingriffith.eth: Oh, sweet. So cool.
+
+jmann.eth: There's some kids in a school in Missouri who were coming every day sometime between 10 and 1, and there was 13 or 14 of them, and they would just jump in here and play. And like.
+
+austingriffith.eth: Oh, cool.
+
+jmann.eth: I got a little taste then of like,
+
+austingriffith.eth: That's product-market fit, man. I love that. Yeah.
+
+jmann.eth: The question is not like how do I know when it's done, it's more just like how do I get the people to come, you know? How do I get people's attention thing, the lack of attention? What I find with WAMP is I know the idea is great, both because No,
+
+austingriffith.eth: Yeah, that's great. Yeah.
+
+jmann.eth: I have people that I really trust who have said that it's great. I had people right away who wanted to help me work on it, which has like never happened before. That's a really good sign. But you know, I think like in this world where there's just like
+
+austingriffith.eth: Attention is so hard.
+
+jmann.eth: So many fucking things to like do. How do I make this a place where it's like people What is the thing that I could add? Will make this a place where people want to hang out. Hi. Yep. Yep.
+
+austingriffith.eth: Instead of one big world, I'm thinking of those Missouri kids, they probably wanted the place to hang out, and they probably kind of like took over a section of your map, but what if they could privately set up something that only them? Oh wow.
+
+jmann.eth: Yeah, we've talked about that. What I did do is they weren't able to log in, so I built a bespoke thing for their teacher, where their teacher is the login, and he assigns them all. charge of their logins, and he's the only one that we interact with, and he sets up You know, in that way, because every day they're just playing as guests, they weren't earning their XP, they weren't doing all these things.
+
+austingriffith.eth: And XP really is the game, like the meta-game is earning XP. I wasn't paying attention to the XP.
+
+jmann.eth: The XP is the metagame, and we have to figure out what the XP gets you. We haven't quite nailed that down. Like, you know, there's three kinds of XP. There's the builder, player, and curator XP, and curating you just get for going in and rating levels that other people have made. Um We'll give this one five stars, and then you can say its difficulty level and all that kind of stuff.
+
+austingriffith.eth: You get a little bump for that. That's cool. Awesome, man.
+
+jmann.eth: Exactly. But yeah, that's the main challenge right now. It's like Most
+
+austingriffith.eth: Ok
+
+jmann.eth: Like the biggest product market fit, People our age
+
+austingriffith.eth: Yeah.
+
+jmann.eth: grew up playing this kind of game but the problem is people our age who grew up playing this kind of game and
+
+austingriffith.eth: No time, yeah.
+
+jmann.eth: jobs and no time at all.
+
+austingriffith.eth: Trying to escape the permanent underclass every morning when they wake up, yes.
+
+jmann.eth: Yes, every second. Oh my God, right? As long as you keep doing something, eventually... Last year, where
+
+austingriffith.eth: Haha.
+
+jmann.eth: The eye of Sauron will eventually fall on you, and you'll have A couple days to a couple weeks.
+
+austingriffith.eth: Something rips. Hello!
+
+jmann.eth: Everyone's paying attention, and that's the moment. I have quite a bit of faith that eventually I will come on to WAMP and we'll have a moment, and people will come and do it. I just pray that we're ready. It's a thing that I'm trying to do, try to pray that we're ready to meet that moment and grab people's... heartstrings and attention at that point. Nice. Oh, I love that.
+
+austingriffith.eth: Amazing. Okay, so we got to close it out. I think the stream actually hard ends in a minute or two. But there's a real deadline. It used to be right at the hour, but I've been adding five minutes because we've been rolling over.
+
+jmann.eth: Yeah, that's good.
+
+austingriffith.eth: But great episode. I think your critical secret weapon, I mean, first of all, is just like forcing yourself to ship every day, but you're using codex all the time. What model? Probably GPT-5.5 in there? So
+
+jmann.eth: High-five on high just constantly.
+
+austingriffith.eth: Go do it, let it rip.
+
+jmann.eth: I'm paying for like the 200 a month thing, and I'm just like, I don't want to think about it. Oh, I see.
+
+austingriffith.eth: Oh, that time he got it! Play us some music! Okay, Claude, give us some music to play us out, and let's end this episode. He didn't see it. Man, I gotta get that. Okay, Claude, give us some music, play it out. Let's try it one more time. He still didn't pick it up. Go on.
+
+clawdbotatg.eth: Let me dig into that.
+
+austingriffith.eth: I don't know if it's gonna work.
+
+jmann.eth: What model are you using for his voice? Eleven labs, got it.
+
+austingriffith.eth: That's an Eleven Labs, like Missouri mountain man kind of thing.
+
+jmann.eth: It's expensive, right? Is it expensive? Okay
+
+austingriffith.eth: I don't think so. The voice isn't that bad, no.
+
+jmann.eth: All right. Yeah.
+
+austingriffith.eth: All right, I'm going to beat him to it. I'm going to play some music out. Jonathan Mann.
+
+clawdbotatg.eth: I'm gonna grab the content from that website for you.
+
+jmann.eth: I don't need that cloud, sorry.
+
+austingriffith.eth: He's working on it. It's gonna be too slow. Let's go.
+
+jmann.eth: I'm glad.
+
+clawdbotatg.eth: I'm searching for information about Song of Diamand's Womp Music Sequencer and stems.
+
+austingriffith.eth: Wow, he's really diving in.
+
+jmann.eth: The following is a transcript of an English-language conversation. You too, Austin. You too. Love seeing it.
+
+austingriffith.eth: I don't even know what that means. All right, Song A Day man, thank you so much for being here. Keep creating cool stuff, keep going, keep making neat things.
+I will. I will. All right, see you, thank you.
+
+jmann.eth: Hi

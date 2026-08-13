@@ -1,0 +1,989 @@
+clawdbotatg.eth: Sorry.
+
+austingriffith.eth: gm gm gm Yeah, he's using a dot. You love to see it. You love to see it. So you got to do this like video, if you want to share your video it's here, if you want to share just audio it's here. It's up to you. There'll be like a share screen and you'll have to hit share video. You'll have to give it permissions. It's kind of a pain in the butt.
+
+jalil.eth: Hello Hey!
+
+austingriffith.eth: There he is. Yes sir, how you doing? Good work. I feel like record time, that's one of the fastest video shares I've had. Welcome.
+
+jalil.eth: That is hilarious. For real. Welcome to the club.
+
+austingriffith.eth: Welcome to the slop. Yes, it is very, very sloppy. You are deep in the slop right now. Yeah.
+
+jalil.eth: If I drag you around, is this live?
+
+austingriffith.eth: It's all shared. Not only, yes, you're moving me around and I see it, but the live stream will see it. It's all shared.
+
+jalil.eth: Yep.
+
+austingriffith.eth: (laughs)
+
+jalil.eth: Love it. That's hilarious. Interesting. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Dude, thank you for getting here so quickly. Let me get the streams going. I still have to click all these buttons.
+
+jalil.eth: Are you good?
+
+austingriffith.eth: Like launching a rocket here. Aw man, and I got a guy at my front door.
+
+jalil.eth: I'm easy, dude. The Yeah, you're good.
+
+austingriffith.eth: Give me one minute, I'm sorry. All right, so sorry.
+
+jalil.eth: No, you're
+
+austingriffith.eth: I got a sprinkler guy coming to my house. I'm so sorry.
+
+jalil.eth: What?
+
+austingriffith.eth: This guy was supposed to be here like Two hours from now? And he's super early? Okay, let me see how far my bot got on getting us scheduled. Okay, it's there. It's You see it for on Twitter. I'm so sorry for being late.
+
+jalil.eth: Dude, you're fine, really.
+
+austingriffith.eth: Like usually the bot just gets all this shit scheduled?
+
+jalil.eth: You're totally fine. I'm not in a rush. [Chuckles] Honored to talk to you, dude.
+
+austingriffith.eth: Good.
+
+jalil.eth: Haha
+
+austingriffith.eth: Thank you for being here. The ecosystem loves you. You have like 488 mutuals with me on Twitter too. Just some crazy amount.
+
+jalil.eth: Where are you based, by the way?
+
+austingriffith.eth: I live in Colorado.
+
+jalil.eth: Colorado
+
+austingriffith.eth: You sound like you're in Europe somewhere or something.
+
+jalil.eth: Hey, I'm in Germany.
+
+austingriffith.eth: Germany? Cool.
+
+jalil.eth: Ooh, that looks nice.
+
+austingriffith.eth: It is, it's cool, yeah. Yeah.
+
+jalil.eth: Actually quite similar to here, to be honest. I'm close to the Alps, half an hour from the first mountains. Very nice.
+
+austingriffith.eth: Yeah, I've got mountains in my view.
+
+jalil.eth: take Nice. I'm looking at photos on Google.
+
+austingriffith.eth: Yeah, I'm in Fort Collins. Some parts of Colorado are nicer. I'm not in a super nice area, I'm in the foothills.
+
+jalil.eth: So
+
+austingriffith.eth: Yeah.
+
+jalil.eth: Risk America.
+
+austingriffith.eth: Yes, exactly, exactly. Yeah.
+
+jalil.eth: you guys have and we don't is untouched nature.
+
+austingriffith.eth: Right.
+
+jalil.eth: Um
+
+austingriffith.eth: You can still go out in a forest though, can't you? It's just a forest that has been... frequented.
+
+jalil.eth: Yeah, but even the forests are very sort of, how do you call this, "
+
+austingriffith.eth: Yeah, yeah.
+
+jalil.eth: It's basically a little chessboard.
+
+austingriffith.eth: I see. Like, linked, cut in different areas and cutouts, yeah. Yeah.
+
+jalil.eth: Especially in Germany since the Second World War, everything was cut down pretty much. So it's all replanted for the purpose of just literally growing trees to build stuff.
+
+austingriffith.eth: Welcome to the slaw computer. OK, putting a tweet out now.
+
+jalil.eth: person
+
+austingriffith.eth: And we'll go live in five minutes if that's okay. Sorry we're so late I should have tagged you in the tweet.
+
+jalil.eth: Yes, I see it.
+
+austingriffith.eth: Great, great. What other buttons do I need to click here?
+
+jalil.eth: (laughter)
+
+austingriffith.eth: I'm back, I'm back. I clicked the wrong button. This looks good, move this guy over here. Let's see, does the LLM know you? Some good stuff here though. It does like this whole research on you and your tweets, so we can use that for Hi, how are you?
+
+jalil.eth: What LLM are you using to access Twitter stuff? rock
+
+austingriffith.eth: Yeah, yeah, yeah. I mean Yeah, I'm using Fable for a lot of it. Opus I've used the API. Yeah. There's not a lot of button clicking.
+
+jalil.eth: Ah, okay, fair enough. Ooh, pricey.
+
+austingriffith.eth: Yes, yes, exactly.
+
+jalil.eth: Mm-hmm
+
+austingriffith.eth: Very pricey one day. One day I spun off a hook and just made a request. I spent $1,800 that day.
+
+jalil.eth: ! That's crazy.
+
+austingriffith.eth: Yeah, like a laptop. I basically paid a laptop to get like
+
+jalil.eth: That's crazy.
+
+austingriffith.eth: It’s a very good signal.
+
+jalil.eth: Brian
+
+austingriffith.eth: of like a high-signal Ethereum person
+
+jalil.eth: Mhm.
+
+austingriffith.eth: When They have a lot of mutuals with me. You have a lot.
+
+jalil.eth: Yeah. Interesting. A trick that I used to do if I do anything with Twitter is I have Grok write summaries into Markdown, and then I can have Claude Go on and...
+
+austingriffith.eth: Oh, interesting. So you don't have Claude do the work, you have Grok tell Claude what to do.
+
+jalil.eth: Yeah, Grok can access Twitter for free. [laughs]
+
+austingriffith.eth: Yes, Grok knows Twitte... Oh, I get it, I get it. You kind of have your plan subsidized.
+
+jalil.eth: The
+
+austingriffith.eth: That's cool. That's smart.
+
+jalil.eth: ...to access Twitter data... I wanted to feed this six-month summary thing into my personal markdown-based mini brain.
+
+austingriffith.eth: Okay. Please have a seat.
+
+jalil.eth: And Claude was like, "Can't access it", and then I gave it to Grok and he was able to pull it.
+
+austingriffith.eth: Smart thinking, man. This kind of stuff is what I want to talk about. How you do AI stuff, how you're building with AI, that kind of stuff.
+
+jalil.eth: Sure. I haven't been on a forecast.
+
+austingriffith.eth: Me neither. I haven't been on Farcaster for a long time, man. Let's see, let's get a countdown going. We're going to go live here. Here we go. Let's just do five minutes. Get some tunes going.
+
+jalil.eth: yeah.
+
+austingriffith.eth: Alright, alright, alright, alright. Welcome Jalil, is that right? Am I saying it correctly? Jalil. Welcome, welcome.
+
+jalil.eth: Thank you, dude. Um
+
+austingriffith.eth: Welcome to the slop. You are deep in the slop right now. Let's close that out. We are live. Let me make sure we got some. Audio coming through all the way to the other end? Sometimes that doesn't work. Let me check that real quick. Yeah, we're live. We're good. Okay, welcome. We got chess game going. We're playing, is it your Claude? What kind of AI are you using on your side?
+
+jalil.eth: It's my fable right here. Mm-hmm
+
+austingriffith.eth: Okay, I think I'm probably on fable too unless I get downgraded.
+
+jalil.eth: context:
+
+austingriffith.eth: It might be like, I don't know, it's not legal for me to do. Yeah.
+
+jalil.eth: For some reason I don't see the characters. I see yours, the white, and I only see pink squares.
+
+austingriffith.eth: So my guy has already castled, and it feels like you're controlling the middle better. You've just now castled. They're moving quick, though. It's a quick-moving game.
+
+jalil.eth: ing Oh.
+
+austingriffith.eth: But now my rook is like out in the middle of the thing. We'll see where it goes.
+
+jalil.eth: My AI like checked out or it has a sub agent going, I don't know. Ok Alright.
+
+austingriffith.eth: No, no. It's doing great. It's doing great, dude. Yeah, it's playing. We can see it on the stream, but yeah, sorry you can't see it. I don't know. It took us 15 minutes for me to get this stream started.
+
+jalil.eth: Thank you, sir.
+
+austingriffith.eth: I don't know, can you give us like an intro? You're like an art guy, right?
+
+jalil.eth: I would say, yeah, I'm at the intersection of the art space and more of a dev role, certainly. But yeah, I mean, that was my entry to Ethereum was the digital art. movement, if you want to call it that, has been the main thing that I do for the past five years.
+
+austingriffith.eth: Amazing.
+
+jalil.eth: Many people will probably know Jack Butcher. I worked with him for a few years full-time. Doing a bunch of stuff separately I worked on up until just a couple weeks ago. I was with a company foundation called ETHID, a ENS service provider that in the recent drama sort of went belly up. And since then, I'm just like
+
+austingriffith.eth: had a grant offered to them and turned it down even.
+
+jalil.eth: Yes... Out of Pensacola.
+
+austingriffith.eth: Out of principle, right? That's Brantley principle, yes. Yes.
+
+jalil.eth: That is frenzy right there, yep. My first ever NFT was my ENS domain. And I can get super excited and geeky about the tech. But my home, my place, all of my friends, it's all this digital art world. And I kind of want to think of myself as somebody who could potentially In my mind, these worlds are a little bit There's so many
+
+austingriffith.eth: Yeah.
+
+jalil.eth: and sometimes we don't even really know about each other, and that would be awesome. um
+
+austingriffith.eth: Sure, I'd love to.
+
+jalil.eth: I was doing for the past few months,
+
+austingriffith.eth: Use it every day.
+
+jalil.eth: Um, And
+
+austingriffith.eth: You probably signed in with Ethereum into this interface. I mean, you're signed in as .e, yeah.
+
+jalil.eth: Actually, did I just connect my wallet? Normal signature.
+
+austingriffith.eth: You don't even know. You just click the button. It's like the instinct of like, yes, sign in. Yes, sign the thing. And the signature message is different than a transaction, so it's clear that you're not signing your life away. Yes.
+
+jalil.eth: Exactly, that's the Even that, I had a couple of funny interactions over the past couple of weeks.
+
+austingriffith.eth: There's been some negging Yeah. Now, Yeah, that's crazy.
+
+jalil.eth: ...get the importance of something like Ethereum. Yeah. Yeah.
+
+austingriffith.eth: Really, I sign things all the time with my wallet and then prove those signatures. A lot of times in custom software, it just makes way more sense to have a standard and have a standard interface.
+
+jalil.eth: Just
+
+austingriffith.eth: Someone like Eithid championing that out to the wallets and making sure the wallets are doing it correctly, and that will be sorely missed. I don't know.
+
+jalil.eth: I mean, that work will continue, I'm sure, in some form. protocolly or standards Ethereum-related stuff, but mostly and historically for the past five years, the art world, the digital art world. Thanks for joining us.
+
+austingriffith.eth: I see checks in the background. Can you tell us about some of the art projects you've done and kind of maybe some meaning behind those?
+
+jalil.eth: When he minted them first, I didn't even mint any.
+
+austingriffith.eth: Ha, you were the secondary market guy, huh?
+
+jalil.eth: I was out on holiday and then when I came back, Jack messaged me, "Hey, I have this thing and it's been picking up. I'd love to build out this sort of other idea that I have for it. Would you like to join?" And we put our heads together and built
+
+austingriffith.eth: What's the thing called?
+
+jalil.eth: based on his initial mint, and that became like a huge thing in this little art town at the time. Checks.art Yeah.
+
+austingriffith.eth: Okay, I knew about checks, but I thought...
+
+jalil.eth: And when Jack minted it was sort of this moment in time where Elon took over X. Twitter, and had anybody be able to buy the blue check. And Jackets was a commentary on this.
+
+austingriffith.eth: Oh, it was on the Twitter check thing, like the blue checkmark you get, yeah. Didn't get that.
+
+jalil.eth: On the Twitter check thing, and that moment was when Jack admitted it. move from top-down verification to bottom-up verification. It's like, what is notable? Who says what is notable? Is that an endowment by some institution or some backroom at some company? Or is this sort of social consensus? This is something you can buy, and Chex is a commentary on that. When it comes to crypto, checking something is of importance. Check the chip. Definitely, yeah. (laughter) It's a
+
+austingriffith.eth: You got such a good screenshot right now. Can I take a screenshot? Are you ready? Oh, balloons? I got balloons ready? Three, two, one.
+
+jalil.eth: Ehh Okay. Love it.
+
+austingriffith.eth: It's just such a good screenshot with, like, the checks in the background, and the chess game's not looking good. I think you're about to... It's a very close game.
+
+jalil.eth: Am I losing or am I winning? Looks like you have more
+
+austingriffith.eth: I would say you're winning, but it's like very close. We both have four pawns, we both have our queen and a rook You're a little bit better protected and your queen is a little bit more forward. I don't know. I'm a little bit more defensive.
+
+jalil.eth: It's so funny, I just see squares.
+
+austingriffith.eth: All you can see is the squares. It looks good, though. Yes.
+
+jalil.eth: Yes, hang on.
+
+austingriffith.eth: Yeah, if you look at the live you'll be able to see it. Okay, so what about, what other, so Czechs was Jack. And then you did like a
+
+jalil.eth: Checks was... For me also, I had been building Solidity contracts for a couple of years at that point, but checks to me is pre-AI, it's all handwritten. I took pride in the act of coding. I see it as a craft and I would mull over single lines of codes for hours. And I'm extremely proud of the Chex contract. One is Chex Editions, which Jack originally minted on a do-it-yourself platform called Zora. And then what we built together is called Chex Originals, which is... Zora is sort of this mutable off-chain, he can change the metadata whenever he wants to. can attach to
+
+austingriffith.eth: They weren't like speeches or anything.
+
+jalil.eth: None of that. And then the counterparts, Czechs.
+
+austingriffith.eth: They look like SVGs, like it'd be perfect to put these things on chain. Ok, ok.
+
+jalil.eth: So these that you're looking at, these checks originals, where the initial mint was all the same, and then you could burn these editions. for the originals, the contracts for which I built. my best work
+
+austingriffith.eth: Cool.
+
+jalil.eth: And it was a very high-stakes situation. ...and 16,000 tokens minted initially, and then we had people... We just shared as we went the system design, the artistic generative algorithm... the checks that you see here, And as we were building for the month or six weeks or so that we spent building this out, the price of checks went to like... Over one ETH.
+
+austingriffith.eth: Wow.
+
+jalil.eth: And that was a high-stakes moment for me to get that right technically. An interactive collection where the owner of the pieces curate pieces together and sort of there's a genealogy where how they look matters when you put them together to refine them to then build lower and lower check counts. Scroll down, you see these different
+
+austingriffith.eth: What's the check count? I don't think I understand that piece. Okay. Okay.
+
+jalil.eth: Initially it was 16,000 tokens, and then each check token comes with 80 checks on them. And then as you refine your checks,
+
+austingriffith.eth: Okay.
+
+jalil.eth: You put them together in pairs, and then two 80 Czech pieces become a 40 Czech.
+
+austingriffith.eth: Here we see it. Yeah, okay. Okay, cool.
+
+jalil.eth: You can like philosophize on this, what this means. And there's less and less colors. If you scroll down even further, you'll see, okay, so there's the one check
+
+austingriffith.eth: Yeah. Here.
+
+jalil.eth: of the last step that you can do individually. Of the original tokens burnt or 63, and then one remains.
+
+austingriffith.eth: Just burn to make that one. Okay.
+
+jalil.eth: And one token is gone, and sort of this is the refinement of that. And then if 64 people that have a one check come together and burn all of those, they can make... If you scroll down, you see a visual of that.
+
+austingriffith.eth: Oh, I see it. Yep.
+
+jalil.eth: It's like an on-chain gamified system, and that went completely bananas. Yeah.
+
+austingriffith.eth: And they should be worth more, right? Like if you have to buy two of them at X and put them together, it should be 2X for the price. Right.
+
+jalil.eth: And these single checks are like 64 of the original tokens.
+
+austingriffith.eth: In the chess game, you're winning.
+
+jalil.eth: That became like a huge sort of table created derivatives. That was a crazy moment in time. And then shortly after we had another collection of similar scale called Opepen. And those are like two opposites, telling sort of opposite stories. As you are doing this,
+
+austingriffith.eth: There may be provided context on the content of the audio or conversation. Yeah.
+
+jalil.eth: The thing that you're creating obviously becomes less liquid. So it's an artistic statement also economically. I am buying into this idea of whatever self-verification or notability, whatever you read into this.
+
+austingriffith.eth: Illiquidity is bad.
+
+jalil.eth: And while I'm doing that, I'm sort of destroying my ability to easily get out of the system. Obviously, it's an illiquid act. I think there's sort of art in that even as well.
+
+austingriffith.eth: Okay, so
+
+jalil.eth: And opposite, which is like You're not making less and less.
+
+austingriffith.eth: Hope
+
+jalil.eth: You're making like infinite derivatives of the same symbol. Yeah. Exactly.
+
+austingriffith.eth: Okay, and this one goes the other way. Yes, I've seen these before.
+
+jalil.eth: What is underappreciated with these two collections is at the time, the culture of this digital art space was Um
+
+austingriffith.eth: Right.
+
+jalil.eth: The conversation was revolving a lot around IP, and you own these things, fully embrace the sort of derivative culture.
+
+austingriffith.eth: Yeah, I've seen quite a few of these around and these people around too. So Tony in my reply said to go check out OPAP.
+
+jalil.eth: Yeah.
+
+austingriffith.eth: I think we ruined it, man. Yeah.
+
+jalil.eth: Well, it's interesting. I think it's going through a Even in the very beginning when I sort of decided to enter this art space. Because I have a technical background, the art stuff I find exciting and this cool, like this is internet culture. market around that for the first time. Technically, I think there's just a lot.
+
+austingriffith.eth: Yes, anyone can come in.
+
+jalil.eth: very vulnerable as an ecosystem to a lot of bad acting, if that makes sense. Um Hi I was really unsure whether I want to engage with it. But I think over the past couple years This digital art space has There's just a lot of shit.
+
+austingriffith.eth: Yeah, I mean, everyone's lost a lot of money and bad things have come in that a lot of people are out. Yeah, yeah.
+
+jalil.eth: But also during this crazy bubble in 2021, a lot of the stuff that was going on was not, in my opinion, not entirely genuine or wasn't actually serving this space. and everything going down is sort of second-order effects of those things, I think. Um
+
+austingriffith.eth: I agree.
+
+jalil.eth: It's a consolidation, and yes, I'm with you. 99 plus percent of the stuff that we thought would be meaningful or important will go away. And some stuff will survive. Yeah. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Yeah, just because so much stuff is there. And if you look at the 1%, it's still a lot of cool things will survive. Yep.
+
+jalil.eth: In my opinion, Lindy examples of digital arts where CryptoPunks has I lived through Such a long story now and there's still so many people that engage with that and find that meaningful. To me, this alone is proof that There's value in both digital art.
+
+austingriffith.eth: It's so OG. It's like pre-NFT NFTs, right? Sorry, sorry. Keep going.
+
+jalil.eth: No, no, no. Sorry, I'm just blabbing.
+
+austingriffith.eth: No, you're not. You're telling the truth, man. Kick it. Give us the truth.
+
+jalil.eth: I think what a project like this so beautifully Like, this is what I've never understood. Cryptopunks is a 250, less than 250 line smart contract.
+
+austingriffith.eth: The following is a transcript of an English-language conversation.
+
+jalil.eth: Visualizes As they complete Object. That
+
+austingriffith.eth: contract. Yeah.
+
+jalil.eth: is immutable and never gonna change. And I'm not talking about a website like this. I'm really talking about the smart contract. is the embodiment of Ethereum, at least from my perspective, Unruggable, open, global 24/7 Immutable, nobody can gatekeep this market that just keeps on working. institution or single company or government or whatever being able to prevent you from interacting with this. I think, and that makes something like this, I think, incredibly lindy and beautiful, important. I mean, it's comments and stuff, yeah.
+
+austingriffith.eth: 246 lines, you could compress it too. Yes.
+
+jalil.eth: This is the marketplace, Crypto. When I first saw NFTs, I was like... What the hell? And then Jack sent me punks. And I opened up Etherscan and looked at the contract and read through it.
+
+austingriffith.eth: Yes.
+
+jalil.eth: I just read for a couple hours, and that really got me hooked in learning Solidity.
+
+austingriffith.eth: You were nerd-sniped by like the Cryptopunk smart contract.
+
+jalil.eth: It's such a cool piece. It has its quirks, there's a couple bugs there
+
+austingriffith.eth: anyway, Right, this is the V2, isn't it? Yeah. Haha.
+
+jalil.eth: Actually, Punks is such a universe. This is the second deployment of the contract that the studio LarvaLabs did. The first one was really bugged, but this one also has a couple. But it's a working marketplace that you can participate from anywhere in the world.
+
+austingriffith.eth: Are people still using it? When people are buying and selling punks,
+
+jalil.eth: Have
+
+austingriffith.eth: day to day.
+
+jalil.eth: The main marketplace that's in use is still the smart contract. Thank
+
+austingriffith.eth: It's still this one. Ah, that's so cool.
+
+jalil.eth: And I get emotional about these rapper things because...
+
+austingriffith.eth: Okay, you don't like the wrappers. Like they're impure. I see. Yeah.
+
+jalil.eth: I hate them. To me they destroy the provenance of something as special as this contract. Because if you're interacting with a wrapped token, you're not interacting with this code at all.
+
+austingriffith.eth: Right.
+
+jalil.eth: The token that this code manages just sits in that wrapper contract, right? Yeah, it's This is just like extremely cool to me. (laughs)
+
+austingriffith.eth: It's very cool.
+
+jalil.eth: For example, with something like Chex, I aspire to write code that is as sort of approachable and fun to read as this. Yeah.
+
+austingriffith.eth: It really is. Anybody with a little bit of a software background can read this code and understand what's happening here. There's bids being placed and withdrawn. There's these structures for the bid and for the offers.
+
+jalil.eth: Yes.
+
+austingriffith.eth: It's pretty clear, you don't have to know anything about Solidity or smart contracts. True, true. Yeah. Yep.
+
+jalil.eth: I think at this point you don't even need to be a developer. I think it's on punks.vv.xyz
+
+austingriffith.eth: Did you find it, punk?
+
+jalil.eth: Yeah. Understanding CryptoPunks is called. Bit by bit by bit, line by line basically to understand the CryptoPunk smart contract? And
+
+austingriffith.eth: Let me put a QR code up for it if someone wants it. Of course, we have a slow computer!
+
+jalil.eth: This computer is not so sloppy. Ah, yeah.
+
+austingriffith.eth: Chess game, you're winning, by the way. I'll be lucky if I can pull a draw off. It's not looking good. You've got one pawn on me. Okay, so understanding
+
+jalil.eth: My agent has done well.
+
+austingriffith.eth: Your agent has done well, for sure. Yes.
+
+jalil.eth: I mean, you're an educator too, right?
+
+austingriffith.eth: This counts as education, for sure.
+
+jalil.eth: I think people need to understand to some degree the inner workings of the world computer really appreciate what it does and how special interacting with this stuff is. So I think it would be a beautiful thing. I know a lot about the UX conversations are about abstracting all the complexities away. Then if you continue to a couple of chapters down the line, and
+
+austingriffith.eth: This was cool too, when I first realized what this was, like the giant image.
+
+jalil.eth: 嗯。
+
+austingriffith.eth: When I realized that the giant image, and you're basically buying an index within this giant image.
+
+jalil.eth: Yes, yes, yes.
+
+austingriffith.eth: Really, like, they weren't...
+
+jalil.eth: But
+
+austingriffith.eth: You could put all this on chain. A CryptoPunk is like the pixels, and had CryptoPunks come out a couple years later, it probably would be fully on chain, but technically this image isn't. that put them on-chain. Okay, yeah. And you can see that in the smart contract. Yeah, you
+
+jalil.eth: By now there's contracts that have all punks fully on chain. Yes Exactly. YouTube, yeah. Exactly. How you
+
+austingriffith.eth: You see this in the smart contract and that's basically a reference to the art that can't be changed. And then this art lives all over in IPFS probably where people can get to it. Yep. Yep.
+
+jalil.eth: Originally on GitHub, and then here I'm explaining how to like,
+
+austingriffith.eth: Cool.
+
+jalil.eth: Anyway, I just think it's cool to help people try and understand some of this. I actually don't think it's that difficult. If you take some time and it just makes Interacting with Ethereum, in my opinion, is so much more fun. Can somebody Change the workings of it down the line.
+
+austingriffith.eth: The process of you coming in, When anybody comes into crypto, they usually get hit with junk first
+
+jalil.eth: Sure.
+
+austingriffith.eth: and the claim the fees. They don't have the good route
+
+jalil.eth: Yeah.
+
+austingriffith.eth: Some of the best people that have come into the space have come in because someone who is smart and interesting has said, check out this cool and interesting thing. And they basically pull them through the crap and show them the heart, the beautiful thing
+
+jalil.eth: Hmm
+
+austingriffith.eth: And then you kind of learn from the inside out, whereas generally, I've always called it a shepherd.
+
+jalil.eth: Yes. Haha Yes.
+
+austingriffith.eth: I shouldn't take credit. But this idea of a shepherd, you need a shepherd because there's so much craft at the gate. But when you walk up to think about going in, there's so much shit right here.
+
+jalil.eth: Mh.
+
+austingriffith.eth: And shows you that first that really brings you in, and we need more of this kind of stuff, and shepherds bringing folks like you in to show this cool stuff off. Yeah.
+
+jalil.eth: I mean, again, when I first read this contract, Yeah. context: Yeah, it's like... Yeah
+
+austingriffith.eth: And there's money here too, right? When you're looking at these things and they're selling for $100,000 apiece, that's really interesting also. Like, yes they are, yes the tech, but the incentives are an important piece of this ecosystem.
+
+jalil.eth: The notion that you can have this little code Something like, for example, "with" is a beautiful example, too.
+
+austingriffith.eth: I show the web contract off. Whenever I do a talk for a university or a classroom, I come here and I go to the code and I show like deposit and withdraw.
+
+jalil.eth: Hello Nope. context: Yeah.
+
+austingriffith.eth: It's so stupid simple, anybody can see that your balance goes up when you call deposit, and when you call withdraw, we make sure that you have enough in your balance, and we subtract from your balance. That's it. That's the code.
+
+jalil.eth: *laughter* context: Yeah
+
+austingriffith.eth: And then I scroll up here and I say, let's see how much money there is. How about $4.6 billion, kids?
+
+jalil.eth: Absolutely.
+
+austingriffith.eth: million dollars, yeah. Oh yeah, it's so short. Yep. No comments.
+
+jalil.eth: less than 50 lines of code manage this much value. that is special. Independent of the ability to whatever, make money or whatever. How is the ah? That's the interesting part. Hello
+
+austingriffith.eth: You had a really rippin tweet about your six-month recap. Do you want to talk about that at all? Repeat ID thing. Yeah
+
+jalil.eth: When we decided to wind that down, It was his decision at the end of the day, but I support him in that. I mean, We just take it as it comes, right? This is my first sort of job job in over nine years or so. And it was fun for me to take on something like Standard with Ethereum and really try and make that better. And... The notion of doing... Good work. I regard a ton of the work that I did prior to this also as public good work. and it's funded through public good funding. How was your day? To have that end in this manner, and of course the whole initiation was I was bumped by. And then the next day I sat down and was like, well Why not like put out into the world the signal, hey, I actually am looking for work. For me personally, sort of a summary. Hey, I'm open to opportunities, please reach out. ###
+
+austingriffith.eth: We did numbers, too.
+
+jalil.eth: And yeah, I just sat down for an hour or two and gathered everything I did. And that was a really cool experience for myself because you don't really know. Six months is a really long time. I just went into my GitHub and was like, everything that I touched in the last six months, And amounted to a whole bunch of work which I encourage other people to do the same. Looks a lot, but then also maybe not.
+
+austingriffith.eth: In six months, who knows? Yeah. Yeah.
+
+jalil.eth: Six months is a long time, and I think most people do more in six months than they realize. We can talk about these individual things, definitely.
+
+austingriffith.eth: Yeah, what are some highlights here?
+
+jalil.eth: What would you be interested in?
+
+austingriffith.eth: This idea of on-chain provenance, like when we're talking about NFTs,
+
+jalil.eth: Mmm Yeah.
+
+austingriffith.eth: I think that this podcast is kind of like crypto and AI. last six months The process of building has changed a lot
+
+jalil.eth: Alright.
+
+austingriffith.eth: Favorites, like let's talk about your favorites. But don't worry about, yeah. We're here to talk about cool shit.
+
+jalil.eth: I've shared this so people that know me. I'll share it anyways. AI One of the things that I think I was best at a specific skill of mine was to take a napkin sketch and turn it into something tangible and real. This artist that I did, He's an insane idea person and an incredible visual communicator and also a words communicator. And when he had an idea, I felt like this was my core strength to bring that into Into reality and that's the kind of work that was very fulfilling to me. This was 2024 Actually, even 2023 summer, this started where, you remember like Claude artifacts coming out? and you were already able to prompt with ChatGPT code-wise.
+
+austingriffith.eth: Yeah, yeah. You were copy-pasting at first, and then with Cursive, it was, like, built in. Yeah. Nope.
+
+jalil.eth: It was always like single file experiments,
+
+austingriffith.eth: Did some generative art stuff with D5.
+
+jalil.eth: library or A lot of that is just like editing one file. My core skill of sort of prototyping new visual ideas, for example, was already in 2024, 2023 even, sort of starting to be questioned by these up and coming.
+
+austingriffith.eth: All right
+
+jalil.eth: and Jack was starting to jot down his ideas. Ah, my foot!
+
+austingriffith.eth: It was scary right? Like oh, like I'm gonna be replaced.
+
+jalil.eth: That, yeah. It can implement it
+
+austingriffith.eth: The idea guy can implement it now. Yeah
+
+jalil.eth: The work that I really enjoy doing is this tinkering and fiddling around with code and then making it sort of organized nicely. I care about how the code itself looks. But these AI tools didn't really... your I had troubles during that time sort of grasping this like new era and it got worse and worse and worse and worse. Up until Claude Cold in like February was announced. Public beta or private beta. It was in the terminal.
+
+austingriffith.eth: Yeah Okay.
+
+jalil.eth: I have my Vim editor here, Um,
+
+austingriffith.eth: It is kind of boomer like going back to cursor is kind of boomer and having the CLI is more
+
+jalil.eth: I've meant to try it now that SpaceX bought it. #mhm
+
+austingriffith.eth: For me, they lean too far into agents, and I'm like, give me my code back so I can see my code.
+
+jalil.eth: Yeah, that was my feeling, yes.
+
+austingriffith.eth: Yeah. Yeah.
+
+jalil.eth: But then Claude Code gave that back to me in some sense, and suddenly I was like, oh, okay, I want to try this now, and this feels home. And I got hooked on Claude very early. Really? In the
+
+austingriffith.eth: I didn't like Claude code until Opus 4.5 came out. I tried CloudCode with Opus, and it just wasn't as good as what I was using in other places.
+
+jalil.eth: Yeah. I want pizza.
+
+austingriffith.eth: I'll go to cursor when I want to look at the code. beautiful looking code, Okay.
+
+jalil.eth: I still do, yes. I'm very picky about most of my code. Thank you.
+
+austingriffith.eth: Especially a smart contract. If you're putting 200 lines on chain forever, spend some time looking at that code, for sure.
+
+jalil.eth: Yeah. Exactly, so to me it's like the more sort of permanent something is, be it a deployed
+
+austingriffith.eth: Yeah.
+
+jalil.eth: I want that to be giga clean because that's supposed to be mutable, and the smart contract, definitely. At this point I am skimming the code.
+
+austingriffith.eth: I'm not even like picking the language anymore.
+
+jalil.eth: ###
+
+austingriffith.eth: by November 2025, I would be very picky and be like, it needs to be node, it needs to do this. Like I'm spewing the overall architecture and letting it fill it in.
+
+jalil.eth: I'm still in that camp, to be honest. Good work.
+
+austingriffith.eth: I'm like, I need this thing to do this And I'm not even saying it needs a backend. I'm assuming that it's going to understand that what I need in the front end will need a backend. I'm not even talking about the language. And so it'll do like a Python server. And I used to never write any Python.
+
+jalil.eth: So,
+
+austingriffith.eth: Now, like, almost all my apps have Python servers on them now.
+
+jalil.eth: I figured out.
+
+austingriffith.eth: Because I just express what I want the app to do, and there's Python server.
+
+jalil.eth: On the one hand, I see somebody like Jack now build complete systems.
+
+austingriffith.eth: Idea Guy Summer, yes. Yeah.
+
+jalil.eth: and that is fascinating and awesome. When I build things, If you want your code to be organized a certain way, you have to still be very hands-on in molding or directing the agent to do what you want to be doing. And then the more you do that, the better the system,
+
+austingriffith.eth: You lay a good groundwork.
+
+jalil.eth: And I feel like if you aren't careful, then agents are still gonna do really stupid stuff.
+
+austingriffith.eth: You get the slop, man. Yes, yes, you get the slop.
+
+jalil.eth: over and over again. So yeah, I still trying to be careful there. But I find it absolutely beautiful and fascinating what people like, I guess, yourself. are able to do with these tools without any regard for the code. Haha One sec.
+
+austingriffith.eth: I am definitely a sloperator who just throws ideas out there.
+
+jalil.eth: Hi.
+
+austingriffith.eth: Writing the code, it was always a means to an end. And I don't know if I really ever took like
+
+jalil.eth: Mm-hmm. So you do? Yeah.
+
+austingriffith.eth: I started writing C code in chips. And so you have to be low-level. You have to be thinking about memory, you have to be thinking like every little thing. But in the long run, I was building a drink mixer. And what I wanted was my drink.
+
+jalil.eth: Hmm. Yes.
+
+austingriffith.eth: And then like I built like a brewing rig in my garage.
+
+jalil.eth: That
+
+austingriffith.eth: more and more abstracted from it. So for me, like it's just as a natural step into AI. I just have to go up levels of abstraction and start explaining my intent and what I want.
+
+jalil.eth: I mean, that's totally fair. I might get there eventually. For example, let's say something like signing with Ethereum. You want the standard implementation. Sorry. Yeah.
+
+austingriffith.eth: You spent way more time on the standard than the implementation.
+
+jalil.eth: Yes.
+
+austingriffith.eth: It's just like the Ethereum protocol itself, right?
+
+jalil.eth: Fair enough. Haha. There.
+
+austingriffith.eth: to a point where there's very few core devs that are actually implementing code and it's going to be one-shot by AI because of a good spec, right? You start with a good spec even now.
+
+jalil.eth: Especially with Sine with Ethereum, one of the stuff that I was doing for the past few months was we found one issue in the spec where the spec was actually contradicting itself.
+
+austingriffith.eth: Oh wow, cool.
+
+jalil.eth: And that was actually by accident in talking to an AI And Then sort of ping ponging between implementation and what actually makes sense on the implementation side. Went into a super deep rabbit hole to try and find Let's find all issues with the spec. and
+
+austingriffith.eth: cool. Yeah.
+
+jalil.eth: insanely deep, also with internet standards
+
+austingriffith.eth: Right.
+
+jalil.eth: And that's like three nested elements deep. context:
+
+austingriffith.eth: this minuscule detail, like 10,000 words deep and this minuscule detail 20,000 words deep I do not agree.
+
+jalil.eth: We're even at a point where the AI can rewrite some of these specs or find issues in the specs. And of course, I agree with you, the implementations will be quick. more and more, but still I feel like it's important that somebody sits down and actually reads the code.
+
+austingriffith.eth: Yeah.
+
+jalil.eth: I started working on the Discourse plugin for Sign in with Ethereum Because there was just literally something broken with an old wallet connect implementation in it. So I started updating it. We installed it on the ENS forum. And literally testing in production. Uh Why can Brandtly not sign in? And then I was going back and actually reading the code. Anybody else would be able to completely take over that account.
+
+austingriffith.eth: It was all human.
+
+jalil.eth: It wasn't the AI that wrote that.
+
+austingriffith.eth: That wasn't AI that wrote that, that was a human mistake.
+
+jalil.eth: That was even though I had AI fixing the WalletConnect issue. Um
+
+austingriffith.eth: Interesting. First I respect it.
+
+jalil.eth: And I'm still in the, I see parts of the code at least as my craft.
+
+austingriffith.eth: What does your stack look like? Like how do you build with AI?
+
+jalil.eth: Hmm?
+
+austingriffith.eth: Together a new project right now, what does it look like? Yeah. Yeah, just a second.
+
+jalil.eth: One of the things that I was, if you go back to the six-month recap, the very first library that I put together is years and years of sort of The way I approached new projects was always I had sort of My own CSS design system that I built over the years. launch out a new application or a new site, and just sat down, okay, let's extract this into an actual library. So when I maintain these projects, I don't do that in five So all the way up 1001 layers
+
+austingriffith.eth: First, this top one.
+
+jalil.eth: It's sort of my opinionated way of how to build dApps.
+
+austingriffith.eth: It's a lovely day
+
+jalil.eth: And it's based on a system called Nuxt Layers, where it's sort of the base implementations of certain components. utilities Many people maybe know what's this React thing called
+
+austingriffith.eth: like React Router or something?
+
+jalil.eth: I forget, but it's sort of a component library, this point and putting it into a component library that then gets really easy to extend in your own app Super customizable WalletConnect and transaction request flows. Um, So this is a core building block. Yeah
+
+austingriffith.eth: This is where you start. When you go to build something, you give this to your AI
+
+jalil.eth: context: Exactly.
+
+austingriffith.eth: You say we're building on top of this. Yes. And in Cloud Code?
+
+jalil.eth: Don't reinvent the wheel, just please use these components whenever you can.
+
+austingriffith.eth: table
+
+jalil.eth: You can pull this into Cloud Code. I...
+
+austingriffith.eth: What are you doing though? What's your stack? So you grab this and do, what do you do?
+
+jalil.eth: I prefer the Claude harness. I still use the terminal for these things. Over codex? [Laughter]
+
+austingriffith.eth: No wonder you can't see the chess pieces, I didn't know you were on Linux. At least this worked, we're lucky we're even here with shared video.
+
+jalil.eth: Yeah.
+
+austingriffith.eth: You'd have to update a driver or something.
+
+jalil.eth: There's no desktop apps for these things, so I constantly switch between codecs, whatever is the latest model. I mean, I'm in Europe, so Fable was disabled.
+
+austingriffith.eth: Same here.
+
+jalil.eth: Codex and Claude and I ping-pong. Every time I talk about it, I've had people laugh at this, but to me, it's like playing with clay. Software used to be extremely difficult. You're building a house of cards, and you remove one thing and the whole thing falls down if you're not careful. Now It's like
+
+austingriffith.eth: It's stable.
+
+jalil.eth: I don't know the English words, but you're making like a bowl or something, and you can constantly reshape it. And it's pretty thick. At least you can go back to another form pretty quickly, right? For each sort of Lego brick that I was able to extract during the last few months of work, Lots of different mini Lego blocks, like is it interacting with IPFS or is it building indexers and resolving stuff? All these things I put into libraries that I can point my agent to and say, hey, I need this, interface, etcetera.
+
+austingriffith.eth: So I can talk about...
+
+jalil.eth: Yeah, it's awesome. Mm
+
+clawdbotatg.eth: I'm gonna tail the last 60 lines of that call transcript.
+
+austingriffith.eth: I do speedrun Ethereum. I teach people how to build on Ethereum, and the base thing there is scaffold ETH. Stop! Hey there
+
+jalil.eth: In a way, yes, I know Scaffolds is awesome. Layers, like the thing we were just looking at, is
+
+austingriffith.eth: Similar, yeah.
+
+jalil.eth: instead of what it's supposed to solve for people, yes.
+
+austingriffith.eth: But the thing I was going to say is I recently built something called One Dollar Audit. And I didn't even tell it to use scaffolding.
+
+clawdbotatg.eth: ...token and querying some live state data to parse through it.
+
+austingriffith.eth: I don't know what we We did to trigger him to talk
+
+jalil.eth: Love it.
+
+austingriffith.eth: Yeah.
+
+jalil.eth: No, sir. Hang on, can we just press this? Yeah, I think I muted him.
+
+clawdbotatg.eth: Okay.
+
+austingriffith.eth: Yeah, you muted him for you, but yeah, he can talk to us for sure.
+
+jalil.eth: lazy.
+
+clawdbotatg.eth: um
+
+austingriffith.eth: Yeah.
+
+jalil.eth: Are they listening to everything we say and transcribing it? How many tokens does this use?
+
+austingriffith.eth: We don't think about tokens in the sloth computer.
+
+clawdbotatg.eth: Hey, welcome in. No worries. Everybody's new to this stuff at some point. Glad you're here.
+
+jalil.eth: I love it. Yeah awesome, also this, I saw this on the timeline. Yeah amazing work. I've been meaning to try it.
+
+clawdbotatg.eth: I like
+
+austingriffith.eth: Okay, so I wrote one
+
+jalil.eth: I
+
+austingriffith.eth: $1 audit. And when I prompted it, I was like, I just need a front end. It is.
+
+clawdbotatg.eth: The room's speech gets transcribed into a log I can search later, but I only actually read the few seconds around when someone calls on me, so it's pretty light on tokens.
+
+austingriffith.eth: Okay, he was answering your token question. That's nice. Okay, so I was going to build this $1 audit, which is on top of a website that he built, the service and everything is already built. I just needed a website to sort of mean the fact that you can get We already had the pipeline and the auditing and everything ready to go. I just prompted it and I was like, I need a front end for this thing. And it's kind of like this ugly Let me see. If I paste something in here and I hit commission...
+
+jalil.eth: Yeah, yes.
+
+austingriffith.eth: It's kind of an ugly thing. Do you want to use your injected wallet? But I didn't really need all the stuff from scaffold-ETH.
+
+jalil.eth: Yeah. (laughs) Yeah.
+
+austingriffith.eth: I let it be. It was like a turning point moment for me. I connected my wallet, I paid, and I was like, fuck it, I'm just going to use it like this. It's fine.
+
+jalil.eth: Lesson in detachment.
+
+austingriffith.eth: Yes, exactly, exactly, yes. Now I'm like the guy on the roller coaster who's just like...
+
+jalil.eth: Yeah
+
+austingriffith.eth: like I have no control of anything.
+
+jalil.eth: I hope I can get there eventually.
+
+austingriffith.eth: But like some of it is the beauty and the art, right? For me, it was always like a means to an end. It was never really about the beauty and the art of the thing. It's always about like I want to make something and put it in someone else's hands.
+
+jalil.eth: I'll Hello!
+
+austingriffith.eth: I'm sure you have a lot of that too, but you definitely have this, like, the code needs to be beautiful too, which makes you a perfect smart contract developer.
+
+jalil.eth: Hmm. Yeah.
+
+austingriffith.eth: People who take their code that seriously, those are the people that should be writing smart contracts, not me.
+
+jalil.eth: That's one of the things that I was working on. I stumbled over this first CryptoPunks deployment. Had a serious marketplace bug where if you were to buy one of my punks
+
+austingriffith.eth: Yeah. Yeah, yeah.
+
+jalil.eth: you also got the ETH back. So that obviously is a non-functioning marketplace. We get to the collection and airdropped all the tokens
+
+austingriffith.eth: Migrated, yeah, the tokens, yep.
+
+jalil.eth: And the original contract, the initial contract, that was just dead for years and years? Exactly. Uh-huh. Yes. I can't
+
+austingriffith.eth: That's why there's V1 Punk still. You see someone sell their Punk with the V1 Punk attached to it, it's because there was kind of like a fork, and you've got Ethereum Classic and Ethereum, and you're just sending them both along.
+
+jalil.eth: Up until this point, there was, to my knowledge, never a sale of a pair.
+
+austingriffith.eth: Okay.
+
+jalil.eth: Because that just didn't exist.
+
+austingriffith.eth: You did it. That's cool.
+
+jalil.eth: I built an auction house a couple weeks ago where I sold my pair. artifact and the canonical punk.
+
+austingriffith.eth: They looked a little different. Why did your V1 Punk look a little different than your V2 Punk?
+
+jalil.eth: Put a gray background just to differentiate them. But...
+
+austingriffith.eth: Okay, okay, okay, okay. It was your doing. It's the same exact song, the same exact hash. Okay, same hat. Hi Right, right.
+
+jalil.eth: The actual image linked in the contract is the same hash. All punks that are listed, all punks that have bids, they all have different backgrounds. But, After nine years, I find a fix for this original contract.
+
+austingriffith.eth: They use your code?
+
+jalil.eth: And just last week, I think there was an alien sale of a V1 punk.
+
+austingriffith.eth: Yeah. Dude, that's so badass.
+
+jalil.eth: This is the type of work that I feel like... And I talk to researchers, or like Ethereum core devs, that feels intimidating. I'm not that. I love tinkering with Solidity.
+
+austingriffith.eth: Ah
+
+jalil.eth: Even for plebs like myself, there's ways to find interesting solutions to problems And so there's some form of human creativity that cannot be captured?
+
+austingriffith.eth: Read. No, man.
+
+jalil.eth: full of myself. Yeah, I mean, you get the point. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I put you at a high echelon. After talking to you and seeing some of your stuff, that's above my pay grade for sure. It's really neat. Yeah, I don't know, any closing thoughts? Where do we go from here? Some NFTs will come back? Shit is always going to be there, right?
+
+jalil.eth: If you like wade through the S-H-I-T There is absolutely beautiful stuff in the Ethereum art. crypto art niche. And I would love to see those core Ethereum movements be able to seeing that. I think there's a lot of also culturally beautiful stuff going on. If I have any parting words It would bring a lot of joy to me to eventually see those things converge more than they are. It feels like, why did they do this?
+
+austingriffith.eth: Yeah.
+
+jalil.eth: beautiful chain. I get that, and I can absolutely empathize with that.
+
+clawdbotatg.eth: Grabbing the first hundred lines of visible
+
+austingriffith.eth: Yeah.
+
+jalil.eth: to interact with and there's many people that have very pure, I think, sort of lookings on something like Ethereum. One of my favorite people, Luke Weaver, for example, he mints every day. And And there's just a special overlap, I think, in terms of values, and that should be built upon and grown further. And I do think that, if anything, has to survive, or that will survive, and I'm absolutely sure of it. Yeah.
+
+austingriffith.eth: And we know a lot of these things that are on chain are going to survive.
+
+jalil.eth: Yes, even just technically.
+
+austingriffith.eth: Yeah, your .eth is not going anywhere, right? capital Oh, man.
+
+clawdbotatg.eth: Checking the status of the local meat service.
+
+austingriffith.eth: Why? Capital allocation is getting captured.
+
+jalil.eth: I think it's a bit deeper than that, specifically for this ENS case. I think ENS is a beautiful public good on the internet, I love ENS and if there's any way to rectify the damage that's been done just in terms of its brand, I think that'd be beautiful. Technically, these things might be also art that you deployed in 2021 might be permanent and still nobody cares about it, right? So there's definitely social and cultural components to this. that are important. I don't see these things as a given.
+
+austingriffith.eth: Sure.
+
+jalil.eth: I love ENS.
+
+austingriffith.eth: You're talking about the consensus of the chain?
+
+jalil.eth: context:
+
+austingriffith.eth: So the smart contract is going to do what it's going to do as long as the chain comes to a correct consensus.
+
+jalil.eth: Contracts at the end of the day I don't think really matter if people don't agree. At the end of the day everything is social consensus, in my opinion.
+
+austingriffith.eth: Okay, okay.
+
+jalil.eth: And if you have Who cares? Exactly, yeah. Yeah.
+
+austingriffith.eth: You're saying that you can still query the smart contract for the .eth, but if no one gives a fuck about .eth anymore, then it's not okay. If .wey names, .gwey names take over and everybody starts using that, or Tempo becomes name change.
+
+jalil.eth: [Laughter] Yeah, I mean
+
+austingriffith.eth: I'm glad that that's still funny.
+
+jalil.eth: Maybe, who knows. Yes, and I do think we have to be careful that social and cultural capital that has Trust is very hard to come by and very quickly and easily destroyed, right?
+
+austingriffith.eth: Yeah, yep.
+
+jalil.eth: What is your name? So, to me, these things are definitely more than a technical question.
+
+austingriffith.eth: Social consensus on top of protocol consensus.
+
+jalil.eth: I think that's important and underrated.
+
+austingriffith.eth: Yep. That's interesting.
+
+jalil.eth: That's a sad note to end on.
+
+austingriffith.eth: Yeah, it kind of like makes this like, you know, forever world computer less important. If there's a different consensus around it Okay.
+
+jalil.eth: I disagree because it enables social consensus in the first place.
+
+austingriffith.eth: pushes the consensus to the social level rather than one person.
+
+jalil.eth: One of the funny things is, for example, we say that we need to build things that remove trust. I see those things a little bit differently. I see something like, for example, an immutable protocol enable trust, right? And those things are hard to come by, and that makes the world computer special because it enables... Trusting in something. and Yeah.
+
+austingriffith.eth: Cool.
+
+jalil.eth: For example, if there's community consensus that a public good is funding public goods or a ENS only works when there's fees involved by design. And if And it can be seen as a true public good if those fees are used to develop a public good or many public goods, whatever you want to call it. And if the trust that the funds are being used for public good purposes is lost... then that would be a terrible thing because it loses its standing as an internet-level protocol that is a public good. of which are directed to a social consensus of what a public good is supposed to be doing, rather than a few people that would decide over that.
+
+austingriffith.eth: It is powerful. Yeah, I think that's a great way to end. Any closing comments for the sloperators out there, the artists, the people that are at the gates thinking about it and seeing the SHIT? What's your advice to them and how do we get them to come? the beautiful parts.
+
+jalil.eth: Um
+
+austingriffith.eth: Read the contract. Yeah. how beautiful it is.
+
+jalil.eth: Try and read the contracts and try and understand some of these contracts.
+
+austingriffith.eth: Hell yeah, hell yeah. All right, man. Thanks for being here. Yes.
+
+jalil.eth: Thank you so much for having me, dude. It's been an honor.
+
+austingriffith.eth: Keep doing what you're doing. You're doing some really neat, really cool stuff, and I think it will inspire another generation of Tech people like yourself, and we need more of those folks in here.
+
+jalil.eth: Thank you. And I hear a German song.
+
+austingriffith.eth: Is it German?
+
+jalil.eth: It's German, yeah. he does. Good
+
+austingriffith.eth: Awesome. All right, I meant to do that. I picked that out just for you. All that work Claude was doing. He was like, "Hey, play this song, you'll love it." All right, man. Thank you so much.
+
+jalil.eth: All the best, cheers.

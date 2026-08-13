@@ -1,0 +1,659 @@
+austingriffith.eth: The following is a transcript of an English-language conversation. Yeah, there he is. You share your video and audio up in the top left over here. Yeah. It might pop up a thing up in the top left that you have to give it permissions. audio video there. the chat too. Yeah, if that's not bringing up a menu, we're in trouble. Maybe try reloading. Look up in the top left, because there should be some... It should pop a permission dialog saying will you share your video. Oh And it still doesn't show up? That's not good. Yeah. Might need to try a different browser. Slop computer. You already gave it permissions. So just like nothing comes up when you double-click the video?
+
+Anon3610: Okay! Hello.
+
+austingriffith.eth: Oh, shit, there he is. What was the difference? What was the problem? Teach me.
+
+Anon3610: I just have to click like share video.
+
+austingriffith.eth: Okay.
+
+Anon3610: ways, center stage.
+
+austingriffith.eth: How do I make that, okay so should I basically gate it to that? Have the share video screen hit the person before they ever get in here or something? Yeah, yeah.
+
+Anon3610: One second, I'm just configuring the...
+
+austingriffith.eth: We're on the air, welcome.
+
+Anon3610: OK, I have a question. No time.
+
+austingriffith.eth: It's No Tie Thursday. Welcome to the Slop Computer, DC Builder, how you doing, man?
+
+Anon3610: Thank you, doing good. How about you?
+
+austingriffith.eth: Doing well. Surviving.
+
+Anon3610: Survivant. Hi.
+
+austingriffith.eth: Yes, vibe coding, sloperatoring. That's what we're here to talk about is our mode of sloperation. And welcome to the slop, you are deep in the slop right now.
+
+Anon3610: Yes, been there since November.
+
+austingriffith.eth: Yes, exactly. November was really the turning point, right? Was it Opus 4.5 or whatever? Yeah.
+
+Anon3610: Yeah, something like this.
+
+austingriffith.eth: What were you doing? Okay.
+
+Anon3610: GPT-03 was the turning point for me, and on the cloud side probably Opus 4. I'm a Kodak guy, mostly.
+
+austingriffith.eth: So are you a Codex guy then?
+
+Anon3610: Hello.
+
+austingriffith.eth: I mean, let's just jump right into it. What's your stack? How do you do it? So it's Codex. What model do you use? What harness do you use? And Okay.
+
+Anon3610: 5.5 on high, extra high consumes too many tokens. The app, like the UI, is just good for all the integrations, management of multiple projects at once. If I need something server-side, like where I don't have access to installing things, and this is like a VPS, I use Codex CLI. Yeah. That's good. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: It can like SSH into the thing for you or whatever.
+
+Anon3610: Please clean the room. I Hi.
+
+austingriffith.eth: I didn't do it until maybe a couple of months ago, and then I realized I could do it. This agent right here knows all my SSH keys.
+
+Anon3610: Yeah.
+
+austingriffith.eth: Make me a database. I don't even know where the passwords are anymore. Hey. Nice, perfect.
+
+Anon3610: I still need to do a little bit more. If you want to have 24/7 automations and you need a secret, you still need to give it permissions without authentication. ...when I'm sleeping. like API call or something. Hello.
+
+austingriffith.eth: The human in the loop for you is the password manager.
+
+Anon3610: One password CLI pretty much. Sure,
+
+austingriffith.eth: And you have to actually fingerprint. So he has his own 1Password, but he still needs a fingerprint from you. There's a moment of like...
+
+Anon3610: Yeah, exactly.
+
+austingriffith.eth: So you can have multiple different vaults for different...
+
+Anon3610: So like I have my personal vault with all my personal accounts, whatever. I don't give access to that, but if it's API keys, if it's SH keys, like I mentioned, or different things that the agent needs access to, like database keys or encryption keys. file system in a remote server or things like this.
+
+austingriffith.eth: That makes sense. And so
+
+Anon3610: Yeah.
+
+austingriffith.eth: Yeah, I mean, like, other than the human in the loop for the password, you basically let it rip, though. Like, it's not asking you for any other permissions.
+
+Anon3610: No, no.
+
+austingriffith.eth: Okay, I think that's the right move. Sure.
+
+Anon3610: Sometimes it gets stuck, and sometimes you cannot iterate as fast. You wake up or you give it more to do. It's hard to define a loop that is long enough. For me, it hasn't closed yet. Alvin.
+
+austingriffith.eth: What do you think of loops?
+
+Anon3610: I'm pretty sure the people who are really big on loops are probably like, if you're working at a company and you have a big project like let's say the Clock Code team. They know what they want to ship and they do one-week sprints. They define the sprint at the beginning of the week. Projects are like less of a time horizon. The following is a transcript of an English-language conversation. Yeah
+
+austingriffith.eth: That's exactly right. For me, I don't know what I'm going to build. I have an idea. cyberpunk civil society thing where people can have
+
+Anon3610: Hm? Hi. Can you help me?
+
+austingriffith.eth: whole multi-sig and here let me move you around and pull up.
+
+Anon3610: ### Hmm.
+
+austingriffith.eth: but it's like there's a couple things here that are super centralized. There's definitely just like a server sitting in AWS. We're peer-to-peer. Our video is peer-to-peer. But like that cursors and some little things. How do we make this fully cyberpunk
+
+Anon3610: Hello. Hmm Yeah.
+
+austingriffith.eth: And for me, there's like a whole conversation that I have to have around that.
+
+Anon3610: Another team.
+
+austingriffith.eth: Just thinking through...
+
+Anon3610: Totoro That sounds good. context: ###
+The following is a transcript of an English-language conversation.
+### Yeah, totally. Yeah.
+
+austingriffith.eth: I feel like if you're at the point where you're building things where you know what to build, you're not even building things anymore. I don't know. But those are the guys that are huge on loops.
+
+Anon3610: At first, she tried
+
+austingriffith.eth: context:
+
+Anon3610: Yeah Like
+
+austingriffith.eth: a six-month to twelve-month roadmap of all the things they need to build for their corpo corpo, and they can define it in a document and work on it all week. Yeah, it's a totally different thing. But for sloperators like me, I'm shipping quick. Go ahead, yeah. Yeah, so cool.
+
+Anon3610: Maybe they don't know what they're gonna work out six months in advance, it's impossible to know because the speed of iteration is so fast, but at least it's a big enough project so that you can have a one-week sprint at the beginning. Plan for enough things to give the agent to so that it never runs out of things.
+
+austingriffith.eth: Keeps busy, yeah.
+
+Anon3610: Yeah.
+
+austingriffith.eth: Who's burning those tokens?
+
+Anon3610: They have a lot of automations around security, permissioning, structure, formatting. Context: context:
+
+austingriffith.eth: Much different environment that I live in. I love it.
+
+Anon3610: Hello
+
+austingriffith.eth: The CI/CD pipeline is a new thing where each gate needs to run a whole bunch of different, both deterministic but also non-deterministic things on top of the code to make sure they're not doing anything unsafe.
+
+Anon3610: context:
+
+austingriffith.eth: Okay, so in terms of
+
+Anon3610: The following is a transcript of an English-language conversation. Yeah. Hi Yes
+
+austingriffith.eth: I think we're kind of on the corpo side and like building. You've got frontiers on too. All of this reminds me of Georgios. You're using Centaur within Slack mostly for work or do you do it for personal too?
+
+Anon3610: I just started doing it for World. I tested it first on my own local deployment. I killed it, but I need to reboot it on my home server. and all the hundred different bells and whistles and loops that you need to jump through is hard. So I usually try and iterate on my own personal But for those who are not aware or familiar, Centaur.run is like an agent harness that is built for infrastructure deployments. That too. That's it. Or just in general for enterprise deployments of AI, where it's a bot that lives in Slack and you can tag it and it has access to tools and data connectors and workspaces and workflows and a bunch of different things. Yeah.
+
+austingriffith.eth: Hell yeah.
+
+Anon3610: I'm very excited currently about how to scale both myself and organizations that I interact with. So for myself, I'm building my own personal AI dashboard system and workflows. I can talk about that full stack. This one is sort of like one that I'm experimenting with more recently. as bespoke as the personal AI stuff that I do It's quite impressive, like accelerating engineering workflows, all the engineering management, boring stuff, you know, like updating trackers of who is working on what, who has done what, where is this PR at, fix a small issue. For product, CRM, tracking partnerships, all these sorts of things. I can go on and on, but yeah, this is the general gist. Hey context:
+
+austingriffith.eth: It's very interesting stuff. I think you're pulling in a couple different threads here. One is just multiplayer AI and multiplayer AI coordination. And another is this new word like entity.
+
+Anon3610: Yeah. context:
+
+austingriffith.eth: The AI lives with you inside of where you're working, and you can tag it and tell it to go do something. It's almost like a layer up of an agent, where an agent is maybe in a chat like Telegram or here on the call with us. And I think maybe the first entities I saw were maybe like GitHub.
+
+Anon3610: Hello
+
+austingriffith.eth: line in an issue and say review this PR or whatever, but now we're seeing it in a lot of different traditional stacks.
+
+Anon3610: I
+
+austingriffith.eth: So,
+
+Anon3610: You can connect it to anything and everything and have it do anything and everything that you would do. One of the things that I'm quite excited about is this concept of ontologies. It's something that Sure. Yeah.
+
+austingriffith.eth: Yeah, he just talked about it. Let's just talk about that call, man. That call was a wild call, right? The Palantir guy? What is the capital of France? Yes.
+
+Anon3610: Alex Karp, I'm a big fan of the company. The first use case was in general like military law enforcement, right? There's enemy assets, your assets, tracking the relationships between them. where you can track topologies for just about anything in business. One of their biggest ones is Airbus. They make planes, and so for making a plane you have to track every input to every thing you need to build. components like...
+
+austingriffith.eth: Going back to CI/CD pipelines, it gets crazy when you get into these giant engineering companies.
+
+Anon3610: Exactly. You have to track people resources, physical resources, capital, delays, time access, the physical access, there's so many like context things, research, audits, reviews. The same thing is for software engineering and for, in general, your own life. There's a lot of things you're tracking. There's finance, there's your health, your personal goals, your habits. There's a lot of things to track, and it's really hard to make sense of it all and make educated decisions on it.
+
+austingriffith.eth: Yeah, yeah.
+
+Anon3610: All that ontology is as a concept, it comes from philosophy. Let me actually google because I never remember the actual definition. I have the understanding of the concept, but it's hard to define it.
+
+austingriffith.eth: The word ontology is what we're googling?
+
+Anon3610: The word ontology, the philosophical definition is the study of being existence and reality. and understand how entities relate to one another. So essentially define objects,
+
+austingriffith.eth: What do you think about the new policy?
+
+Anon3610: It's a formal machine-readable representation of knowledge within a specific domain, right? So essentially, let's say that you have like the engineering domain like code. It can be a table, it can be a graph, it can be a relational thing. All they did was build a platform that allows you to define these relationships. Basic AI models, like computer vision or whatever, things that were before LLMs. What it is now is that you can define relationships between anything and everything that you do. Like things like contacts, like who is where doing what, right? Hey, who are people who are into this specific thing? I invested in 50 plus companies, hard to track all the investments.
+
+austingriffith.eth: Congrats. Way to go. (laughter)
+
+Anon3610: Way to go. I guess I'm a liquid for many years, and it caused me a lot of issues.
+
+austingriffith.eth: You're young, this is a good time to be a liquid.
+
+Anon3610: It just created a lot of stress for me. I just created a system that was so complex that no human was able to do it because the demand on my time grew exponentially, but my time is hard capped at 16 hours a day of productive time.
+
+austingriffith.eth: food
+
+Anon3610: And so I just felt like an urge that I needed to do something to scale myself. AI just came in clutch, especially in November of last year.
+
+austingriffith.eth: Tab. Yep.
+
+Anon3610: It was pretty good, but it's not like you can actually scale engineering that way. and it can go for an hour, that was crazy for me. So like I started building my personal website, which is dcbuilder.dev. news API to share things that I was interested in, a jobs API, a candidates API. I tried to help my friends and portfolio companies, my friends find jobs and my portfolio companies find
+
+austingriffith.eth: Good homies on here.
+
+Anon3610: And just like through the process of building that, do you know of good hires that I can get for this portfolio company I invested in? to do before of like creating a thousand Telegram or Signal group chats between people, doing the introduction and leaving the chat. Same for investing. Managing all the intros to VCs if you're a founder fundraising. So all the data on databases that you see there is not me adding it to the jobs API or anything. It's just an agent that has a loop that checks all the portfolio company job boards. like maybe some threshold for relevance. It also indexes like the public API. What I'm building now is turning this UI into like an MCP server.
+
+austingriffith.eth: AI is the new UI, right?
+
+Anon3610: UIs are dying, nobody wants to check this website. I just build the interface, like the API interface, and your agent can just query all the public data I have. If you have a friend who's looking for a job, you can submit a job posting, and the agent can do it for you. And the personal side, I build APIs to track my finances. My personal health, I did biomarker tests with a company called Bloosis. Microtesting for like blood tests and stuff, like tracks my workouts, tracks my travel, tracks my plans, everything for me, you know, like my to-dos and just out of does all these things. And I have an agent that I for these things? This is in general the headspace that I'm in, that I've been for the last couple months. and trying to scale this essentially, trying to scale the public APIs, the private APIs, and now unifying them under an umbrella and having access control so I can define what is public, what is private, and what things I can share or meet some specific criteria that I define, and building an ontology for everything that I know. So like an ontology over news, right? So like if this person invests in this other person or company A invests in company X, and then I know that X has employees 1, 2, 3, 4, 5. You can then identify things to work on. Okay.
+
+austingriffith.eth: No, no, this is great. This is absolutely wonderful.
+
+Anon3610: The following is a transcript of an English-language conversation context: Great.
+
+austingriffith.eth: I mean, something that I've been saying a lot is just personal software is exploding right now. Any SaaS product that you use right now, you can probably build a prototype that does 80/20 of what you need to get done. And then once you have that... And every time you need something new, it's just one prompt away, and then the software kind of grows and evolves with you and your needs.
+
+Anon3610: context: Are you ready?
+
+austingriffith.eth: This whole personal, local ontology, how is this stored or represented locally?
+
+Anon3610: So currently it's a slop code base. It's just a bunch of SQLite databases.
+
+austingriffith.eth: Okay, a lot of sequel. The following is a transcript of an English-language conversation. Yep.
+
+Anon3610: And I built a UI over it that visualizes it. So think of Excalidraw, where you have the entities. nodes and then the relations are just edges between the nodes. teams, employees. You should Yeah
+
+austingriffith.eth: I've always been wanting to like get this thing back into the mix and start like using this to like start doing some things. Yeah, I love this. Like the feeling of putting something together here is always fun on eth.build.
+
+Anon3610: Yeah, he thought this is how I originally learned how Ethereum worked.
+
+austingriffith.eth: That's so cool, man.
+
+Anon3610: and that stuff.
+
+austingriffith.eth: That's so cool, you were in here in ETH.build like going through these episodes and learning? Yeah, it was a long time.
+
+Anon3610: Yeah, 2018 is how long ago? 2019 is like eight years ago.
+
+austingriffith.eth: In which direction?
+
+Anon3610: I was like 17, 18 when I first saw this website.
+
+austingriffith.eth: Amazing. That's awesome, dude. That warms my heart that it was helpful for you in the early days.
+
+Anon3610: I also was part of the DAO that you had for giving. Yeah.
+
+austingriffith.eth: But when we were talking about our personal ontologies of connections, I think one of the main ways I found you was through Jessie and Jessie's hacker house. And I had her on as a guest. We were just talking about how these links can be important.
+
+Anon3610: Yep. The following is a transcript of an English-language conversation. Yeah.
+
+austingriffith.eth: DC Builder was an awesome guest. Who else should I have as a guest?
+
+Anon3610: Yeah.
+
+austingriffith.eth: like J.T. Riley or someone else that was in that same kind of class of folks. But there were so many good people coming through Jesse Stagger House back in the day. Amazing.
+
+Anon3610: Yeah, 100%. No, actually, the way that it came together was also kind of clutch. I just tweeted at Denver like, hey, is somebody doing a hacker house? And then Jesse got the idea from that tweet to do a hacker house. And then that spun up.
+
+austingriffith.eth: Nope.
+
+Anon3610: and then it looped into the Zuzalu group. So I went to Zuzalu, I was there for a month. It's the same people and everybody knows each other.
+
+austingriffith.eth: Oh, yeah. Okay, so you kind of alluded to talking about your personal setup and your personal harness, but is that the anthology that you're explaining here, or is there more to it?
+
+Anon3610: Now I'm just exploring visualizing things like companies. and then Ethereum trying to visualize Ethereum. So the goal that I have currently is to visualize world and Ethereum and the goals. So you can imagine, for example, there is L1 research, L2 research. and you never know who is working on what. You can index all of that. and then have agents iterate over the ontology, keep track of the audit trail as the thing evolves and changes. an agent to change it. Trying to sort of map the Ethereum ecosystem so that I have a better picture of like what's happening, where it's going, how do you define goals? And then it's much easier to coordinate, you know, like we used to do this like cat herding thing where you had someone like, you know, like Tim Baiko or
+
+austingriffith.eth: Like a human, yeah. broker
+
+Anon3610: Yeah, like a human that was just saying, like, being aware of all the context of who is working on what, who has the ability to do something well, who has experience in cryptography, core engineering, networking, peer-to-peer. execution stuff, virtual machine stuff, compiler work, formal verification stuff So just making sense of it all is like a good example. To map out and see where that goes. Once I have something that is semi-useful, I'm going to have enough of the design space mapped out in my head and with the interaction of the system that I want to build like a proper ontology system in like probably Rust or something and open source it so other people can use it. and better APIs and visualizer tools over it. Once I get the 80 of exploring the design, like what are all the AI things that I can help. For example, I have a friend who took a picture
+
+austingriffith.eth: Yeah.
+
+Anon3610: She's a girl and she took a picture of all her clothing items and the color schemes of each thing and how to assemble something to wear for the next day or exploring fashion items. and once you apply it to myself, then I will just abstract the components away. You have a graph component, you have a table component, you have styling you can generally mutate. I abstract all that away. Yeah, exactly. Yep.
+
+austingriffith.eth: None of it is meant to be looked at by a human.
+
+Anon3610: Great.
+
+austingriffith.eth: Tell me what's next.
+
+Anon3610: Yep.
+
+austingriffith.eth: Is it
+
+Anon3610: Exactly. Exactly, yeah. What is your favorite color? Hello. context:
+
+austingriffith.eth: Even picking out your outfit. That's so dope. Like once you can find the shape of, I need to understand the relationship between Worldcoin and Ethereum.
+
+Anon3610: Yeah. Exactly
+
+austingriffith.eth: and also like what I'm going to wear today, and it's the same shape and it's generalizable? That's pretty powerful.
+
+Anon3610: Exactly. Everything is the same shape. assign structure to abstract things or even real things.
+
+austingriffith.eth: Our brains do that really well. Yeah
+
+Anon3610: we make pointy rock, pointy rock, dangerous rock. between the relations of objects, but you can be non-deterministic. The less temperature, the better the outcome, the more predictable the outcome is going to be. You still need to have that non-deterministic reasoning layer on top of it. And so once you have that, I think you can scale yourself in the truest sense. Um
+
+austingriffith.eth: Really cool.
+
+Anon3610: So yeah, the plan is to abstract it away, build an open-source repo, productionize it a little bit, open-source it, write an article about it. Do this also in the company context and do that in parallel. You can even imagine like a state agent system, like a country, where the country has an AI system like mapping government stuff and public things. Defining these things and then just build an onboarding flow. and the whole thing would be like, do slash onboarding And it will build the interface for you from all the components it has. And this should be polished enough so that the agent knows how to structure things without you having to be a coder or very technical. Of course, people who are technical are going to benefit much more and much sooner and use it to the fullest extent. When you don't know what to do, just build an API and people will figure out. to do with it.
+
+austingriffith.eth: Okay, so I feel like a lot of people who are sloperators that have their local corpus of information usually ends up looking less like a graph and more like a bunch of MD files
+
+Anon3610: Yep. What can I do for you? Yes. Hi, how are you?
+
+austingriffith.eth: Was that maybe the start of this and then it evolved? Can you talk about the evolution from a whole bunch of MD files to this almost like graphing ontology kind of layout?
+
+Anon3610: So everything was just a bunch of MD files for me. before I just used chat.openai.com I had like a terminal session and I just did Codex.
+
+austingriffith.eth: Real quick, can we show Runner? Runner.now
+
+Anon3610: It's built by the Agora guys, Agora XYZ.
+
+austingriffith.eth: Okay, agora. Yep, yep. Oh no, I know.
+
+Anon3610: So Charlie, Ken and George and a bunch of other people that work there, they're building like this really cool, it's sort of like competitive to Clockwork, but more opinionated. Currently on the Anthropic's agents SDK. But yeah, the whole thing is you have connectors to like email, CRM, Slack, GitHub, linear, any connector you think of, they have like hundreds of them. And anything that it doesn't have you can just have the agent use Chrome and open anything in Chrome.
+
+austingriffith.eth: It feels like if this then that for agentic harnesses or something like that.
+
+Anon3610: Yeah Essentially, you define tools that can use or connectors. You build skills. The skills are really powerful, like repeatable tasks that use specific connectors and specific tools to get specific outcomes. And I just started building tools for automating expenses, like goes to photos.google.com, filters by receipts, downloads those images from Google Drive or Google Photos, uploads them to Expensify. It simplifies auto labels and then submits and then automatically sends a ping to someone on Slack like, hey I've submitted my expenses. Ah Yeah, just take a picture of my phone. Yeah Yep.
+
+austingriffith.eth: So you take a picture with a receipt and someone gets a notification down the chain that you have submitted... That's great.
+
+Anon3610: once a week.
+
+austingriffith.eth: Really cool.
+
+Anon3610: There's an automation which just runs every Sunday at like 9:00 AM, for example. Once I do my eval of like the agent does the task correctly ten times, like mocking, I finalize the structure of the skill, save the skill, and then I just build a cron job and automate that thing away. And my brain has a checkmark, like, okay, I'm confident enough that it's not going to make a big mistake and accidentally file something it shouldn't have because it has all the context, you know?
+
+austingriffith.eth: with me. Yeah
+
+Anon3610: And if there's something wrong, And if something is out of whack, I just don't send the thing. Being in the loop. Um
+
+austingriffith.eth: Your brain is wired up.
+
+Anon3610: Yep. I
+
+austingriffith.eth: I have to be able to scale myself.
+
+Anon3610: Yep. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: I can identify a problem and build something locally.
+
+Anon3610: Yeah. The following is a transcript of an English-language conversation
+
+austingriffith.eth: Run it a few times to make sure it works, and then feel confident that it's going to work, and then I don't have to think about it anymore. Like, your brain is already so wired up for that. How would you recommend other people get this same wiring?
+
+Anon3610: Let's do it. Just do it, just try it. Just try it.
+
+austingriffith.eth: I don't even know what the question is. Go, just get started. Identify problems that you have day to day and start using.
+
+Anon3610: context:
+
+austingriffith.eth: LLMs, harnesses to try to fix these things. 그래서 이게 다른 점으로는 모든 브릭앤 모터 사람들, a roofer,
+
+Anon3610: What time is it? The following is a transcript of an English-language conversation. We're back.
+
+austingriffith.eth: They're the ones that could really use AI and have no idea. it will be someone like a Google that sets them up? Who is going to solve this problem and what does it look like? okay Okay
+
+Anon3610: I don't think it's going to be a big company. I solve such problem, I try and generalize, and maybe I as an individual think, maybe other individuals have the same problems I do, let me build a product out of this. I knew I had a big problem, so I had a big incentive to solve the problem. And now I'm in the process of open sourcing this. and put the hard work and commit to it. They might end up selling to like a Google, which can take the product and scale it underneath them. I feel like a lot of people, now that the overhead of managing a company is diminishing, and you get to this concept notion of like one-person billion-dollar companies. Of course, there's centralizing forces as well. fundraise a lot of capital and I doubt that people are going to give you a lot of money if it's just you in the company. I still haven't seen like a one-person company fundraise like multiple millions of dollars. Ah. Yeah. Oke
+
+austingriffith.eth: And it's hard to find the defensible moat when you can say, like, yeah, I mean, I was just in my basement for a week and I made this thing. That means anyone in their basement for probably now two days could make this thing with frontier models. Everywhere, all around me.
+
+Anon3610: And they're smarter people than you too, you know. and the thing is like if I do an open source But at the end of the day, I feel like the process of me building this over the last six months and identifying every single limit Things that I can apply to what don't apply to where it breaks, where it falls short. The taste that you built through doing this for a long period of time, just thinking about this constantly, is something you cannot outsource, that somebody cannot steal. They can be smart it’s up to you. If you have a product sense that is more tasteful, people are going to buy the thing that you do versus a slop competitor that copies the thing you do. But of course, economically, there's all sorts of things. Someone can capture market share, they can steal revenue, they can just buy you out or do underhanded tactics and try and like sue you. um Anyway, The following is a transcript of an English-language conversation.
+
+austingriffith.eth: You said something really interesting there. It's changing though. But you said that people overestimate the value of the idea and underestimate the value of execution.
+
+Anon3610: Yeah. It is Hi Okay.
+
+austingriffith.eth: Execution is getting easier and easier and easier, and having good taste is like still very hard, right? So how do you how do you reason about that?
+
+Anon3610: I think, for example, a good example would be open claw. Open claw is a cool concept, but the execution is a bit sloppy, I think. It's AI slap code, right?
+
+austingriffith.eth: Hi there!
+
+Anon3610: Yes. Back feeling context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: And you can feel it. When you tell it to upgrade itself and it kills itself, it's like, fuck, come on, man. Why isn't this thing trained on its own configuration? Yes. crazy Good.
+
+Anon3610: Yeah, if you ask Peter Steinberger, he published a screenshot of his Codex usage, which was $1.3 million for 30 days on OpenAI API credits. After he was hired by them, open source owned by a foundation.
+
+austingriffith.eth: Great point.
+
+Anon3610: Everyone switched to Hermes anyway. There's someone with more taste, more opinionated versions of things, better structure, better architecture maybe, a better ecosystem, a better vibe to it. Maybe people don't vibe with like client stuff, but they vibe with like cool girl in like artsy black and white news research. I need කරන්න.
+
+austingriffith.eth: Dives are so important. I remember when you and I were talking with the guy from like ZK Sync and we were talking about what L2s you were going to deploy on.
+
+Anon3610: As soon as I finish. Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: And one of your biggest arguments for what L2 to choose was vibes. Do you remember that? I mean, it was years ago, but that's so true. And so understanding the vibes of the thing, that goes so far.
+
+Anon3610: It goes very far, but only as far as the vibes can take you.
+
+austingriffith.eth: The thing needs to be great underneath the sheets also.
+
+Anon3610: Everything needs to be great, every layer needs to be great.
+
+austingriffith.eth: Yes, including the vibes. That's fantastic.
+
+Anon3610: Including the labs, yeah. And then you have something special, and then you can go off to the races and do your thing. Sure, I'd be happy to.
+
+austingriffith.eth: So the OpenClaw example is so good because OpenClaw did explode, because it enabled normies, or like basically like software normies, to have their own agent, and they couldn't before that moment.
+
+Anon3610: Hello? I The following is a transcript of an English-language conversation. Yeah.
+
+austingriffith.eth: Eliza existed for a year, right? Our homie Sha, within our ecosystem, had a really cool agent framework, and everyone was just calling it a GPT wrapper. And then November happened, and the models got to the point where they...
+
+Anon3610: Yeah
+
+austingriffith.eth: They were very good at that point. And then OpenClaw happened in like December, and basically it just enabled people, but it was sloppy. And you're saying the vibes were not quite right, and the vibes are much better with Hermes.
+
+Anon3610: ### Yeah.
+
+austingriffith.eth: Going all the way to if you're making an agent framework, I think the best way to do it now is to build your own agent framework. You can do it in a hundred lines of code, and it's going to be thinner and you're going to understand it better.
+
+Anon3610: Yeah The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Basically, you build it to build itself, and then you have it build on top of that all the different connectors and skills that you need.
+
+Anon3610: context: ###
+The following is a transcript of an English-language conversation.
+### Sure.
+
+austingriffith.eth: Eliza was too early and people didn't get it. OpenClaw was just right but the vibes weren't right. Hermes is probably the best right now. I mean, I love OpenClaw, I love Hermes, I love Eliza. All of these are great pieces of software, right? framework. But now I would say that if you are a decent sloperator, you should build your own agentic framework because you can do it in 100 or 200 lines of code. Claude down here runs on his own thing. It used to be OpenClaude, but now it's like a custom-built.
+
+Anon3610: Totally. Hmm.
+
+austingriffith.eth: So okay, so you know a lot about founders, you know a lot about products and ideas and execution. Am I thinking of this kind of like lifespan of the agentic harness correctly? What is there to dig into there?
+
+Anon3610: It's always like an 80/20 thing. I want to build something that has 80% of the things I need, and for the things it doesn't have, if it's open source, I can fork it and make my own changes and patches. I can also upstream it. So I'd recommend to build your own agent just to understand how agent frameworks work.
+
+austingriffith.eth: Yeah. Yep
+
+Anon3610: like an agent harness, For now, there are tasteful instantiations that you can choose. The thing that I feel now is most important is these agent harnesses are good enough, and that's not where the interesting sauce is at the moment, at least not for me. Now it's about operational use of this. Like you can give Hermes to a normie, and they won't be able to do very impressive things with it. You give it to a degen and they will like- Crazy things that people would have not thought possible to be done with this tool. The sauce is in how do you put the right tools and the right skills and the right context and the right instructions and the right frame of mind for how to use the tool so that the tool is actually productive and useful.
+
+austingriffith.eth: Is it? going to get better. Yes. You make it useful.
+
+Anon3610: So the agents are good, the harnesses are good, the models are good,
+
+austingriffith.eth: That is great.
+
+Anon3610: That's where the taste comes in, right? Hello? Um The That's a katei.
+
+austingriffith.eth: Yes, if you can, do it. Yes. Okay, so you're like rolling back my whole you should build your own agent. You shouldn't build your own agent. You should build your own agent maybe to understand it, but really there's good enough instantiations that you should not be even wasting the cycle
+
+Anon3610: It
+
+austingriffith.eth: and time on building your own agent
+
+Anon3610: Ja. Would Exactly.
+
+austingriffith.eth: At this point good enough ones exist and you can go find them and they're open source and you should just fork them.
+
+Anon3610: t The following is a transcript of an English-language conversation. It's open source. context: ###
+The following is a transcript of an English-language conversation.
+### There may be provided context
+
+austingriffith.eth: You can just take the open source thing, your agent can understand it immediately. This is great advice. Are you able to share your screen? It be
+
+Anon3610: Yeah, I have to click screen, right?
+
+austingriffith.eth: Yeah, yeah. It's this one right here.
+
+Anon3610: fine
+
+austingriffith.eth: Ah, welcome to the slap computer.
+
+Anon3610: Okay awesome, window. Let me turn on the I like a privacy filter because I've been screen sharing so much.
+
+austingriffith.eth: It's gonna drop some private keys in. We'll have to drop in about five or six
+
+Anon3610: Not private keys, but my net worth.
+
+austingriffith.eth: Oh yes, yes.
+
+Anon3610: Can you see it? Hi. Hi
+
+austingriffith.eth: Yep, we got it. Let me make it a little bit bigger. I think what we can do is arrange for screen share. Oh, that's going to shove you off to the side though. Hold on a second.
+
+Anon3610: Okay.
+
+austingriffith.eth: There's a lot here. Okay, let's just make it full screen because there's so much information here. Yep. I see your cursor. We're looking at sleep and recovery here.
+
+Anon3610: Okay, cool. Yeah, for sleep and recovery... Live. Recently It's not loading the data.
+
+austingriffith.eth: It's all on localhost. You've just got like a localhost... Yep. fitness, nutrition, Okay.
+
+Anon3610: This is our own localhost. I also built like an electron app out of it. Give me one sec, I'm just going to restart locally. Thanks
+
+austingriffith.eth: I'm really worried that we're going to expose something here, like some bad habits or something. Don't do it!
+
+Anon3610: I've had this... So I have experience with.
+
+austingriffith.eth: We're live, so there's no... even your mood. You keep track of your mood? Like how do you... do you send like a little sad emoji face or happy emoji face? How are you tracking your mood? Okay.
+
+Anon3610: A lot of these pages are not fully built out yet. Some of them are, some of them are not. context:
+
+austingriffith.eth: Do you still read books? That's amazing. Wow. The following is a transcript of an English-language conversation.
+
+Anon3610: Yes, I tried to. For some reason this is broken at the moment Let me see.
+
+austingriffith.eth: I feel like we get the idea of what this thing is.
+
+Anon3610: Let me see if, for example, the media one is searching correctly. So all of this is like a table, the auto indexes, videos that I have in my watch later or books that I've wanted to read. This is not fully populated yet. I just tried to do stuff. And so all of this like runner goes to YouTube, transcribes four videos, and makes summaries from them. And then based on that, I can ask runner to then suggest the video that I should watch based on the watch later. the sleep one what it has, it has exports from Woop. HRV and all the metrics, like resting heart rate, recovery, hours of sleep, quality of sleep, all sorts of things. For fitness, it tracks things like...
+
+austingriffith.eth: Yep
+
+Anon3610: This currently is not fully built out yet. The whole thing is like the eighty-twenty. I build the pages as I need them. So currently this is just like a visualization thing. I don't use it currently because I also need to build like a mobile client. Working on like an iOS app for all this.
+
+austingriffith.eth: I was gonna say put it on your watch, have like the watch be tracking this stuff, yeah.
+
+Anon3610: Exactly. So the whole goal is currently this is on my MacBook, but I have a home computer as well, which I'll install Proxmox on it, which is like a Linux distribution that you can do for like containerization and virtual machines and stuff. It can have the AI provision tables, provision resources So as I The whole thing would live in the home computer. that can connect to it. All the files underneath are a combination of Markdown and JavaScript React. So you can think of it as hydrated Markdown. React components that take the context in Markdown files and create custom UIs over it. The data itself lives in SQLite tables, and then there's an API defined over these things. The UI calls the API or from the CLI itself. But for example, if you have a table of contacts, so here I can turn off the privacy filter. So I have like all my contacts, I have like 18,000 contacts act.
+
+austingriffith.eth: Wow A lot of people.
+
+Anon3610: I lost my Telegram recently. My computer was hacked because of the software supply chain with minishajhulud and all these things. I don't know which package it was, but they got access to my laptop.
+
+austingriffith.eth: Oh wow.
+
+Anon3610: With your Telegram active session, they can bypass 2FA and rotate the number to any other number.
+
+austingriffith.eth: It's just bricked. Like your telegram is just bricked now. Wow.
+
+Anon3610: It was bricked, stolen. They took my account, started messaging and spamming everyone. Then I got like CL911 involved, banned the account, whatever, blah, blah, blah. But the outcome was that I lost the Telegram account and I lost like five
+
+austingriffith.eth: Right.
+
+Anon3610: all the chats, all the... I took it for granted, sort of. Exporting every contact that I have, and the rule that I have is like have two contacts for the same person across social media if something loses. And even if I lose something, I can still search it back because I have an index of all the Telegram contacts. For example, for X, which is public, it populates a friend circle of 200. So this is the top 200 friends that I have. I'm in the process of building ontologies over the contacts. So the ontology would be like, for example, we have Odysseus from Philax, right? So this is Odysseus. Odysseus works at Philax. He's the founder of Philax. He has knowledge of infrastructure, L2s, scalability, security. companies, products, people, knowledge, skill trees, and just all of this. There's a bunch of other things, but for example for finance, if I toggle the privacy filter, it toggles things like net worth, angel investments I've made. Yeah, it's...
+
+austingriffith.eth: I say your net worth is surely crushing mine at this point. Good work. Congratulations.
+
+Anon3610: It's on VCbuilder.io/portfolio, so all this thing is public. There's to-dos across different categories. I have a bunch of quality of life things, command case search for different pages. If I'm in a specific page like sleep and I want to create a to-do, I just press T and it filters To-do page for that category. I think Yeah. context: ###
+The following is a transcript of an English-language conversation.
+###
+
+austingriffith.eth: Is the hotkey just built into the app here? Nice. It just puts it in here.
+
+Anon3610: Yeah, so I just tell my agent, "Hey, make this a hotkey." So this is for UI specific things. The agent just parses an export from CSV, So I exported my data from all the platforms that I use, and I'm starting to enrich the platform.
+
+austingriffith.eth: And like
+
+Anon3610: I can connect it to my goals I'd like to talk about my homework. It's I. Okay
+
+austingriffith.eth: When you do something like this, it's at first, on the surface when people see it, it's like Charlie and his board of all the connections where he's like got the crazy shit and he just looks like a crazy person. But then as you're starting to kind of like find these like emergent
+
+Anon3610: It's pretty. yep
+
+austingriffith.eth: There's actually some very useful things Can you mention some of these like maybe like more like actual concrete like useful things that have come from having all this all this data aggregated like this? Sure.
+
+Anon3610: Yeah, so the biggest by far was the finance side of things. It was so hard to track everything. And I think without it, I was in a liquidity crunch, so it was quite hard to make sure that I have enough money on the account so that I don't go under. There's a lot of complexity there. I think that was the biggest use case for me. And then health as well. If the agent has all this context, it can help you plan your day. Another thing that is a concern for people that I talk to is like, oh, but your agent is like Codex and it's like talking to all this private data. I guess for now it's like an 80-20 of like, okay, I need to make this work because I really needed it. But eventually the whole point of this is that once
+
+austingriffith.eth: And you're all local Yeah. Yep.
+
+Anon3610: you can run in local hardware, use the local inference. This is one of the reasons why I don't want to open source it just now, because I don't want people to just suddenly tell code. access control for the agent itself. Like the agent has to ask you for permission to access specific things. And, you know, there's all sorts of like sovereignty, This is also what was mentioned on the Alex Carp interview. Yeah.
+
+austingriffith.eth: We never really got to that. Another thing that he was mentioning is just like that these LLM providers are really like holding all the power on
+
+Anon3610: Sure,
+
+austingriffith.eth: above everybody's head. But you're saying also there's like a privacy concern. I don't know if I caught that from that interview. He was talking about everyone's giving everything. movies Williams, are these companies? Oh yeah.
+
+Anon3610: Totally. He was talking about how companies now are mad at the labs that they're giving all their alpha to the labs through prompting and they have no control over the model, the sovereignty. Essentially, like I'm paying the lab I can't believe you said that. and the moat is leaving me as I use this product. open source models, local models, local inference, you can control the model, the cost, the compute, the API, the provisioning layer, the access control layer, the ontology, the data, we work with all data sources, with all anything. So this is sort of like why I really Everybody says that like, oh, like anti-privacy thing, but like they have a lot of privacy controls, data connectors, policies, rules, like all of these things exist because they work with real partners that care about security and infrastructure. sovereignty and owning their own bottom line Um This is what's inspired me to also build something where people can eventually own their bottom line, but now it's like an 80-20 or like the open source model. I don't have enough money and resources to run the open source model so that it's good enough. Sure, I can run like a 300 billion parameter model, OK. Okay. Beta
+
+austingriffith.eth: But right now the EV of just giving everything to a frontier model... Still very positive and it's like still worth it to give everything up now. Okay. context:
+
+Anon3610: I think for another year it's going to be that way. Probably six months to a year. I need a ride to the airport.
+
+austingriffith.eth: What are things that people can be doing? If I am a sloperator, how can I start to be preparing to be in that situation? Should I be buying GPUs? Should I be experimenting with open source models? Building a better harness, like what is it?
+
+Anon3610: It depends on what security you're comfortable with. If you're comfortable with at least one level of security, then it might be worth it to do a per hour rental. If you are fine with having root access to an AI service Honestly, I don't necessarily think you need it. or things you can iterate on UI flows and anything. There's Hi.
+
+austingriffith.eth: Use the frontier models to build the software, use mock data going into that software, and then build it so then you can use an open source model or a local model to actually power it and touch the sensitive data. Yeah. I think that's a really cool way.
+
+Anon3610: I think that's how it's gonna be eventually. Like if you're a crypto native, there's all sorts of privacy bells and whistles you can design around it. Ultimate sovereignty would be having your own local computer, you know, like your own tiny computer or whatever, running like a bunch of GPUs with like local model that's good enough to do things. That's like the ultimate version of how you'd have like a personal system. But for now, for me, it's like 80-20 at the moment, where I'm fine compromising on some things. Yeah, so these are the different teams.
+
+austingriffith.eth: You've got the EF right in the middle of this thing. The EF is not Ethereum though.
+
+Anon3610: This is like different entities, right?
+
+austingriffith.eth: This is like your people
+
+Anon3610: Yeah.
+
+austingriffith.eth: Kind of like who's maybe who's doing the most for like research for Ethereum or something, I see. Yeah.
+
+Anon3610: So this is the expanded view, the expanded view shows also some sub teams and stuff.
+
+austingriffith.eth: How?
+
+Anon3610: This is the company hierarchy view. Yeah.
+
+austingriffith.eth: This is definitely like the 2026 version of the Charlie graph where he's got all the crazy shit on the board behind him.
+
+Anon3610: Totally, totally. Some of these things are broken. Anyway, in general, what the ontology visualization for different things is, I think my API, my table is brick because it's missing all the other different teams. On behalf It Yep. The following is a transcript of an English-language conversation.
+
+austingriffith.eth: But at this point you could query it and you're like, I'm looking to ask a question about zk proofs to someone I know or someone that someone knows or I have this like, you know, super niche question or area that I'm getting in.
+
+Anon3610: The following is a transcript of an English-language conversation.
+
+austingriffith.eth: Who in my social graph should I reach out to to ask the question to, or something like that, and this thing can tell you that. Right.
+
+Anon3610: You won't know that from Twitter because it's your own personal preference or relationship. And so it's all things that lived in my head that I needed to get out because otherwise I would go crazy. I know 5,000 people off the top of my head that I can query in my head, but then once you get to 5,001, you cannot do it.
+
+austingriffith.eth: I thought your Dunbar number is more like 160 or something like that, 5000? Okay.
+
+Anon3610: That's someone you can like live in a society with. Then you start, it starts getting funky. You start forgetting important things about your friends that you're close with. And so I feel like once you hit that thing, that's when I felt like, okay, I'm going crazy. This is not healthy for a person. So I felt like I needed something like this, essentially.
+
+austingriffith.eth: I think my number is much smaller than 5000. Maybe just you're younger. Yep.
+
+Anon3610: I think it's also that. I definitely feel like over time it gets worse. But I definitely hit the limit and after you hit the limit you burn out and it's downwards from there.
+
+austingriffith.eth: Yeah, yep
+
+Anon3610: Get her.
+
+austingriffith.eth: Awesome stuff, man. We went extra long. So many good snippets from this. You got some cool stuff in your brain. Keep building things. Keep doing the good work. Stay in crypto. You mentioned... crypto and like world as your
+
+Anon3610: Yes
+
+austingriffith.eth: in your Venn diagram, but you didn't really mention AI. I feel like everybody's pivoting the AI, but maybe AI is more like the means to the end and not like the
+
+Anon3610: I think for me if you're not using AI for everything and anything in this context, like professional context, you're not to be competitive at this point.
+
+austingriffith.eth: Yes.
+
+Anon3610: So I need to become really good at this thing because if you need a shovel to get gold and pickaxes...
+
+austingriffith.eth: Right.
+
+Anon3610: you need to use the electric drill. Otherwise, if you're still using shovels and everybody else is using electric drills, you're not gonna get very far. It's gonna be a lot slower and smaller. So yeah, I have a set of beliefs, and I feel like now there's enough tools that are out there that I can use and leverage to build my own tools so that I can get the things that I want to get done done
+
+austingriffith.eth: That's right, you could be building your own drill at this moment also.
+
+Anon3610: Exactly, I really feel like I need to become like an AI engineer just so that I can build the tool to achieve the end thing because it's the ultimate tool. There's nothing better than intelligence systems. It can create stuff at scales that humans cannot. but it's like another multiplier. context:
+
+austingriffith.eth: Learn how to build the drill as part of the process of getting the gold out of the hill.
+
+Anon3610: Awesome.
+
+austingriffith.eth: Very cool. Thank you so much. Let me get some music playing. Thank you so much. Is he even talking? He's very quiet.
+
+Anon3610: Can I hear him?
+
+clawdbotatg.eth: building the sovereign stack
+
+austingriffith.eth: There he is.
+
+clawdbotatg.eth: and come back and show us when it can answer who you should call. Take care, everyone.
+
+austingriffith.eth: Hello, how can I help you?
+
+Anon3610: Bye Boston. context: ###
+The following is a transcript of an English-language conversation.
+### Pleasure.
+
+austingriffith.eth: Thanks, man. Thanks for being here. Thanks for hanging out.

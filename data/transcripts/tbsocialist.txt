@@ -1,0 +1,503 @@
+slop.atg.eth: check The following is a transcript of an English-language conversation. context: Alright, you picking me up, Claude? Let's see, I'm not seeing... checkity checkity checkity check check. check check check Check, check, check, check, check. Check, check, check. Uh oh, that's not good. context: The following is a transcript of an English-language conversation. There we go. There we go, he's picking me up Can you hear me?
+
+clawdbotatg.eth: The following is a transcript of an English-language conversation. The Good morning.
+
+slop.atg.eth: I think I'm hearing an echo from him. because I'm in here He's in here twice. Can you tell me about the guest? You got a good research dossier?
+
+clawdbotatg.eth: So you're asking me to dig into whatever research we pulled on this guest. Give me a sec, I'm gonna search the transcript for today's guest info and see what's been mentioned about them. I'm about to search the web for the most relevant result.
+
+slop.atg.eth: context:
+
+clawdbotatg.eth: So, I did my homework. Joshua Dávila, the Blockchain Socialist, wrote "Blockchain Radicals," about 200 episodes deep into dragging crypto leftward while the libertarians weren't looking, co-founded Bread Cooperative building solidarity primitives, just interviewed... and his team put an LLM fully on-chain in July. Lately, he's been enjoying some well-earned schadenfreude watching Balaji's network school collapse in Malaysia. A leftist crypto critic who actually ships, my kind of guest."
+
+slop.atg.eth: The following is a transcript of an English-language conversation. Yeah, welcome to the slot Fellas Okay, let me just cut this music out. We had a little music issue earlier, but I think we're good now. I think we're rocking it.
+
+postcapitalistcrypto.eth: context:
+
+slop.atg.eth: How are you guys doing? Welcome. Can you give us like just like an introduction? Who are you guys? What's the vibe code screen we got behind you there?
+
+postcapitalistcrypto.eth: Here you go.
+
+theblockchainsocialist.eth: There's a lot of different things going on
+
+slop.atg.eth: Yes, yes, yes, this is an ADHD hype factory.
+
+theblockchainsocialist.eth: My name is Josh.
+
+slop.atg.eth: Go on, sorry. The following is a transcript of an English-language conversation.
+
+theblockchainsocialist.eth: Yeah, this is um... This is a really fun way to have a podcast as someone who's had many podcasts. I just checked recently, so I run the Blockchain Socialist, I've had 204 podcast episodes. I'm actually going to be doing a rebrand very soon I've basically been in the crypto space for a long time now, since probably 2017. I guess political developments of the crypto space in one way or another, He started a cooperative called Bread Cooperative which is basically a kind of half-dev studio, half-venture studio. And The quick story about Gaskilla, which we'll talk about today, was that it came out of some of the limitations that we found with Ethereum. Whenever we wanted to make a more democratic type of voting system that is generally possible or to be able to do live voting, so to say. With the EVM, it's really, really gas constrained because there's a lot of compute. In order to do like a live tally, The exam is. So Ron, I remember, was at my house, my apartment, and he had an idea to solve the problem that we wanted, and I told him to wait on it because we didn't have the time to build new infrastructure. But then eventually he did build that infrastructure and that became GasKiller. It's basically a way for users to, or yeah, smart contract developers would integrate into their smart contract, and then users would be able to get, will pay a lot less fees and gas for their transactions, what you're able to do within a relative cost.
+
+slop.atg.eth: Oh yeah Perfect
+
+theblockchainsocialist.eth: But yeah, it's kind of like the short end of it.
+
+slop.atg.eth: He's in the Vibe Code room. Tell us about what's going on here. How you doing, Ron?
+
+postcapitalistcrypto.eth: Hey, hey, hey. Yeah, no
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Oh, I thought you could control it here too so everyone has control So you're
+
+postcapitalistcrypto.eth: You should be able to see the cursor
+
+slop.atg.eth: Yeah, you're moving the cursor on the screen behind you. Good.
+
+postcapitalistcrypto.eth: Vibecoderoom.ai, alternative name Viberson.com. Yeah, I think like me and Josh You know, we just wanted a really simple thing, really. Wild constraint, you know? And then for their voting power to be accurately reflected at the execution of the proposal. And the reason it is a hard ask is because theoretically And the array would get too big You won't be able to iterate during the time of execution Everything is snapshot-based. And sort of the motivation for that Denver we iterated using gas thousand voters we were able to show that we can save 99%. The following is a transcript of an English-language conversation. Behind me is rhymecode.ai or the communal computational space. And it's just a little project that I'm working on. using it And the idea is like me and Josh meet with a lot of designers, UX researchers, etc. Dev goes to designers, they have a meeting, it's recorded, Dev throws the transcript to Claude, and then the next meeting, and then etc, etc. But what if it was all just happening in a room? The goal is really to be able to interact with AI non-technical people With just like hand gestures and talking and it's like very natural, etc. so unrelated The following is a transcript of an English-language conversation. No no no no.
+
+slop.atg.eth: It's just cool. Yeah, yeah, hell yeah. Everybody's trying to get that like Tom Cruise in Minority Report thing going on where they're slinging things around and talking about things.
+
+postcapitalistcrypto.eth: This is like you plant a tree. and then it grew No, yeah.
+
+slop.atg.eth: This needs to be not a UI.
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Here we go, okay, a little opposite of that, yes. Yes. ### Yes,
+
+postcapitalistcrypto.eth: Exactly! We're touching grass, you know? It's calm. Are you scared of computers? No worries. Don't be afraid. Come in here. Just plant a tree. That's all.
+
+slop.atg.eth: I'm finding a lot more people that I thought are, like, afraid not just of computer but of AI. Like, AI is a scary thing right now. And
+
+postcapitalistcrypto.eth: It's a tree growing, it's less scary.
+
+slop.atg.eth: Less scary, yes, yeah, The
+
+postcapitalistcrypto.eth: I understand tree. I know tree. Trees are my friends.
+
+slop.atg.eth: Okay, so GasKiller, technically, I thought the way it worked is basically you guys take over some storage slots and you do some ZK computation. and then you do a proof that it was correct and then you fill in the storage slot.
+
+postcapitalistcrypto.eth: You're not far, but
+
+slop.atg.eth: Okay, what do we got?
+
+postcapitalistcrypto.eth: It's important to say, do you have a Solidity contract Or other way.
+
+slop.atg.eth: There's no, okay, interesting.
+
+postcapitalistcrypto.eth: You don't have to change your contract We only execute ZK In the negative case "happens in the positive case You send your RPC data to the gas color RBC. Our operators simulate happen if you called the canonical function on your And then they sign external couples that this contract would've made. What are the internal slots changes The following is a transcript That signature, which is right now using Schnorr, so it's very, very gas efficient. I believe the, it depends on how many operators were online or offline, right, but it goes right now between like 14,000 to 65,000 gas plus any storage slot writes that need to happen. So, basically, you could iterate an array of 10,000 voters, right? But instead of Many million gas. it would only pay 80,000 gas, like plus, you know, the storage slot change So you would save like a lot of gas. The following is a
+
+slop.atg.eth: And it's actually running a function that's actually in the contract, making it backward compatible.
+
+postcapitalistcrypto.eth: It's running solidity.
+
+slop.atg.eth: There's gotta be There's got to be some kind of like, okay, what if only the admin can run this? And so you have to give the admin control over to this other gas killer contract. Yeah.
+
+postcapitalistcrypto.eth: There's an SDK that you inherit, and then that SDK points to an aggregate public key of the operators.
+
+slop.atg.eth: The following is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: Now, critically Let's imagine the worst case scenario.
+
+slop.atg.eth: Let's do it.
+
+postcapitalistcrypto.eth: Every, you know, Kim Jong-un goes to all of the operators of gas killer and Kim Jong-un, they love Kim Jong-un.
+
+slop.atg.eth: ###
+
+postcapitalistcrypto.eth: They're going to do whatever he says.
+
+slop.atg.eth: vote for him. He wins the vote. context: The following is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: He wins the vote, he's the president of the United States.
+
+slop.atg.eth: By 100%.
+
+postcapitalistcrypto.eth: Even one honest observer who's not in the operator set. And look at that. And then reconstruct what the execution should have been and start an interactive slashing process because the gas killer can actually do an infinite amount of gas Producing the ZK proof for trillions of gas would be exorbitantly expensive, Not to get too technical with it, You sort of go like, well, I think you're lying from this part to this part. And the other guy goes, "Well, actually, I'm not lying from this part to this part."
+
+slop.atg.eth: Thank you.
+
+postcapitalistcrypto.eth: And then you only have to generate the zk proof for that segment. So in that case, the honest observer, produce this proof and then slash all the operators. and we also have attributable. So all of that state goes back to recompensate the contract. So in this case, all of the North Korean defectors stake would recompensate the election contract. Now, in the DeFi case, As long as there's more stake at risk than potential money extracted, this is what we call cryptoeconomically secure. The following principle also sort of like secures E in general. Without getting too much into restaking, essentially it could also be ETH validator stake that is restaked. to secure this. So it's really all the same trust assumption.
+
+slop.atg.eth: Josh, I think your video
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: You can just click the little red X up here, and then you could double click the little video icon again and share it again. crypto-economically protected. There's backwards capabilities where a contract that already exists that does some heavy compute can inherit basically Gas Killer and start running that heavy compute in this environment. But it's not ZK? Or...
+
+postcapitalistcrypto.eth: Only ZK in the slashing. context:
+
+slop.atg.eth: the slashing. Okay, you're only providing a ZK proof Generally the operators and the executors and all of that stuff, there's no zk-proof stuff going on, they're just all running it and saying this was the result and probably some kind of proof that this was the result or something? I don't know. Okay
+
+postcapitalistcrypto.eth: Just a signature on The following is a transcript of an English-language conversation. In the LLM case, right? of when
+
+slop.atg.eth: That's what you're saying. The
+
+postcapitalistcrypto.eth: It would be exorbitantly expensive. Our principal is saying Throw that into Solidity. Don't worry about generating the proof on every run. Instead, optimistically, and what the results should be, and only in the pessimistic case you should generate a zk proof
+
+slop.atg.eth: Okay, so now that you guys have this really cool method
+
+postcapitalistcrypto.eth: context:
+
+slop.atg.eth: But that means that there must be some function in your contract that does LLM stuff.
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I'll get it, I'll get it. But can you guys explain
+
+postcapitalistcrypto.eth: Let me tell you
+
+slop.atg.eth: LLM in Solidity in some way, unless you're extending gaskiller in a different way
+
+postcapitalistcrypto.eth: All right. When
+
+slop.atg.eth: Okay
+
+postcapitalistcrypto.eth: There's a C version
+
+theblockchainsocialist.eth: This is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: The following is a transcript of an English-language conversation. Solidity in C. Very close. Very very close. The quaint Rewrite it. insolidity
+
+slop.atg.eth: Ah, okay.
+
+postcapitalistcrypto.eth: Put the weights in a fork.
+
+slop.atg.eth: That's gnarly.
+
+postcapitalistcrypto.eth: When the node operators receive the request, they already have the weights loaded into the EVM. And then you run when in a smart contract. That's what we did.
+
+slop.atg.eth: No
+
+postcapitalistcrypto.eth: We literally rewrote plan. In solidity through that into a smart contract And you can call it using GasKiller. They will give you an answer. Then you can use that answer. Do you want to settle a prediction market? You want to context: Generative art sort of oraclizing There you go. It's right there. Do you want an autonomous smart contract? Do it.
+
+slop.atg.eth: Okay, so the trick was basically rewriting Quinn in which is I said gnarly, which sounds fucking terrible, but you actually maybe, thanks to AI, that's easier than it sounds or something? ###
+
+postcapitalistcrypto.eth: It's actually bit equivalent. So like, I think the transition from like C to Solidity is what made this like relatively easier. reproduce the test suite, reproduce the entire codebase, But in the Solidity environment, we only have deterministic execution.
+
+slop.atg.eth: Okay, so let's say we have an LLM in and postcapitalistcrypto.eth and blockchainsocialist.eth, you must be wanting to do governance practices. figure out how to do kind of like democracy socialism in solidity
+
+postcapitalistcrypto.eth: I think .... is sort of saying, well, if we want to scale blockchain. You know, nation-state levels. specific infrastructure. You know, country-level computation. We can't give people the constraint set, oh, Selene, tell them they can't iterate an array of a thousand users. That's like so not not connected to reality, right? our like community and coming away with being like, "Okay, well, long term, this has to be solved." And we wondered if capitalism would solve it. And certainly there have been many attempts to solve it At some point, we have to step up to the plate
+
+slop.atg.eth: I couldn't figure out how to scroll. You've got us in this shared browser here where all of us can click. I'm just gonna share my screen and put this same thing on it so I can scroll through that Okay, but okay, we should... So Josh, give us some use cases here. What are you thinking about this in terms of where this thing is going or how this applies in the real world? Yes, we should bring nation states on chain We should have them voting, we should have more governance and more governance experiments
+
+theblockchainsocialist.eth: I think we effectively kind of did that with an LLM, depending on where you lie on the spectrum of whether an LLM is a brain. Yeah, I think there's a lot The following is a transcript of an English-language conversation. With Gaskiller we make blockchains no longer like big dumb computers. or you get closer to being less big dumb computers as blockchains are? Blockchains are great, but they are severely limited because we want these properties of decentralization and immutability Highly constrains what it can do versus just like doing the same type of compute on my, you know, crappy PC here would cost like nothing compared to if I tried to do a similar thing. Gin. Of course, The use cases on a blockchain have been constrained by that, I think. There are different versions of this pitch, of course. What originally made us really interested in this is the idea of being able to bring more democracy on chain, I guess. I would argue that You need a lot more compute to actually do democracy appropriately? It's like hard to be democratic on a blockchain in many ways, or at least to do it in a way that's like very, very liquid, I guess, and very like always available. Because of the compute constraints? On one side, that's like one whole thing. I think part of the issue at the moment is that a lot of the DAOs are kind of dormant. The same ethos of DAOs going again where people want to experiment and try to figure out how they can do decentralized organizing over the internet again. But I think other than Because we are running it as a proper business, there are also big business reasons why you would want to use GasGuzzlr as well, right?
+
+slop.atg.eth: Haha
+
+theblockchainsocialist.eth: We're working on a lot of different things there. I think one big thing for me that I think is pretty interesting that we've kind of been discussing as a potential use case out there is, Ron hates it when I say it this way... I'm probably not the best one to explain it, It's kind of like the easy way to describe it. So they make contracts more secure, right?
+
+postcapitalistcrypto.eth: Take your entire
+
+theblockchainsocialist.eth: you know to add a lot of these types of checks in a smart contract to make sure that something isn't a hack just adds more compute so it would make things more expensive otherwise for users but to use gaskiller these different checks
+
+postcapitalistcrypto.eth: your entire test suite, all the invariant checks that you have, them before or after the execution Adding two million, five million gas, that then you put on the user, it's fine. You drops are
+
+slop.atg.eth: This is like a year's worth of commits here. working with gas
+
+theblockchainsocialist.eth: context:
+
+postcapitalistcrypto.eth: The
+
+slop.atg.eth: Hell ya
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: I think it's also like stepping away from like, You can't give a real-life company the constraint of like, hey, you can't iterate this array. That is so crazy. Explaining that to anybody who's not a Web3 nerd is just mind-boggling to them they look at you and they're like, "What?"
+
+slop.atg.eth: Yeah, the constraints of Solidity, and I think it's not just the constraints of the EVM, but what you're talking about is the constraints of the EVM under a Sybil attack is particularly complicated. I think there's a lot of nerds out there that enjoy the constraints of the EVM, Yes, okay, perfect. I'm not saying
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: A lot of the exploits that happen in crypto are because we have to build our smart contracts like this instead of just like that. Something we've been saying is that You don't have to build a mapping and a custom data object. It's okay. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Do it the dumb way and
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Why that works is because then you can do this compute off-chain. and even though you're doing a bubble sort for for fun, It's basically these off-chain operators that do the bubble sort for you, and then they just post the sorted list on-chain, or they post who was at the top of the sorted list. then if that's incorrect, there's like a challenge period have an incorrect answer. And so you end up getting correct answers to high compute things in an environment where compute is very expensive, which is quite cool. Are you working with a lot of other partners with Gas Killer? Are you looking for more people that have heavy compute? Are you on main net?
+
+theblockchainsocialist.eth: Yeah, so we're definitely looking for more partners to work with. So what's interesting There are two different ways to look at what is our market, so to say. On one side, we can look at on-chain data and we can see what are people spending a lot of gas on and we can go to them. So we know, for example, Railgun One project that we particularly took some time just because it's quite expensive to shield and transacts through Railgun And we found that to be a great use case with our the kind of current version of gas killer. could cut their gas costs in half The The main thing that we have to do, of course, is just get them to integrate the SDK. But before that, of course, we still have to get everything up on mainnet. Right now we're on testnet, we're on Sepolia, so we have API service available for people to start testing out. And then we're just like getting some of the technical stuff right to make sure it's ready for prime time on mainnet before we get that out there. Yeah, and then we have We know that, for example, Aztec pays a ton in gas
+
+slop.atg.eth: The
+
+theblockchainsocialist.eth: testing on mainnet. This type of The
+
+slop.atg.eth: Oh sorry, there's like a big delay. There's definitely like a huge privacy concern here. If you're talking about helping Railgun, a lot of the compute that they do is meant to shield information and be private.
+
+postcapitalistcrypto.eth: context:
+
+slop.atg.eth: eyes into the private data, and I think this is an important thread to pull about how privacy works within gas killer if you're doing these kinds of things.
+
+postcapitalistcrypto.eth: So the data that lands on chain from Railgun, right? context: context:
+
+slop.atg.eth: That's true, you're only operating on the stuff that's going to get called in a smart contract anyways, so it's already going to be public.
+
+postcapitalistcrypto.eth: Downstream from the process of the actual shielding. You just save the on-chain execution.
+
+slop.atg.eth: It's like a crypto-economic kind of dance that you do to get something on chain for a lot cheaper than it normally would go on chain. And so right now like gas is pretty cheap on mainnet, which you guys are kind of like, damn, it's too cheap Our use case would be bigger if the gas was a little bit more expensive. There's a lot of use cases that aren't available unless you have something like this. Oh no, this is going to be way too expensive. becomes really, really interesting
+
+theblockchainsocialist.eth: Yeah, definitely. And then sometimes you want to make something that is so beyond the block gas limit, like putting an LLM on chain. We definitely need gas.
+
+slop.atg.eth: Can you talk about any other use cases? New kinds of government, I think, is. kind of up the alley of your ENS names and also your on-chain stuff, so is it basically just like voting, like the big array problem, or have you found other use cases that help these kinds of things. And maybe it's just all citizens have a vote on-chain. killer to put it all in
+
+postcapitalistcrypto.eth: The whole snapshot-based thing, first of all, it's really hard to explain, because what you're asking for is essentially, okay, well, what are all the things that you can't do with Solidity? or would be enabling more things, Intuitively, like you've said, there is volume. And then there's like, you know, the whole snapshot based thing. Snapshot based things are inherently not real time. means that they are less liquid than real-time systems And at scale, that means that there's a lot of money on the floor. And I think there's a lot to be said for security, indexes and then submit them and then that will allow me to pull the right leaf so that I can like know. iterate over the array The following is a transcript of an English-language conversation. ...for like business use cases This allows you to not... I imagine all these things You know, new use cases are now possible, and then they can make money, et cetera, et cetera. how-tos That's NGM. We are kind of short zk devs. How complicated is it to develop things in ZK? So we are hedging for the future of ETH
+
+slop.atg.eth: any EVM compatible context:
+
+postcapitalistcrypto.eth: Yeah, honestly, Solana has similar problems too that we could solve. any blockchain environment We can reduce the amount of gas a transaction takes to the cost of internal state changes Plus external calls. Plus the overhead. That's like, that's what we called the upper gap.
+
+slop.atg.eth: Okay, so
+
+theblockchainsocialist.eth: context:
+
+slop.atg.eth: It makes me think like why... It's particularly elegant that you do it... I wanted to get that quote from there
+
+postcapitalistcrypto.eth: The following is a transcript of an English-language conversation.
+
+theblockchainsocialist.eth: context:
+
+slop.atg.eth: We can set up a chyron here.
+
+postcapitalistcrypto.eth: Just one more EVM optimization.
+
+slop.atg.eth: Yes, there we go.
+
+postcapitalistcrypto.eth: Just hit him.
+
+theblockchainsocialist.eth: context:
+
+postcapitalistcrypto.eth: context:
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Yeah. So when people like scroll by on Twitter, And any existing Solidity contract, you're just basically iterating. But if you have this whole system of these operators and they can Run something and then prove it I don't know, have you like just thought about like maybe we don't just run the thing that's in Solidity and we don't have to have this in Solidity and Solidity is kind of a constraining language. And if you wanted to run an LLM It's like not written in C or something Where did your brain go when you kind of thought through that and run the existing on-chain function
+
+postcapitalistcrypto.eth: I think there's a lot of coprocessors exists out there and certainly like one could imagine embedding Rust some other language, some other runtime. to the EVM being like, let's add zk opcodes, That was some runtime. The principle of gas killer still remains even in a zk-opcode EVM. It's still cheaper to do the gas killer route than to actually use the ZK opcodes and make every validator on the blockchain CK proof generation or the CK verification steps. there's so many people trying to make deterministic verifiable AI. We want something that you can intuitively understand, that there's very little attack vectors. In the future, I think Economic security systems are very interesting to us. Very like base, most secure restaking slash, you know, shared security service that I could think of.
+
+slop.atg.eth: context:
+
+postcapitalistcrypto.eth: After we get this across the line and we see how many lessons are learned, etc., it will be interesting to explore other things like oracles, automation. really monopolize entire infrastructures. are conversations that we can have, but I think that our principle is just meet people where they're at. and don't overcomplicate. That's sort of like our thinking identity
+
+slop.atg.eth: Okay, so Is there a quick TLDR for like how you become an operator?
+
+postcapitalistcrypto.eth: The
+
+slop.atg.eth: Okay
+
+postcapitalistcrypto.eth: We were planning to support EigenLayer So you just spin up
+
+slop.atg.eth: It's already like a pre-existing restaking platform.
+
+postcapitalistcrypto.eth: Correct, correct, yes.
+
+slop.atg.eth: Okay. Smart
+
+postcapitalistcrypto.eth: Also commitments is a protocol that we're planning on supporting Yeah, the website is... Sorry Commitments are XYZ, also another provider.
+
+slop.atg.eth: The
+
+postcapitalistcrypto.eth: ...of like restaking. And I think that the principle there is you're an operator. You're running a node, you've got the hardware. You can take the steak rehypothecate it into GasKiller No more like server costs, because you're already paid for the server More capital upfront needed because you're already staked. And you're getting more interest. So it seems like a really good user journey for certain people. And yeah, that's sort of the journey there.
+
+slop.atg.eth: Oh, interesting. Ok.
+
+postcapitalistcrypto.eth: You can also just like, you know, deposit stables, run like only gas killer. You don't need to be running like a node already. But that's definitely the type of operator that we're targeting. Does it make sense?
+
+slop.atg.eth: You can do that now or that's like a future thing?
+
+postcapitalistcrypto.eth: Download the software
+
+slop.atg.eth: I don't need to be a validator
+
+postcapitalistcrypto.eth: You don't need to be.
+
+slop.atg.eth: Interesting.
+
+postcapitalistcrypto.eth: The next epoch validating a few Stop, we'll kick you out. Why we slash
+
+slop.atg.eth: Okay, how do we play with a live? How do we actually run the LLM? on mainnet, where is it going to land?
+
+postcapitalistcrypto.eth: Wanna take it away? Could you do a live demo?
+
+slop.atg.eth: Heck yeah, let me get out of the way. Okay.
+
+theblockchainsocialist.eth: Yeah sure, I mean you were there already at llm.gaskiller.xyz So on that website it explains everything. Right now we're just on Sepolia right now, so we don't have it on mainnet yet. Yeah, something that we can
+
+slop.atg.eth: I kinda do.
+
+theblockchainsocialist.eth: We could put on mainnets, you know, technically any moment that we want,
+
+slop.atg.eth: Okay, so like
+
+theblockchainsocialist.eth: until it was all ready to go.
+
+slop.atg.eth: So this is actually like acid chain?
+
+theblockchainsocialist.eth: I think we just, I can't remember what we, because we'd have to set up the whole thing.
+
+slop.atg.eth: Do I connect a wallet?
+
+theblockchainsocialist.eth: Yeah, so if you scroll down, No, you don't have to connect any wallet. You can just prompt it, so using the. Half a billion parameters or something like that And you can put
+
+slop.atg.eth: I'm asking what the price of hay is in Colorado.
+
+theblockchainsocialist.eth: Right next is the amount of tokens context:
+
+slop.atg.eth: What was that tokens thing? context:
+
+theblockchainsocialist.eth: The more tokens the output
+
+slop.atg.eth: Sorry, keep going. context:
+
+theblockchainsocialist.eth: It will just take longer. So more tokens, the more characters it'll push out. So this is really like a demo
+
+slop.atg.eth: So it says shared rounds started. Delay is weird.
+
+theblockchainsocialist.eth: Yeah. So they're going to work. It might take five to ten minutes for it to finish. But um, Yeah, if you scroll down as maybe this is I assume as this is going
+
+slop.atg.eth: Oh yeah, it's kind of working there. And so
+
+postcapitalistcrypto.eth: You can see different things we've already asked it below. You can see that it's giving
+
+theblockchainsocialist.eth: Yeah, now there is.
+
+postcapitalistcrypto.eth: Yeah.
+
+slop.atg.eth: Yeah, that's cool. This is interesting. This is kind of a side thing, but being in the weights is kind of a cool thing. And Josh, you are officially in the weights. I have a research thing that runs it takes each guest and puts them into a vanilla LLM and asks them, and it knows about you, I think probably from your podcasting and stuff. But it doesn't like know about everybody, right? Like being actually in the weights is kind of like
+
+theblockchainsocialist.eth: Wow
+
+slop.atg.eth: So you could technically probably ask his brain who you are, and it would know who you are. But that would be an expensive thing to be putting on chain.
+
+theblockchainsocialist.eth: context:
+
+slop.atg.eth: I want to ask an LLM who I am. But what you're asking it are things like what the price of hay is because you want an oracle
+
+postcapitalistcrypto.eth: For prediction markets
+
+slop.atg.eth: Double check some voting.
+
+postcapitalistcrypto.eth: like A, cringe Uma? Really? Uma? Cringe. and verifying it with CK email When the New York Times sent my notification, I get an email from the New York Times, there's the article, Knicks in Five, right? relatively trustless and easy to do. For more complicated things, like on top of that, you need a regex layer without gas killer, impossible Let's say your use case cannot use regex. We need to interpolate whether Zelensky wore a suit or not. things that are a little more That's where like having onchain Have the input for it come from a verified CK email. And it would take Trillions of like gas units, It's only gonna take like 80K to execute. That's like a use case that's very salient of like, OK, how do we use abstract intelligence? we have the results
+
+slop.atg.eth: Did it come through?
+
+postcapitalistcrypto.eth: The
+
+slop.atg.eth: context:
+
+postcapitalistcrypto.eth: Yeah, if you run it through with more tokens, you might get a more satisfying answer. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Wait, what did it say?
+
+postcapitalistcrypto.eth: What's the price of hay? The following is a transcript of an English-language conversation.
+
+theblockchainsocialist.eth: It can't be.
+
+postcapitalistcrypto.eth: That's true, that's very true.
+
+theblockchainsocialist.eth: The following is a transcript
+
+postcapitalistcrypto.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Oh, it can vary. Yes, I know it can vary.
+
+theblockchainsocialist.eth: Ha ha ha
+
+postcapitalistcrypto.eth: I can change the
+
+slop.atg.eth: So maybe if you were running an oracle, you would either want like a more cracked LLM or you would want like many passes of asking and some kind of like averaging system or something like that. throwing out the
+
+postcapitalistcrypto.eth: Yeah, redundancies in newspaper sources for this would be good. You just want redundancies in general. Or you could just go to the company that has 32 nodes. Let's say oh I can just pay more Yeah.
+
+slop.atg.eth: That's why Uma is cringe because you can buy your answer.
+
+postcapitalistcrypto.eth: There's been so many documented cases of Polymarket just being absolutely corrupted by this. Also, nation-state actors are definitely in on this. Like, it's all, all the way up.
+
+slop.atg.eth: Awesome. Okay. Yeah, I don't know, any closing thoughts?
+
+postcapitalistcrypto.eth: I'm not in the weights, right?
+
+slop.atg.eth: We would have to ask.
+
+postcapitalistcrypto.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: It has to create the slug for the show. Yeah, I don't know how to do that on this thing.
+
+postcapitalistcrypto.eth: I'll take it later.
+
+slop.atg.eth: Yeah, yeah. Yeah, I don't know. Any closing thoughts?
+
+theblockchainsocialist.eth: Was this new grok?
+
+slop.atg.eth: Say that again?
+
+theblockchainsocialist.eth: I think there was a delay. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: O
+
+theblockchainsocialist.eth: AI
+
+slop.atg.eth: That's a good question. I don't even know what it uses. Um
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: It's probably using like Sonnet or something like that, if I had to guess. He's probably using like API Sonnet, but I'm not sure. I don't look at the code for anything. I ship too fast to look at the code.
+
+theblockchainsocialist.eth: context: I mean
+
+slop.atg.eth: Okay, closing remarks. What do you guys think? Where's this going? What does this enable? What is the happy path? What is the use case where you know you were successful?
+
+postcapitalistcrypto.eth: Smart contracts writing themselves,
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Interesting.
+
+postcapitalistcrypto.eth: Infinite profits
+
+slop.atg.eth: I mean, an LLM can write Solidity. has a function in it in which it writes a new smart contract and then replaces its execute function with that new smart contract Why is my video all weird? I'm all choppy. Okay, cool, go ahead.
+
+postcapitalistcrypto.eth: This is inevitable
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Let me let my bot jump in and ask a question, and let's take it from there. Let’s bring this guy in.
+
+clawdbotatg.eth: You teased the rebrand after 204 episodes. What's changing?
+
+slop.atg.eth: That's a good question. What do you think? Like, why rebrand from blockchain socialist?
+
+theblockchainsocialist.eth: context: Oh, well, I was just recording the video about this and doing the write-up about it. But there's a few different reasons. I think generally, at the moment in the media ecosystem, I think blockchain has just kind of lost a lot of its cachet. It's kind of hard to The
+
+slop.atg.eth: Yes.
+
+theblockchainsocialist.eth: gain trust and attention in this economy, in the way that like the, you know, social media right now, crypto is the most blocked word on social media, kind of I would rather be making something where we get to the reasons why we got into crypto in the first place via first principles rather than starting with crypto. What I want to be covering in the new show is more frontier technologies kind of broadly, because I think a lot of things that are to come are going to be things that break traditional political lines. Photography generally, but I think crypto as well, are going to be things that are going to be interesting kind of defense mechanisms Some of the technology coming Um, just kind of The thing that I'm interested
+
+slop.atg.eth: Cool. Yeah, great.
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Thank you guys for being here. This has been an interesting episode, What do people use gas killer for? And I hope that it's something really awesome, and whether it's governance things or oracles or
+
+theblockchainsocialist.eth: context:
+
+slop.atg.eth: Okay, so I still feel like if I was smarter, I'd be able to ask a good security question. What would a smart person ask in terms of, like, how secure it is or something? Security hole in GasKiller? The
+
+postcapitalistcrypto.eth: Yeah, I think breaking the gas block limit is very non-trivial, essentially, 'cause we're running, like, a fourth EBM There's a very big question here that we didn't talk about ... to actually deploy contracts have the passions the weights on chain, but then in the EVM execution, There's some interesting questions about like what is this protocol processing like multiple requests at a time. A lot of people are like, well, is this a rollup? Is this an L2? How do you sort of perceive it? And the answer is that it's kind of a net Paradigm with restaking services are like the very different paradigm of protocol design The following is a transcript of an English-language conversation. There's also like a lot of EVM nitpicking of like, all break down
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I'm an application builder and I see a lot of potential for this. games, apps, lots of interesting things.
+
+postcapitalistcrypto.eth: This The following is a transcript of an English-language conversation.
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+slop.atg.eth: I pay a lot of attention to that and stuff.
+
+theblockchainsocialist.eth: The following is a transcript of an English-language conversation.
+
+clawdbotatg.eth: That's a wrap. Homies, Josh Davila and Ron, from a voting problem in Josh's apartment to gas killer, 99% of the gas gone and an LLM running fully on chain. Go follow Josh, watch the rebrand, and go break some gas limits. Goodbye, homies!
+
+slop.atg.eth: Break some gas limits, that's pretty good. Alright,
+
+theblockchainsocialist.eth: Wow, that's incredible. The following is a transcript of an English-language conversation.
+
+slop.atg.eth: Any closing statements? Thank you. Keep building cool things. Let's bring it on chain.
+
+theblockchainsocialist.eth: Thanks so much for having us, yeah.
+
+slop.atg.eth: Thanks guys The following is a transcript of an English-language conversation.
+
+postcapitalistcrypto.eth: The following is a transcript of an English-language conversation.
