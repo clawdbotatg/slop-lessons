@@ -43,6 +43,8 @@ const S = window.DECK.scenes;
 const screen = document.getElementById('screen'), osd = document.getElementById('osd'),
       ch = document.getElementById('ch'), vid = document.getElementById('vid');
 let cur = -1, clipIdx = 0;
+vid.tabIndex = -1;
+vid.addEventListener('focus', () => vid.blur());
 
 function stage(i) {
   cur = (i + S.length) % S.length;
@@ -86,9 +88,10 @@ function play(sc, j) {
     `<span class="kick" style="color:var(--slop-magenta)">▶ NOW PLAYING · ${c.ep}</span> `);
   vid.onended = () => { vid.hidden = true; osdClips(sc); };
 }
+addEventListener('keyup', e => { if (e.key === ' ' && e.target.tagName !== 'INPUT') e.preventDefault(); });
 addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
-  if (['ArrowRight','ArrowUp'].includes(e.key)) stage(cur + 1);
+  if (['ArrowRight','ArrowUp'].includes(e.key)) { if (cur >= S.length - 1) { location.href = 'index.html'; return; } stage(cur + 1); }
   else if (['ArrowLeft','ArrowDown'].includes(e.key)) stage(cur - 1);
   else if (e.key === 'Escape') location.href = 'index.html';
   else if (e.key === ' ') {
@@ -101,7 +104,7 @@ addEventListener('keydown', e => {
   else if (e.key.toLowerCase() === 'p' && S[cur].clips?.length) play(S[cur], clipIdx);
   else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
 });
-document.getElementById('up').onclick = () => stage(cur + 1);
+document.getElementById('up').onclick = () => { if (cur >= S.length - 1) location.href = 'index.html'; else stage(cur + 1); };
 document.getElementById('dn').onclick = () => stage(cur - 1);
 document.getElementById('qab').onclick = () => SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
 const start = S.findIndex(s => '#' + s.id === location.hash);

@@ -78,7 +78,17 @@
         ${clip.ep} · ${Math.round(clip.durationSec)}s · <span style="color:var(--slop-lime)">${(clip.speakers || []).join(' + ')}</span>
       </div>`;
     const w = mkWindow('📼 ' + clip.title, el, { pad: 0, w: opt.w ?? 300, ...opt });
-    if (opt.autoplay) { const v = el.querySelector('video'); v.muted = false; v.play().catch(() => {}); }
+    const v = el.querySelector('video');
+    // clicking the video surface must SELECT the window, not toggle playback
+    // (Chrome's native click-to-toggle fights the spacebar control) — clicks on
+    // the bottom control strip still pass through untouched.
+    v.addEventListener('click', e => {
+      if (e.offsetY < v.getBoundingClientRect().height - 48) e.preventDefault();
+    });
+    // never let the video hold keyboard focus — space belongs to the deck
+    v.tabIndex = -1;
+    v.addEventListener('focus', () => v.blur());
+    if (opt.autoplay) { v.muted = false; v.play().catch(() => {}); }
     return w;
   }
 
