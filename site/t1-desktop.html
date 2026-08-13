@@ -8,9 +8,15 @@
 <div class="menubar"><span class="brand">◆ slop.computer</span><span id="scene-t" class="mid-t"></span><span id="prog"></span><span class="clock" id="clock"></span></div>
 <div class="dock" id="dock"></div>
 <div class="keyhint">←/→ scenes · G glossary · Q ask clawd</div>
-<script src="engine.js"></script><script src="data.js"></script><script src="deck-psychosis.js"></script>
+<script src="engine.js"></script><script src="data.js"></script>
+<script>
+// deck-as-data: ?deck=trust → deck-trust.js (default: psychosis)
+const DECK_NAME = (new URLSearchParams(location.search).get('deck') || 'psychosis').replace(/[^a-z0-9-]/g, '');
+document.write(`<script src="deck-${DECK_NAME}.js"><\/script>`);
+</script>
 <script>
 SLOP.paintBg();
+document.querySelector('.menubar .brand').textContent = '◆ slop.computer ▸ ' + window.DECK.name;
 const S = window.DECK.scenes;
 let cur = -1;
 const W = () => innerWidth, H = () => innerHeight;

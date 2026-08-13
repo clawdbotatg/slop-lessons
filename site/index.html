@@ -5,27 +5,33 @@
 <link rel="stylesheet" href="slop.css">
 </head><body>
 <div id="winlayer"></div>
-<div class="keyhint">drag the windows · pick a template</div>
+<div class="keyhint">drag the windows · pick a deck</div>
 <script src="engine.js"></script><script src="data.js"></script>
 <script>
 SLOP.paintBg();
 SLOP.mkWindow('slop lessons', `
   <div class="tag">slop.computer presents</div>
-  <h1 class="big">SLOP <span class="hl">PSYCHOSIS</span></h1>
-  <p class="mid muted" style="margin-top:12px">a talk distilled from 41 episodes.<br>same deck, three templates — pick one:</p>`,
-  { x: innerWidth*0.08, y: innerHeight*0.12, w: Math.min(innerWidth*0.5, 640) });
+  <h1 class="big" style="font-size:clamp(22px,3.5vw,44px)">41 EPISODES.<br><span class="hl">3 TALKS.</span></h1>
+  <p class="mid muted" style="margin-top:12px">same corpus, different throughlines. pick a deck:</p>`,
+  { x: innerWidth*0.06, y: innerHeight*0.08, w: Math.min(innerWidth*0.44, 560) });
 
-const T = [
-  ['t1-desktop.html', '🪟 desktop', 'every slide is a scene of draggable windows staged on the desktop'],
-  ['t2-terminal.html', '⌨ terminal', 'one big CRT terminal; slides type out like shell sessions; clips pop over'],
-  ['t3-broadcast.html', '📺 broadcast', 'full-screen slop TV; every slide is a channel; clips play on air'],
+const DECKS = [
+  ['t1-desktop.html?deck=psychosis', '🧠 slop psychosis', 'the five ways this workflow breaks your brain — every one a real signal, overdone', 'magenta'],
+  ['t1-desktop.html?deck=trust', '🔐 code stopped being scarce. trust didn\'t.', 'building is free now; everything still scarce is a form of trust — and that\'s crypto\'s product', 'cyan'],
+  ['t1-desktop.html?deck=sloperator', '📖 the sloperator\'s handbook', 'ten craft lessons: context, feedback loops, loop-vs-leash, throw away the code', 'lime'],
 ];
-T.forEach(([href, name, desc], i) => SLOP.mkWindow(name, `
-  <p class="mid" style="margin:0 0 8px">${desc}</p>
-  <a href="${href}"><button class="slop">open ▶</button></a>`,
-  { x: innerWidth*0.12 + i*60, y: innerHeight*0.45 + i*95, w: Math.min(innerWidth*0.42, 480) }));
+DECKS.forEach(([href, name, desc, c], i) => SLOP.mkWindow(name, `
+  <p class="mid" style="margin:0 0 10px;color:var(--slop-${c})">${desc}</p>
+  <a href="${href}"><button class="slop">present ▶</button></a>`,
+  { x: innerWidth*0.10 + i*54, y: innerHeight*0.36 + i*118, w: Math.min(innerWidth*0.46, 560) }));
 
-SLOP.mkWindow('🦞 ask clawd (preview)', `<p class="muted" style="margin:0 0 8px">Q&A window ships in every template — press Q.</p>`,
-  { x: innerWidth*0.62, y: innerHeight*0.16, w: 340 });
+SLOP.mkWindow('other templates', `
+  <p class="muted" style="margin:0 0 8px">same psychosis deck, alternate formats:</p>
+  <a href="t2-terminal.html"><button class="slop">⌨ terminal</button></a>
+  <a href="t3-broadcast.html"><button class="slop">📺 broadcast</button></a>`,
+  { x: innerWidth*0.62, y: innerHeight*0.12, w: 330 });
+
+SLOP.mkWindow('🦞 ask clawd', `<p class="muted" style="margin:0">every deck has the Q&A window — press Q while presenting.</p>`,
+  { x: innerWidth*0.64, y: innerHeight*0.42, w: 330 });
 </script>
 </body></html>

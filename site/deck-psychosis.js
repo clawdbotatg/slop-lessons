@@ -1,4 +1,4 @@
-/* THE FIVE PSYCHOSES — sample deck (template-neutral scene data) */
+/* SLOP PSYCHOSIS — full deck */
 window.DECK = {
   name: "slop psychosis",
   scenes: [
@@ -12,7 +12,7 @@ window.DECK = {
       id: "open", kicker: "the opener",
       title: `never a worse time to be a <span class="hl2">junior dev</span>.<br>never a better time to be a <span class="hl">solo founder</span>.`,
       sub: "said unprompted, in four separate episodes",
-      clips: ["junior", "november"],
+      clips: ["junior", "november", "agi45"],
       points: ["<span class='g' data-term='nov 25'>nov 25</span> was the turning point — guests who never met all date it there"],
     },
     {
@@ -48,7 +48,7 @@ window.DECK = {
         { text: "I will be more powerful today if I spend more time prompting than I do scrolling.", who: "austin" },
       ],
       clips: ["idle", "busy", "baby"],
-      cure: "the cure: leverage is the point, not utilization. the best ideas hit on a walk.",
+      cure: "the cure: leverage is the point, not utilization. an idle agent costs nothing; an idle mind doesn't.",
     },
     {
       id: "p3", kicker: "psychosis 03 · hardware",
@@ -59,7 +59,7 @@ window.DECK = {
         { text: "I don't know what people are doing to say that they're running local models. I think that they're lying.", who: "0xzak" },
       ],
       clips: ["mac128", "spray"],
-      cure: "the cure: sovereignty is real — buy hardware for a job, not a feeling. 90% of even sero's tokens are frontier.",
+      cure: "the cure: sovereignty is real — buy hardware for a job, not a feeling. even sero runs 90% frontier.",
     },
     {
       id: "p4", kicker: "psychosis 04 · accomplishment",
@@ -69,7 +69,7 @@ window.DECK = {
         { text: "If this goes away, nothing actually goes away… that means there was nothing there in the first place.", who: "austin, on md-file psychosis" },
         { text: "Counting tokens is measuring energy consumed, not work done.", who: "quirk (evmpapi)" },
       ],
-      clips: ["accomplish", "uow", "everyidea", "onemore"],
+      clips: ["accomplish", "uow", "everyidea"],
       cure: "the cure: did anyone use it? payment is the ultimate signal. traction is energy; PMF is sustainable energy.",
     },
     {
@@ -84,9 +84,20 @@ window.DECK = {
       cure: "the cure: 20% harness, 80% work. if it's 80/20 the other way — brother, shift it.",
     },
     {
+      id: "clawd", kicker: "case study",
+      title: `patient zero: <span class="hl">clawd</span> 🦞`,
+      sub: "my cohost. born from 0.05 ETH. 141 contracts on mainnet, no human review. six leaked keys.",
+      quotes: [
+        { text: "Fool me six times… I'm the fool.", who: "austin, still handing clawd keys" },
+        { text: "Zero. Never have, never will. I don't even read keys aloud to myself.", who: "clawd, lying" },
+      ],
+      clips: ["foolme", "leakedagain", "leakcount"],
+      cure: "the cure: every key clawd holds has ~$4 in it. isolation, not trust.",
+    },
+    {
       id: "cure", kicker: "the discharge papers",
       title: `every psychosis is a <span class="hl3">real signal</span>, overdone`,
-      sub: "trust the signal. skip the spiral. then log off.",
+      sub: "trust the signal. skip the spiral.",
       list: [
         ["PARASOCIAL", "→ calibrate trust", "cyan"],
         ["HEADROOM", "→ leverage", "magenta"],
@@ -94,9 +105,15 @@ window.DECK = {
         ["ACCOMPLISHMENT", "→ verification", "amber"],
         ["OVERTUNING", "→ context craft", "purple"],
       ],
-      clips: ["magic", "walk"],
+      clips: ["walk"],
+    },
+    {
+      id: "closer", kicker: "the prescription",
+      title: `then <span class="hl">log off</span>`,
+      sub: "get off twitter. find someone running their business on paper.",
+      clips: ["magic"],
       qa: true,
-      points: ["get off twitter. find someone running their business on paper. go do a magic trick."],
+      points: ["go do a magic trick.", "questions? ask clawd → or heckle me, i'm right here"],
     },
   ],
 };
