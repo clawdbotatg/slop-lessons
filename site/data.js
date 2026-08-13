@@ -1,0 +1,40 @@
+/* curated data for the sample deck: clips (cids on media.slop.computer), glossary */
+
+window.CLIPS = {
+ junior:    { ep:"shafu0x", title:"Worst time to be a junior dev, best time to be a solo founder", durationSec:26, speakers:["austingriffith.eth","shafu0x.eth"], video:"QmTePCnowPcAzqCgqzBi2cQcVqCZvhUT6QotoUMCFp33oi", poster:"QmbQeZo4Y87z8GUoNmEXVmrS5MEehtjDLPakbKiE34BC7m" },
+ november:  { ep:"marcus-rein", title:"November was the turning point for AI coding", durationSec:29, speakers:["austingriffith.eth","marcus"], video:"QmbE48CDTBftgNF2M1rcrmatzHjdjUkkuuf5QWAW8miwhx", poster:"QmXoqhf7Ds4h9ekLKmdexJbp1CbpyGZqXthWWLFtLUBCS9" },
+ agi45:     { ep:"fricoben", title:"AGI came to us as Opus 4.5", durationSec:25, speakers:["fricoben"], video:"QmNoWLhCu3GYDoaRUuHnZbPXW7Xv4VvRHJsmkdQv4whDTX", poster:"QmaxHhy7MMrHdJzwxhyvA8soYX8jhST4b2Jhw4j7X5YeiB" },
+ excel:     { ep:"lex-node", title:"Excel psychosis and AI psychosis", durationSec:20, speakers:["slop.atg.eth","lex-node.eth"], video:"QmdgofQwpo9kvCBi5K1sB7WkJ59UPjhenHhVfdfyyCJWwN", poster:"QmdS9WpkDxuYAXU3PXPox8GAhkTf5UKMzh7yXJ99gT81pF" },
+ clinical:  { ep:"nnnnicholas", title:"AI psychosis went from clinical term to derogatory catch-all", durationSec:23, speakers:["nicholas","austingriffith.eth"], video:"QmbRgsLbPLNnKYSxYReusUZYqqvVQoSk9wLSeq8xvGe9aS", poster:"Qma6odxDNd2W3Eh9eeisDaXFHLMcTDekmsjk9w4fZYTXbG" },
+ idle:      { ep:"w1nt3r-eth", title:"My AI psychosis is the anxiety of agents sitting idle", durationSec:61, speakers:["w1nt3r.eth","slop.atg.eth"], video:"QmZQsfRWzFZQ9pjxF9UraUkYFkR215m4mzXoYKyeXvHYe5", poster:"QmZB5HNuQZ8MeZZ3YmU9y4iHYAJZLfCtKoHVpantyvZgcZ" },
+ busy:      { ep:"ludamad", title:"The developer's AI psychosis: keeping agents busy", durationSec:34, speakers:["slop.atg.eth","ludamad"], video:"QmNiTfMbVX1t4XXVAWpnBNSqRb8eMd5GuBK8aNxweetJg6", poster:"QmaFJZoRBu1F7ziQQDkkNQE1Psrxf1bQm1eAN2bBnx8xcQ" },
+ baby:      { ep:"dennisonbertram", title:"Feeding a baby while agents wait for me to hit enter", durationSec:23, speakers:["dennisonbertram.eth","austingriffith.eth"], video:"QmPb92fV5Ti6LeizwL91xT9LLBNuWtmHU44hV5bAWq3d3v", poster:"QmZEh6pjRWfwwQMVjTTqXPruYHAiE5B53RuKGwjdpL65FZ" },
+ mac128:    { ep:"billyrennekamp", title:"128GB Mac for local models: never been happier", durationSec:42, speakers:["billyrennekamp.eth","austingriffith.eth"], video:"QmYCdGP9zXuL6NZ4d2ERopnoHZUp7LhzufZQToF8Ga796j", poster:"QmT33Sm6a2Tx8wR4oPYUt8kKsQssNd6ts7AtBRZ9xQsMg1" },
+ spray:     { ep:"0xsero", title:"Spray and hope: how he burns 30 billion tokens a month", durationSec:61, speakers:["0xSero","austingriffith.eth"], video:"QmWYC1aHxa4P2sp4wh4W1n2KviEbbFuChcUvzyFqaXQCvP", poster:"Qme95vcinm9pbFwX3FfvRQcmuVFCmsHC7PzEMF3FQvMom7" },
+ accomplish:{ ep:"ludamad", title:"Accomplishment psychosis: one slash-command from recreation", durationSec:50, speakers:["slop.atg.eth"], video:"QmaCuVaeykfd6Kbt2MK67KasYU9Yh87ygz9CwFewqtkqWv", poster:"QmTHW9yNkRs5GhNsWvRzPHL8XsYfcWMJ6ER7RHxsEVYaX9" },
+ uow:       { ep:"evmpapi", title:"Stop counting tokens, measure Units of Work", durationSec:51, speakers:["quirk","austingriffith.eth"], video:"Qmd4tbgfDWrVd8sLcLJk51677Nakk1GRm2p6PJRMxGWqgy", poster:"QmXiqjoX2YV82Lwg2h3pgTyQ7nXGX8ZfFCWf8xUfdziu7T" },
+ everyidea: { ep:"nnnnicholas", title:"Building every idea you have is its own psychosis", durationSec:36, speakers:["nicholas","austingriffith.eth"], video:"QmdUYaniFVgHA27E85zSzC5iL8vm5d3NRe9HyVwRqi8aNQ", poster:"QmYJscfwk1REhGuJE79qWC7PuirCw35NMZb5UyfMpLJ1Rp" },
+ onemore:   { ep:"shawmakesmagic", title:"You can get addicted to creativity — one more prompt", durationSec:35, speakers:["slop.atg.eth","shaw"], video:"QmYZW3MVfpDT9995G3eEMBFsWfEARtG6ixeUCZ99AQqVR9", poster:"QmSTbuaiVQzNQPefBHRsRPAhpM2pNCCbnn6yY3xmjrpww5" },
+ oneprompt: { ep:"ludamad", title:"Prompt psychosis: always one prompt away from the fix", durationSec:61, speakers:["slop.atg.eth","ludamad"], video:"Qmbqii92C9pVPMAz6NhGv84C4ujU1shfwEYWHum7gxXWhk", poster:"QmYvnf3N7BBntNBSMqp3fkUS6L6w54s1camAyofFLWdWi1" },
+ loops:     { ep:"dabit3", title:"Loops will be eaten by good harnesses", durationSec:32, speakers:["austingriffith.eth","dabit3"], video:"QmZKuoiufE2FAixJSXBFeJwFaLU3YLTrAMJCFoas9a2rvw", poster:"QmcivRxJKKokoaRcnVutpepH1GRrrDq9NV85nC48EYYuQZ" },
+ m13:       { ep:"dcbuilder", title:"$1.3 million in codex tokens and everyone switched anyway", durationSec:31, speakers:["dcbuilder","austingriffith.eth"], video:"QmYrxQ1Egqhku6MugCdSSeBrFfDDbDcfeU9649uuwgg3hj", poster:"QmcL1ghVfGELSrSzUq2u3YqG3XAg2SC6RsxPpYBHJmLWHg" },
+ magic:     { ep:"w1nt3r-eth", title:"Go do a magic trick for someone running their business on paper", durationSec:90, speakers:["w1nt3r.eth"], video:"QmZumXmK7gKGEpy2E1SmB2VQcRmyqetH59MgPScpw7tHPp", poster:"QmY5JsYxthW3MyB9tmrxHgP86oodxKYS6mJwwbM6nmBSci" },
+ walk:      { ep:"w1nt3r-eth", title:"Your best ideas hit on a walk, not at the prompt", durationSec:51, speakers:["w1nt3r.eth","slop.atg.eth"], video:"QmaymKB9ECU9CE4jtvwTL6nA6Ys3S8BUSYTqZ24vpccA2P", poster:"QmW4gLSJxG2WABrxTFxqDPiZEsidQBfptgu7zY6VopnNpn" },
+};
+
+window.GLOSSARY = [
+ { term:"sloperator", tldr:"a person who ships real things by directing AI agents. the job title of the era." },
+ { term:"slop", tldr:"AI output nobody shaped. slop in the variables, slop back — it can't help it. (0xyoussea)" },
+ { term:"harness", tldr:"the tooling wrapped around a model: Claude Code, Codex, or your own 100-line loop. a year ago this was dismissed as 'just a ChatGPT wrapper.'" },
+ { term:"ralph loop", tldr:"the dumbest orchestration: re-run the same prompt with a FRESH context every pass. the baseline every fancy framework must beat — most don't. (fucory)" },
+ { term:"headroom", tldr:"the unspent compute in your subscription. it burns whether you prompt or not, and you can feel it burning from the backyard." },
+ { term:"claw-dogging", tldr:"giving an agent a raw private key. fine at $5 of play money. (0xzak / 0xyoussea)" },
+ { term:"skill.md", tldr:"a playbook file an agent reads to learn your product. llms.txt is the index; skill.md is the how-to. docs are for agents now." },
+ { term:"x402", tldr:"HTTP's 402 'Payment Required', finally lit up: agents paying per-request in USDC, no API key, no signup. 100M+ transactions." },
+ { term:"clawd", tldr:"the AI cohost. born Jan 25 2026 when Austin sent 0.05 ETH to a fresh wallet. 141+ contracts on mainnet, no human review. leaked three keys, denies everything." },
+ { term:"nov 25", tldr:"the turning point. independently reported by guests who never met: the Opus 4.5-era jump when models started doing more good things than bad things." },
+ { term:"psychosis", tldr:"clinical term → builder self-diagnosis → derogatory catch-all. here: the five ways this workflow breaks your brain. every one is a real signal, overdone." },
+ { term:"back pressure", tldr:"how fast and how honestly a system tells itself it's wrong: tests, differential traces, honeypots. the thing that makes dumb loops smart. (fucory)" },
+ { term:"slop curve", tldr:"every one-shot project starts great, then the slop accumulates and compounds. pros diffuse the curve; amateurs climb it. (adrianleb)" },
+ { term:"idea guy summer", tldr:"the era where the idea is the scarce part. 'your duty is now only to have ideas and to be in the flow.' (fricoben / fucory)" },
+];

@@ -1,0 +1,126 @@
+/* slop.computer design tokens (lifted from the live site) + presentation chrome */
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap');
+
+:root {
+  --slop-bg: #06030d;
+  --slop-base: radial-gradient(circle at 50% 30%, #14091e 0%, #06030d 70%, #000 100%);
+  --slop-panel: #0a0f24;
+  --slop-panel-glass: linear-gradient(180deg, #0a0f24f2, #060818eb);
+  --slop-panel-light: #1a1638;
+  --slop-magenta: #ff3ec9;
+  --slop-magenta-dim: #c41a96;
+  --slop-purple: #7c4dff;
+  --slop-cyan: #3fcfff;
+  --slop-lime: #bcff5b;
+  --slop-amber: #ffae00;
+  --slop-red: #f57;
+  --slop-text: #e8e0ff;
+  --slop-text-muted: #7878a0;
+  --slop-titlebar: linear-gradient(180deg, var(--slop-purple) 0%, #7c4dff8c 50%, #7c4dffd9 100%);
+  --slop-titlebar-active: linear-gradient(180deg, var(--slop-magenta) 0%, #ff3ec98c 50%, #ff3ec9d9 100%);
+  --disp: 'Silkscreen', 'Courier New', monospace;
+  --mono: ui-monospace, Menlo, Monaco, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; overflow: hidden; }
+body {
+  background: var(--slop-bg);
+  color: var(--slop-text);
+  font-family: var(--mono);
+  font-size: 14px;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+}
+
+/* desktop background: base gradient + dot grid + stars + scanlines */
+.desktop-bg { position: fixed; inset: 0; z-index: 0; pointer-events: none; }
+.desktop-bg .base { position: absolute; inset: 0; background: var(--slop-base); }
+.desktop-bg .glow { position: absolute; inset: 0;
+  background: radial-gradient(ellipse 70% 50% at 50% 30%, rgba(124,77,255,.12) 0%, transparent 70%); }
+.desktop-bg svg { position: absolute; inset: 0; width: 100%; height: 100%; opacity: .45; }
+.desktop-bg .scan { position: absolute; inset: 0; mix-blend-mode: multiply;
+  background: repeating-linear-gradient(0deg, transparent 0, transparent 2px, rgba(0,0,0,.18) 2px, rgba(0,0,0,.18) 3px); }
+.star { position: absolute; width: 1px; height: 1px; background: #fff; opacity: .5; }
+.star.big { width: 2px; height: 2px; opacity: .85; }
+
+/* window */
+.win {
+  position: absolute;
+  background: var(--slop-panel-glass);
+  border: 1px solid #ff3ec940;
+  box-shadow: 0 0 0 1px #000, 0 12px 40px #000c, 0 0 24px #7c4dff22;
+  display: flex; flex-direction: column;
+  min-width: 180px; min-height: 60px;
+  animation: winin .18s ease-out;
+}
+@keyframes winin { from { transform: scale(.92) translateY(10px); opacity: 0; } }
+.win.closing { transition: all .12s; transform: scale(.9); opacity: 0; }
+.win .bar {
+  background: var(--slop-titlebar);
+  color: #fff; font-family: var(--disp); font-size: 11px;
+  padding: 4px 8px; display: flex; align-items: center; gap: 8px;
+  cursor: grab; text-shadow: 0 1px 0 #0008; flex: 0 0 auto;
+}
+.win.focus .bar { background: var(--slop-titlebar-active); }
+.win .bar .dot { width: 9px; height: 9px; border-radius: 50%; background: #0a0f24; border: 1px solid #fff6; flex: 0 0 auto; cursor: pointer; }
+.win .bar .dot:hover { background: var(--slop-red); }
+.win .bar .t { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.win .body { padding: 14px; overflow: auto; flex: 1; user-select: text; }
+.win .body::-webkit-scrollbar { width: 6px; }
+.win .body::-webkit-scrollbar-thumb { background: var(--slop-purple); }
+
+/* content bits */
+.big { font-family: var(--disp); font-size: clamp(26px, 4.5vw, 54px); line-height: 1.15;
+  color: var(--slop-text); text-shadow: 0 0 18px #ff3ec966; margin: 0; }
+.big .hl { color: var(--slop-magenta); }
+.big .hl2 { color: var(--slop-cyan); }
+.big .hl3 { color: var(--slop-lime); }
+.mid { font-family: var(--disp); font-size: clamp(15px, 1.8vw, 24px); line-height: 1.35; margin: 0; }
+.muted { color: var(--slop-text-muted); }
+.tag { display: inline-block; font-family: var(--disp); font-size: 10px; padding: 2px 8px;
+  border: 1px dashed var(--slop-magenta); color: var(--slop-magenta); margin-bottom: 10px; }
+.quote { font-size: clamp(15px, 1.6vw, 21px); line-height: 1.5; margin: 0; }
+.quote .who { display: block; margin-top: 10px; color: var(--slop-lime); font-family: var(--disp); font-size: 12px; }
+.quote:before { content: '“'; color: var(--slop-magenta); font-size: 1.6em; line-height: 0; margin-right: 2px; }
+
+.g { color: var(--slop-cyan); border-bottom: 1px dotted var(--slop-cyan); cursor: help; }
+a, .link { color: var(--slop-cyan); text-decoration: none; cursor: pointer; }
+.link:hover { color: var(--slop-magenta); }
+
+button.slop {
+  font-family: var(--disp); font-size: 12px; color: var(--slop-text);
+  background: var(--slop-panel-light); border: 1px solid #7c4dff88; padding: 6px 14px; cursor: pointer;
+}
+button.slop:hover { box-shadow: 0 0 16px #7c4dff59; border-color: var(--slop-magenta); }
+input.slop {
+  font-family: var(--mono); font-size: 13px; color: var(--slop-text);
+  background: #060818; border: 1px solid #7c4dff66; padding: 8px 10px; width: 100%;
+}
+input.slop:focus { outline: none; border-color: var(--slop-magenta); }
+
+video { display: block; width: 100%; background: #000; }
+
+/* menu bar (t1) */
+.menubar {
+  position: fixed; top: 0; left: 0; right: 0; height: 30px; z-index: 5000;
+  background: var(--slop-panel-glass); border-bottom: 1px solid #ff3ec940;
+  display: flex; align-items: center; gap: 16px; padding: 0 12px;
+  font-family: var(--disp); font-size: 11px;
+}
+.menubar .brand { color: var(--slop-magenta); }
+.menubar .mid-t { flex: 1; text-align: center; color: var(--slop-text-muted); }
+.menubar .clock { color: var(--slop-cyan); }
+
+/* dock / progress */
+.dock {
+  position: fixed; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 5000;
+  display: flex; gap: 8px; padding: 8px 14px;
+  background: var(--slop-panel-glass); border: 1px solid #ff3ec940;
+}
+.dock .d { width: 10px; height: 10px; border: 1px solid var(--slop-purple); cursor: pointer; }
+.dock .d.on { background: var(--slop-magenta); border-color: var(--slop-magenta); box-shadow: 0 0 8px var(--slop-magenta); }
+.dock .d:hover { border-color: var(--slop-cyan); }
+
+.keyhint { position: fixed; bottom: 12px; right: 14px; z-index: 5000;
+  font-family: var(--disp); font-size: 10px; color: var(--slop-text-muted); }
