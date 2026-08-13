@@ -93,6 +93,8 @@ addEventListener('keydown', e => {
   else if (e.key === 'Escape') location.href = 'index.html';
   else if (e.key === ' ') {
     e.preventDefault();
+    if (e.repeat || Date.now() - (window.__ls || 0) < 350) return;
+    window.__ls = Date.now();
     if (!vid.hidden) { vid.paused ? vid.play().catch(() => {}) : vid.pause(); }
     else if (S[cur].clips?.length) play(S[cur], clipIdx);
   }
