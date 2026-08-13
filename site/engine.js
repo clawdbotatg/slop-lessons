@@ -130,17 +130,38 @@
       a.style.cssText = 'margin:6px 0';
       a.textContent = '…';
       log.appendChild(a); log.scrollTop = 1e6;
+      const dots = setInterval(() => { a.textContent = a.textContent.length > 12 ? '\u{1F99E} thinking' : a.textContent + '.'; }, 900);
+      a.textContent = '\u{1F99E} thinking';
       try {
-        const r = await fetch('/api/ask', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ q }) });
-        if (!r.ok) throw 0;
-        a.textContent = (await r.json()).answer;
+        a.textContent = await askUpstream(q);
       } catch {
-        a.innerHTML = `<span class="muted">[clawd is offline — the Q&amp;A backend isn't wired up yet. the window works; the brain is coming.]</span>`;
+        a.innerHTML = `<span class="muted">[clawd is offline \u2014 no local agent and no backend answered.]</span>`;
       }
+      clearInterval(dots);
       log.scrollTop = 1e6;
     });
     return w;
   }
 
-  window.SLOP = { paintBg, mkWindow, closeWindow, closeAll, clipWindow, bindGlossary, qaWindow, IPFS };
+  /* localhost-first: when presenting from a machine running agent/server.py
+     (claude -p on subscription), answers come straight off that box; everyone
+     else falls back to the site's /api/ask. */
+  async function askUpstream(q) {
+    const post = (url) => fetch(url, {
+      method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ q }), signal: AbortSignal.timeout(90_000),
+    });
+    try {
+      const h = await fetch('http://localhost:8899/health', { signal: AbortSignal.timeout(1200) });
+      if (h.ok) {
+        const r = await post('http://localhost:8899/ask');
+        if (r.ok) return (await r.json()).answer;
+      }
+    } catch {}
+    const r = await post('/api/ask');
+    if (!r.ok) throw 0;
+    return (await r.json()).answer;
+  }
+
+  window.SLOP = { paintBg, mkWindow, closeWindow, closeAll, clipWindow, bindGlossary, qaWindow, IPFS, askUpstream };
 })();

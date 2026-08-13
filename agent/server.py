@@ -46,8 +46,20 @@ class H(BaseHTTPRequestHandler):
         self.send_response(code)
         self.send_header("content-type", "application/json")
         self.send_header("content-length", str(len(body)))
+        self._cors()
         self.end_headers()
         self.wfile.write(body)
+
+    def _cors(self):
+        # the site (https) may call this server on localhost while presenting
+        self.send_header("Access-Control-Allow-Origin", "*")
+        self.send_header("Access-Control-Allow-Headers", "content-type, x-ask-secret")
+        self.send_header("Access-Control-Allow-Methods", "POST, GET, OPTIONS")
+
+    def do_OPTIONS(self):
+        self.send_response(204)
+        self._cors()
+        self.end_headers()
 
     def do_GET(self):
         if self.path == "/health":
@@ -57,7 +69,8 @@ class H(BaseHTTPRequestHandler):
     def do_POST(self):
         if self.path != "/ask":
             return self._json(404, {"error": "nope"})
-        if not SECRET or self.headers.get("X-Ask-Secret", "") != SECRET:
+        # SECRET set → require it (public box). unset → local mode, bound to 127.0.0.1 only.
+        if SECRET and self.headers.get("X-Ask-Secret", "") != SECRET:
             return self._json(403, {"error": "no"})
         try:
             n = min(int(self.headers.get("content-length", 0)), 4096)

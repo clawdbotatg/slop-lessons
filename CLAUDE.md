@@ -117,14 +117,26 @@ as-is; the only backend is `/api/ask` (serverless function, currently Anthropic
 API + `api/corpus.js`). No ANTHROPIC_API_KEY is set, so ask-clawd shows its
 offline stub — intentional, see TODO.
 
-### TODO: route /api/ask through claude-p-agent on SUBSCRIPTION billing
-Austin explicitly does NOT want metered API billing for Q&A. Plan: `/api/ask`
-forwards the question to a claude-p-agent (see `projects/claude-p-agent` —
-`claude -p` on subscription OAuth) running on one of his boxes, e.g. a tiny
-authed relay endpoint the Vercel function POSTs to (box needs a public route —
-the fleet relay or a tunnel). The corpus/persona moves into that agent's
-CLAUDE.md. Vercel then needs only the relay URL + a shared secret env var, no
-Anthropic key. ON HOLD until Austin says go.
+### ask-clawd: DONE (2026-08-13) — claude -p on SUBSCRIPTION, no metered API
+Austin explicitly does NOT want metered API billing, and does NOT want anyone
+touching the Vercel platform (no CLI, no dashboard — git push IS the deploy).
+Architecture (`agent/` in this repo):
+- `agent/server.py` — stdlib HTTP on 127.0.0.1:8899; POST /ask spawns
+  `claude -p` (the claude-p-agent pattern: cwd=agent dir, env scrubbed of
+  CLAUDECODE/CLAUDE_CODE_*/ANTHROPIC_* → child rides the box's OAuth
+  subscription). Persona = `agent/CLAUDE.md` (clawd voice from clawd-md
+  soul.md); corpus via `agent/corpus/` symlinks; tools locked to read-only via
+  `agent/.claude/settings.json` deny list. NOT OpenClaw — never OpenClaw.
+- **The Q&A widget tries `http://localhost:8899` FIRST** (engine.js
+  askUpstream) — when Austin presents from a machine running the agent,
+  answers come straight off his own box. Start it manually with
+  `./agent/run-local.sh` (foreground; deliberately no daemon — he'll rarely
+  use it). Falls back to `/api/ask`.
+- Fallback path (optional): `ask-clawd.service` also runs on zkllmapi behind
+  nginx at h.atg.link/ask (deployed via `agent/deploy.sh`; secret only in
+  `zkllmapi:~/ask-clawd/.env`). `/api/ask` proxies there but needs ASK_SECRET
+  in the site's env — Austin has NOT set it and that's fine; the widget then
+  reports clawd offline for remote visitors.
 
 Multiple decks = multiple deck-data files + a chooser index.
 
