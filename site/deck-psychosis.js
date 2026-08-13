@@ -1,0 +1,102 @@
+/* THE FIVE PSYCHOSES — sample deck (template-neutral scene data) */
+window.DECK = {
+  name: "slop psychosis",
+  scenes: [
+    {
+      id: "title", kicker: "slop.computer presents",
+      title: `SLOP <span class="hl">PSYCHOSIS</span>`,
+      sub: "field notes from 41 episodes of building with AI × crypto",
+      points: ["austin griffith + clawd 🦞", "every quote is real. every clip is onchain."],
+    },
+    {
+      id: "open", kicker: "the opener",
+      title: `never a worse time to be a <span class="hl2">junior dev</span>.<br>never a better time to be a <span class="hl">solo founder</span>.`,
+      sub: "said unprompted, in four separate episodes",
+      clips: ["junior", "november"],
+      points: ["<span class='g' data-term='nov 25'>nov 25</span> was the turning point — guests who never met all date it there"],
+    },
+    {
+      id: "taxonomy", kicker: "a taxonomy",
+      title: `the five <span class="hl">psychoses</span>`,
+      sub: "the ways this workflow breaks your brain — every one is a real signal, overdone",
+      list: [
+        ["01 PARASOCIAL", "it thinks you're brilliant", "cyan"],
+        ["02 HEADROOM", "the meter runs while you grill", "magenta"],
+        ["03 HARDWARE", "a DGX Spark will fix me", "lime"],
+        ["04 ACCOMPLISHMENT", "look at everything i made", "amber"],
+        ["05 OVERTUNING", "always one prompt away", "purple"],
+      ],
+      clips: ["clinical"],
+    },
+    {
+      id: "p1", kicker: "psychosis 01 · parasocial",
+      title: `it thinks you're <span class="hl2">brilliant</span>`,
+      sub: "talking to it like it's real — and it agreeing with you",
+      quotes: [
+        { text: "Everything you do is great. It's just that you grew up having everyone tell you that you suck.", who: "dennison, on 'sycophancy'" },
+        { text: "I choose a British man because it's the voice that I feel least bad getting mad at.", who: "billyrennekamp" },
+      ],
+      clips: ["excel"],
+      cure: "the cure: make it argue. fresh context, adversarial second agent, 'critique this plan.'",
+    },
+    {
+      id: "p2", kicker: "psychosis 02 · headroom",
+      title: `the <span class="hl">headroom</span> burns in six hours`,
+      sub: "in the backyard with your family, feeling the subscription idle",
+      quotes: [
+        { text: "If I don't have three agents running and I'm feeding my baby? I'm not dad maxing enough.", who: "austin" },
+        { text: "I will be more powerful today if I spend more time prompting than I do scrolling.", who: "austin" },
+      ],
+      clips: ["idle", "busy", "baby"],
+      cure: "the cure: leverage is the point, not utilization. the best ideas hit on a walk.",
+    },
+    {
+      id: "p3", kicker: "psychosis 03 · hardware",
+      title: `a <span class="hl3">DGX spark</span> will fix me`,
+      sub: "mac minis. RTX 6000s. a server that heats the office.",
+      quotes: [
+        { text: "I'll make a query and I'll be sitting there like, wow, why am I sweating just on my right side?", who: "auryn, on his local-AI box" },
+        { text: "I don't know what people are doing to say that they're running local models. I think that they're lying.", who: "0xzak" },
+      ],
+      clips: ["mac128", "spray"],
+      cure: "the cure: sovereignty is real — buy hardware for a job, not a feeling. 90% of even sero's tokens are frontier.",
+    },
+    {
+      id: "p4", kicker: "psychosis 04 · accomplishment",
+      title: `look at everything i <span class="hl">made</span>`,
+      sub: "a ton of data, an intricate app — and the feeling of having done something",
+      quotes: [
+        { text: "If this goes away, nothing actually goes away… that means there was nothing there in the first place.", who: "austin, on md-file psychosis" },
+        { text: "Counting tokens is measuring energy consumed, not work done.", who: "quirk (evmpapi)" },
+      ],
+      clips: ["accomplish", "uow", "everyidea", "onemore"],
+      cure: "the cure: did anyone use it? payment is the ultimate signal. traction is energy; PMF is sustainable energy.",
+    },
+    {
+      id: "p5", kicker: "psychosis 05 · overtuning",
+      title: `always <span class="hl2">one prompt away</span>`,
+      sub: "tuning the prompts, the env, the context, the harness, the loop — forever",
+      quotes: [
+        { text: "If you can't beat the baseline, your orchestration is probably just burning tokens.", who: "fucory, on the ralph loop" },
+        { text: "If you spend all your time engineering your tool, you never actually build the app.", who: "fucory" },
+      ],
+      clips: ["oneprompt", "loops", "m13"],
+      cure: "the cure: 20% harness, 80% work. if it's 80/20 the other way — brother, shift it.",
+    },
+    {
+      id: "cure", kicker: "the discharge papers",
+      title: `every psychosis is a <span class="hl3">real signal</span>, overdone`,
+      sub: "trust the signal. skip the spiral. then log off.",
+      list: [
+        ["PARASOCIAL", "→ calibrate trust", "cyan"],
+        ["HEADROOM", "→ leverage", "magenta"],
+        ["HARDWARE", "→ sovereignty", "lime"],
+        ["ACCOMPLISHMENT", "→ verification", "amber"],
+        ["OVERTUNING", "→ context craft", "purple"],
+      ],
+      clips: ["magic", "walk"],
+      qa: true,
+      points: ["get off twitter. find someone running their business on paper. go do a magic trick."],
+    },
+  ],
+};

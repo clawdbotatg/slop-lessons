@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>slop psychosis — broadcast</title>
+<link rel="stylesheet" href="slop.css">
+<style>
+  #tv { position: fixed; inset: 4vh 6vw; z-index: 10; background: #010104;
+    border: 2px solid #1a1638; border-radius: 18px; overflow: hidden;
+    box-shadow: 0 0 0 1px #ff3ec940, 0 0 80px #7c4dff2e, inset 0 0 120px #000; }
+  #screen { position: absolute; inset: 0; display: flex; flex-direction: column;
+    justify-content: center; padding: 5vw; }
+  #screen.static { background: repeating-conic-gradient(#111 0 .00009turn, #333 0 .00018turn); animation: flick .08s steps(2) infinite; }
+  @keyframes flick { 50% { filter: invert(.8); } }
+  #tv .scan2 { position: absolute; inset: 0; pointer-events: none; z-index: 4;
+    background: repeating-linear-gradient(0deg, transparent 0, transparent 3px, rgba(0,0,0,.25) 3px, rgba(0,0,0,.25) 4px); }
+  #tv .vig { position: absolute; inset: 0; pointer-events: none; z-index: 5;
+    background: radial-gradient(ellipse at center, transparent 55%, #000c 100%); }
+  #ch { position: absolute; top: 3.5%; right: 4%; z-index: 6; font-family: var(--disp);
+    font-size: clamp(18px, 2.6vw, 34px); color: var(--slop-lime); text-shadow: 0 0 12px var(--slop-lime); }
+  #osd { position: absolute; left: 4%; right: 4%; bottom: 5%; z-index: 6; }
+  #osd .lower { background: #06030dd9; border: 1px solid #ff3ec966; border-left: 6px solid var(--slop-magenta); padding: 12px 18px; }
+  #vid { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain; z-index: 1; background:#000; }
+  .kick { font-family: var(--disp); font-size: clamp(11px, 1.2vw, 15px); color: var(--slop-cyan); letter-spacing: .12em; }
+  #screen h1 { z-index: 2; }
+  #screen .subline { z-index: 2; }
+  .qgrid { z-index: 2; display: grid; gap: 14px; margin-top: 3vh; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+  .qcard { background: #06030dc9; border: 1px dashed #7c4dff66; padding: 14px 16px; }
+  #chanbtns { position: fixed; right: 1.2vw; top: 50%; transform: translateY(-50%); z-index: 5001;
+    display: flex; flex-direction: column; gap: 10px; }
+  #chanbtns button { width: 44px; height: 44px; }
+</style>
+</head><body>
+<div id="winlayer"></div>
+<div id="tv"><div id="screen"></div><video id="vid" hidden></video><div class="scan2"></div><div class="vig"></div>
+  <div id="ch"></div><div id="osd"></div></div>
+<div id="chanbtns"><button class="slop" id="up">▲</button><button class="slop" id="dn">▼</button><button class="slop" id="qab">🦞</button></div>
+<div class="keyhint" style="z-index:5001">↑/↓ or ←/→ channels · Q ask clawd · P play clip</div>
+<script src="engine.js"></script><script src="data.js"></script><script src="deck-psychosis.js"></script>
+<script>
+SLOP.paintBg();
+const S = window.DECK.scenes;
+const screen = document.getElementById('screen'), osd = document.getElementById('osd'),
+      ch = document.getElementById('ch'), vid = document.getElementById('vid');
+let cur = -1, clipIdx = 0;
+
+function stage(i) {
+  cur = (i + S.length) % S.length;
+  const sc = S[cur]; clipIdx = 0;
+  location.hash = sc.id;
+  vid.pause(); vid.hidden = true;
+  ch.textContent = 'CH ' + String(cur + 1).padStart(2, '0');
+  screen.classList.add('static'); screen.innerHTML = ''; osd.innerHTML = '';
+  setTimeout(() => {
+    screen.classList.remove('static');
+    screen.innerHTML = `
+      <div class="kick">${sc.kicker}</div>
+      <h1 class="big" style="font-size:clamp(30px,5.5vw,72px);margin-top:1vh">${sc.title}</h1>
+      ${sc.sub ? `<p class="mid muted subline" style="margin-top:2vh">${sc.sub}</p>` : ''}
+      ${sc.list ? `<div class="qgrid">${sc.list.map(([a,b,c]) =>
+        `<div class="qcard"><span style="font-family:var(--disp);color:var(--slop-${c})">${a}</span><br><span class="muted">${b}</span></div>`).join('')}</div>` : ''}
+      ${sc.quotes ? `<div class="qgrid">${sc.quotes.map(q =>
+        `<div class="qcard quote" style="font-size:clamp(13px,1.4vw,18px)">${q.text}<span class="who">— ${q.who}</span></div>`).join('')}</div>` : ''}
+      ${sc.cure ? `<p class="mid" style="z-index:2;margin-top:2.5vh;color:var(--slop-lime)">💊 ${sc.cure}</p>` : ''}
+      ${(sc.points||[]).map(p => `<p class="mid" style="z-index:2;margin-top:1.5vh">▸ ${p}</p>`).join('')}`;
+    if (sc.clips?.length) osdClips(sc);
+    if (sc.qa) SLOP.qaWindow({ x: innerWidth - 480, y: innerHeight * 0.14 });
+    SLOP.bindGlossary(screen);
+  }, 200);
+}
+
+function osdClips(sc) {
+  osd.innerHTML = `<div class="lower" style="display:flex;gap:14px;align-items:center;flex-wrap:wrap">
+    <span class="kick">ON THIS CHANNEL</span>
+    ${sc.clips.map((k, j) => `<span class="link" data-j="${j}" style="font-family:var(--disp);font-size:12px">▶ ${CLIPS[k].title}</span>`).join('<span class="muted">·</span>')}
+  </div>`;
+  osd.querySelectorAll('.link').forEach(el => el.addEventListener('click', () => play(sc, +el.dataset.j)));
+}
+function play(sc, j) {
+  clipIdx = j;
+  const c = CLIPS[sc.clips[j]];
+  vid.src = SLOP.IPFS(c.video); vid.poster = SLOP.IPFS(c.poster);
+  vid.hidden = false; vid.controls = true;
+  vid.play().catch(() => {});
+  osd.querySelector('.lower').insertAdjacentHTML('afterbegin',
+    `<span class="kick" style="color:var(--slop-magenta)">▶ NOW PLAYING · ${c.ep}</span> `);
+  vid.onended = () => { vid.hidden = true; osdClips(sc); };
+}
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (['ArrowRight','ArrowUp',' '].includes(e.key)) stage(cur + 1);
+  else if (['ArrowLeft','ArrowDown'].includes(e.key)) stage(cur - 1);
+  else if (e.key.toLowerCase() === 'p' && S[cur].clips?.length) play(S[cur], clipIdx);
+  else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
+});
+document.getElementById('up').onclick = () => stage(cur + 1);
+document.getElementById('dn').onclick = () => stage(cur - 1);
+document.getElementById('qab').onclick = () => SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
+const start = S.findIndex(s => '#' + s.id === location.hash);
+stage(start >= 0 ? start : 0);
+</script>
+</body></html>

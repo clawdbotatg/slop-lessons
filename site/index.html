@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>slop lessons</title>
+<link rel="stylesheet" href="slop.css">
+</head><body>
+<div id="winlayer"></div>
+<div class="keyhint">drag the windows · pick a template</div>
+<script src="engine.js"></script><script src="data.js"></script>
+<script>
+SLOP.paintBg();
+SLOP.mkWindow('slop lessons', `
+  <div class="tag">slop.computer presents</div>
+  <h1 class="big">SLOP <span class="hl">PSYCHOSIS</span></h1>
+  <p class="mid muted" style="margin-top:12px">a talk distilled from 41 episodes.<br>same deck, three templates — pick one:</p>`,
+  { x: innerWidth*0.08, y: innerHeight*0.12, w: Math.min(innerWidth*0.5, 640) });
+
+const T = [
+  ['t1-desktop.html', '🪟 desktop', 'every slide is a scene of draggable windows staged on the desktop'],
+  ['t2-terminal.html', '⌨ terminal', 'one big CRT terminal; slides type out like shell sessions; clips pop over'],
+  ['t3-broadcast.html', '📺 broadcast', 'full-screen slop TV; every slide is a channel; clips play on air'],
+];
+T.forEach(([href, name, desc], i) => SLOP.mkWindow(name, `
+  <p class="mid" style="margin:0 0 8px">${desc}</p>
+  <a href="${href}"><button class="slop">open ▶</button></a>`,
+  { x: innerWidth*0.12 + i*60, y: innerHeight*0.45 + i*95, w: Math.min(innerWidth*0.42, 480) }));
+
+SLOP.mkWindow('🦞 ask clawd (preview)', `<p class="muted" style="margin:0 0 8px">Q&A window ships in every template — press Q.</p>`,
+  { x: innerWidth*0.62, y: innerHeight*0.16, w: 340 });
+</script>
+</body></html>

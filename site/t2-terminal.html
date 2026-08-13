@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>slop psychosis — terminal</title>
+<link rel="stylesheet" href="slop.css">
+<style>
+  #term { position: fixed; inset: 6vh 8vw; display: flex; flex-direction: column;
+    background: #04020a; border: 1px solid #ff3ec940; box-shadow: 0 0 60px #7c4dff33, 0 0 0 1px #000; z-index: 10; }
+  #term .tbar { background: var(--slop-titlebar-active); font-family: var(--disp); font-size: 11px;
+    color: #fff; padding: 5px 10px; display: flex; gap: 8px; }
+  #tout { flex: 1; overflow: auto; padding: 22px 26px; font-size: clamp(14px, 1.5vw, 19px);
+    line-height: 1.65; user-select: text; text-shadow: 0 0 6px #e8e0ff33; }
+  #tout .ps { color: var(--slop-lime); }
+  #tout .cmd { color: var(--slop-cyan); }
+  #tout h1 { font-family: var(--disp); font-size: clamp(24px, 4vw, 46px); margin: 10px 0;
+    color: var(--slop-text); text-shadow: 0 0 18px #ff3ec966; line-height: 1.15; }
+  #tout .q { color: var(--slop-text); border-left: 2px solid var(--slop-magenta); padding-left: 12px; margin: 8px 0; }
+  #tout .who { color: var(--slop-lime); font-family: var(--disp); font-size: .7em; }
+  #tout .clipline { color: var(--slop-amber); cursor: pointer; }
+  #tout .clipline:hover { color: var(--slop-magenta); }
+  #tout .cure { color: var(--slop-lime); }
+  .cursor { display: inline-block; width: .6em; height: 1.1em; background: var(--slop-magenta);
+    vertical-align: text-bottom; animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+</style>
+</head><body>
+<div id="winlayer"></div>
+<div id="term"><div class="tbar"><span class="dot" style="width:9px;height:9px;border-radius:50%;background:#0a0f24;border:1px solid #fff6"></span>austin@slop — psychosis.deck — 80×24</div><div id="tout"></div></div>
+<div class="keyhint" style="z-index:5001">←/→ scenes · ⏎ next · Q ask clawd · click [▶] for clips</div>
+<script src="engine.js"></script><script src="data.js"></script><script src="deck-psychosis.js"></script>
+<script>
+SLOP.paintBg();
+const S = window.DECK.scenes, out = document.getElementById('tout');
+let cur = -1, typing = null;
+
+function lines(sc) {
+  const L = [];
+  L.push(`<span class="ps">austin@slop</span> ~/psychosis $ <span class="cmd">open ${String(cur+1).padStart(2,'0')}-${sc.id}.md</span>`);
+  L.push(`<span class="muted"># ${sc.kicker} · ${cur+1}/${S.length}</span>`);
+  L.push(`<h1>${sc.title}</h1>`);
+  if (sc.sub) L.push(`<span class="muted">${sc.sub}</span>`);
+  (sc.list || []).forEach(([a,b,c]) => L.push(`<span style="font-family:var(--disp);color:var(--slop-${c})">${a}</span> <span class="muted">· ${b}</span>`));
+  (sc.quotes || []).forEach(q => L.push(`<div class="q">“${q.text}”<br><span class="who">— ${q.who}</span></div>`));
+  (sc.clips || []).forEach(k => L.push(`<span class="clipline" data-clip="${k}">[▶ clip · ${CLIPS[k].title} · ${Math.round(CLIPS[k].durationSec)}s]</span>`));
+  (sc.points || []).forEach(p => L.push(`▸ ${p}`));
+  if (sc.cure) L.push(`<span class="cure">💊 ${sc.cure}</span>`);
+  if (sc.qa) L.push(`<span class="clipline" data-qa="1">[🦞 open ask-clawd]</span>`);
+  return L;
+}
+
+function stage(i) {
+  cur = (i + S.length) % S.length;
+  clearTimeout(typing);
+  SLOP.closeAll();
+  out.innerHTML = '';
+  location.hash = S[cur].id;
+  const L = lines(S[cur]);
+  let n = 0;
+  (function next() {
+    if (n >= L.length) { out.innerHTML += '<div><span class="ps">austin@slop</span> ~/psychosis $ <span class="cursor"></span></div>'; hook(); return; }
+    out.innerHTML += `<div>${L[n++]}</div>`;
+    out.scrollTop = 1e6; hook();
+    typing = setTimeout(next, 120);
+  })();
+}
+function hook() {
+  out.querySelectorAll('.clipline').forEach(el => {
+    if (el._h) return; el._h = 1;
+    el.addEventListener('click', () => el.dataset.qa
+      ? SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 })
+      : SLOP.clipWindow(CLIPS[el.dataset.clip], { x: innerWidth/2 - 150, y: innerHeight*0.12, w: 300, autoplay: true }));
+  });
+  SLOP.bindGlossary(out);
+}
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (['ArrowRight',' ','Enter'].includes(e.key)) stage(cur + 1);
+  else if (e.key === 'ArrowLeft') stage(cur - 1);
+  else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 160 });
+});
+const start = S.findIndex(s => '#' + s.id === location.hash);
+stage(start >= 0 ? start : 0);
+</script>
+</body></html>
