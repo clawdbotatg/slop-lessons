@@ -2,10 +2,37 @@
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>slop lessons</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<meta name="description" content="41 episodes of slop.computer distilled into clickable talks — slop psychosis, trust, and the sloperator's handbook.">
+<meta property="og:title" content="slop lessons">
+<meta property="og:description" content="41 episodes of slop.computer distilled into clickable talks — slop psychosis, trust, and the sloperator's handbook. Every quote is real. Every clip is onchain.">
+<meta property="og:url" content="https://slop-lessons.vercel.app/">
+<meta property="og:image" content="https://slop-lessons.vercel.app/card.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="slop lessons">
+<meta name="twitter:description" content="41 episodes of slop.computer distilled into clickable talks. Every quote is real. Every clip is onchain.">
+<meta name="twitter:image" content="https://slop-lessons.vercel.app/card.png">
 <link rel="stylesheet" href="slop.css">
+<style>
+  #outro-icon { position: fixed; right: 22px; bottom: 44px; z-index: 5001; text-decoration: none;
+    display: flex; flex-direction: column; align-items: center; gap: 6px; width: 84px; }
+  #outro-icon img { width: 52px; height: 52px; image-rendering: pixelated;
+    filter: drop-shadow(0 0 10px #ff3ec988); }
+  #outro-icon span { font-family: var(--disp); font-size: 10px; color: var(--slop-text);
+    background: #06030dcc; border: 1px dashed #ff3ec966; padding: 2px 8px; }
+  #outro-icon:hover img { filter: drop-shadow(0 0 16px var(--slop-magenta)); }
+  #gloss-icon { position: fixed; right: 22px; bottom: 158px; z-index: 5001; text-decoration: none;
+    display: flex; flex-direction: column; align-items: center; gap: 6px; width: 84px; }
+  #gloss-icon > span:last-child { font-family: var(--disp); font-size: 10px; color: var(--slop-text);
+    background: #06030dcc; border: 1px dashed #3fcfff66; padding: 2px 8px; }
+</style>
 </head><body>
 <div id="winlayer"></div>
 <div class="keyhint">drag the windows · pick a deck</div>
+<a id="outro-icon" href="outro.html" title="closing slide — QR + contact"><img src="logo-mark-pink.png" alt=""><span>outro ▦</span></a>
+<a id="gloss-icon" href="glossary.html" title="the slop dictionary"><span style="font-size:44px;line-height:1;filter:drop-shadow(0 0 10px #3fcfff88)">📖</span><span>glossary</span></a>
 <script src="engine.js"></script><script src="data.js"></script>
 <script>
 SLOP.paintBg();

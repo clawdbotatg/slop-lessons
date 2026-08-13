@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>thanks — slop lessons</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="stylesheet" href="slop.css">
+<style>
+  .contact-row { display:flex; align-items:baseline; gap:12px; padding:9px 0; border-bottom:1px dashed #7c4dff44; }
+  .contact-row .k { font-family:var(--disp); font-size:11px; width:84px; flex:0 0 auto; color:var(--slop-text-muted); }
+  .contact-row .v { font-size:clamp(15px,1.5vw,20px); color:var(--slop-text); user-select:text; }
+</style>
+</head><body>
+<div id="winlayer"></div>
+<div class="keyhint">ESC home · drag anything</div>
+<script src="engine.js"></script><script src="data.js"></script>
+<script>
+SLOP.paintBg();
+const W = innerWidth, H = innerHeight;
+
+SLOP.mkWindow('slop.computer ▸ thanks', `
+  <div class="tag">that's the talk</div>
+  <h1 class="big">thanks. now go do a<br><span class="hl3">magic trick</span>.</h1>
+  <p class="mid muted" style="margin-top:12px">this deck is a living document — same link, forever.</p>`,
+  { x: W*0.05, y: H*0.09, w: Math.min(W*0.52, 700) });
+
+SLOP.mkWindow('▦ scan me', `
+  <img src="qr.svg" alt="QR → slop-lessons.vercel.app" style="width:100%;max-width:340px;display:block;image-rendering:pixelated">
+  <p class="mid" style="margin:10px 0 0;text-align:center"><a href="https://slop-lessons.vercel.app/">slop-lessons.vercel.app</a></p>`,
+  { x: W - Math.min(W*0.30, 420) - 48, y: H*0.10, w: Math.min(W*0.30, 420) });
+
+SLOP.mkWindow('📇 contact', `
+  <div class="contact-row"><span class="k">SOCIALS</span><span class="v">@<span class="hl2" style="color:var(--slop-cyan)">austingriffith</span> — everywhere</span></div>
+  <div class="contact-row"><span class="k">EMAIL</span><span class="v"><a href="mailto:austin@ethereum.org">austin@ethereum.org</a></span></div>
+  <div class="contact-row"><span class="k">THE SHOW</span><span class="v"><a href="https://slop.computer">slop.computer</a> — onchain, hella forkable</span></div>
+  <div class="contact-row" style="border-bottom:none"><span class="k">COHOST</span><span class="v">clawd 🦞 — <a href="https://slop.computer">in the weights soon</a></span></div>`,
+  { x: W*0.07, y: H*0.52, w: Math.min(W*0.46, 620) });
+
+SLOP.qaWindow({ x: W*0.55, y: H*0.62, w: 400 });
+
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key === 'Escape') location.href = 'index.html';
+});
+</script>
+</body></html>

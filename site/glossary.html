@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>glossary — slop lessons</title>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="stylesheet" href="slop.css">
+<style>
+  .term-row { display:flex; align-items:baseline; gap:10px; padding:7px 0; border-bottom:1px dashed #7c4dff44; cursor:pointer; }
+  .term-row:hover .t-name { color: var(--slop-magenta); }
+  .t-name { font-family:var(--disp); font-size:13px; color:var(--slop-cyan); flex:0 0 auto; }
+  .t-hint { color:var(--slop-text-muted); font-size:13px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+</style>
+</head><body>
+<div id="winlayer"></div>
+<div class="keyhint">click a term · ESC home</div>
+<script src="engine.js"></script><script src="data.js"></script>
+<script>
+SLOP.paintBg();
+const W = innerWidth, H = innerHeight;
+
+SLOP.mkWindow('📖 the slop dictionary', `
+  <div class="tag">glossary · ${GLOSSARY.length} terms</div>
+  <p class="mid muted" style="margin:0 0 10px">the vocabulary of 41 episodes. click one.</p>
+  ${GLOSSARY.map((g, i) => `
+    <div class="term-row" data-i="${i}">
+      <span class="t-name">${g.term}</span>
+      <span class="t-hint">${g.tldr}</span>
+    </div>`).join('')}`,
+  { x: W*0.06, y: H*0.08, w: Math.min(W*0.5, 640), h: H*0.8 });
+
+document.querySelectorAll('.term-row').forEach(row => row.addEventListener('click', e => {
+  const g = GLOSSARY[+row.dataset.i];
+  SLOP.mkWindow('📖 ' + g.term, `<p class="quote" style="font-size:16px">${g.tldr}</p>`,
+    { x: Math.min(W*0.58, W-400) + (Math.random()*60|0), y: H*0.12 + (Math.random()*H*0.5|0), w: 360 });
+}));
+
+addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  if (e.key === 'Escape') location.href = 'index.html';
+});
+</script>
+</body></html>
