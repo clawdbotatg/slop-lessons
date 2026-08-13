@@ -1,0 +1,14 @@
+[Unit]
+Description=ask-clawd — slop-lessons Q&A (claude -p on subscription)
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/ask-clawd
+EnvironmentFile=/home/ubuntu/ask-clawd/.env
+ExecStart=/usr/bin/python3 /home/ubuntu/ask-clawd/server.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

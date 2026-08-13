@@ -1,0 +1,5 @@
+{
+  "permissions": {
+    "deny": ["Bash", "Write", "Edit", "NotebookEdit", "WebFetch", "WebSearch", "Task"]
+  }
+}
