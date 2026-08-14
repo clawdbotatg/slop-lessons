@@ -117,7 +117,7 @@ as-is; the only backend is `/api/ask` (serverless function, currently Anthropic
 API + `api/corpus.js`). No ANTHROPIC_API_KEY is set, so ask-clawd shows its
 offline stub — intentional, see TODO.
 
-### ask-clawd: DONE (2026-08-13) — claude -p on SUBSCRIPTION, no metered API
+### ask-clawd: BUILT, THEN STOOD DOWN (2026-08-13) — talk will be short, no live Q&A needed
 Austin explicitly does NOT want metered API billing, and does NOT want anyone
 touching the Vercel platform (no CLI, no dashboard — git push IS the deploy).
 Architecture (`agent/` in this repo):
@@ -132,11 +132,11 @@ Architecture (`agent/` in this repo):
   answers come straight off his own box. Start it manually with
   `./agent/run-local.sh` (foreground; deliberately no daemon — he'll rarely
   use it). Falls back to `/api/ask`.
-- Fallback path (optional): `ask-clawd.service` also runs on zkllmapi behind
-  nginx at h.atg.link/ask (deployed via `agent/deploy.sh`; secret only in
-  `zkllmapi:~/ask-clawd/.env`). `/api/ask` proxies there but needs ASK_SECRET
-  in the site's env — Austin has NOT set it and that's fine; the widget then
-  reports clawd offline for remote visitors.
+- Relay-box deployment was TORN DOWN on Austin's call (service, nginx
+  /ask route, and ~/ask-clawd removed from zkllmapi; fleet UI verified
+  unaffected). All code stays in `agent/` — to resurrect locally:
+  `./agent/run-local.sh` and the widget finds it; to resurrect publicly:
+  `./agent/deploy.sh` + re-add the nginx location + ASK_SECRET in site env.
 
 Multiple decks = multiple deck-data files + a chooser index.
 
