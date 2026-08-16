@@ -1,2 +1,2 @@
-.vercel
-pipeline/.vt/
+.vt/
+__pycache__/
