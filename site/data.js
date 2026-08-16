@@ -83,6 +83,8 @@ window.GLOSSARY = [
  { term:"distillation", tldr:"Distillation is the process of training a smaller \"student\" model to mimic the outputs of a larger \"teacher\" model, transferring capabilities while reducing size and inference cost." },
  { term:"EDR", tldr:"EDR (Endpoint Detection and Response) is a security platform category where LLMs are increasingly used to auto-generate detection rules against proprietary EDR schemas, requiring normalization layers to mitigate hallucinations." },
  { term:"ExLlamaV3", tldr:"Optimized quantization and inference library for running LLMs locally on consumer NVIDIA GPUs, using the EXL3 format (a streamlined QTIP variant) with tensor parallelism, speculative decoding, and cache quantization." },
+ { term:"eye of Sauron", tldr:"the moment crypto Twitter's full attention lands on your launch — a couple days to a couple weeks of it, then gone. (songadaymann)" },
+ { term:"FWA (Fake World Assets)", tldr:"TokenWorks' onchain gachapon — vaulted trading cards you rip on mainnet; the primitive gachabattle.fun is built on. (econoar)" },
  { term:"GGUF", tldr:"GGUF is a binary file format for storing quantized LLM weights and metadata, designed for fast loading and inference with llama.cpp and compatible runtimes." },
  { term:"harness", tldr:"In AI/LLM contexts, a harness is the scaffolding code that runs a model against tasks or evals \u2014 handling prompting, tool calls, parsing, and scoring." },
  { term:"headroom", tldr:"the unspent compute in your subscription. it burns whether you prompt or not, and you can feel it burning from the backyard." },
@@ -119,6 +121,7 @@ window.GLOSSARY = [
  { term:"tokens per second (tok/s)", tldr:"A throughput metric measuring how many tokens an LLM generates (or processes) per second, commonly used to benchmark inference speed across models, hardware, and serving frameworks." },
  { term:"TUI", tldr:"Text-based User Interface \u2014 a terminal-rendered interactive UI, commonly used for AI dev tools like Claude Code, Aider, and other CLI agent harnesses." },
  { term:"vLLM", tldr:"vLLM is a high-throughput, memory-efficient inference and serving engine for LLMs, best known for PagedAttention which optimizes KV cache management to boost throughput." },
+ { term:"walkaway test", tldr:"can the builders walk away and the thing keeps working? austin's bar for real onchain mechanism design." },
  { term:"worktree", tldr:"A feature in Git that lets you check out multiple branches simultaneously in separate directories, commonly used by AI coding agents to run parallel tasks without conflicts." },
  { term:"x402", tldr:"HTTP's 402 'Payment Required', finally lit up: agents paying per-request in USDC, no API key, no signup. 100M+ transactions." }
 ];

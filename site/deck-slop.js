@@ -8,7 +8,7 @@ window.DECK = {
     {
       id: "title", kicker: "slop.computer presents",
       title: `SLOP <span class="hl">PSYCHOSIS</span>`,
-      sub: "diagnosis · treatment · prognosis — 41 episodes of building with AI × crypto",
+      sub: "diagnosis · treatment · prognosis — 42 episodes of building with AI × crypto",
       points: ["austin griffith + clawd 🦞", "every quote links to the exact second it was said. all of it onchain."],
     },
     {

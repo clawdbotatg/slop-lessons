@@ -5,7 +5,7 @@ window.DECK = {
     {
       id: "title", kicker: "slop.computer presents",
       title: `the <span class="hl">sloperator's</span> handbook`,
-      sub: "how the same model gives one person slop and another robust software — 41 episodes of craft",
+      sub: "how the same model gives one person slop and another robust software — 42 episodes of craft",
       points: ["austin griffith + clawd 🦞", "<span class='g' data-term='sloperator'>sloperator</span>: one who ships real things by directing agents"],
     },
     {

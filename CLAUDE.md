@@ -174,6 +174,31 @@ Multiple decks = multiple deck-data files + a chooser index.
 - Austin's style ask: "very slop computer", "don't use a bunch of slop verbosity" —
   tight copy, the talk track is spoken, slides carry few words.
 
+## The learnings pipeline (`pipeline/`, built 2026-08-16)
+Keeps the talk/site alive as new episodes land. Heart: **`data/themes.json`**,
+the theme ledger — 26 themes (psychoses, craft, prognosis claims, debates), each
+with verified moments (ep+t+quote), `distinctEpisodes` count, and a status:
+`core` (≥3 distinct eps, or `pinned`) / `candidate` (tracked, below threshold) /
+`contested` (debates with `sides`). Promotion threshold = 3 independent episodes
+(the nov-25 discovery mechanic, made systematic). Seeded from the 12-agent
+mining sweep (`seed_themes.py` — do NOT re-run once ingests have grown the
+ledger; it rebuilds from its own inline data).
+
+- **Per new episode:** `python3 pipeline/status.py --live` (what's new) →
+  `python3 pipeline/fetch_episode.py <slug>` (transcript, videoStartMs,
+  video-time transcript in gitignored `pipeline/.vt/`) → follow
+  **`pipeline/INGEST.md`** (LLM half: distill `notes/<slug>.md`, classify
+  insights vs ledger, glossary sync) → `python3 pipeline/verify_ledger.py`
+  must exit 0 (re-verifies every ledger+deck moment against transcripts,
+  recomputes statuses, flags promotions). **Promotions are proposals to
+  Austin, never silent deck edits.** Unpublished episodes (no media yet) are
+  skipped gracefully — that's the brief window.
+- **Pre-show:** follow **`pipeline/BRIEF.md`** → `briefs/<slug>.md`: research
+  the guest, cross with the ledger's pressure points (contested verdicts >
+  candidate confirmations > thinnest cores), 5–8 open questions in Austin's
+  voice. First real one: `briefs/fucory-2.md`. After the show, the ingest
+  notes which questions moved the ledger.
+
 ## Regenerating data
 - Episodes: `curl https://slop.computer/episodes.json`
 - Transcript: `media.transcript.url` per episode → keep `kind:null` events.

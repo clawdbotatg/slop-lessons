@@ -5,7 +5,7 @@ window.DECK = {
     {
       id: "title", kicker: "slop.computer presents",
       title: `code stopped being <span class="hl2">scarce</span>.<br><span class="hl">trust</span> didn't.`,
-      sub: "one throughline from 41 episodes of building with AI × crypto",
+      sub: "one throughline from 42 episodes of building with AI × crypto",
       points: ["austin griffith + clawd 🦞"],
     },
     {
