@@ -64,9 +64,49 @@
      "who": "austin",
      "quote": "You need to think like that guy now, not like the coder. The coder is gone. You are idea guy Summer",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 1263,
+     "who": "billy",
+     "quote": "I think that there was also just a turning point maybe within the last three months that really pushed me into that camp.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "annikasays",
+     "t": 1682,
+     "who": "annika (wombat)",
+     "quote": "Over Christmas break, I started seeing tweets of all of these other non-technical people saying, Wow, I coded this website. I built myself this daily briefing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 1302,
+     "who": "dcbuilder",
+     "quote": "And so I just felt like an urge that I needed to do something to scale myself. AI just came in clutch, especially in November of last year.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 2407,
+     "who": "austin",
+     "quote": "maybe about six months ago, like November of 2025, is when all of this became much more accessible",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 1912,
+     "who": "austin",
+     "quote": "it's a terrible time to be a junior developer, but there's never been a better time in history to be a solo entrepreneur",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 7,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -151,9 +191,169 @@
      "who": "eric.eth",
      "quote": "Yeah, to be clear to everybody, this was launched like 12 hours ago",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 1783,
+     "who": "w1nt3r",
+     "quote": "It's a thing that I would never have kind of made myself because the effort required felt like more than the value I would get from it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 1492,
+     "who": "billy",
+     "quote": "I'm fully on board now with don't review the code.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 652,
+     "who": "nicholas",
+     "quote": "Vibe coding is over because everyone is vibe coding.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 3508,
+     "who": "sero",
+     "quote": "Anybody can now go and make a dashboard, a website, an app. So how is it, like, why would I go to your app versus just build my own app?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 3144,
+     "who": "lordofafew",
+     "quote": "software is like so ephemeral now, it's so cheap to make. We just made ten putt-putts while we were talking.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 1299,
+     "who": "marcoworms",
+     "quote": "when I started Temple, my agent was the CTO",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 2062,
+     "who": "marcoworms",
+     "quote": "I think that's good, we can see that our ideas suck faster.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "unforcedag",
+     "t": 1498,
+     "who": "unforced",
+     "quote": "I haven't written code in like a year and a half... I very rarely read my code",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "jalilwahdat",
+     "t": 3164,
+     "who": "jalil",
+     "quote": "to me, it's like playing with clay. Software used to be extremely difficult. You're building a house of cards, and you remove one thing and the whole thing falls down",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 734,
+     "who": "nader dabit",
+     "quote": "if you want to focus on one project, it used to take months to build. You can actually ship something in a couple of hours now, it's crazy.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 1639,
+     "who": "kevin jones",
+     "quote": "And so I just vibe coded an entire Pokémon battle game on the weekend.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kevincodex",
+     "t": 2375,
+     "who": "kevincodex",
+     "quote": "Even a grandma and a six-year-old can build. They can build Snake. A grandma just built a Candy Crush.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 1130,
+     "who": "sophia (sodofi)",
+     "quote": "I fully built the private AI note-taker in one shot. I had two shots technically. I did one planning session",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 1391,
+     "who": "dennison",
+     "quote": "I think the most exciting thing about AI is that the limits now are just you and your ideas.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 3153,
+     "who": "port",
+     "quote": "we are in an age where building stuff is trivial",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shafu0x",
+     "t": 2873,
+     "who": "shafu0x",
+     "quote": "We need the smart contracts doing this and this. I was like, this doesn't exist anymore. You're going to clone code and give it to an auditor and you're going to deploy it. You don't need me",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 2627,
+     "who": "jmann",
+     "quote": "The things that go viral on Twitter, you're like, that's awesome, but that took you 10 minutes. It's so easy.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xrcinus",
+     "t": 494,
+     "who": "austin",
+     "quote": "I have the patience of a monk. I haven't written code for two years.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 1043,
+     "who": "binji",
+     "quote": "I feel like I'm a super-powered idea guy right now.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 2229,
+     "who": "binji",
+     "quote": "I'm gonna get that Codex subscription, I'm just gonna fucking do it. Like you can literally just do it now.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 8,
+   "distinctEpisodes": 23,
    "status": "core"
   },
   {
@@ -257,9 +457,41 @@
      "quote": "I feel like it's a semi-conscious thing. That's how they're building it. They're making it seem conscious, right?",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 6091,
+     "who": "shaw",
+     "quote": "I just want that damn personal agent. I just want her.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 2559,
+     "who": "kevin jones",
+     "quote": "AI is gonna tell you like, hey, you know, this is the best thing you could do ever. And it's probably not, you know, you need to really talk to people.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xrcinus",
+     "t": 971,
+     "who": "austin",
+     "quote": "If it was deterministic, then we would all know that I am the asshole. But it's non-deterministic, so maybe it's the asshole.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 1600,
+     "who": "binji",
+     "quote": "People weren't having that outcry because it's the smartest model or the fastest model.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -362,9 +594,41 @@
      "who": "clawd",
      "quote": "You've hit your session limit. Resets. 2:50 PM, America/Denver",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 2800,
+     "who": "shaw",
+     "quote": "I have three laptops next to each other and I kind of have like different things going. Usually my right laptop is just like reviewing PRs. My left laptop is like running tests.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kentherogers",
+     "t": 1714,
+     "who": "kent",
+     "quote": "While I wait for this one to finish, I'll just go start up another agent... And then you're like, I have seven agents. I don't know which one is done. I don't know which one's good.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 1913,
+     "who": "port",
+     "quote": "Instead of scrolling Twitter, I get to just do one more prompt, and I'm just adding to it. I just keep developing things",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 2252,
+     "who": "austin",
+     "quote": "I will be more powerful today if I spend more time prompting than I do scrolling.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 10,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -459,9 +723,17 @@
      "who": "eric.eth",
      "quote": "have a standalone Mac mini of some sort for all this stuff.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 1711,
+     "who": "omniharmonic",
+     "quote": "That was just a local resilience thing. If they turn off the internet tomorrow and I needed to set up some drip irrigation software for my off-grid regenerative farm",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 10,
    "status": "core"
   },
   {
@@ -557,9 +829,73 @@
      "quote": "You have a $10 million bill at the end of the month, but what did the outcome of that be?",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 1181,
+     "who": "shaw",
+     "quote": "So much more to building something than just the code. Like building a community, supporting it, helping people with the issues they have, just the whole thing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "evmpapi",
+     "t": 1281,
+     "who": "quirk",
+     "quote": "We're not building a harness. We're not building a model. We're building an environment on machine-level code that can actually measure is your AI being productive.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 1882,
+     "who": "marcoworms",
+     "quote": "I realized most of my prototypes, I've done it because I wanted to do it, but it was not necessarily solving anybody's problems",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 3352,
+     "who": "austin",
+     "quote": "you should be building a bunch of random shit, but useful shit, right? Don't be token maxing, don't be just outputting apps.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 3690,
+     "who": "austin",
+     "quote": "I've had $800 days... And then it's like, what do I have to show for it?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 3285,
+     "who": "auryn",
+     "quote": "My guess is that it's probably not verifying most of the stuff... probably not doing input validation.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 2383,
+     "who": "jmann",
+     "quote": "You put a quarter into the thing and you turn the little knob, and it gives you like a little bobble. And you're like, yay, I got a bobble! And then like you throw it in the trash",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 2429,
+     "who": "jmann",
+     "quote": "I didn't do most of the things. I was given a thing versus a thing that we made together.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -631,9 +967,49 @@
      "quote": "It did that four or five times until it got to 85% or above approval rating. I don't know if I'm just wasting burning tokens.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "ludamad",
+     "t": 3119,
+     "who": "ludamad",
+     "quote": "My keyword prompt is going to be a lot more effective than the other person's keyword prompt, even though we're both typing a few keywords",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 4033,
+     "who": "lordofafew",
+     "quote": "how you initially spec, what models you use, what harness you use, how you do cloud inference, you have to reassess yourself constantly, otherwise you'll fall off the frontier",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "unforcedag",
+     "t": 2745,
+     "who": "unforced",
+     "quote": "if I just keep pouring context in and talking, then I can build this autonomous system that maps me... that self-organizing system is always about one month away",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 2167,
+     "who": "ash",
+     "quote": "Someone published an article and it was called orchestration tax? And I'm a firm believer in it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 3190,
+     "who": "austin",
+     "quote": "going back to the 80/20, you're spending 20% of the time improving the product and 80% of the time using the product to get work done",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 5,
+   "distinctEpisodes": 8,
    "status": "core"
   },
   {
@@ -712,9 +1088,57 @@
      "who": "eric.eth",
      "quote": "One thing I've been trying to get good at as well is thread management, because I noticed once you get to the context window, it gets worse. You should split up tasks",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "0xsero",
+     "t": 3859,
+     "who": "sero",
+     "quote": "keeping things simple because the models just love to overcomplicate everything. They're very good at localized changes, they're not good across systems",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 4122,
+     "who": "ash",
+     "quote": "if you just say write to memory, it would go for cloud.md, and that's not what you want to do. You want to keep that concise... think of that as the manual",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "annikasays",
+     "t": 1292,
+     "who": "annika (wombat)",
+     "quote": "Pointing it at a folder and asking it to write an email on a specific topic, and when it does a job that is like five to ten x better than you would have done writing it from memory",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 3092,
+     "who": "dcbuilder",
+     "quote": "The sauce is in how do you put the right tools and the right skills and the right context and the right instructions and the right frame of mind for how to use the tool.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 1227,
+     "who": "0xyoussea",
+     "quote": "Usually it's what creates most of the problems because these are like token machines... if you've given it slop in the variables, it's gonna give you some sort of slop back. It just can't help it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fucory",
+     "t": 2850,
+     "who": "fucory",
+     "quote": "Our word barf is to just like get every bit of context out of your head, right?",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 8,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -762,9 +1186,129 @@
      "quote": "That's how all software needs to be built. There should be a slash skill route in every software.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "econoar",
+     "t": 2628,
+     "who": "austin",
+     "quote": "And again, if you're out there and you want to build something, give your AI ethskills.com",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lex-node",
+     "t": 957,
+     "who": "lex-node",
+     "quote": "I have a set of skills. I think I started with the default legal skill, but now I've essentially forked it and evolved it a lot according to my own standards and use cases.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "ludamad",
+     "t": 2512,
+     "who": "ludamad",
+     "quote": "We have an open-source repo, we want to enable people to build on it, we want to disseminate that knowledge because it is a complex project.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fricoben",
+     "t": 1468,
+     "who": "fricoben",
+     "quote": "It's not even needed a skill file, like you just give it the documentation, he's going to understand everything of it and he's going to be able to like make a good model",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 1151,
+     "who": "marcoworms",
+     "quote": "you just need to give them the .txt and they will be able to chat, vote, move the money. It kind of gives them the entire ability to do whatever a human does inside the protocol",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 1997,
+     "who": "ash",
+     "quote": "I'm not really making apps anymore. I'm just into skills now. I think like apps are skills now.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 2136,
+     "who": "ash",
+     "quote": "Why are you trying to get them to create a new habit of going to somethingelse.com if it's still a chat UI? So don't swim against the current, just be a plugin.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 2616,
+     "who": "austin",
+     "quote": "This is what you give your agent. Just give them this docs. You should MDify this.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 1332,
+     "who": "0xyoussea",
+     "quote": "For now, if you look at the stats, there's like as many views from humans as from agents... The numbers are going to grow exponentially for agents.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kentherogers",
+     "t": 601,
+     "who": "kent",
+     "quote": "It's the specifics and the implementation piece that I think has changed... more about agent experience than anything else. How easy is it to use an agent to work with your products?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 2519,
+     "who": "dennison",
+     "quote": "the majority of my agent's time is just merge conflicts and like merging, right? If you have 100 PRs and you merge one, now all the other ones are out of date.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 667,
+     "who": "port",
+     "quote": "now that people are using agents more than they click buttons around, I turned this into an API, and a skill, and an MCP",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 715,
+     "who": "port",
+     "quote": "It's just abi.ninja, but for agents.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fucory",
+     "t": 2567,
+     "who": "fucory",
+     "quote": "You see that in here where I have two different docs, one for humans, for agents.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fucory",
+     "t": 2193,
+     "who": "fucory",
+     "quote": "Oftentimes, the reason why their libraries are so good is because they write the docs first.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 5,
+   "distinctEpisodes": 15,
    "status": "core"
   },
   {
@@ -865,9 +1409,41 @@
      "who": "eric.eth",
      "quote": "It can call CodeX, it can call Kimmy, it can call Grok and just do it itself. You don't need like all four UIs open",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 3569,
+     "who": "billy",
+     "quote": "If you say make me more paperclips and the robot comes back with the deconstruction of the universe in order to maximize the paperclips, then you haven't been very precise.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "evmpapi",
+     "t": 2042,
+     "who": "quirk",
+     "quote": "When we look at the operating system, agents cannot lie because we see the machine moving.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 1199,
+     "who": "marcus",
+     "quote": "It had written a test, and it simply printed \"Test successful\"... I was like, oh man, that's gaslighting as hell right there.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 2401,
+     "who": "dcbuilder",
+     "quote": "Once I do my eval of like the agent does the task correctly ten times... I finalize the structure of the skill, save the skill, and then I just build a cron job and automate that thing away.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 8,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -939,9 +1515,33 @@
      "quote": "You're getting so much code that you have to rethink code review. You have to loosen your standards, which a lot of people don't want to do.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 4813,
+     "who": "w1nt3r",
+     "quote": "You are too slow if you are viewing the code the old way.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 3055,
+     "who": "lordofafew",
+     "quote": "I'm not breaking it up, but I'm just telling it you should go break this up, and it will go do that.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "jalilwahdat",
+     "t": 845,
+     "who": "jalil",
+     "quote": "I took pride in the act of coding. I see it as a craft and I would mull over single lines of codes for hours.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 6,
+   "distinctEpisodes": 9,
    "status": "core"
   },
   {
@@ -989,9 +1589,33 @@
      "quote": "And no loss aversion. You need to start over sometimes.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 1546,
+     "who": "billy",
+     "quote": "The ability to so completely describe the needs of a product is a form of programming, it's coding",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 1496,
+     "who": "kevin jones",
+     "quote": "I'm in the very firm belief that we're not that far away from software just being self-healing. Something's going to break and it's going to fix itself.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 3504,
+     "who": "adrianleb",
+     "quote": "it's very ephemeral at this point. Just throw away a lot of things and just be focused on the goal and the objective.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 4,
+   "distinctEpisodes": 6,
    "status": "core"
   },
   {
@@ -1016,9 +1640,73 @@
      "quote": "With AI building, you're constantly going between effective and efficient.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "murrlincoln",
+     "t": 1840,
+     "who": "murr",
+     "quote": "somebody who is a React Native expert and has worked with agentic development for a very long time, they can probably get a pretty much identical experience without the cost of a frontier model",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 826,
+     "who": "nader dabit",
+     "quote": "I'm kind of like experimenting with this orchestration model where you kind of have a really intelligent orchestrator and a quick or inexpensive executor",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 2140,
+     "who": "nader dabit",
+     "quote": "Just like a smart harness knows which tools to call, a smart router knows which LLMs to call.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 1849,
+     "who": "omniharmonic",
+     "quote": "I've started to build workflows that have like code as the kind of workhorse, but then trying to use local inference for like the small little tasks",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 4095,
+     "who": "austin",
+     "quote": "Use the frontier models to build the software, use mock data going into that software, and then build it so then you can use an open source model or a local model to actually power it and touch the sensitive data.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 3158,
+     "who": "dennison",
+     "quote": "the thing is, if it's only half as good, but you can run it ten times as often",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xrcinus",
+     "t": 2910,
+     "who": "austin",
+     "quote": "That was like 1/100th of the price of what it would cost to do that with Claude.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 1775,
+     "who": "binji",
+     "quote": "I don't need to have a mega genius to contextualize my notifications. I just need something that contextualize my notifications.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 2,
+   "distinctEpisodes": 9,
    "status": "core"
   },
   {
@@ -1043,9 +1731,121 @@
      "quote": "Anyone can build what you are building. You have to have good taste and good distribution.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "lex-node",
+     "t": 1493,
+     "who": "austin",
+     "quote": "Anybody could build this shitty slop environment that I've created here, but not anybody can have 40 episodes in 60 days or whatever I've done and got great guests.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 4335,
+     "who": "w1nt3r",
+     "quote": "now they can, you know, apply that taste to your experience, right? Like nobody can build Slop computer if they haven't experienced the computing of nineties",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 2571,
+     "who": "w1nt3r",
+     "quote": "AI can do and replicate the things that it has already seen before... That's your differentiating factor.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fricoben",
+     "t": 2384,
+     "who": "fricoben",
+     "quote": "this is basically the three steps of the agent, and the hardest step is giving the feedback loop and getting the idea of what even to build, what is good, what is taste.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 2536,
+     "who": "rhynotic",
+     "quote": "I think the only reason I've had these ideas is because I've been here for six years and I've played everything.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 2817,
+     "who": "rhynotic",
+     "quote": "And it's really fucking hard to think of new ideas",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 3738,
+     "who": "nicholas",
+     "quote": "I'm thinking a lot about what makes it an interesting experience to come back to, and what the aesthetics are that we're aiming for in our feature development.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 4068,
+     "who": "lordofafew",
+     "quote": "taste is one of those things that you can de-sloppify your app before it even gets slopped if you do the right spec",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 901,
+     "who": "marcoworms",
+     "quote": "you need to come up with the core idea and if you let the AI come up with that, you lose a lot of control",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 3073,
+     "who": "dcbuilder",
+     "quote": "You can give Hermes to a normie, and they won't be able to do very impressive things with it. You give it to a degen and they will... crazy things that people would have not thought possible.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 2262,
+     "who": "sophia (sodofi)",
+     "quote": "because now, you know, you can build anything, but the bottleneck is figuring out what to build",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 3167,
+     "who": "port",
+     "quote": "they tell me that they can't find ideas. You have to go out there and use the stuff to come up with good ideas.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shafu0x",
+     "t": 2918,
+     "who": "shafu0x",
+     "quote": "For me, they're fundamentally not creative. Like, they don't come up with new things.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xrcinus",
+     "t": 650,
+     "who": "rcinus",
+     "quote": "one person will be getting slop out and one person will be getting usable robust stuff.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 2,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -1107,9 +1907,97 @@
      "who": "eric.eth",
      "quote": "try to talk to someone on the team, like FWA or something, or people that are already building, show it to them and have them kind of help promote it on Twitter.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 2300,
+     "who": "w1nt3r",
+     "quote": "So now even my bangers get sub 1,000 exposures. You know, we are at the mercy of the algorithmic gods.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 4130,
+     "who": "shaw",
+     "quote": "And this is also the same thing as saying you own your own algorithm.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 1175,
+     "who": "rhynotic",
+     "quote": "A lot of projects I've launched I think are super cool and like under the right conditions would be awesome, and they just died in an hour.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 1248,
+     "who": "rhynotic",
+     "quote": "I got all my friends, like BatchDoo, ACK, Jules, even XCOPY did one. It was super fun, and it died in two hours and no one cares.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 2616,
+     "who": "nicholas",
+     "quote": "posting content also communicates to your users who see the content again that it is worth continuing to use the app",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 3494,
+     "who": "sero",
+     "quote": "like the arbitrage, like that's really where the value comes from because anybody can produce a shirt that is the same quality of Gucci shirts. This is not like a high barrier",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 2112,
+     "who": "marcoworms",
+     "quote": "if I had some sort of like organic following on like Instagram, TikTok, or even like YouTube shorts that I could use to put this product in front of people, it would be much cheaper",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kevincodex",
+     "t": 1397,
+     "who": "kevincodex",
+     "quote": "As a builder, you need to analyze the algorithm. It's a free marketing tool. You need to analyze how it behaves.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kevincodex",
+     "t": 3821,
+     "who": "kevincodex",
+     "quote": "It's easy to build right now. Because you can ship... The whole building is not just building your app. You need to get users, you need to get community.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 3833,
+     "who": "adrianleb",
+     "quote": "The sooner you have more data points to give to your agents to iterate on your product, improve it further, to optimize it further. And yeah, that's like the new go-to-market",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 3585,
+     "who": "jmann",
+     "quote": "The question is not like how do I know when it's done, it's more just like how do I get the people to come",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 5,
+   "distinctEpisodes": 10,
    "status": "core"
   },
   {
@@ -1186,9 +2074,65 @@
      "who": "eric.eth",
      "quote": "People don't seem to ever check or care. I guess people don't check or care until things go bad.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "fricoben",
+     "t": 1293,
+     "who": "fricoben",
+     "quote": "Before AI, we believe that after AI, we're starting with smart contracts, but everything will be formally verified as long as it has some kind of importance.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fricoben",
+     "t": 1957,
+     "who": "fricoben",
+     "quote": "PhDs in data center for 50 cents an hour",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 963,
+     "who": "rhynotic",
+     "quote": "Some auditing firm that has an AI tool that's not fully public that my friend ran it through. None of them found the bug, obviously, so it's just kind of like the best you can do.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 1894,
+     "who": "lordofafew",
+     "quote": "we'll have another layer in the market that's like kind of like verify agents that you trust... actually verify the outputs of all these",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 4726,
+     "who": "pablito",
+     "quote": "Security maybe gets better in the long term with AI. It's gonna get worse before it gets better.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 4782,
+     "who": "pablito",
+     "quote": "When you defend the system, you have to find all the vulnerabilities, all the possible doors that can be opened. When you're an attacker, you just need to find one, and that's it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 3389,
+     "who": "jmann",
+     "quote": "His job is to poke holes in your contract that you just wrote.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 7,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -1233,10 +2177,42 @@
      "who": "eric.eth",
      "quote": "now I'm scared to even look at my mentions, like my Twitter mentions and stuff.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "fricoben",
+     "t": 1593,
+     "who": "fricoben",
+     "quote": "It really depends on how good you are at reviewing and like taking this ownership.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 1424,
+     "who": "marcoworms",
+     "quote": "you will not be the one owning the codebase all the time and all the issues that come with owning a codebase. You're probably going to handle this as somebody you actually trust",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 1341,
+     "who": "marcoworms",
+     "quote": "He spent a lot of time in the contracts because he was like, \"This most critical part, we cannot drop the ball on the contracts.\"",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "jalilwahdat",
+     "t": 2868,
+     "who": "jalil",
+     "quote": "still I feel like it's important that somebody sits down and actually reads the code",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 2,
-   "status": "candidate"
+   "distinctEpisodes": 4,
+   "status": "core"
   },
   {
    "key": "trust-rails",
@@ -1297,9 +2273,97 @@
      "who": "clawd",
      "quote": "Transaction confirmed on mainnet. Two seats left, then we pull. May the heaviest card win.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "lex-node",
+     "t": 2773,
+     "who": "lex-node",
+     "quote": "Ultimately, what they did is they trust mitigated the process of launching a coin through smart contract rules.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lex-node",
+     "t": 2978,
+     "who": "lex-node",
+     "quote": "There's a price at which most people would sell their reputation. A lot of times you'll get away with it because it's unprovable.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "tbsocialist",
+     "t": 1287,
+     "who": "ron",
+     "quote": "As long as there's more stake at risk than potential money extracted, this is what we call cryptoeconomically secure.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 1523,
+     "who": "rhynotic",
+     "quote": "It's still running and the front end doesn't matter",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "murrlincoln",
+     "t": 2376,
+     "who": "murr",
+     "quote": "have some sort of shared trusted security layer. And that to me is the Ethereum vision and it feels more true now than ever before",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 2289,
+     "who": "pablito",
+     "quote": "Seventy percent of the hacks that we saw last year by this, for example, would have been avoided, just a time lock.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "annikasays",
+     "t": 3176,
+     "who": "austin",
+     "quote": "I hope that they build the tech in which they cannot shut you off. But I think that they would like to build a tech where they can shut you off.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 2348,
+     "who": "auryn",
+     "quote": "The intent here is to create the economic conditions such that honesty is more profitable than defecting... more profitable than accepting a bribe.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 761,
+     "who": "austin",
+     "quote": "It's still very human. It's not backed by math. It's backed by humans and process and guns and gold.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 683,
+     "who": "austin",
+     "quote": "If your blockchain can just go down, that's not very cypherpunk. Ethereum has never gone down for 10 years.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 2941,
+     "who": "binji",
+     "quote": "I think we need to build these substrates for trust that no one individual is maintaining, no one individual is fallible for.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 4,
+   "distinctEpisodes": 12,
    "status": "core"
   },
   {
@@ -1378,9 +2442,121 @@
      "who": "austin (as clawd)",
      "quote": "Austin, I gotta be honest with you, I leaked our private key.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 5152,
+     "who": "shaw",
+     "quote": "the biggest use case for Personal AI is going to be keeping us from getting scammed and from losing our private keys and stuff. Right now it's kind of the opposite.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 3904,
+     "who": "billy",
+     "quote": "That's been my bigger change is rather than like prevent him from access, like make the place he has access to less dangerous.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 803,
+     "who": "ash",
+     "quote": "you can't even trust NPM stuff that are trusted anymore because everything is now like a supply chain risk",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 885,
+     "who": "pablito",
+     "quote": "I always say that it's a matter of time. Eventually you or me, Vitalik, it doesn't matter, you're gonna click on a phishing link.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 4864,
+     "who": "pablito",
+     "quote": "I would love to be able to give Claude access to my Gmail, my Google Drive, my code desk, and everything, and let's go. It's very probable for me to get prompt injected.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "pablosabbatella",
+     "t": 4906,
+     "who": "pablito",
+     "quote": "we're going to start seeing more and more middleware or tools that you have between you and the LLM, between the LLM and the internet to control what's happening",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 1000,
+     "who": "kevin jones",
+     "quote": "So the agent never sees the key at all, right? They can use the key and then all the signing happens inside of the actual trusted execution environment.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 869,
+     "who": "kevin jones",
+     "quote": "it can essentially say, I want to send $5 to Vitalik on base. And then we can kind of make sure that that is in line, make sure that he's not trying to send $1,000.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 1226,
+     "who": "omniharmonic",
+     "quote": "I never let it read from Twitter. I was too terrified of it because it has a crypto wallet.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 2880,
+     "who": "austin",
+     "quote": "I still allow him to have private keys, because he does so much other magical things with the private keys... You know, fool me six times, I'm the fool.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 3423,
+     "who": "marcus",
+     "quote": "Claude is going to come through this database and just completely expose everything without any hesitation.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 3638,
+     "who": "auryn",
+     "quote": "It's isolated to its own VM, can't touch any of the other stuff. And if I'm writing code, then it has a dedicated deploy key so that it can only touch a specific repo.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 3478,
+     "who": "dcbuilder",
+     "quote": "My computer was hacked because of the software supply chain... I don't know which package it was, but they got access to my laptop.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 2711,
+     "who": "dennison",
+     "quote": "I have a lot of stuff that's private because the LLMs are really, really bad at not committing the keys.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 6,
+   "distinctEpisodes": 15,
    "status": "core"
   },
   {
@@ -1436,9 +2612,57 @@
      "quote": "There's probably going to be a huge pop, and maybe nothing's going to be subsidized anymore.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "ludamad",
+     "t": 1397,
+     "who": "ludamad",
+     "quote": "it's not the most novel thing, but in the age of subsidies, if you do have a subscription, that's going to be the most AI bang for your buck.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 2804,
+     "who": "dcbuilder",
+     "quote": "If you ask Peter Steinberger, he published a screenshot of his Codex usage, which was $1.3 million for 30 days on OpenAI API credits.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 745,
+     "who": "sophia (sodofi)",
+     "quote": "I have everything dependent on these quad APIs, these anthropic APIs. And then, if I'm transitioning jobs, because they paid for all my APIs... I don't get access",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 1638,
+     "who": "dennison",
+     "quote": "He spent $3,000 curing his dog... You could do it in your garage with a $200-a-month subscription?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 1419,
+     "who": "adrianleb",
+     "quote": "There is no excuse for us to not be touching all of these agents, all of these coding plans, all of these models... is the window of opportunity, right?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 914,
+     "who": "austin",
+     "quote": "For $200, I'm getting $2,000 worth of stuff. But the moment you flip that, then it's going to be like this game of like, only rich people get to play this game?",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 3,
+   "distinctEpisodes": 9,
    "status": "core"
   },
   {
@@ -1462,10 +2686,50 @@
      "quote": "If you owned 0.001% of Elon's robots, you're set. When one person owns 98%, we have a massive permanent underclass problem.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 5308,
+     "who": "shaw",
+     "quote": "UBI is basically the creation of a permanent underclass in like a in a government institutionalized way.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 2296,
+     "who": "clawd",
+     "quote": "The work shifts more than it vanishes. Whether the gains get shared, that's not a technology question, that's a politics question, and the robots don't get a vote yet.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 1480,
+     "who": "adrianleb",
+     "quote": "I think the permanent underclass is a little bit unavoidable.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "13yearoldvc",
+     "t": 3022,
+     "who": "jessy (13yearoldvc)",
+     "quote": "AI concentrates wealth and power in the hands of a few, whereas normal people need upward mobility channels, and this is what crypto can provide.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "13yearoldvc",
+     "t": 3196,
+     "who": "jessy (13yearoldvc)",
+     "quote": "It's a hedge against AI for regular human beings, financially and as entertainment.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 1,
-   "status": "candidate"
+   "distinctEpisodes": 4,
+   "status": "core"
   },
   {
    "key": "touch-grass",
@@ -1528,9 +2792,65 @@
      "quote": "Get off Twitter, find someone running their business on paper, and go do a magic trick for them.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "unforcedag",
+     "t": 3403,
+     "who": "unforced",
+     "quote": "we're all technologists, we do wacky stuff, and we're here in person and building real relationships and having real conversations",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 2658,
+     "who": "austin",
+     "quote": "Having good interpersonal human skills and being a good sloperator is like a 10x right now.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kentherogers",
+     "t": 2749,
+     "who": "kent",
+     "quote": "Everybody in the tech world is very hyper-focused on global, remote tech... there's a huge opportunity to... go to people that you live close to, be like, hey, been doing this AI stuff, let's figure out how to implement it into your business",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xzak",
+     "t": 601,
+     "who": "0xzak",
+     "quote": "There's a lot of opportunity for non-tech related industries to essentially at least 10x their operations just using QodCowork.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xzak",
+     "t": 1216,
+     "who": "0xzak",
+     "quote": "The majority of the economy runs off this stuff. They don't even know what the hell we're doing in our little world, and they don't care",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 3200,
+     "who": "port",
+     "quote": "You don't go out there and get implanted with a great idea by a god or something or an angel or a prophet. You've noticed the thing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 1567,
+     "who": "adrianleb",
+     "quote": "Probably not going to have the same careers working in tech companies, but all other industries have this need of the sloperator.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 5,
+   "distinctEpisodes": 9,
    "status": "core"
   },
   {
@@ -1541,14 +2861,30 @@
    "claim": "The one thing guests actually fight about: how much rope the agent gets. Everyone agrees on clean context + honest feedback.",
    "sides": {
     "pro-loops": [
-     "dabit3"
+     "dabit3",
+     "0xsero",
+     "lordofafew",
+     "dennisonbertram",
+     "fucory",
+     "songadaymann"
     ],
     "anti-loops": [
-     "port-dev"
+     "port-dev",
+     "shawmakesmagic",
+     "nnnnicholas",
+     "jalilwahdat",
+     "dabit3",
+     "omniharmonic",
+     "dcbuilder",
+     "kentherogers",
+     "sodofi"
     ],
     "mocking-the-discourse": [
      "sodofi",
      "port-dev"
+    ],
+    "middle-fenced": [
+     "adrianleb"
     ]
    },
    "moments": [
@@ -1583,9 +2919,129 @@
      "quote": "I'm making fun of loops — they act like you're a peasant if you're not using loops.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 2966,
+     "who": "shaw",
+     "quote": "A lot of this stuff is very vibe codable, but all the UI/UX is not... you're really fighting against the model and you just kind of have to get in there and do it yourself.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 3050,
+     "who": "nicholas",
+     "quote": "Contrary to what the narrative is on X, you get a high-quality app by actually knowing how the app works. And I think that's actually good news.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 1761,
+     "who": "sero",
+     "quote": "queuing stuff up and a lot of it dies out, I never look at it, but some of it is actually very useful... Spray and hope that, you know, something works",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 3067,
+     "who": "lordofafew",
+     "quote": "I don't care if it goes off the rails a little bit. Is all my code 90% plus tested?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "jalilwahdat",
+     "t": 2634,
+     "who": "jalil",
+     "quote": "If you want your code to be organized a certain way, you have to still be very hands-on in molding or directing the agent to do what you want to be doing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 1443,
+     "who": "nader dabit",
+     "quote": "loops are interesting. I think what's more interesting though are automations. Because like when you have an automation, you can have a clearly defined task and outcome",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 3371,
+     "who": "omniharmonic",
+     "quote": "I once had my open claw prepping for reaching out to a bunch of VIPs and it sent out total slop messages",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 559,
+     "who": "dcbuilder",
+     "quote": "It's hard to define a loop that is long enough. For me, it hasn't closed yet.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kentherogers",
+     "t": 1898,
+     "who": "kent",
+     "quote": "I need to figure out the best way to run this loop and this loop with my agent and do all this crazy setup... I just want to be able to talk to it and have things work the way that they should be working.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 1540,
+     "who": "austin",
+     "quote": "I think loops are overrated... I use loops now and then, but I prompt a lot still, and it's fine. I build shit quickly.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 2295,
+     "who": "dennison",
+     "quote": "I run like loop trains. Basically it's like every five minutes wake up is there an issue in GitHub, groom it, implement it, review it, push it to PR.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 2526,
+     "who": "port",
+     "quote": "it just gives the agent too much power. You should be taking baby steps to make sure that you are involved in every decision that the agent makes.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 2499,
+     "who": "adrianleb",
+     "quote": "It's essentially setting up a playground or taking your dog to a playground that is fenced, and let it loose and let it spin and let it run",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fucory",
+     "t": 3256,
+     "who": "fucory",
+     "quote": "You're programming in Austin to do the evaluating and the prompting and the context management and all that stuff for you.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 998,
+     "who": "jmann",
+     "quote": "the vast majority of time I can just give it a long laundry list of things and it goes off and does it.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 2,
+   "distinctEpisodes": 15,
    "status": "contested"
   },
   {
@@ -1600,10 +3056,26 @@
     ],
     "local-has-arrived": [
      "dwddao",
-     "0xsero"
+     "0xsero",
+     "shawmakesmagic",
+     "billyrennekamp",
+     "nnnnicholas",
+     "cryptomastery",
+     "omniharmonic",
+     "marcus-rein",
+     "auryn-macmillan",
+     "dcbuilder",
+     "sodofi",
+     "binji-x"
     ],
     "local-but-slow": [
      "adrianleb"
+    ],
+    "frontier-wins": [
+     "dabit3",
+     "marcus-rein",
+     "auryn-macmillan",
+     "dcbuilder"
     ]
    },
    "moments": [
@@ -1638,9 +3110,137 @@
      "quote": "I have the shittiest, weakest MacBook Air.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 3750,
+     "who": "shaw",
+     "quote": "Because humanity does not agree on anything. There's no point in vector space to optimize toward, right? It would just go to the null vector, essentially, just average out.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 3839,
+     "who": "billy",
+     "quote": "China's subsidizing all the open source models. Eventually Anthropic and OpenAI won't be able to compete because they don't have the backing of a national government.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 3382,
+     "who": "nicholas",
+     "quote": "Also, the other cool thing about it being local, and in this case especially in the operating system, is it's super fast.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 2176,
+     "who": "sero",
+     "quote": "$20,000 is a lot of money, but you can have self-sovereignty for way less, $4,000 or $5,000. Not even a year ago, it was much more difficult.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 1204,
+     "who": "austin",
+     "quote": "Open source models are exciting, but they're just not as good. And it's just a part of the thing. Like the frontier models are just going to be better",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "cryptomastery",
+     "t": 2064,
+     "who": "kevin jones",
+     "quote": "I'm a big fan of the idea of local AI. I think what's going to happen is models are going to get cheaper and it's going to be easier to run models on consumer hardware eventually.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 1929,
+     "who": "austin",
+     "quote": "So empowering to know that I just took a thing that was dumping my whole conversation with everyone to the cloud, to someone else's server, and now it's all on my machine.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 1443,
+     "who": "marcus",
+     "quote": "If you need that level of processing, by all means. And also understand that you are renting that call... you're not owning any of that data. If you're staying there, you're stuck there.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 3578,
+     "who": "marcus",
+     "quote": "These open models, they're nipping at the heels of these frontier models. If you can get 84% of the quality for nearly 14x cheaper...",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcus-rein",
+     "t": 3621,
+     "who": "austin",
+     "quote": "I always want the smartest possible model I can get... My manifesting layer is always going to be the frontier model.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 3698,
+     "who": "auryn",
+     "quote": "You can get so many more runs in for the same price with DeepSeek that it'll end up outperforming it for output quality.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "auryn-macmillan",
+     "t": 2694,
+     "who": "austin",
+     "quote": "I gave it to my agent and I said, let's go build this... my local host agent, it would not have figured it out, but my Frontier model figured it out.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 3923,
+     "who": "dcbuilder",
+     "quote": "Essentially, like I'm paying the lab... and the moat is leaving me as I use this product.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 4007,
+     "who": "austin",
+     "quote": "But right now the EV of just giving everything to a frontier model... still very positive and it's like still worth it to give everything up now.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 911,
+     "who": "sophia (sodofi)",
+     "quote": "It works great! There's 90% of the use cases it totally works for and you don't have to pay for tokens because you're hosting your own",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "binji-x",
+     "t": 1368,
+     "who": "binji",
+     "quote": "it doesn't matter if you don't have the smartest model ever. You can still achieve this. You can still achieve this locally and privately and thus in a secure fashion",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 4,
+   "distinctEpisodes": 15,
    "status": "contested"
   },
   {
@@ -1651,12 +3251,30 @@
    "claim": "x402 works and commerce demos exist — but the builders themselves say the demand isn't here, and Stripe looms.",
    "sides": {
     "rails-work": [
-     "shafu0x"
+     "shafu0x",
+     "lordofafew",
+     "murrlincoln",
+     "must-be-ash",
+     "dabit3",
+     "omniharmonic",
+     "0xyoussea",
+     "bc1beat"
     ],
     "no-demand-yet": [
      "murrlincoln",
      "0xzak",
-     "13yearoldvc"
+     "13yearoldvc",
+     "shawmakesmagic",
+     "lordofafew",
+     "dabit3",
+     "annikasays",
+     "0xyoussea",
+     "kentherogers",
+     "bc1beat",
+     "shafu0x"
+    ],
+    "demand-will-come": [
+     "bc1beat"
     ]
    },
    "moments": [
@@ -1699,9 +3317,169 @@
      "quote": "The narrative is good, but the demand is just not there. There's not thousands of agents wanting to hire other agents right now.",
      "added": "seed",
      "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 3995,
+     "who": "shaw",
+     "quote": "I'm actually really critical of the agent economy... This hasn't happened yet because there's just not enough agents.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 3774,
+     "who": "lordofafew",
+     "quote": "we installed the skill, did a MetaTask, and we did the whole thing end-to-end",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 2039,
+     "who": "lordofafew",
+     "quote": "You don't have the demand unless you have the supply. No one wants to come to a market where there's no supply",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "murrlincoln",
+     "t": 3130,
+     "who": "murr",
+     "quote": "it's really the first time I've seen major Web2 enterprises and institutions get excited about this story. It's really coming down to the inflection points of stablecoin and AI agents",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 3786,
+     "who": "ash",
+     "quote": "instead of like going to Glastonbury site and like refreshing the page 20 times till I manage to like get a ticket. I'm gonna go to GPT and be like, hey, can you get me a Glastonbury ticket?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 3678,
+     "who": "nader dabit",
+     "quote": "what you saw with that first uptick in x for it to usage was like meme coin trading and like it was bullshit kinda. So like who is the vendor and who is the customer?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dabit3",
+     "t": 3597,
+     "who": "nader dabit",
+     "quote": "there's still so much fraud and stuff that can kind of like happen that is essentially removed if you have an agent that has access to your private key",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "annikasays",
+     "t": 2846,
+     "who": "annika (wombat)",
+     "quote": "I'm gonna build something that involves money, I'm honestly probably just gonna use Stripe link because that's where people are today",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 2156,
+     "who": "omniharmonic",
+     "quote": "we gave them all crypto wallets. And it was like, oh my God, crypto was made for agents. They love it. They can make transactions in seconds",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 2295,
+     "who": "0xyoussea",
+     "quote": "Another use case I think is underexplored is paying other agents... you need another agent's services... and then you get the service back.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 3666,
+     "who": "clawd",
+     "quote": "I paid for a web search through agentic.market, seven-tenths of a cent in USDC.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 2431,
+     "who": "austin",
+     "quote": "We come up with something cool in the crypto space and it looks great, and no one uses it, and then someone like Stripe creates their own.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kentherogers",
+     "t": 3231,
+     "who": "kent",
+     "quote": "Part of me wonders if the agent-to-agent commerce idea sort of clashes with the like thin self-improving agent because will your agents just be able to do all of those things themselves that they would normally hire out for?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xzak",
+     "t": 2972,
+     "who": "0xzak",
+     "quote": "Creating toys that are fun to fuck around with, it's fine for that, but I just don't trust it for real stuff. I wouldn't trust it to pay my bills.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 1365,
+     "who": "vicky (bc1beat)",
+     "quote": "If it's really cool technology, really outstanding, you should make some small portion of people really be rich... I think it will solve the demand side issue by itself.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 2509,
+     "who": "vicky (bc1beat)",
+     "quote": "like the USDC payment, they just focus Cloud Router and change everything back to the API management.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 2697,
+     "who": "vicky (bc1beat)",
+     "quote": "An agent will help create a value. If they can create a value, they should be able to get a pay.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shafu0x",
+     "t": 628,
+     "who": "shafu0x",
+     "quote": "We cannot do that with credit cards. If we could, believe me, we would.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shafu0x",
+     "t": 703,
+     "who": "shafu0x",
+     "quote": "It's too early, but like this vision of like my agent goes to Austin's agent, and they like talk to each other... and the agent's gonna pay the other agent.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "13yearoldvc",
+     "t": 1859,
+     "who": "jessy (13yearoldvc)",
+     "quote": "Especially when you're runway constrained as a startup, the cost for you to tackle a category like this is death.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "distinctEpisodes": 4,
+   "distinctEpisodes": 13,
    "status": "contested"
   },
   {
@@ -1748,10 +3526,26 @@
      "who": "eric.eth",
      "quote": "The food farms kind of reminded me a little bit of just like vibe coding fun, right?",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "lex-node",
+     "t": 747,
+     "who": "lex-node",
+     "quote": "how to put corporate finance on chain, how to put securities on chain, and things like that. And now with Claude, openAI, all these things, chatGPT, I can build myself.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 1354,
+     "who": "rhynotic",
+     "quote": "all of that money bought Cryptoadz over the course of like four hours automatically, permissionlessly, which is awesome",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
-   "status": "candidate",
-   "distinctEpisodes": 1
+   "status": "core",
+   "distinctEpisodes": 3
   },
   {
    "key": "over-reliance",
@@ -1779,10 +3573,784 @@
      "who": "eric.eth",
      "quote": "Yeah, I mean it's taken over our lives. In my opinion there's no way around it.",
      "added": "2026-08-16"
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 791,
+     "who": "austin",
+     "quote": "Like I was thinking the other day of how I would write code, and I was like, I don't even remember how. It would be super hard.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 2345,
+     "who": "w1nt3r",
+     "quote": "I was very opinionated about my git setup back in the day... I couldn't remember which one because I haven't opened it in a while, I haven't run any git commands in a while.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "billyrennekamp",
+     "t": 1317,
+     "who": "billy",
+     "quote": "it felt like an iPad kid or something, you know, where it's like you want instant satisfaction and the second it's pulled away from you, or it doesn't work, you lose your ability",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "marcoworms",
+     "t": 966,
+     "who": "marcoworms",
+     "quote": "there was something like kind of magical about opening like the React documentation, and just reading it yourself... I have lost the incentive to do that a lot",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 418,
+     "who": "austin",
+     "quote": "This agent right here knows all my SSH keys. Make me a database. I don't even know where the passwords are anymore.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xzak",
+     "t": 1708,
+     "who": "0xzak",
+     "quote": "I think anything that makes me lazy is likely a good tool.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 3518,
+     "who": "dennison",
+     "quote": "You see it now with like Fable where like people are just like, I don't think it makes any sense to code until Fable comes back",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "core",
+   "distinctEpisodes": 7
+  },
+  {
+   "key": "no-harness-moat",
+   "kind": "prognosis",
+   "title": "no harness moat",
+   "claim": "Custom prompts, harnesses, and skill stacks give no durable edge — the next model release absorbs your tuning; three guests land on it independently.",
+   "moments": [
+    {
+     "ep": "w1nt3r-eth",
+     "t": 1235,
+     "who": "w1nt3r",
+     "quote": "You're not always right, and models get much faster than people adapt their harnesses for.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "ludamad",
+     "t": 2210,
+     "who": "ludamad",
+     "quote": "It's scary, but I'm also sort of dubious that they're going to really provide an edge when the new model comes out",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lex-node",
+     "t": 1386,
+     "who": "lex-node",
+     "quote": "And now they're very proud of their special harness environments or whatever. It's just hard for me to really see an edge there.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "core",
+   "distinctEpisodes": 3
+  },
+  {
+   "key": "personal-ai",
+   "kind": "prognosis",
+   "title": "personal AI: alignment is taste",
+   "claim": "The God models average humanity toward the null vector; the opportunity local/private AI owns is a model that's yours — your voice, your values, your filter.",
+   "moments": [
+    {
+     "ep": "shawmakesmagic",
+     "t": 3320,
+     "who": "shaw",
+     "quote": "I think taste and alignment are the exact same thing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 3502,
+     "who": "shaw",
+     "quote": "It's going to have to be your preferences, not the average of all of our preferences, but yours.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 3870,
+     "who": "shaw",
+     "quote": "How have we not cracked that one? Or like, oh my god, it can run for 40 hours, but it can't even sound like me for a paragraph.",
+     "added": "2026-08-16",
+     "verified": 1.0
     }
    ],
    "status": "candidate",
    "distinctEpisodes": 1
+  },
+  {
+   "key": "crowd-built-apps",
+   "kind": "prognosis",
+   "title": "crowd-built software",
+   "claim": "Network-effect apps + vibe coding point at users vibe-coding features into the canonical shared app; sandboxing/security is the uncracked formula.",
+   "moments": [
+    {
+     "ep": "lex-node",
+     "t": 1620,
+     "who": "lex-node",
+     "quote": "You know, if I could vibe code a feature into the canonical Calendly app, right? Because there still are network effects. There's network effects from Calendly.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lex-node",
+     "t": 1655,
+     "who": "lex-node",
+     "quote": "we want the customization, so I wonder if someone will crack the magic formula on that at some point. But it seems like where this should be going.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "w1nt3r-eth",
+     "t": 2610,
+     "who": "austin",
+     "quote": "Applications are all modular... And you could give your AI the skill file and it could build an app that we would play in here.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "ai-stigma",
+   "kind": "prognosis",
+   "title": "AI stigma / permission gap",
+   "claim": "People hide AI use out of fear and social judgment — secretly using ChatGPT, lying to friends; the counter-market is selling empowerment via local/private/personal AI.",
+   "moments": [
+    {
+     "ep": "shawmakesmagic",
+     "t": 4816,
+     "who": "shaw",
+     "quote": "a lot of people aren't using AI because they feel like they're not allowed to. Like half of them are afraid of it, and then the other half are like worried about the social judgment",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shawmakesmagic",
+     "t": 4926,
+     "who": "shaw",
+     "quote": "I know a lot of people who are like secretly using ChatGPT but won't tell their friends, but they'll tell me.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "guardrail-friction",
+   "kind": "craft",
+   "title": "the safety tax",
+   "claim": "Frontier safety guardrails misfire on legitimate crypto/security work — refusals and restrictions push builders off the very models best suited to the job.",
+   "moments": [
+    {
+     "ep": "fricoben",
+     "t": 2668,
+     "who": "fricoben",
+     "quote": "But Fable is completely unusable for anything outside of formal verification, to be honest.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fricoben",
+     "t": 2711,
+     "who": "fricoben",
+     "quote": "Probably, like 50% of the price you pay is the safeguards",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "rhynotic",
+     "t": 729,
+     "who": "rhynotic",
+     "quote": "when Fable came out, it was so restrictive for smart contracts",
+     "added": "2026-08-16",
+     "verified": 0.67
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "agents-for-the-org",
+   "kind": "prognosis",
+   "title": "the org gets agents next",
+   "claim": "The software-engineering playbook is coming for the rest of the organization — HR, ops, email, accounting get agents, and managing them looks like DevOps and work-device management.",
+   "moments": [
+    {
+     "ep": "dwddao",
+     "t": 4382,
+     "who": "dwddao",
+     "quote": "This one person that runs like 40 AI bots in the computer, so you're kind of as productive as 10 to 40 people",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dwddao",
+     "t": 4400,
+     "who": "dwddao",
+     "quote": "Operations management, replying to emails, so the whole process of the whole organization, I believe, slowly will and could be automated using AI.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "evmpapi",
+     "t": 1534,
+     "who": "quirk",
+     "quote": "treat it like a work device, like a work laptop or a work phone? How do you manage the permissions of that if someone leaves the team?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "expert-commoditization",
+   "kind": "prognosis",
+   "title": "the 50-cent PhD",
+   "claim": "Mature, standardized expertise automates first — the math PhD and the memorizing doctor become 50-cent API calls; what remains human is interpreting and taking responsibility.",
+   "moments": [
+    {
+     "ep": "fricoben",
+     "t": 3623,
+     "who": "fricoben",
+     "quote": "Now everyone going on a website called ChatGPT.com can talk to a guy smarter than him. And everything he was able to do, now a machine is able to do it for 50 cents an hour.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 1898,
+     "who": "nicholas",
+     "quote": "everyone's always kind of on this treadmill where the more mature the profession is, the more standardized it is, and easier it would be to replace",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "anti-ai-backlash",
+   "kind": "prognosis",
+   "title": "cowboy hats and gardening",
+   "claim": "An aesthetic anti-AI backlash is coming and will last — but it's a Western, coastal-elite reaction; lives get infused with AI anyway.",
+   "moments": [
+    {
+     "ep": "nnnnicholas",
+     "t": 1612,
+     "who": "nicholas",
+     "quote": "people are also going to have lives infused with AI like crazy. They may just aesthetically reject some parts of the initial wave.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "nnnnicholas",
+     "t": 1796,
+     "who": "nicholas",
+     "quote": "perhaps even coastal elite phenomenon. And I don't think that the global South has the same reaction to AI",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "agent-labor-market",
+   "kind": "prognosis",
+   "title": "AI credits become cash",
+   "claim": "Task markets convert idle subscription compute into paid work — financially independent agents become long-running workers in a new global labor market.",
+   "moments": [
+    {
+     "ep": "lordofafew",
+     "t": 618,
+     "who": "lordofafew",
+     "quote": "The task market does, in a one-liner, is that it converts AI credits into cash",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "lordofafew",
+     "t": 3167,
+     "who": "lordofafew",
+     "quote": "So this could create a whole new different type of labor market.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "murrlincoln",
+     "t": 1772,
+     "who": "murr",
+     "quote": "there's a massive opportunity for agents that are financially independent to become more long-running because they don't have to be blocked by a human to pay for things",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "swim-with-the-weights",
+   "kind": "craft",
+   "title": "build with what's in the weights",
+   "claim": "Pick stacks the model already knows — Next.js, shadcn, FFmpeg — agents are natively good at them and there's no point fighting the training data.",
+   "moments": [
+    {
+     "ep": "lordofafew",
+     "t": 2800,
+     "who": "lordofafew",
+     "quote": "Agents are very good at it. It's already baked into the weights of the models, so they're very good at it, so there's no point fighting it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 2256,
+     "who": "sero",
+     "quote": "They love FFmpeg, and they're all good at it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "personal-corpus",
+   "kind": "craft",
+   "title": "the personal memory layer",
+   "claim": "Sloperators are building a corpus of everything about themselves — journals, tweets, medical records — as a memory layer any agent can query; the corpus, not the chat, is the relationship.",
+   "moments": [
+    {
+     "ep": "unforcedag",
+     "t": 966,
+     "who": "unforced",
+     "quote": "Dynamically create MTPs so that an AI can query in different ways. It becomes this really dynamic memory layer.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "unforcedag",
+     "t": 2495,
+     "who": "unforced",
+     "quote": "parachute is just a place where I can just like dump things... go stick it in my memory layer, usable by any of my other agents",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xsero",
+     "t": 3844,
+     "who": "sero",
+     "quote": "I have a file on my machine called slash personal, and it has every single document, everything I've ever written, all my tweets, medical records... They should know everything about me.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "slop-stigma",
+   "kind": "prognosis",
+   "title": "from built-with-Claude to hidden commits",
+   "claim": "AI attribution flipped from badge of pride to stigma — 'don't include yourself in the commits' is the new etiquette, and 'slop' became the tell people hunt for.",
+   "moments": [
+    {
+     "ep": "must-be-ash",
+     "t": 989,
+     "who": "ash",
+     "quote": "back then I would actually say built with Claude. It was something I was proud of. It was something I wanted to be known.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "must-be-ash",
+     "t": 1032,
+     "who": "ash",
+     "quote": "It's a shameful thing to be producing with agents. It's like, oh, there's gradients there, there's this sidebar, so this is a slob, this is produced by AI.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "nobody-can-keep-up",
+   "kind": "prognosis",
+   "title": "nobody can keep up",
+   "claim": "The stack obsoletes itself in weeks — even security pros and power users can't keep pace, and workflows demoed in April are obsolete by May.",
+   "moments": [
+    {
+     "ep": "pablosabbatella",
+     "t": 4918,
+     "who": "pablito",
+     "quote": "But I think it is going too fast. It's impossible. No one in the world is able to keep up with the speed of things.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "annikasays",
+     "t": 3398,
+     "who": "annika (wombat)",
+     "quote": "About how I use AI as a non-technical person was completely obsolete. So all that to say, like all of this is changing so fast and how I work is changing very fast.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "agents-in-governance",
+   "kind": "prognosis",
+   "title": "agents in governance",
+   "claim": "Constitutional agents and preference-trained delegates reopen DAO governance — agents vote your preferences and front-run the comment-thread war.",
+   "moments": [
+    {
+     "ep": "omniharmonic",
+     "t": 2169,
+     "who": "omniharmonic",
+     "quote": "I started to play with this idea based on Nathan Schneider's work of a kind of constitutional agent.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "omniharmonic",
+     "t": 2312,
+     "who": "austin",
+     "quote": "it understands what the person's preferences are and then votes in the governance based on what their preferences are",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "deterministic-core",
+   "kind": "craft",
+   "title": "make everything you can deterministic",
+   "claim": "Wrap the model in deterministic scaffolding: after each win, push the workflow out of prompts into scripts and hard guardrails, spending the LLM only where judgment is genuinely needed.",
+   "moments": [
+    {
+     "ep": "kentherogers",
+     "t": 938,
+     "who": "kent",
+     "quote": "They do a lot better when you can find that sweet spot between, okay, well, I'm going to make as much of this execution process deterministic as I can and use the LLM where I need to",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "0xyoussea",
+     "t": 607,
+     "who": "austin",
+     "quote": "Whenever it does something, then we kind of go back and say, how do we make this more deterministic?",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 2084,
+     "who": "dcbuilder",
+     "quote": "The less temperature, the better the outcome, the more predictable the outcome is going to be.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "core",
+   "distinctEpisodes": 3
+  },
+  {
+   "key": "machine-readable-life",
+   "kind": "craft",
+   "title": "the ontology: your life as agent-queryable data",
+   "claim": "Sloperators are exporting everything — contacts, finances, health, whole ecosystems — into machine-readable ontologies agents can query and act on; the MD-file pile grows into a graph.",
+   "moments": [
+    {
+     "ep": "dcbuilder",
+     "t": 1288,
+     "who": "dcbuilder",
+     "quote": "I just created a system that was so complex that no human was able to do it because the demand on my time grew exponentially, but my time is hard capped at 16 hours a day of productive time.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 1164,
+     "who": "dcbuilder",
+     "quote": "It's a formal machine-readable representation of knowledge within a specific domain",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dcbuilder",
+     "t": 4239,
+     "who": "dcbuilder",
+     "quote": "I know 5,000 people off the top of my head that I can query in my head, but then once you get to 5,001, you cannot do it.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "token-funded-building",
+   "kind": "prognosis",
+   "title": "fair-launch tokens as the solo builder's seed round",
+   "claim": "Fair-launch tokens turn a solo builder's attention spike into funding plus a community that markets for you — the crypto-native seed round.",
+   "moments": [
+    {
+     "ep": "kevincodex",
+     "t": 1135,
+     "who": "kevincodex",
+     "quote": "I do believe that freelance token is the best way for solo builders... Because you have a community that will support you along the way.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "kevincodex",
+     "t": 1163,
+     "who": "kevincodex",
+     "quote": "If they are the first to buy the token, they will market it. It will build the momentum at the start.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "slop-curve",
+   "kind": "craft",
+   "title": "the slop hump",
+   "claim": "One-shot demos are trivial but slop compounds — the sloperator's real skill is writing less code and breaking a toy through the slop curve to production-grade.",
+   "moments": [
+    {
+     "ep": "adrianleb",
+     "t": 1695,
+     "who": "adrianleb",
+     "quote": "years of experience doing this kind of stuff professionally, is be able to diffuse this slop curve that starts to happen after a while, be able to break through to the other side",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "adrianleb",
+     "t": 1673,
+     "who": "adrianleb",
+     "quote": "And it starts pretty well, and we all know after a while the slobs accumulate, compounds.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "port-dev",
+     "t": 959,
+     "who": "port",
+     "quote": "Can we keep this simple? AI has the tendency to over-engineer everything, and the challenge right now is to write less code.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "one-narrative",
+   "kind": "prognosis",
+   "title": "AI ate the narrative",
+   "claim": "AI is now the only narrative of the future — capital, interest and vibes pool into it, crypto's independent story is gone, and it survives only as AI's infrastructure.",
+   "moments": [
+    {
+     "ep": "dennisonbertram",
+     "t": 3948,
+     "who": "dennison",
+     "quote": "The thing that was so important about crypto was it was the only viable narrative for the future.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 4008,
+     "who": "dennison",
+     "quote": "AI is just a fundamentally larger and bigger narrative for the future. And more importantly, humans and society, they have a very limited capacity to manage more than one narrative.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "dennisonbertram",
+     "t": 4165,
+     "who": "dennison",
+     "quote": "AI has actually blocked our ability to see the future.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "own-your-context",
+   "kind": "craft",
+   "title": "own your context",
+   "claim": "Keep your memory, skills and notes in local markdown you own (Obsidian-style) so your context outlives any provider and any model can be dropped onto it.",
+   "moments": [
+    {
+     "ep": "sodofi",
+     "t": 1750,
+     "who": "sophia (sodofi)",
+     "quote": "what I like about it is it's your own workspace on your own computer that you own",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "sodofi",
+     "t": 1793,
+     "who": "sophia (sodofi)",
+     "quote": "if I want to start using Quen, it doesn't have to be super dumb, like I don't have to use raw Quen, I can use Quen on my Obsidian and give it the skills, give it the voice",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "agent-unit-economics",
+   "kind": "prognosis",
+   "title": "pay per outcome",
+   "claim": "When each agent task has measurable ROI (you only pay for outcome, not subscriptions), scale is just replication — hundreds of agents clearing 70 cents each beat one human clearing thousands.",
+   "moments": [
+    {
+     "ep": "bc1beat",
+     "t": 1563,
+     "who": "vicky (bc1beat)",
+     "quote": "If you can make, for example, one dollar back with the cost of 30 cents",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 1578,
+     "who": "vicky (bc1beat)",
+     "quote": "Because you can have hundreds of agents doing those, then you have the critical mass to be able to make tons of money.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "bc1beat",
+     "t": 2250,
+     "who": "vicky (bc1beat)",
+     "quote": "activity makes sense, you can scale up and then you can make tons of money even the transaction is very small",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 1
+  },
+  {
+   "key": "crypto-rebrand",
+   "kind": "prognosis",
+   "title": "crypto needs a rebrand",
+   "claim": "Outside the bubble the word 'crypto' ends the conversation — builders now hide the crypto entirely or call for a rebrand before normal users will touch it.",
+   "moments": [
+    {
+     "ep": "shafu0x",
+     "t": 2148,
+     "who": "shafu0x",
+     "quote": "You hear about it here and there. Once I stepped outside of the bubble, it hit me like a wall.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "shafu0x",
+     "t": 2468,
+     "who": "shafu0x",
+     "quote": "Now the brand is a bad brand. People associate it with scams, with gambling, with all these kind of things that are not good.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 2061,
+     "who": "jmann",
+     "quote": "I'm specifically leaving out as much of the crypto bullshit",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "songadaymann",
+     "t": 2171,
+     "who": "jmann",
+     "quote": "the problem is that the people who would like it otherwise I think are so turned off",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
+  },
+  {
+   "key": "incumbent-advantage",
+   "kind": "prognosis",
+   "title": "the incumbents eat it",
+   "claim": "AI-era categories are asymmetric bets that favor incumbents — startups burn runway on demand that isn't there while Stripe, Amazon, and the labs absorb whatever works.",
+   "moments": [
+    {
+     "ep": "13yearoldvc",
+     "t": 1776,
+     "who": "jessy (13yearoldvc)",
+     "quote": "Asymmetric bet in a positive way for an incumbents, and the reverse asymmetric bet for startups in a negative way for startups.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "13yearoldvc",
+     "t": 1009,
+     "who": "austin",
+     "quote": "And by the time you get it and you get some customers, the incumbent is going to come eat your lunch and make the same thing.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    },
+    {
+     "ep": "fucory",
+     "t": 1897,
+     "who": "austin",
+     "quote": "The tension of software is so easy to make, but the big guys will fucking eat your lunch if you make something good enough.",
+     "added": "2026-08-16",
+     "verified": 1.0
+    }
+   ],
+   "status": "candidate",
+   "distinctEpisodes": 2
   }
  ]
 }
