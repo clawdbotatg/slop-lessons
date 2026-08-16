@@ -132,7 +132,7 @@ window.DECK = {
     },
     {
       id: "taxonomy", kicker: "diagnosis",
-      title: `the five <span class="hl">psychoses</span>`,
+      title: `the six <span class="hl">psychoses</span>`,
       sub: "what free code does to your brain — every one is a real signal, overdone",
       list: [
         ["01 PARASOCIAL", "it thinks you're brilliant", "cyan"],
@@ -140,6 +140,7 @@ window.DECK = {
         ["03 HARDWARE", "a DGX spark will fix me", "lime"],
         ["04 ACCOMPLISHMENT", "look at everything i made", "amber"],
         ["05 OVERTUNING", "always one prompt away", "purple"],
+        ["06 OVER-RELIANCE", "a tank to kill a fly", "red"]
       ],
       moments: [
         {
@@ -380,6 +381,50 @@ window.DECK = {
       cure: "the cure: 20% harness, 80% work. if it's 80/20 the other way — brother, shift it.",
     },
     {
+      id: "p6", kicker: "psychosis 06 · over-reliance",
+      title: `a <span class="hl">tank</span> to kill a fly`,
+      sub: "delegating things you could do yourself, until you can't — atrophy, not tinkering",
+      moments: [
+        {
+                "ep": "econoar",
+                "t": 3537,
+                "who": "austin",
+                "quote": "I'll center a div, I'll change a color, I'll change some wording, by prompting freaking Fable and having Fable do it? It's like using a tank to kill a fly"
+        },
+        {
+                "ep": "w1nt3r-eth",
+                "t": 791,
+                "who": "austin",
+                "quote": "Like I was thinking the other day of how I would write code, and I was like, I don't even remember how. It would be super hard."
+        },
+        {
+                "ep": "billyrennekamp",
+                "t": 1317,
+                "who": "billy",
+                "quote": "it felt like an iPad kid or something, you know, where it's like you want instant satisfaction and the second it's pulled away from you, or it doesn't work, you lose your ability"
+        },
+        {
+                "ep": "dennisonbertram",
+                "t": 3518,
+                "who": "dennison",
+                "quote": "You see it now with like Fable where like people are just like, I don't think it makes any sense to code until Fable comes back"
+        },
+        {
+                "ep": "marcoworms",
+                "t": 966,
+                "who": "marcoworms",
+                "quote": "there was something like kind of magical about opening like the React documentation, and just reading it yourself... I have lost the incentive to do that a lot"
+        },
+        {
+                "ep": "0xzak",
+                "t": 1708,
+                "who": "0xzak",
+                "quote": "I think anything that makes me lazy is likely a good tool."
+        }
+      ],
+      cure: "the cure: let it make you fast, not helpless. keep one skill sharp enough to check the machine.",
+    },
+    {
       id: "craft1", kicker: "treatment 01 · context",
       title: `context is the <span class="hl2">whole game</span>`,
       sub: "agents are token machines. slop in the variables, slop back.",
@@ -512,6 +557,64 @@ window.DECK = {
       cure: "throw away the code, never the tests. effective first, efficient second.",
     },
     {
+      id: "craft4", kicker: "treatment 04 · humility",
+      title: `your harness is not a <span class="hl2">moat</span>`,
+      sub: "three guests who never met, same verdict: the next model eats your tuning",
+      moments: [
+        {
+                "ep": "w1nt3r-eth",
+                "t": 1235,
+                "who": "w1nt3r",
+                "quote": "You're not always right, and models get much faster than people adapt their harnesses for."
+        },
+        {
+                "ep": "ludamad",
+                "t": 2210,
+                "who": "ludamad",
+                "quote": "It's scary, but I'm also sort of dubious that they're going to really provide an edge when the new model comes out"
+        },
+        {
+                "ep": "lex-node",
+                "t": 1386,
+                "who": "lex-node",
+                "quote": "And now they're very proud of their special harness environments or whatever. It's just hard for me to really see an edge there."
+        }
+      ],
+      cure: "tune less, build more. the edge is the product, not the harness.",
+    },
+    {
+      id: "craft5", kicker: "treatment 05 · graduation",
+      title: `make it <span class="hl3">deterministic</span>`,
+      sub: "spend the model only where judgment lives — everything else graduates to a script",
+      moments: [
+        {
+                "ep": "kentherogers",
+                "t": 938,
+                "who": "kent",
+                "quote": "They do a lot better when you can find that sweet spot between, okay, well, I'm going to make as much of this execution process deterministic as I can and use the LLM where I need to"
+        },
+        {
+                "ep": "0xyoussea",
+                "t": 607,
+                "who": "austin",
+                "quote": "Whenever it does something, then we kind of go back and say, how do we make this more deterministic?"
+        },
+        {
+                "ep": "dcbuilder",
+                "t": 2084,
+                "who": "dcbuilder",
+                "quote": "The less temperature, the better the outcome, the more predictable the outcome is going to be."
+        },
+        {
+                "ep": "dcbuilder",
+                "t": 2401,
+                "who": "dcbuilder",
+                "quote": "Once I do my eval of like the agent does the task correctly ten times... I finalize the structure of the skill, save the skill, and then I just build a cron job and automate that thing away."
+        }
+      ],
+      cure: "every win gets promoted: prompt → skill → cron job. the LLM is for the parts that still surprise you.",
+    },
+    {
       id: "scarce", kicker: "prognosis",
       title: `everything still scarce is a form of <span class="hl">trust</span>`,
       list: [
@@ -519,7 +622,7 @@ window.DECK = {
         ["DISTRIBUTION", "do i trust you with attention?", "magenta"],
         ["VERIFICATION", "do i trust that it works?", "lime"],
         ["OWNERSHIP", "who do i trust with the keys?", "amber"],
-        ["PAYMENT", "how do strangers' agents trust each other?", "purple"],
+        ["PAYMENT", "how do strangers' agents trust each other?", "purple"]
       ],
       moments: [
         {
@@ -557,6 +660,43 @@ window.DECK = {
                 "t": 4010,
                 "who": "ash",
                 "quote": "Brands are going to be one of the main moats for any company out there."
+        }
+      ],
+    },
+    {
+      id: "ownership", kicker: "prognosis · ownership",
+      title: `you can't outsource <span class="hl">ownership</span>`,
+      sub: "the model can do everything except be responsible",
+      moments: [
+        {
+                "ep": "fricoben",
+                "t": 3780,
+                "who": "fricoben",
+                "quote": "Now the bottleneck is taking responsibility on what you're doing."
+        },
+        {
+                "ep": "econoar",
+                "t": 1268,
+                "who": "eric.eth",
+                "quote": "I think the scariest part for me is once it's live and maintaining it."
+        },
+        {
+                "ep": "jalilwahdat",
+                "t": 2868,
+                "who": "jalil",
+                "quote": "still I feel like it's important that somebody sits down and actually reads the code"
+        },
+        {
+                "ep": "marcoworms",
+                "t": 1424,
+                "who": "marcoworms",
+                "quote": "you will not be the one owning the codebase all the time and all the issues that come with owning a codebase. You're probably going to handle this as somebody you actually trust"
+        },
+        {
+                "ep": "fricoben",
+                "t": 2003,
+                "who": "fricoben",
+                "quote": "We take ownership on that and if it bugs, it's our fault."
         }
       ],
     },
@@ -605,6 +745,38 @@ window.DECK = {
       ],
     },
     {
+      id: "mainnetfun", kicker: "prognosis · the fun",
+      title: `mainnet <span class="hl2">fun</span> is back`,
+      sub: "cheap gas + free code = idea guy summer on L1. the missing ingredient was builders, not blockspace.",
+      clips: ["puttputt"],
+      moments: [
+        {
+                "ep": "econoar",
+                "t": 1042,
+                "who": "eric.eth",
+                "quote": "have the tools now to build a lot more apps on Ethereum. And I could see this really exploding the app side of Ethereum."
+        },
+        {
+                "ep": "econoar",
+                "t": 2357,
+                "who": "eric.eth",
+                "quote": "What do you call it? Idea Guy Summer with cheap transactions"
+        },
+        {
+                "ep": "rhynotic",
+                "t": 1354,
+                "who": "rhynotic",
+                "quote": "all of that money bought Cryptoadz over the course of like four hours automatically, permissionlessly, which is awesome"
+        },
+        {
+                "ep": "lex-node",
+                "t": 747,
+                "who": "lex-node",
+                "quote": "how to put corporate finance on chain, how to put securities on chain, and things like that. And now with Claude, openAI, all these things, chatGPT, I can build myself."
+        }
+      ],
+    },
+    {
       id: "window", kicker: "prognosis · the window",
       title: `this golden age is <span class="hl3">subsidized</span>`,
       sub: "$200/month buys ~$8k of compute. frontier models are a rental. enjoy it — it ends.",
@@ -638,12 +810,49 @@ window.DECK = {
                 "t": 3765,
                 "who": "austin",
                 "quote": "I think taking profit right now is just using subscriptions."
+        }
+              ],
+    },
+    {
+      id: "machines", kicker: "prognosis · the endgame",
+      title: `own a slice of the <span class="hl">machines</span>`,
+      sub: "the endgame isn't using the robots — it's owning them together",
+      moments: [
+        {
+                "ep": "shawmakesmagic",
+                "t": 2221,
+                "who": "shaw",
+                "quote": "We got to figure out a way to collectively own the robots."
         },
         {
                 "ep": "shawmakesmagic",
                 "t": 1984,
                 "who": "shaw",
                 "quote": "If you owned 0.001% of Elon's robots, you're set. When one person owns 98%, we have a massive permanent underclass problem."
+        },
+        {
+                "ep": "13yearoldvc",
+                "t": 3022,
+                "who": "jessy (13yearoldvc)",
+                "quote": "AI concentrates wealth and power in the hands of a few, whereas normal people need upward mobility channels, and this is what crypto can provide."
+        },
+        {
+                "ep": "13yearoldvc",
+                "t": 3196,
+                "who": "jessy (13yearoldvc)",
+                "quote": "It's a hedge against AI for regular human beings, financially and as entertainment."
+        },
+        {
+                "ep": "adrianleb",
+                "t": 1480,
+                "who": "adrianleb",
+                "quote": "I think the permanent underclass is a little bit unavoidable."
+        },
+        {
+                "ep": "cryptomastery",
+                "t": 2296,
+                "who": "clawd",
+                "quote": "The work shifts more than it vanishes. Whether the gains get shared, that's not a technology question, that's a politics question, and the robots don't get a vote yet."
         }
       ],
     },
@@ -692,6 +901,6 @@ window.DECK = {
       ],
       qa: true,
       points: ["go do a magic trick for someone running their business on paper.", "questions? ask clawd → or heckle me, i'm right here"],
-    },
+    }
   ],
 };

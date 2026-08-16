@@ -99,8 +99,13 @@ whole feeding-the-baby-while-agents-wait cluster. Search `data/clips.json` title
 ### Decks (built 2026-08-13; MERGED into one big talk 2026-08-15)
 `t1-desktop.html?deck=<name>` loads `site/deck-<name>.js` (deck-as-data; index.html
 is the chooser). **Default deck is now `deck-slop.js` — THE BIG ONE**: the three
-throughlines merged into one 17-scene arc (diagnosis: the five psychoses →
+throughlines merged into one 23-scene arc (diagnosis: the SIX psychoses →
 treatment: the craft lessons → prognosis: trust/the window), per Austin's ask.
+2026-08-16: the first six ledger promotions entered the deck with Austin's
+blessing — over-reliance (psychosis 06, 7 distinct eps), no-harness-moat +
+deterministic-core (treatment 04/05), ownership, mainnet-fun-is-back, and
+collective-ownership (prognosis scenes). Scene moments are pulled from
+themes.json by (theme, ep, t) so they stay verbatim-verified.
 
 **Moments (2026-08-15): quotes deep-link into episodes by timestamp.** Episode
 pages honor `?t=<sec>` (verified in slop-computer-frontpage EpisodeView.tsx). A
