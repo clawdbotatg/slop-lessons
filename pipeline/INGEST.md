@@ -68,10 +68,18 @@ moment to an existing scene's window — is fine to just do.)
 
 ## 5. Glossary sync
 
-New terms coined or leaned on this episode (the show coins constantly:
-claw-dogging, ralph loop, headroom...) → add to `GLOSSARY` in `site/data.js`
-(term + tight tldr, credit the coiner in parens like the existing entries).
-Optionally push upstream to the live relay glossary (tokened API — see
+Selection rule (from the 2026-08-16 full-corpus rebuild — see
+`data/glossary-proposal.md` for the audit that produced it):
+- **Coinage** — coined ON the show, or an ordinary word the show gave a specific
+  meaning → always in. Credit the coiner in parens, anchor the best use (ep@t).
+- **Jargon** — outside term that RECURS across episodes or is load-bearing for
+  the talk → in, one tight line, anchored to the show's best treatment.
+- **One-off tech trivia** → out, no matter how good the definition reads. (The
+  old GGUF/NVFP4/ExLlamaV3 pile — 15 entries with zero on-show mentions — is
+  the anti-pattern.)
+
+Add qualifying terms to `GLOSSARY` in `site/data.js`. Optionally push upstream
+to the live relay glossary (tokened API — see
 https://live.slop.computer/v1/skill/glossary) if Austin wants it shared.
 
 ## 6. Ship
