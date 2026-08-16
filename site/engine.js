@@ -1,6 +1,9 @@
 /* slop presentation engine: desktop bg, window manager, glossary, clips, Q&A */
 (function () {
   const IPFS = cid => `https://media.slop.computer/ipfs/${cid}`;
+  // deep link into an episode page at a moment (the player honors ?t=)
+  const EP_URL = (slug, t) => `https://slop.computer/${slug}?t=${Math.max(0, Math.floor(t))}`;
+  const MMSS = t => `${Math.floor(t / 60)}:${String(Math.floor(t % 60)).padStart(2, '0')}`;
 
   /* ---- background ---- */
   function paintBg() {
@@ -74,8 +77,9 @@
     const el = document.createElement('div');
     el.innerHTML = `
       <video controls preload="none" poster="${IPFS(clip.poster)}" src="${IPFS(clip.video)}"></video>
-      <div style="padding:8px 10px;font-family:var(--disp);font-size:10px" class="muted">
-        ${clip.ep} · ${Math.round(clip.durationSec)}s · <span style="color:var(--slop-lime)">${(clip.speakers || []).join(' + ')}</span>
+      <div style="padding:8px 10px;font-family:var(--disp);font-size:10px;display:flex;gap:8px;align-items:baseline" class="muted">
+        <span style="flex:1">${clip.ep} · ${Math.round(clip.durationSec)}s · <span style="color:var(--slop-lime)">${(clip.speakers || []).join(' + ')}</span></span>
+        ${typeof clip.t === 'number' ? `<a href="${EP_URL(clip.ep, clip.t)}" target="_blank" rel="noopener" style="color:var(--slop-cyan);text-decoration:none;white-space:nowrap">ep @ ${MMSS(clip.t)} ↗</a>` : ''}
       </div>`;
     const w = mkWindow('📼 ' + clip.title, el, { pad: 0, w: opt.w ?? 300, ...opt });
     const v = el.querySelector('video');
@@ -90,6 +94,22 @@
     v.addEventListener('focus', () => v.blur());
     if (opt.autoplay) { v.muted = false; v.play().catch(() => {}); }
     return w;
+  }
+
+  /* ---- moments window: quotes that deep-link into episodes at ?t= ---- */
+  // moments: [{ep, t, who, quote}] — each row opens slop.computer/<ep>?t=<t-lead>
+  function momentsWindow(moments, opt = {}) {
+    const LEAD = 6; // land a few seconds before the line so it plays into the quote
+    const rows = moments.map(m => `
+      <a class="moment" href="${EP_URL(m.ep, m.t - LEAD)}" target="_blank" rel="noopener"
+         style="display:block;text-decoration:none;color:inherit;padding:7px 2px;border-bottom:1px dashed #7c4dff33">
+        <span style="font-size:13px;line-height:1.45">“${m.quote}”</span><br>
+        <span style="font-family:var(--disp);font-size:9px;color:var(--slop-lime)">${m.who}</span>
+        <span style="font-family:var(--disp);font-size:9px" class="muted"> · ${m.ep}</span>
+        <span style="font-family:var(--disp);font-size:9px;color:var(--slop-cyan)"> @ ${MMSS(m.t)} ↗</span>
+      </a>`).join('');
+    return mkWindow(opt.title || '⛓ from the tapes',
+      `<div style="max-height:48vh;overflow:auto">${rows}</div>`, { w: 440, ...opt });
   }
 
   /* ---- glossary ---- */
@@ -163,5 +183,5 @@
     return (await r.json()).answer;
   }
 
-  window.SLOP = { paintBg, mkWindow, closeWindow, closeAll, clipWindow, bindGlossary, qaWindow, IPFS, askUpstream };
+  window.SLOP = { paintBg, mkWindow, closeWindow, closeAll, clipWindow, momentsWindow, bindGlossary, qaWindow, IPFS, EP_URL, askUpstream };
 })();

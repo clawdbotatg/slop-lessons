@@ -96,9 +96,28 @@ whole feeding-the-baby-while-agents-wait cluster. Search `data/clips.json` title
   `~/clawd/clawd-harness/tools/node_modules`), show Austin, he picks, THEN build
   full decks (psychosis + trust throughline + more).
 
-### Decks (built 2026-08-13, LIVE — Austin picked t1-desktop as the winner)
+### Decks (built 2026-08-13; MERGED into one big talk 2026-08-15)
 `t1-desktop.html?deck=<name>` loads `site/deck-<name>.js` (deck-as-data; index.html
-is the chooser). Three full decks, all scenes walked headless with zero errors:
+is the chooser). **Default deck is now `deck-slop.js` — THE BIG ONE**: the three
+throughlines merged into one 17-scene arc (diagnosis: the five psychoses →
+treatment: the craft lessons → prognosis: trust/the window), per Austin's ask.
+
+**Moments (2026-08-15): quotes deep-link into episodes by timestamp.** Episode
+pages honor `?t=<sec>` (verified in slop-computer-frontpage EpisodeView.tsx). A
+scene's `moments: [{ep,t,who,quote}]` renders as the "⛓ from the tapes" window
+(engine `momentsWindow`, 6s lead-in); clip windows also carry an `ep @ mm:ss ↗`
+link (every `CLIPS` entry now has `t`, injected from `data/clips.json` startSec).
+Only ~7 killer clips remain as video windows in the big deck; everything else is
+a timestamp link. **Timestamp mapping:** live-transcript events carry epoch `ts`;
+`data/video-offsets.json` holds per-episode `videoStartMs` (from each episode's
+geometry.jsonl header; 0xrcinus + binji-x lack geometry — derived by anchoring
+clip startSecs to transcript text). videoSec = (ts − videoStartMs)/1000. The 90
+deck moments were mined by 12 parallel agents sweeping ALL 41 transcripts per
+topic, then every quote was programmatically verified to sit within ±45s of its
+timestamp (fuzzy word-match ≥0.6 — 90/90 passed). To re-mine: regenerate
+video-time transcripts from transcripts/*.jsonl + video-offsets.json.
+
+The three original single-throughline decks are kept and linked from the chooser:
 - `deck-psychosis.js` — 11 scenes: title → opener → taxonomy → 5 psychoses →
   "patient zero: clawd" case study → cure map → closer+Q&A.
 - `deck-trust.js` — 13 scenes: the TALK.md throughline (collapse → nov 25 →

@@ -124,3 +124,7 @@ video { display: block; width: 100%; background: #000; }
 
 .keyhint { position: fixed; bottom: 12px; right: 14px; z-index: 5000;
   font-family: var(--disp); font-size: 10px; color: var(--slop-text-muted); }
+
+/* moments — timestamp deep links into episodes */
+a.moment:hover { background: #7c4dff1a; }
+a.moment:hover span:first-child { color: var(--slop-cyan); }

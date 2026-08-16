@@ -11,8 +11,8 @@
 <div class="keyhint">←/→ scenes · SPACE play clip · ESC home · G glossary · Q ask clawd</div>
 <script src="engine.js"></script><script src="data.js"></script>
 <script>
-// deck-as-data: ?deck=trust → deck-trust.js (default: psychosis)
-const DECK_NAME = (new URLSearchParams(location.search).get('deck') || 'psychosis').replace(/[^a-z0-9-]/g, '');
+// deck-as-data: ?deck=trust → deck-trust.js (default: slop, the merged big talk)
+const DECK_NAME = (new URLSearchParams(location.search).get('deck') || 'slop').replace(/[^a-z0-9-]/g, '');
 document.write(`<script src="deck-${DECK_NAME}.js"><\/script>`);
 </script>
 <script>
@@ -61,6 +61,15 @@ function stage(i) {
   (sc.clips || []).forEach((k, j) => later(() => {
     SLOP.clipWindow(CLIPS[k], { x: W() - 330 - j*230, y: H()*0.10 + j*56, w: 300 });
   }, 120));
+
+  // moments: timestamp deep links into the episodes, below the clips
+  if (sc.moments) later(() => {
+    const nclips = (sc.clips || []).length;
+    SLOP.momentsWindow(sc.moments, {
+      x: W() - 480, y: H()*0.10 + (nclips ? 56*nclips + 230 : 40),
+      w: Math.min(W()*0.36, 460),
+    });
+  }, 120);
 
   // points / cure
   if (sc.points) later(() => {
