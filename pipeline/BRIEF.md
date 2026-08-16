@@ -52,6 +52,22 @@ LANDMINES: anything they'd hate / already answered publicly (skip re-asks).
 CALLBACKS: 1-2 ledger quotes worth reading to them on air for a reaction.
 ```
 
+## 3.5 Push it into the live research app
+
+The live desktop's guest-research AI (live.slop.computer) grounds its dossier
+and interview questions in the room's **research corpus**. Feed it the ledger:
+
+```
+python3 pipeline/push_brief.py <slug>            # dry run — review the docs
+SLOP_LIVE_TOKEN=<room agent token> python3 pipeline/push_brief.py <slug> --push
+```
+
+This posts two corpus docs — "what the show already knows" (contested debates,
+candidates, thin evidence, auto-built from themes.json) and the brief itself —
+so when Austin hits research in the room, the AI's questions are aimed by the
+ledger. Token: the per-room agent bearer token the live desktop hands out
+(7-day expiry; Austin can grab it from the room).
+
 ## 4. After the show
 
 The episode gets ingested normally (INGEST.md). When classifying, check the
