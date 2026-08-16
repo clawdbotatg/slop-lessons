@@ -24,6 +24,37 @@
     document.body.prepend(bg);
   }
 
+  /* ---- section watermark + background tint ---- */
+  // setSection({label, color}) — big Silkscreen wordmark bottom-right (behind the
+  // windows, like slop.computer's own) + the bg glow shifts to the section color.
+  function setSection(sec) {
+    let el = document.getElementById('sectionmark');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'sectionmark';
+      el.style.cssText = 'position:fixed;right:20px;bottom:34px;z-index:1;pointer-events:none;' +
+        'font-family:var(--disp);font-weight:700;text-transform:uppercase;line-height:.9;' +
+        'font-size:clamp(42px,7.5vw,110px);text-align:right;letter-spacing:-2px;' +
+        'transition:opacity .35s;opacity:0';
+      document.body.appendChild(el);
+    }
+    const glow = document.querySelector('.desktop-bg .glow');
+    if (!sec || !sec.label) {
+      el.style.opacity = '0';
+      if (glow) glow.style.background = '';
+      return;
+    }
+    const c = sec.color || '#7c4dff';
+    el.textContent = sec.label;
+    el.style.color = c + '2e';
+    el.style.webkitTextStroke = `1px ${c}55`;
+    el.style.textShadow = `0 0 30px ${c}40`;
+    el.style.opacity = '1';
+    if (glow) glow.style.background =
+      `radial-gradient(ellipse 70% 50% at 50% 30%, ${c}1f 0%, transparent 70%),` +
+      `radial-gradient(ellipse 55% 45% at 82% 88%, ${c}24 0%, transparent 70%)`;
+  }
+
   /* ---- window manager ---- */
   let z = 100;
   const layer = () => document.getElementById('winlayer') || document.body;
@@ -183,5 +214,5 @@
     return (await r.json()).answer;
   }
 
-  window.SLOP = { paintBg, mkWindow, closeWindow, closeAll, clipWindow, momentsWindow, bindGlossary, qaWindow, IPFS, EP_URL, askUpstream };
+  window.SLOP = { paintBg, setSection, mkWindow, closeWindow, closeAll, clipWindow, momentsWindow, bindGlossary, qaWindow, IPFS, EP_URL, askUpstream };
 })();

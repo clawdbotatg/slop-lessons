@@ -30,6 +30,14 @@ function stage(i) {
   const sc = S[cur];
   document.getElementById('scene-t').textContent = sc.kicker;
   document.getElementById('prog').textContent = (cur + 1) + '/' + S.length;
+  // section watermark + bg tint (decks without a sections map skip this)
+  if (window.DECK.sections) {
+    let sec = null;
+    for (const s of window.DECK.sections) {
+      if (S.findIndex(x => x.id === s.from) <= cur) sec = s;
+    }
+    SLOP.setSection(sec);
+  }
   document.querySelectorAll('#dock .d').forEach((d, j) => d.classList.toggle('on', j === cur));
   location.hash = sc.id;
 

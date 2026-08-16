@@ -4,6 +4,14 @@
    (slop.computer/<slug>?t=). Clips are kept only where the tape itself is the joke. */
 window.DECK = {
   name: "slop psychosis",
+  // section watermark + bg tint: applies from this scene id until the next entry
+  sections: [
+    { from: "title",    label: "",          color: "#7c4dff" },
+    { from: "taxonomy", label: "psychoses", color: "#ff3ec9" },
+    { from: "craft1",   label: "treatment", color: "#bcff5b" },
+    { from: "scarce",   label: "prognosis", color: "#3fcfff" },
+    { from: "closer",   label: "log off",   color: "#ffae00" },
+  ],
   scenes: [
     {
       id: "title", kicker: "slop.computer presents",
