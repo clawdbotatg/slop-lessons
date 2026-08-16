@@ -8,7 +8,9 @@
 <div id="winlayer"></div>
 <div class="menubar"><span class="brand">◆ slop.computer</span><span id="scene-t" class="mid-t"></span><span id="prog"></span><span class="clock" id="clock"></span></div>
 <div class="dock" id="dock"></div>
-<div class="keyhint">←/→ scenes · SPACE play clip · ESC home · G glossary · Q ask clawd</div>
+<div class="keyhint">click desktop or ←/→ scenes · SPACE play clip · ESC home · G glossary · Q ask clawd</div>
+<div class="navbtn prev" id="navprev" title="previous scene">◀</div>
+<div class="navbtn next" id="navnext" title="next scene">▶</div>
 <script src="engine.js"></script><script src="data.js"></script>
 <script>
 // deck-as-data: ?deck=trust → deck-trust.js (default: slop, the merged big talk)
@@ -108,7 +110,7 @@ addEventListener('keydown', e => {
     return;
   }
   if (e.repeat) return;
-  if (e.key === 'ArrowRight') { if (cur >= S.length - 1) { location.href = 'index.html'; return; } stage(cur + 1); }
+  if (e.key === 'ArrowRight') nextScene();
   else if (e.key === 'ArrowLeft') stage(cur - 1);
   else if (e.key === 'Escape') location.href = 'index.html';
   else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
@@ -118,6 +120,15 @@ addEventListener('keydown', e => {
   }
 });
 setInterval(() => document.getElementById('clock').textContent = new Date().toLocaleTimeString(), 1000);
+
+function nextScene() { if (cur >= S.length - 1) location.href = 'index.html'; else stage(cur + 1); }
+document.getElementById('navnext').addEventListener('click', nextScene);
+document.getElementById('navprev').addEventListener('click', () => stage(cur - 1));
+// click on empty desktop = next slide (clicks on windows/chrome/links stay theirs)
+addEventListener('click', e => {
+  if (e.target.closest('.win,.menubar,.dock,.keyhint,.navbtn,a,button,input,video')) return;
+  nextScene();
+});
 
 const start = S.findIndex(s => '#' + s.id === location.hash);
 stage(start >= 0 ? start : 0);

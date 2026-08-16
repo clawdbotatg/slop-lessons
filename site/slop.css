@@ -128,3 +128,16 @@ video { display: block; width: 100%; background: #000; }
 /* moments — timestamp deep links into episodes */
 a.moment:hover { background: #7c4dff1a; }
 a.moment:hover span:first-child { color: var(--slop-cyan); }
+
+/* prev/next chevrons (t1 deck nav) */
+.navbtn {
+  position: fixed; top: 50%; transform: translateY(-50%); z-index: 4500;
+  font-family: var(--disp); font-size: 26px; line-height: 1;
+  color: var(--slop-magenta); background: var(--slop-panel-glass);
+  border: 1px solid #ff3ec940; padding: 16px 12px; cursor: pointer;
+  user-select: none; opacity: 0.65;
+}
+.navbtn:hover { opacity: 1; color: var(--slop-cyan); border-color: var(--slop-cyan);
+  box-shadow: 0 0 12px #3fcfff55; }
+.navbtn.prev { left: 10px; }
+.navbtn.next { right: 10px; }
