@@ -14,18 +14,14 @@ audience needs, then every current term was counted against the corpus.
 
 ---
 
-## DROP — 20 entries with zero (or trivia-grade single) on-show presence
+## KEEP EVERYTHING — no removals
 
-Bittensor · ExLlamaV3 · GGUF · NVFP4 · SGLang · accelerators · decentralized
-training · distillation · llama.cpp · mixed-bit quantization ·
-quantizing/quantization · self-custody · slop-skill-probe · KV cache · LM Studio ·
-Mixture of Experts (MoE) · REAP · vLLM · rlhf · LoRA (both entries — keep neither;
-"LoRA / QLoRA" and "LoRA" are duplicates of each other)
-
-Borderline, kept anyway: **oMLX** (billy genuinely evangelizes it @2784),
-**worktree** (billy's live workflow), **EDR** (Austin added it to the glossary ON
-AIR in the pablo ep — "I put that into my glossary"), **DGX Spark**, **honcho**
-(kent runs it live), **second brain**, **tokens per second**, **open weights**.
+Correction (Austin, 2026-08-16): the "unused" ML terms came from **Austin's own
+live-show glossary** (commit a8046fd pulled 36 terms from the relay glossary he
+curates on air). Zero transcript hits just means he typed them during a show
+rather than saying them aloud. **All 53 existing entries stay. This proposal is
+adds-only.** Rule for the pipeline: never remove a glossary entry — only Austin
+prunes.
 
 ## KEEP + FIX
 

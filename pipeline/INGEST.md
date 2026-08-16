@@ -74,9 +74,10 @@ Selection rule (from the 2026-08-16 full-corpus rebuild — see
   meaning → always in. Credit the coiner in parens, anchor the best use (ep@t).
 - **Jargon** — outside term that RECURS across episodes or is load-bearing for
   the talk → in, one tight line, anchored to the show's best treatment.
-- **One-off tech trivia** → out, no matter how good the definition reads. (The
-  old GGUF/NVFP4/ExLlamaV3 pile — 15 entries with zero on-show mentions — is
-  the anti-pattern.)
+- **One-off tech trivia** → don't add new entries of this kind.
+- **NEVER REMOVE an existing entry.** Much of the glossary is Austin's own live
+  show glossary (he adds terms on air); zero transcript hits does not mean he
+  didn't put it there. Only Austin prunes. Adds-only, always.
 
 Add qualifying terms to `GLOSSARY` in `site/data.js`. Optionally push upstream
 to the live relay glossary (tokened API — see
