@@ -1,6 +1,13 @@
 /* CODE STOPPED BEING SCARCE. TRUST DIDN'T. — full deck */
 window.DECK = {
   name: "trust",
+  sections: [
+    { from: "title",       label: "",           color: "#7c4dff" },
+    { from: "collapse",    label: "collapse",   color: "#ff3ec9" },
+    { from: "scarce",      label: "scarcity",   color: "#bcff5b" },
+    { from: "cryptotrust", label: "trust",      color: "#3fcfff" },
+    { from: "window",      label: "the window", color: "#ffae00" },
+  ],
   scenes: [
     {
       id: "title", kicker: "slop.computer presents",

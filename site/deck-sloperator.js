@@ -1,6 +1,11 @@
 /* THE SLOPERATOR'S HANDBOOK — full deck (the craft lessons) */
 window.DECK = {
   name: "sloperator",
+  sections: [
+    { from: "title",  label: "",          color: "#7c4dff" },
+    { from: "ctx",    label: "the craft", color: "#bcff5b" },
+    { from: "closer", label: "log off",   color: "#ffae00" },
+  ],
   scenes: [
     {
       id: "title", kicker: "slop.computer presents",

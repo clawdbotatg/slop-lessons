@@ -1,6 +1,12 @@
 /* SLOP PSYCHOSIS — full deck */
 window.DECK = {
   name: "slop psychosis",
+  sections: [
+    { from: "title",    label: "",           color: "#7c4dff" },
+    { from: "taxonomy", label: "psychoses",  color: "#ff3ec9" },
+    { from: "cure",     label: "the cure",   color: "#bcff5b" },
+    { from: "closer",   label: "log off",    color: "#ffae00" },
+  ],
   scenes: [
     {
       id: "title", kicker: "slop.computer presents",
