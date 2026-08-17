@@ -141,7 +141,7 @@
   /* ---- moments window: quotes that deep-link into episodes at ?t= ---- */
   // moments: [{ep, t, who, quote}] — each row opens slop.computer/<ep>?t=<t-lead>
   function momentsWindow(moments, opt = {}) {
-    const LEAD = 6; // land a few seconds before the line so it plays into the quote
+    const LEAD = 15; // STT stamps land at the END of a line, so back up far enough to hear the quote build
     const rows = moments.map(m => `
       <a class="moment" href="${EP_URL(m.ep, m.t - LEAD)}" target="_blank" rel="noopener"
          style="display:block;text-decoration:none;color:inherit;padding:7px 2px;border-bottom:1px dashed #7c4dff33">
