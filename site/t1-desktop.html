@@ -11,10 +11,12 @@
 <div class="keyhint">click desktop or ←/→ scenes · SPACE play clip · ESC home · G glossary · Q ask clawd</div>
 <div class="navbtn prev" id="navprev" title="previous scene">◀</div>
 <div class="navbtn next" id="navnext" title="next scene">▶</div>
-<script src="engine.js"></script><script src="data.js"></script>
+<script src="engine.js"></script><script src="ascii-marks.js"></script><script src="data.js"></script>
 <script>
-// deck-as-data: ?deck=trust → deck-trust.js (default: slop, the merged big talk)
-const DECK_NAME = (new URLSearchParams(location.search).get('deck') || 'slop').replace(/[^a-z0-9-]/g, '');
+// deck-as-data: ?deck=<name> → deck-<name>.js. Default: psychosis, the start of
+// the chain — the three presentations flow one into the next, then the outro.
+const DECK_NAME = (new URLSearchParams(location.search).get('deck') || 'psychosis').replace(/[^a-z0-9-]/g, '');
+const CHAIN = ['psychosis', 'trust', 'sloperator'];
 document.write(`<script src="deck-${DECK_NAME}.js"><\/script>`);
 </script>
 <script>
@@ -119,7 +121,7 @@ addEventListener('keydown', e => {
   }
   if (e.repeat) return;
   if (e.key === 'ArrowRight') nextScene();
-  else if (e.key === 'ArrowLeft') stage(cur - 1);
+  else if (e.key === 'ArrowLeft') prevScene();
   else if (e.key === 'Escape') location.href = 'index.html';
   else if (e.key.toLowerCase() === 'q') SLOP.qaWindow({ x: innerWidth/2 - 210, y: innerHeight/2 - 150 });
   else if (e.key.toLowerCase() === 'g') {
@@ -129,16 +131,28 @@ addEventListener('keydown', e => {
 });
 setInterval(() => document.getElementById('clock').textContent = new Date().toLocaleTimeString(), 1000);
 
-function nextScene() { if (cur >= S.length - 1) location.href = 'index.html'; else stage(cur + 1); }
+// past the last scene: flow into the NEXT presentation in the chain, then outro
+function nextScene() {
+  if (cur < S.length - 1) { stage(cur + 1); return; }
+  const i = CHAIN.indexOf(DECK_NAME);
+  if (i >= 0 && i < CHAIN.length - 1) location.href = 't1-desktop.html?deck=' + CHAIN[i + 1];
+  else location.href = 'outro.html';
+}
+// before the first scene: back into the PREVIOUS presentation's last slide
+function prevScene() {
+  if (cur > 0) { stage(cur - 1); return; }
+  const i = CHAIN.indexOf(DECK_NAME);
+  if (i > 0) location.href = 't1-desktop.html?deck=' + CHAIN[i - 1] + '#last';
+}
 document.getElementById('navnext').addEventListener('click', nextScene);
-document.getElementById('navprev').addEventListener('click', () => stage(cur - 1));
+document.getElementById('navprev').addEventListener('click', prevScene);
 // click on empty desktop = next slide (clicks on windows/chrome/links stay theirs)
 addEventListener('click', e => {
   if (e.target.closest('.win,.menubar,.dock,.keyhint,.navbtn,a,button,input,video')) return;
   nextScene();
 });
 
-const start = S.findIndex(s => '#' + s.id === location.hash);
+const start = location.hash === '#last' ? S.length - 1 : S.findIndex(s => '#' + s.id === location.hash);
 stage(start >= 0 ? start : 0);
 </script>
 </body></html>

@@ -25,17 +25,19 @@
   }
 
   /* ---- section watermark + background tint ---- */
-  // setSection({label, color}) — big Silkscreen wordmark bottom-right (behind the
-  // windows, like slop.computer's own) + the bg glow shifts to the section color.
+  // setSection({label, color}) — the section name bottom-right in the EXACT
+  // treatment of slop.computer's front-page wordmark: ANSI Shadow figlet art
+  // (window.ASCII_MARKS, pregenerated), monospace stack, lineHeight 1, colored,
+  // scaled to fit. Background glow shifts to the section color.
+  const ASCII_FONT_STACK = "'SF Mono','Cascadia Code','Fira Code','JetBrains Mono','Menlo','Consolas',monospace";
   function setSection(sec) {
     let el = document.getElementById('sectionmark');
     if (!el) {
       el = document.createElement('div');
       el.id = 'sectionmark';
-      el.style.cssText = 'position:fixed;right:20px;bottom:34px;z-index:1;pointer-events:none;' +
-        'font-family:var(--disp);font-weight:700;text-transform:uppercase;line-height:.9;' +
-        'font-size:clamp(42px,7.5vw,110px);text-align:right;letter-spacing:-2px;' +
-        'transition:opacity .35s;opacity:0';
+      el.style.cssText = 'position:fixed;right:22px;bottom:30px;z-index:3000;pointer-events:none;' +
+        `font-family:${ASCII_FONT_STACK};font-size:16px;line-height:1;white-space:pre;` +
+        'text-align:left;transform-origin:bottom right;transition:opacity .35s;opacity:0';
       document.body.appendChild(el);
     }
     const glow = document.querySelector('.desktop-bg .glow');
@@ -44,12 +46,21 @@
       if (glow) glow.style.background = '';
       return;
     }
-    const c = sec.color || '#7c4dff';
-    el.textContent = sec.label;
-    el.style.color = c + '2e';
-    el.style.webkitTextStroke = `1px ${c}55`;
-    el.style.textShadow = `0 0 30px ${c}40`;
-    el.style.opacity = '1';
+    const c = sec.color || '#ff3ec9';
+    const art = (window.ASCII_MARKS || {})[sec.label.toLowerCase()];
+    if (art) {
+      el.textContent = art.replace(/^\n+|\s+$/g, '');
+      // scale the fixed-16px block to fit ~45% of the viewport width
+      const cols = Math.max(...el.textContent.split('\n').map(l => l.length));
+      const natural = cols * 9.6; // ~monospace advance at 16px
+      el.style.transform = `scale(${Math.min(1, (innerWidth * 0.34) / natural)})`;
+    } else {
+      el.textContent = sec.label.toUpperCase();
+      el.style.transform = '';
+    }
+    el.style.color = c;
+    el.style.textShadow = `0 0 18px ${c}66`;
+    el.style.opacity = '0.55';
     if (glow) glow.style.background =
       `radial-gradient(ellipse 70% 50% at 50% 30%, ${c}1f 0%, transparent 70%),` +
       `radial-gradient(ellipse 55% 45% at 82% 88%, ${c}24 0%, transparent 70%)`;

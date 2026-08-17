@@ -38,18 +38,19 @@
 SLOP.paintBg();
 SLOP.mkWindow('slop lessons', `
   <div class="tag">slop.computer presents</div>
-  <h1 class="big" style="font-size:clamp(22px,3.5vw,44px)">42 EPISODES.<br><span class="hl">ONE TALK.</span></h1>
-  <p class="mid muted" style="margin-top:12px">every quote deep-links into the episode at the moment it was said.</p>
+  <h1 class="big" style="font-size:clamp(22px,3.5vw,44px)">42 EPISODES.<br><span class="hl">ONE FLOW.</span></h1>
+  <p class="mid muted" style="margin-top:12px">psychosis → trust → sloperator → outro. one presentation flows into the next; every quote deep-links into the episode at the moment it was said.</p>
   <a href="t1-desktop.html"><button class="slop" style="margin-top:10px;font-size:15px">present ▶</button></a>`,
   { x: innerWidth*0.06, y: innerHeight*0.08, w: Math.min(innerWidth*0.44, 560) });
 
 const DECKS = [
-  ['t1-desktop.html?deck=psychosis', '🧠 slop psychosis (original cut)', 'the five ways this workflow breaks your brain — every one a real signal, overdone', 'magenta'],
-  ['t1-desktop.html?deck=trust', '🔐 code stopped being scarce. trust didn\'t.', 'building is free now; everything still scarce is a form of trust — and that\'s crypto\'s product', 'cyan'],
-  ['t1-desktop.html?deck=sloperator', '📖 the sloperator\'s handbook', 'ten craft lessons: context, feedback loops, loop-vs-leash, throw away the code', 'lime'],
+  ['t1-desktop.html?deck=psychosis', '🧠 act I · slop psychosis', 'the six ways this workflow breaks your brain — every one a real signal, overdone', 'magenta'],
+  ['t1-desktop.html?deck=trust', '🔐 act II · code stopped being scarce. trust didn\'t.', 'building is free now; everything still scarce is a form of trust', 'cyan'],
+  ['t1-desktop.html?deck=sloperator', '📖 act III · the sloperator\'s handbook', 'ten craft lessons: context, feedback loops, loop-vs-leash, throw away the code', 'lime'],
+  ['t1-desktop.html?deck=slop', '🌀 the merged cut', 'all three compressed into one 23-scene deck (alternate version)', 'purple'],
 ];
-SLOP.mkWindow('the three original throughlines', `
-  <p class="muted" style="margin:0 0 10px">the big talk was merged from these — still playable on their own:</p>
+SLOP.mkWindow('the acts', `
+  <p class="muted" style="margin:0 0 10px">each flows into the next — or jump straight in:</p>
   ${DECKS.map(([href, name, _d, c]) => `<p style="margin:6px 0"><a href="${href}" style="color:var(--slop-${c});text-decoration:none">▸ ${name}</a></p>`).join('')}`,
   { x: innerWidth*0.10, y: innerHeight*0.52, w: Math.min(innerWidth*0.42, 540) });
 

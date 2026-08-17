@@ -2,9 +2,7 @@
 window.DECK = {
   name: "sloperator",
   sections: [
-    { from: "title",  label: "",          color: "#7c4dff" },
-    { from: "ctx",    label: "the craft", color: "#bcff5b" },
-    { from: "closer", label: "log off",   color: "#ffae00" },
+    { from: "title", label: "sloperator", color: "#bcff5b" },
   ],
   scenes: [
     {
