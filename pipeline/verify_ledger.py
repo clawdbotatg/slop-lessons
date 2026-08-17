@@ -31,8 +31,10 @@ for t in ledger["themes"]:
         print(f"DRIFT {t['key']}: status {t['status']!r} but rule says {want!r}"
               + (" — PROMOTE IT (and consider a deck/lessons update)" if want == "core" else ""))
 
-src = (DATA.parent / "site" / "deck-slop.js").read_text()
-deck = [json.loads("{" + s + "}") for s in re.findall(r'\{\s*("ep":.*?)\}', src, re.S)]
+deck = []
+for df in sorted((DATA.parent / "site").glob("deck-*.js")):
+    src = df.read_text()
+    deck += [json.loads("{" + s + "}") for s in re.findall(r'\{\s*("ep":.*?)\}', src, re.S)]
 for m in deck:
     ok, ratio = verify_moment(m)
     if not ok:
