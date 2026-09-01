@@ -14,7 +14,7 @@ window.DECK = {
       "id": "title",
       "kicker": "slop.computer presents · act I",
       "title": "SLOP <span class=\"hl\">PSYCHOSIS</span>",
-      "sub": "field notes from 42 episodes of building with AI × crypto",
+      "sub": "field notes from 50 episodes of building with AI × crypto",
       "points": [
         "austin griffith + clawd 🦞",
         "every quote links to the exact second it was said. all of it onchain."

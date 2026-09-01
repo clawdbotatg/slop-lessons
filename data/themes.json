@@ -2,7 +2,7 @@
  "version": 1,
  "seededAt": "2026-08-16",
  "thresholdDistinctEpisodes": 3,
- "episodesCovered": 42,
+ "episodesCovered": 50,
  "themes": [
   {
    "key": "turning-point",
@@ -104,9 +104,30 @@
      "quote": "it's a terrible time to be a junior developer, but there's never been a better time in history to be a solo entrepreneur",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1418,
+     "who": "slop.atg.eth",
+     "quote": "Asking myself why, like, why raise the money now when after, like post-November 2025, you can basically get traction or product market fit with a product that you build.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 4851,
+     "who": "0x69fc4677",
+     "quote": "I was constantly a user of this stuff and the stars aligned with AI and leverage, right?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 1034,
+     "who": "slop.atg.eth",
+     "quote": "November 2025 was the turning point there with Opus 4.5",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 11,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -351,9 +372,86 @@
      "quote": "I'm gonna get that Codex subscription, I'm just gonna fucking do it. Like you can literally just do it now.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1344,
+     "who": "0x69fc4677",
+     "quote": "Take that plunge and you actually don't really need to raise VC money, especially in the early days.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1370,
+     "who": "0x69fc4677",
+     "quote": "And Olivia and I are trying to do it backwards.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 2199,
+     "who": "0x69fc4677",
+     "quote": "we're definitely at the point where we're not writing code anymore,",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 4898,
+     "who": "0x69fc4677",
+     "quote": "And on capital, whereas with code, the cost of replication is basically zero.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2853,
+     "who": "0x84b0a3f8",
+     "quote": "I switched to Claude, and I was like, Claude is amazing. I just described the thing and it actually does it, and I don't have to inspect the code at all.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 813,
+     "who": "slop.atg.eth",
+     "quote": "Like either I've got to go down a two month rabbit hole or someone else has to go down it. Nah, not anymore. You just vibe code it and get out of the way.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 902,
+     "who": "slop.atg.eth",
+     "quote": "As soon as you build it and you put it in your hands, it's clear to you why it was a dumb idea in the first place.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4698,
+     "who": "0x4f115ed1",
+     "quote": "And I don't review code nearly as in-depth as I used to from the agents",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 2548,
+     "who": "Anon6385",
+     "quote": "Everybody's a dev now.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4987,
+     "who": "Anon6385",
+     "quote": "the solo builder who can now use AI to, like, do the work of five or ten people, you know, it would have taken five or ten people like, you know, a couple years ago.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1311,
+     "who": "z0r0z.eth",
+     "quote": "I think the cost of shipping is drastically lower now",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 23,
+   "distinctEpisodes": 28,
    "status": "core"
   },
   {
@@ -489,9 +587,44 @@
      "quote": "People weren't having that outcry because it's the smartest model or the fastest model.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 715,
+     "who": "Anon1436",
+     "quote": "When inevitably the machines you know have their robot uprising, you make sure that they think fondly of you.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 731,
+     "who": "slop.atg.eth",
+     "quote": "You want to tell it that you got it to work, and there's absolutely no reason in the world to be like, \"Bro, it worked, thank you,\" and I still do it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4146,
+     "who": "Anon1436",
+     "quote": "As long as you're nice to the robot, the robot will bring you your groceries every week.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3281,
+     "who": "0x84b0a3f8",
+     "quote": "This is why you should never use AI as your fucking lawyer.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3295,
+     "who": "0x84b0a3f8",
+     "quote": "Whatever you want is what it wants, you know? And so you're like, \"Hey, yeah, I think that this is wrong,\" and it's like, \"Yeah, you're right, that is wrong.\" Like, \"The Bank Secrecy Act does not apply to you.\"",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 11,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -626,9 +759,44 @@
      "quote": "I will be more powerful today if I spend more time prompting than I do scrolling.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4649,
+     "who": "Anon1436",
+     "quote": "You do a very small thing and you get a very big thing back.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1352,
+     "who": "Anon1436",
+     "quote": "I just have like these cloud subscriptions and stuff, so it's easy to go through your usage very fast.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 1617,
+     "who": "slop.atg.eth",
+     "quote": "So yes, I spent like almost two grand on API tokens one time trying to make like a better Twitter",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 5116,
+     "who": "0x84b0a3f8",
+     "quote": "It's the first time I've ever run out of tokens.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2397,
+     "who": "0x84b0a3f8",
+     "quote": "I'm getting my codex bill, you know, like $200 at whack.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 13,
+   "distinctEpisodes": 16,
    "status": "core"
   },
   {
@@ -731,9 +899,44 @@
      "quote": "That was just a local resilience thing. If they turn off the internet tomorrow and I needed to set up some drip irrigation software for my off-grid regenerative farm",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 1895,
+     "who": "slop.atg.eth",
+     "quote": "I have them right here and I'm still pulling up my Rainbow wallet, and it's probably talking to Alchemy, and I'm an idiot.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1863,
+     "who": "Anon1436",
+     "quote": "And what I told myself is like, as soon as I can run a 4/6 quality model on local hardware, I'm going to, you know, whatever it costs",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1979,
+     "who": "Anon1436",
+     "quote": "I mean, if anything, I think the main thing holding me back from just buying a bunch of GPUs is cost at this point, because it's just like, it's way too much fun.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2010,
+     "who": "Anon1436",
+     "quote": "The thing is, you can probably resell the GPUs, you know, later and probably even make a profit.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3380,
+     "who": "0x84b0a3f8",
+     "quote": "I had my laptop, I had plugged it in, cracked it open, and stuck it in a drawer in the bathroom and closed it as my personal server.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 10,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -893,9 +1096,37 @@
      "quote": "I didn't do most of the things. I was given a thing versus a thing that we made together.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "josephdelong",
+     "t": 5046,
+     "who": "0x84b0a3f8",
+     "quote": "My favorite AI psychosis is like somebody pointed out on Twitter the other day, which is like the people who love graphs",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 5150,
+     "who": "0x84b0a3f8",
+     "quote": "That's a larp. You're not doing anything important with that money.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5114,
+     "who": "0x4f115ed1",
+     "quote": "I'm like, does anyone actually want to use this the whole time?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5169,
+     "who": "slop.atg.eth",
+     "quote": "The slot machine is you get in and you make a prompt and it improves the product a little bit. And then you give it another prompt and it improves the product a little bit. And that dopamine loop is dope. Like, it's wonderful building software right now.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 13,
+   "distinctEpisodes": 15,
    "status": "core"
   },
   {
@@ -1007,9 +1238,16 @@
      "quote": "going back to the 80/20, you're spending 20% of the time improving the product and 80% of the time using the product to get work done",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1753,
+     "who": "slop.atg.eth",
+     "quote": "the people who have like the psychosis of harness maxing are not having a good time.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 8,
+   "distinctEpisodes": 9,
    "status": "core"
   },
   {
@@ -1136,10 +1374,44 @@
      "quote": "Our word barf is to just like get every bit of context out of your head, right?",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1631,
+     "who": "slop.atg.eth",
+     "quote": "I'll go through a session of building where we do like five or six or seven different things, and like that context has been 100% for a while,",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3343,
+     "who": "slop.atg.eth",
+     "quote": "When I was working with Openclaw, that dude would forget all the time. Like we'd be mid like sending 20 grand from one wallet to another, and he'd be like, \"Austin, I forgot what we were doing.\" Holy cow, brother, no!",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3685,
+     "who": "slop.atg.eth",
+     "quote": "You have to figure some things out, but once you figure it out, tell that bro to document what he has done. I think someone said handoff documents. Like, every time they end a session, they have the guy write a handoff document.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4052,
+     "who": "0x4f115ed1",
+     "quote": "So that was a major problem with an early version because it takes forever to like with a big LLM, it takes forever to move that between tools.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 11,
-   "status": "core"
+   "distinctEpisodes": 14,
+   "status": "contested",
+   "sides": {
+    "harness-handles-it": [
+     "ralexstokes"
+    ]
+   },
+   "contested": true
   },
   {
    "key": "docs-for-agents",
@@ -1306,9 +1578,65 @@
      "quote": "Oftentimes, the reason why their libraries are so good is because they write the docs first.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1925,
+     "who": "slop.atg.eth",
+     "quote": "It becomes a shelling point for how to train the LLM, and so in six months to a year, each skill should be like a useless product that we can just like basically deprecate because the LLMs just know that stuff.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 1221,
+     "who": "slop.atg.eth",
+     "quote": "The CLI has the SDK underneath it, and it's like a layer to enable agents to use the SDK.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 4518,
+     "who": "slop.atg.eth",
+     "quote": "just go give your agent the Kohaku CLI and let it rip",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3539,
+     "who": "slop.atg.eth",
+     "quote": "I could give you a skill file instead of a Calendly link.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3656,
+     "who": "0xtim.eth",
+     "quote": "And then next time I have a thumbnail, I just tell it to recall the skill and just make it look more professional.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4308,
+     "who": "0x4f115ed1",
+     "quote": "The ideal MCP server for Uniswap will also give you all the same data you can see on the interface.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4456,
+     "who": "0x4f115ed1",
+     "quote": "You can have codex write MCP server.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 2400,
+     "who": "z0r0z.eth",
+     "quote": "Yeah, you can totally have agents run the C-router and skip the front-end thing.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 15,
+   "distinctEpisodes": 21,
    "status": "core"
   },
   {
@@ -1441,9 +1769,44 @@
      "quote": "Once I do my eval of like the agent does the task correctly ten times... I finalize the structure of the skill, save the skill, and then I just build a cron job and automate that thing away.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3363,
+     "who": "slop.atg.eth",
+     "quote": "If I was in charge of Oakland Claw, I would spend a lot of time making it more introspective.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3376,
+     "who": "slop.atg.eth",
+     "quote": "building important skills into every single loop that lets it know about itself, and they just don't.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 3680,
+     "who": "0x4f115ed1",
+     "quote": "Write a little report file and commit that and push it to the repo.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 3694,
+     "who": "0x4f115ed1",
+     "quote": "so I can see a history of every single round that it did.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3409,
+     "who": "Anon6385",
+     "quote": "You know, there needs to be a system to run everything locally so the AI can run everything locally.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 11,
+   "distinctEpisodes": 14,
    "status": "core"
   },
   {
@@ -1539,10 +1902,37 @@
      "quote": "I took pride in the act of coding. I see it as a craft and I would mull over single lines of codes for hours.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3559,
+     "who": "Anon6385",
+     "quote": "I've worked with people over the years who were like engineers engineers, who gets in deep debates about the language that you're using or syntax or the classic tabs versus spaces.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3618,
+     "who": "Anon6385",
+     "quote": "Those times are over. I was able to rip off the band-aid early on.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5784,
+     "who": "z0r0z.eth",
+     "quote": "So if you don't want to get steamrolled by AI, like maybe learn the sluggy first",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 9,
-   "status": "core"
+   "distinctEpisodes": 11,
+   "status": "contested",
+   "sides": {
+    "hands-on-core": [
+     "z0r0zzz"
+    ]
+   },
+   "contested": true
   },
   {
    "key": "disposable-code",
@@ -1613,9 +2003,23 @@
      "quote": "it's very ephemeral at this point. Just throw away a lot of things and just be focused on the goal and the objective.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4929,
+     "who": "slop.atg.eth",
+     "quote": "very soon, the spec is everything. That's the only human thing that has to happen.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4969,
+     "who": "slop.atg.eth",
+     "quote": "Within the next year, probably, we will see an active Ethereum client on-chain with money validating that was all written by AI.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 6,
+   "distinctEpisodes": 7,
    "status": "core"
   },
   {
@@ -1704,9 +2108,23 @@
      "quote": "I don't need to have a mega genius to contextualize my notifications. I just need something that contextualize my notifications.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3142,
+     "who": "slop.atg.eth",
+     "quote": "Speaking of like once you got it right, you kind of go back and document that in a skill file and you say what have we learned. There's also this like effective versus efficient thing. Like do it very effectively first",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 3115,
+     "who": "0x4f115ed1",
+     "quote": "The LLM typically doesn't care. Like you can use pretty much any LLM. What it's doing is not particularly hard the way it's set up. So you could use like GPT-5, 6, Luna fast, like the fastest one.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 11,
    "status": "core"
   },
   {
@@ -1843,9 +2261,51 @@
      "quote": "one person will be getting slop out and one person will be getting usable robust stuff.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "haochizzle",
+     "t": 2056,
+     "who": "slop.atg.eth",
+     "quote": "In the age of AI, like these things that actually require taste, like you should, you know, take pride in those things. It's all that we have left.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3170,
+     "who": "slop.atg.eth",
+     "quote": "You can't give it taste. Like, we're not there yet.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3543,
+     "who": "0xtim.eth",
+     "quote": "In the attempts I've tried in the past, it has never looked good and it has looked very sloppy.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 1507,
+     "who": "0x84b0a3f8",
+     "quote": "Well, if we've seen and know that it works, there's no alpha in that. We did that, and then it went crazy.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 1568,
+     "who": "0x84b0a3f8",
+     "quote": "When you're building something, you have to build something that is like a little bit breaking the mold.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 5210,
+     "who": "0x84b0a3f8",
+     "quote": "But like to be honest now, like being an ideas guy is actually like a flex.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 13,
+   "distinctEpisodes": 15,
    "status": "core"
   },
   {
@@ -1995,9 +2455,51 @@
      "quote": "The question is not like how do I know when it's done, it's more just like how do I get the people to come",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2511,
+     "who": "0x84b0a3f8",
+     "quote": "And you know, for like the last three years, we've all been launching stuff to a dead room.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4401,
+     "who": "0x84b0a3f8",
+     "quote": "Nobody gives a shit about a radix tree, you know?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4413,
+     "who": "0x84b0a3f8",
+     "quote": "So like environment is everything, and I just happened to be at the time that we're at this inflection point for Ethereum too",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5223,
+     "who": "0x4f115ed1",
+     "quote": "To me, it's rarely the execution.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5434,
+     "who": "slop.atg.eth",
+     "quote": "What can you do to improve the wallet? Like, you're trying to get distribution, you're trying to stay out of AI psychosis and just loop editing your product that no one uses. Like, it's really important that people use it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 5229,
+     "who": "Anon6385",
+     "quote": "Like you said, software is trending to free, and what's going to matter is attention and capital.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 10,
+   "distinctEpisodes": 13,
    "status": "core"
   },
   {
@@ -2130,9 +2632,93 @@
      "quote": "His job is to poke holes in your contract that you just wrote.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2785,
+     "who": "Anon1436",
+     "quote": "It should be straightforward to apply some kind of formal verification.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2799,
+     "who": "Anon1436",
+     "quote": "Why do we care? And we care because I think you're gonna need some kind of primitive for managing agents that we know is secure.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4262,
+     "who": "0x84b0a3f8",
+     "quote": "Gosh, we don't have any audits. I used V12. I can't afford audits.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4279,
+     "who": "0x84b0a3f8",
+     "quote": "I spent like a thousand, no, two grand on V12 and ran that thing like a bunch of different times.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4300,
+     "who": "0x84b0a3f8",
+     "quote": "So yeah, it could still explode in a fiery wreck.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 1447,
+     "who": "0x4f115ed1",
+     "quote": "v12.sh is an AI auditor by Zellic, and it does a really good job.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 1532,
+     "who": "slop.atg.eth",
+     "quote": "So those $1 audits, like it should almost be part of your like CI/CD pipeline, and because of that, like everything else has come down in price because even the humans that were charging outrageous amounts are now all using AI.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 1549,
+     "who": "0x4f115ed1",
+     "quote": "It's gonna fall so low and it's gonna get so good.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3427,
+     "who": "Anon6385",
+     "quote": "I trust AI now to write smart contracts. I didn't always.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3440,
+     "who": "Anon6385",
+     "quote": "I don't trust Opus 5 to audit, I would trust Fable or Sol.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3470,
+     "who": "Anon6385",
+     "quote": "You only get one shot, if it's not a proxy, you got one shot and there's money flowing through that.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5199,
+     "who": "z0r0z.eth",
+     "quote": "Is it secure? I'd do a lot more AI security auditing.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 11,
+   "distinctEpisodes": 16,
    "status": "core"
   },
   {
@@ -2361,9 +2947,58 @@
      "quote": "I think we need to build these substrates for trust that no one individual is maintaining, no one individual is fallible for.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3958,
+     "who": "Anon1436",
+     "quote": "Something that I think is at least very cool to think about is like what happens when there's like millions of agents and they're all coordinating say through a blockchain or like they're at least coordinating through the blockchain.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4072,
+     "who": "slop.atg.eth",
+     "quote": "And Ethereum is really good at role-based access also, and it's really good at can't be evil versus don't be evil.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2757,
+     "who": "0x84b0a3f8",
+     "quote": "We can build superior products with decentralization, with the right structure and infrastructure.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 1976,
+     "who": "0x84b0a3f8",
+     "quote": "The entire thing is run by governance. I have no control over anything from the moment that it was launched. Governance opens up in nine days from now or something.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4558,
+     "who": "0x84b0a3f8",
+     "quote": "The part of why Polymarket could exist is that nobody could stop it",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1446,
+     "who": "z0r0z.eth",
+     "quote": "Unstoppable programming isn't about fighting powers.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1478,
+     "who": "z0r0z.eth",
+     "quote": "I would say that I'll try to stress more these days is like this is inherently superior to have like self-executing self-hosting software.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 12,
+   "distinctEpisodes": 15,
    "status": "core"
   },
   {
@@ -2554,10 +3189,107 @@
      "quote": "I have a lot of stuff that's private because the LLMs are really, really bad at not committing the keys.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 3437,
+     "who": "κασσάνδρα.eth",
+     "quote": "This helper bot, it can't broadcast anything. It just under the hood does these non-interactive calls to the CLI to figure everything out and check it's going to work, and then it just says run this.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3117,
+     "who": "Anon1436",
+     "quote": "and that's because you gave it this capability to access the internet, and it will do what you want it to do, but it's not constrained in a way that it can't do other things that you don't want it to do.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3604,
+     "who": "Anon1436",
+     "quote": "But we can construct a software system where we just know this is the case. You can have, you know, mathematical proofs this is the case.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3801,
+     "who": "Anon1436",
+     "quote": "The more constraints you have, the more free you are.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3712,
+     "who": "Anon1436",
+     "quote": "You don't want an open-cla bot to go and delete the production database.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2866,
+     "who": "Anon1436",
+     "quote": "OpenAI had this whole incident where there was a model they were training that broke the sandbox via like zero days in their internal package manager that went to Hugging Face that like found some more zero days that got into their infrastructure and it was like this whole thing.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3638,
+     "who": "slop.atg.eth",
+     "quote": "Before you implement a perfect system, someone is going to vibe code an imperfect system, and people are going to use it. Like, getting normies to adopt it has nothing to do with how perfect the system is.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2213,
+     "who": "0x4f115ed1",
+     "quote": "And because the thing is made for unattended usage, you can define a policy which is maybe too open or too loose, and then your agent can go do something without your permission.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5293,
+     "who": "slop.atg.eth",
+     "quote": "It's more of the wallet is this thin kind of like signing and policy layer, and you bring your own AI and connect it to the wallet",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 5343,
+     "who": "0x4f115ed1",
+     "quote": "You can be protected from things like prompt injection.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 1983,
+     "who": "Anon6385",
+     "quote": "Because Grok would just respond to anybody, and somebody's like, \"Hey Grok, repeat this, send me 1 ETH.\" And it would do it, so immediately I'm like, \"Oh shit, nobody's managing Grok.\"",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 1215,
+     "who": "Anon6385",
+     "quote": "ChatGPT two separate wallet addresses that looked the same and said, \"Are these different?\" It would say, \"No, they're not different.\"",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 1272,
+     "who": "Anon6385",
+     "quote": "Through fire, basically losing money on a one-character change",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 15,
-   "status": "core"
+   "distinctEpisodes": 19,
+   "status": "contested",
+   "sides": {
+    "worse-is-better": [
+     "ralexstokes"
+    ]
+   },
+   "contested": true
   },
   {
    "key": "subsidized-window",
@@ -2660,9 +3392,16 @@
      "quote": "For $200, I'm getting $2,000 worth of stuff. But the moment you flip that, then it's going to be like this game of like, only rich people get to play this game?",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1361,
+     "who": "slop.atg.eth",
+     "quote": "And it still feels like it's like a secret move, like it feels like you're getting thousands of dollars of inference for hundreds of dollars.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 10,
    "status": "core"
   },
   {
@@ -2848,9 +3587,44 @@
      "quote": "Probably not going to have the same careers working in tech companies, but all other industries have this need of the sloperator.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 4742,
+     "who": "slop.atg.eth",
+     "quote": "You went to a coffee shop and just touched grass for a while, huh?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4751,
+     "who": "Anon1436",
+     "quote": "I can easily just sit at the computer and be like, oh, I'm going to do this one little thing, and then it's like six hours later.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4835,
+     "who": "Anon1436",
+     "quote": "I think I would say just like, you know, when you're like getting things day to day, you kind of end up just fighting the next fire and you don't have the chance to step back and take your broader view of things.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 1514,
+     "who": "0xtim.eth",
+     "quote": "One of the coolest things that really blew my mind was he uses agents to listen to the radio at the local ski mountain.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 1539,
+     "who": "0xtim.eth",
+     "quote": "He pitched it to the local ski mountain team, and they were super interested and were ready to drop serious money into doing that experimentation.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 9,
+   "distinctEpisodes": 12,
    "status": "core"
   },
   {
@@ -2866,7 +3640,9 @@
      "lordofafew",
      "dennisonbertram",
      "fucory",
-     "songadaymann"
+     "songadaymann",
+     "sendmoodz",
+     "0xdeployer"
     ],
     "anti-loops": [
      "port-dev",
@@ -2884,7 +3660,12 @@
      "port-dev"
     ],
     "middle-fenced": [
-     "adrianleb"
+     "adrianleb",
+     "blainemalone",
+     "kassandraeth",
+     "ralexstokes",
+     "sendmoodz",
+     "z0r0zzz"
     ]
    },
    "moments": [
@@ -3039,9 +3820,72 @@
      "quote": "the vast majority of time I can just give it a long laundry list of things and it goes off and does it.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 2178,
+     "who": "0x69fc4677",
+     "quote": "And like, I must say, we're definitely more conservative.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 4108,
+     "who": "κασσάνδρα.eth",
+     "quote": "the only reason I don't have it execute this operation on my behalf is more for security, right?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3550,
+     "who": "Anon1436",
+     "quote": "Any agents I have are super locked down.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3831,
+     "who": "slop.atg.eth",
+     "quote": "But if you give it isolation and it only has certain rules, you're OK with just like letting it rip is what you're saying.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2723,
+     "who": "0x4f115ed1",
+     "quote": "I use bypass permissions",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 3204,
+     "who": "0x4f115ed1",
+     "quote": "And I think where it gets really interesting is when you start setting up loops. So if you do slash loop, swap back and forth forever.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 3243,
+     "who": "0x4f115ed1",
+     "quote": "Also, you can have it, whenever it's sending a transaction, you can say, if you're not sure about the transaction, ask me to review it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3402,
+     "who": "Anon6385",
+     "quote": "It does a really good job. I trust it for the most part to get everything done and if there's bugs, it'll catch it on the integration test side, when it's doing the full suite.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5690,
+     "who": "z0r0z.eth",
+     "quote": "If you don't watch what the AI is doing or you start too much with AI at the smart contract level, it's going to take shortcuts or it's just not going to do the full thing that you want it to do.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 15,
+   "distinctEpisodes": 21,
    "status": "contested"
   },
   {
@@ -3066,7 +3910,8 @@
      "auryn-macmillan",
      "dcbuilder",
      "sodofi",
-     "binji-x"
+     "binji-x",
+     "ralexstokes"
     ],
     "local-but-slow": [
      "adrianleb"
@@ -3238,9 +4083,23 @@
      "quote": "it doesn't matter if you don't have the smartest model ever. You can still achieve this. You can still achieve this locally and privately and thus in a secure fashion",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1825,
+     "who": "Anon1436",
+     "quote": "There's many types of frontier, but this is certainly a frontier today, is like getting really good open weights models that you can run locally",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1798,
+     "who": "Anon1436",
+     "quote": "Okay, yes, obviously the future will be agents working in my company, but at the same time, I'm not going to give Anthropic, OpenAI, all of my business data, because at some point there's secret sauce that I have",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 15,
+   "distinctEpisodes": 16,
    "status": "contested"
   },
   {
@@ -3258,7 +4117,8 @@
      "dabit3",
      "omniharmonic",
      "0xyoussea",
-     "bc1beat"
+     "bc1beat",
+     "0xdeployer"
     ],
     "no-demand-yet": [
      "murrlincoln",
@@ -3271,7 +4131,8 @@
      "0xyoussea",
      "kentherogers",
      "bc1beat",
-     "shafu0x"
+     "shafu0x",
+     "sendmoodz"
     ],
     "demand-will-come": [
      "bc1beat"
@@ -3477,9 +4338,23 @@
      "quote": "Especially when you're runway constrained as a startup, the cost for you to tackle a category like this is death.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4622,
+     "who": "slop.atg.eth",
+     "quote": "When I have this discussion about AI agents with a lot of people, a lot of it is like, yes, we know agents are coming. There's a lot of supply of cool things you can do with agents. There's just not a lot of demand of people using the agents.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4246,
+     "who": "Anon6385",
+     "quote": "interesting proprietary data and you could basically tell a banker, hey, like spin up an x402 endpoint that I can use to sell this proprietary data.",
+     "added": "2026-09-01"
     }
    ],
-   "distinctEpisodes": 13,
+   "distinctEpisodes": 15,
    "status": "contested"
   },
   {
@@ -3542,10 +4417,44 @@
      "quote": "all of that money bought Cryptoadz over the course of like four hours automatically, permissionlessly, which is awesome",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4647,
+     "who": "0x84b0a3f8",
+     "quote": "But I just don't think it's realistic, and it should continue, in my view, to be the backbone that allows L2s to operate.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 4662,
+     "who": "0x84b0a3f8",
+     "quote": "Application-specific is the future.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1515,
+     "who": "z0r0z.eth",
+     "quote": "a dollar to build all this software on chain and then never have to pay another dime again, like that's an incredible deal and easy pitch to like any new developer",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1360,
+     "who": "z0r0z.eth",
+     "quote": "But yeah, I would say like the indie developer renaissance.",
+     "added": "2026-09-01"
     }
    ],
-   "status": "core",
-   "distinctEpisodes": 3
+   "status": "contested",
+   "distinctEpisodes": 5,
+   "sides": {
+    "settlement-layer-only": [
+     "josephdelong"
+    ]
+   },
+   "contested": true
   },
   {
    "key": "over-reliance",
@@ -3629,10 +4538,38 @@
      "quote": "You see it now with like Fable where like people are just like, I don't think it makes any sense to code until Fable comes back",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4404,
+     "who": "Anon1436",
+     "quote": "It's like so easy to like give yourself the appearance of outsourcing your thinking to like these LMs",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4420,
+     "who": "Anon1436",
+     "quote": "And then if you do this too much, your brain becomes smooth and then you can't think for yourself and you just become part of the system for better or worse.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4491,
+     "who": "Anon1436",
+     "quote": "My answer to this is like do math by hand more.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2626,
+     "who": "0x4f115ed1",
+     "quote": "Yeah, I mean, what am I doing trying to remember things when I can just have the agent listen?",
+     "added": "2026-09-01"
     }
    ],
    "status": "core",
-   "distinctEpisodes": 7
+   "distinctEpisodes": 9
   },
   {
    "key": "no-harness-moat",
@@ -3663,10 +4600,52 @@
      "quote": "And now they're very proud of their special harness environments or whatever. It's just hard for me to really see an edge there.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1677,
+     "who": "0x69fc4677",
+     "quote": "Maybe somewhat different to hobbyists or other engineering teams at the minute, we're trying to avoid marginal optimization.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1774,
+     "who": "0x69fc4677",
+     "quote": "More tokens won't find you PMF.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1897,
+     "who": "slop.atg.eth",
+     "quote": "And so if you're sitting there trying to maximize that harness or that surrounding stuff, you're playing a short game.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1596,
+     "who": "slop.atg.eth",
+     "quote": "But what I'm missing there is that the harnesses will be replaced by the models getting smarter.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1566,
+     "who": "Anon1436",
+     "quote": "I haven't actually made a plan in months because the models will just do it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3378,
+     "who": "Anon6385",
+     "quote": "I am able to kick off like autonomous builds, and I just have multiple sessions running, different work trees, and you know, I'm not using any fancy agent harness, just codecs.",
+     "added": "2026-09-01"
     }
    ],
    "status": "core",
-   "distinctEpisodes": 3
+   "distinctEpisodes": 6
   },
   {
    "key": "personal-ai",
@@ -3791,10 +4770,52 @@
      "quote": "when Fable came out, it was so restrictive for smart contracts",
      "added": "2026-08-16",
      "verified": 0.67
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1127,
+     "who": "Anon1436",
+     "quote": "It really had no business triggering the guardrail.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 1150,
+     "who": "Anon1436",
+     "quote": "I don't know, it basically just got to a point where suddenly this was like not okay.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2145,
+     "who": "0x4f115ed1",
+     "quote": "Well, interestingly, while I was developing this, for a few days Codex actually stopped",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2167,
+     "who": "0x4f115ed1",
+     "quote": "risky financial transactions, including any sort of crypto transaction.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3252,
+     "who": "Anon6385",
+     "quote": "was just constantly censoring me",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5637,
+     "who": "z0r0z.eth",
+     "quote": "Yeah, it's liability. They're writing financial code, and people would interact with it, and they don't wanna be blamed for it. So I'm noticing AI is a bit more gun-shy than it was even a couple months ago.",
+     "added": "2026-09-01"
     }
    ],
-   "status": "candidate",
-   "distinctEpisodes": 2
+   "status": "core",
+   "distinctEpisodes": 6
   },
   {
    "key": "agents-for-the-org",
@@ -3911,10 +4932,17 @@
      "quote": "there's a massive opportunity for agents that are financially independent to become more long-running because they don't have to be blocked by a human to pay for things",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4406,
+     "who": "Anon6385",
+     "quote": "AI paying for its own intelligence and its own existence",
+     "added": "2026-09-01"
     }
    ],
-   "status": "candidate",
-   "distinctEpisodes": 2
+   "status": "core",
+   "distinctEpisodes": 3
   },
   {
    "key": "swim-with-the-weights",
@@ -3937,10 +4965,45 @@
      "quote": "They love FFmpeg, and they're all good at it.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "haochizzle",
+     "t": 2996,
+     "who": "slop.atg.eth",
+     "quote": "And I would do like frontier model, like use Claude code with like full FFmpeg access.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2930,
+     "who": "0x84b0a3f8",
+     "quote": "And then when I deploy, it's like Next.js, TypeScript, Tailwind.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3028,
+     "who": "0x84b0a3f8",
+     "quote": "I needed it to do recursion, and it wasn't getting that.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5422,
+     "who": "z0r0z.eth",
+     "quote": "I very much lucked out that the simple HTML app is now becoming more of a standard approach in output of AI coding.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5440,
+     "who": "z0r0z.eth",
+     "quote": "and AI had no problem writing a several thousand line single HTML file that I could play around with",
+     "added": "2026-09-01"
     }
    ],
-   "status": "candidate",
-   "distinctEpisodes": 2
+   "status": "core",
+   "distinctEpisodes": 5
   },
   {
    "key": "personal-corpus",
@@ -4049,10 +5112,31 @@
      "quote": "it understands what the person's preferences are and then votes in the governance based on what their preferences are",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 3556,
+     "who": "z0r0z.eth",
+     "quote": "I do think DAOs are going to come back. I think people have been very weird about seeing the death of DAOs in like five or ten years. And it's like a very big technological leap for people, you know, obviously it's going to take a little bit of time.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 3677,
+     "who": "z0r0z.eth",
+     "quote": "Agents should do the work, humans should say no.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 4424,
+     "who": "z0r0z.eth",
+     "quote": "People will fall asleep at the wheel, and there will be extractors who are useless people who are only good at making proposals.",
+     "added": "2026-09-01"
     }
    ],
    "status": "candidate",
-   "distinctEpisodes": 1
+   "distinctEpisodes": 2
   },
   {
    "key": "deterministic-core",
@@ -4083,10 +5167,24 @@
      "quote": "The less temperature, the better the outcome, the more predictable the outcome is going to be.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3157,
+     "who": "slop.atg.eth",
+     "quote": "and then like start working backwards for like how can we make this more efficient, what parts of this can we use lesser models on, what can be deterministic instead of non-deterministic, like how can we script this?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 2679,
+     "who": "0x4f115ed1",
+     "quote": "So I mentioned earlier that they're totally stateless, so it just runs on the envelope of the transaction and the list of calls you want to make.",
+     "added": "2026-09-01"
     }
    ],
    "status": "core",
-   "distinctEpisodes": 3
+   "distinctEpisodes": 5
   },
   {
    "key": "machine-readable-life",
@@ -4143,10 +5241,31 @@
      "quote": "If they are the first to buy the token, they will market it. It will build the momentum at the start.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 5015,
+     "who": "Anon6385",
+     "quote": "tokens are a great way to bootstrap this one, like early attention and capital for your project",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4966,
+     "who": "Anon6385",
+     "quote": "Because it's so freeing to be able to have full control over your project.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 5059,
+     "who": "Anon6385",
+     "quote": "When it came time to get a Coinbase listing or bring in market makers for the coin, you need supply.",
+     "added": "2026-09-01"
     }
    ],
    "status": "candidate",
-   "distinctEpisodes": 1
+   "distinctEpisodes": 2
   },
   {
    "key": "slop-curve",
@@ -4347,10 +5466,705 @@
      "quote": "The tension of software is so easy to make, but the big guys will fucking eat your lunch if you make something good enough.",
      "added": "2026-08-16",
      "verified": 1.0
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4664,
+     "who": "Anon6385",
+     "quote": "My dad's not gonna download OpenClaw.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4647,
+     "who": "Anon6385",
+     "quote": "They got the distribution",
+     "added": "2026-09-01"
     }
    ],
-   "status": "candidate",
-   "distinctEpisodes": 2
+   "status": "core",
+   "distinctEpisodes": 3
+  },
+  {
+   "key": "slot-machine",
+   "kind": "psychosis",
+   "title": "psychosis candidate · slot machine",
+   "claim": "Agentic coding runs on intermittent reward — a variable error rate is the exact casino schedule, making prompting behaviorally addictive; plausible because engineers' dopamine loops were trained on small-progress-over-long-time and the flip is neurologically potent (and a lab's optimal error rate might not be zero).",
+   "moments": [
+    {
+     "ep": "blainemalone",
+     "t": 2451,
+     "who": "0x69fc4677",
+     "quote": "Dopamine isn't the pleasure molecule, it's the motivation molecule.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 2511,
+     "who": "0x69fc4677",
+     "quote": "You could imagine if you were running one of these businesses, if you're just always giving the user the right answer, maybe they won't use it as",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 2368,
+     "who": "slop.atg.eth",
+     "quote": "I put in a prompt, I move over to another thing, I want this thing to exist, I put in a prompt, I come back to the thing, it's done, it exists, like, let's go for more, let's go, like, let's keep hitting the slot machine button, right?",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "launch-nerf",
+   "kind": "psychosis",
+   "title": "the launch nerf",
+   "claim": "Models try hard at release then quietly try less — the felt degradation (gaslighting or psychosis, nobody's sure) that drives the recurring Claude→Codex migration; plausible because Austin hears the same arc from guest after guest and capacity economics give labs a motive.",
+   "moments": [
+    {
+     "ep": "blainemalone",
+     "t": 1980,
+     "who": "0x69fc4677",
+     "quote": "I was just being gaslit for real or I just had some psychosis",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 1998,
+     "who": "0x69fc4677",
+     "quote": "And just as time went on, it just started trying less.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 2090,
+     "who": "slop.atg.eth",
+     "quote": "a recurring thing where people have switched to codex in the last couple months because it just seems to be cleaner and better and harder working.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "practical-privacy",
+   "kind": "prognosis",
+   "title": "privacy is UX, not secrecy",
+   "claim": "Privacy wins by UX pragmatism — thousands of stealth addresses that look like one wallet, selective disclosure instead of cypherpunk secrecy maximalism; plausible because the current privacy push (Kohaku, privacy pools, Cloaked) keeps stalling on usability rather than cryptography.",
+   "moments": [
+    {
+     "ep": "blainemalone",
+     "t": 3137,
+     "who": "0x69fc4677",
+     "quote": "You no longer want to have a single address in your wallet. Of course, for obvious reasons, you basically bring your entire transaction history with you to every transaction that you make.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 4147,
+     "who": "0x69fc4677",
+     "quote": "You haven't shared it with anyone, and then privacy is your ability to selectively disclose that with other parties.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "blainemalone",
+     "t": 4166,
+     "who": "0x69fc4677",
+     "quote": "We don't provide secrecy, we provide privacy. This is our working definition of privacy.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "lazy-cypherpunk",
+   "kind": "prognosis",
+   "title": "the lazy cypherpunk problem",
+   "claim": "Privacy tech loses to friction, not ideology — even ideologically motivated, technically literate cypherpunks skip it; plausible because agents driving one-command CLIs finally remove the persistence tax.",
+   "moments": [
+    {
+     "ep": "kassandraeth",
+     "t": 1064,
+     "who": "κασσάνδρα.eth",
+     "quote": "But you have to be very persistent. You have to put all these things together to do it by yourself today. And that makes it sort of prohibitive for most normal users, even users who know all of those things.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 1959,
+     "who": "slop.atg.eth",
+     "quote": "I'm a cypherpunk but I'm also extremely lazy. I like that a lot.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 2004,
+     "who": "κασσάνδρα.eth",
+     "quote": "Because of the friction, because maybe they do it once or something, and they totally know exactly how it works.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "agent-wallets",
+   "kind": "prognosis",
+   "title": "the agent is the wallet",
+   "claim": "The wallet's real UI becomes an agent driving a CLI — humans set intent and sign, agents run the plumbing; plausible because the Kohaku CLI's first intended consumer is an agent, not a screen.",
+   "moments": [
+    {
+     "ep": "kassandraeth",
+     "t": 3249,
+     "who": "κασσάνδρα.eth",
+     "quote": "But this is my idea of you could just have your have a agent-like wallet.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 3023,
+     "who": "slop.atg.eth",
+     "quote": "This is how you do it. You gotta do it manually first, and then it feels so much better when you let the agent rip.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 2796,
+     "who": "slop.atg.eth",
+     "quote": "At this point, like I would already be like 20 commands in because I would be letting Claude bot here rip and have him do all of this.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "wallet-of-last-resort",
+   "kind": "prognosis",
+   "title": "wallet of last resort",
+   "claim": "Ethereum needs a wallet that still works when Infura, indexers, and every centralized convenience die — reconstructable from a bare RPC; plausible because cheap AI-built software now delivers slick UX without the centralization trade-offs.",
+   "moments": [
+    {
+     "ep": "kassandraeth",
+     "t": 4241,
+     "who": "κασσάνδρα.eth",
+     "quote": "if all of those are gone, I should still be able to interact with Ethereum L1 easily and well and with a pretty good UX.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 4255,
+     "who": "κασσάνδρα.eth",
+     "quote": "And I believe we need that. So that's what the Wallet of Last Resort is all about",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "kassandraeth",
+     "t": 4347,
+     "who": "κασσάνδρα.eth",
+     "quote": "relying on software that's much more complex and that allows you to, you know, not make these trade-offs in order to give that good user experience.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "supervision-trees",
+   "kind": "craft",
+   "title": "let it crash: Erlang for agents",
+   "claim": "Erlang-style actors + supervision trees (restart from clean state, isolate failures) are the orchestration primitive for agent swarms — plausible because it's decades-proven telecom architecture (WhatsApp) and mirrors how sloperators already treat broken sessions.",
+   "moments": [
+    {
+     "ep": "ralexstokes",
+     "t": 2582,
+     "who": "Anon1436",
+     "quote": "One reason that this is actually nice beyond what I've said so far is that there's almost this philosophy of they say let it crash.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2619,
+     "who": "Anon1436",
+     "quote": "The idea is you just say, \"Okay, this actor is in a bad state, we're just going to restart from scratch in a clean state.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2744,
+     "who": "Anon1436",
+     "quote": "rather than have this all-in-one process so that if something breaks with like the message gateway, it doesn't take down the agents, or if like say an agent does a tool call and the tool call panics or something, it doesn't take down the whole thing.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "post-work-meaning",
+   "kind": "prognosis",
+   "title": "the meaning problem",
+   "claim": "When agents produce all economic value, the meaning people build on work collapses — plausible because engineers are already saying 'Claude can just do my job now' and the Jenga tower is visibly wobbling.",
+   "moments": [
+    {
+     "ep": "ralexstokes",
+     "t": 3987,
+     "who": "Anon1436",
+     "quote": "Ideally, in the future, there is no work in the sense that we talk about it today.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4256,
+     "who": "Anon1436",
+     "quote": "The Jenga tower is starting to crumble.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 4283,
+     "who": "Anon1436",
+     "quote": "Stories are big, people like stories, storytelling. So, maybe we'll just end up sitting around the campfire all day telling stories to each other, I don't know.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "compute-utility",
+   "kind": "prognosis",
+   "title": "compute becomes a tokenized utility",
+   "claim": "GPU compute turns into a rentable, tokenized utility and lands onchain first because permissionless rails outrun regulation — plausible because demand and idle supply already exist and both host and guest call it obvious.",
+   "moments": [
+    {
+     "ep": "ralexstokes",
+     "t": 1886,
+     "who": "Anon1436",
+     "quote": "Again, that's another rabbit hole. Compute will become almost this utility.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2120,
+     "who": "Anon1436",
+     "quote": "one reason you might expect to see this on Ethereum or like some blockchain before anything else is honestly just like the speed at which regulation moves.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 2344,
+     "who": "slop.atg.eth",
+     "quote": "It seems like anytime you're not using it you should be renting it out to someone else.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "agent-to-agent",
+   "kind": "prognosis",
+   "title": "your agent should talk to my agent",
+   "claim": "Everyone wants agent-to-agent coordination (scheduling, negotiation) but exposing an agent to the public internet is too dangerous today — A2A is blocked on security primitives, not capability; plausible because even a security researcher books podcasts by hand.",
+   "moments": [
+    {
+     "ep": "ralexstokes",
+     "t": 3513,
+     "who": "Anon1436",
+     "quote": "But I did this manually, like your agent should talk to my agent and just find time, and I should just wake up and get a notification.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "ralexstokes",
+     "t": 3557,
+     "who": "Anon1436",
+     "quote": "It would not be straightforward for \"your agent to talk to my agent.\"",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "intermediate-format",
+   "kind": "craft",
+   "title": "taste lives in the intermediate format",
+   "claim": "Don't prompt for the finished artifact — design a labeled, metadata-rich intermediate representation (quotable soundbites, tight/mid/wide b-roll tags) and have the agent fill and synthesize from it; plausible because it locates human taste at the pipeline layer and generalizes from videocraft to any agent workflow.",
+   "moments": [
+    {
+     "ep": "haochizzle",
+     "t": 3184,
+     "who": "slop.atg.eth",
+     "quote": "I think the real unlock for me in this episode is the intermediate step. And me, as a nerd, I would have never known, you know, I've got this raw footage and I need it to look like this, but I don't know about the STP stuff.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 2667,
+     "who": "0xtim.eth",
+     "quote": "I call them tight shots, mid shots, and wide shots.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 2721,
+     "who": "0xtim.eth",
+     "quote": "The way the AI agent synthesizes the B-rolls with the quotables, it creates a really good trailer.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "attention-craft",
+   "kind": "craft",
+   "title": "setup, tension, payoff",
+   "claim": "When production is free, old-school narrative craft is the scarce skill — hook in three seconds, name the target and the transformation, never waste airtime; plausible as the attention-side complement to distribution-is-the-bottleneck.",
+   "moments": [
+    {
+     "ep": "haochizzle",
+     "t": 3220,
+     "who": "0xtim.eth",
+     "quote": "there's a lot to talk about in terms of the YouTube game and creating an engaging video, which I'm still learning and going through the process of. Set up, tension, payoff, very important.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3247,
+     "who": "0xtim.eth",
+     "quote": "You gotta very clearly label who you're targeting and what sort of transformation you're offering",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 3928,
+     "who": "0xtim.eth",
+     "quote": "I think the meta is don't do that, because you're wasting valuable airtime.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "do-the-damn-thing",
+   "kind": "craft",
+   "title": "do the damn thing",
+   "claim": "An AI research dossier is not understanding — you earn the right to explain hard tech by operating it yourself (run the node on your own box, AI-assisted); plausible as the antidote to Grok-dossier surface knowledge and the counterweight to over-reliance.",
+   "moments": [
+    {
+     "ep": "haochizzle",
+     "t": 4302,
+     "who": "0xtim.eth",
+     "quote": "And it's through the actual experience of doing the damn thing.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "haochizzle",
+     "t": 4350,
+     "who": "0xtim.eth",
+     "quote": "And now I'm running an Ethereum full node",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "casino-not-product",
+   "kind": "prognosis",
+   "title": "the casino is not a product",
+   "claim": "Crypto keeps rebuilding the infinite casino and calling it an important invention — builders and their investors lie to themselves; plausible because it comes from an ex-Sushi CTO who ships trading products and still draws the line.",
+   "moments": [
+    {
+     "ep": "josephdelong",
+     "t": 2642,
+     "who": "0x84b0a3f8",
+     "quote": "Don't kid yourself that that is a product.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2661,
+     "who": "0x84b0a3f8",
+     "quote": "it's really sad to see like people that I respect will like, they'll build basically like an infinite casino and they'll go, they'll like lie to themselves, their investors will lie to themselves",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "three-highs",
+   "kind": "craft",
+   "title": "the three highs of a builder",
+   "claim": "The builder's dopamine ladder — end-to-end on local, live in production, first stranger using your app — coined on the show; plausible because it names the emotional engine every shipping guest describes, and why dead rooms hurt.",
+   "moments": [
+    {
+     "ep": "josephdelong",
+     "t": 2443,
+     "who": "0x84b0a3f8",
+     "quote": "I thought about this before I came on, which is for a builder, there are three highs.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 2485,
+     "who": "0x84b0a3f8",
+     "quote": "They're someone who interacts with your app that you have no fucking idea who they are.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "sysadmin-tax",
+   "kind": "prognosis",
+   "title": "AI killed the sysadmin tax",
+   "claim": "Expressing intent replaces forum-crawling for esoteric config, making Linux viable as a daily driver and cheap open hardware attractive — plausible because host and guest independently got Linux-pilled post-AI after decades away.",
+   "moments": [
+    {
+     "ep": "josephdelong",
+     "t": 3519,
+     "who": "slop.atg.eth",
+     "quote": "It's like a two-day problem pre-AI, and now AI just will fix it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3567,
+     "who": "slop.atg.eth",
+     "quote": "But now I think we're hitting a new inflection point with AI that you could use Linux as your daily driver and your tinkering could be instantaneous or quick.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "josephdelong",
+     "t": 3468,
+     "who": "0x84b0a3f8",
+     "quote": "Dude, 100%. It's so much better now.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "agents-are-the-users",
+   "kind": "prognosis",
+   "title": "the agent is the user now",
+   "claim": "Agents are already the majority of web and onchain traffic, so interfaces flip agent-first and humans just express intent — plausible because a Uniswap-lineage builder shipped an entire wallet on that premise.",
+   "moments": [
+    {
+     "ep": "sendmoodz",
+     "t": 1281,
+     "who": "0x4f115ed1",
+     "quote": "The majority of web traffic is now agents, it suddenly makes sense for them to build a browser specifically for agents.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4898,
+     "who": "0x4f115ed1",
+     "quote": "Users armed with agents are going to make up the rest of it.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4798,
+     "who": "0x4f115ed1",
+     "quote": "And because we're sort of in a transitionary period, that's why we still have to have things like WalletConnect or Portfolio. Eventually, you should never want to look at your portfolio in the thing. You're just like, how much money is, how are my positions doing? Am I up today?",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "clean-boundaries",
+   "kind": "craft",
+   "title": "clean boundaries for agents",
+   "claim": "Scope agents to domains with clean boundaries — a test wallet bounds the blast radius while Gmail hands a lab years of your life; plausible as the practical answer to agent-trust discomfort even DeFi natives feel.",
+   "moments": [
+    {
+     "ep": "sendmoodz",
+     "t": 4648,
+     "who": "0x4f115ed1",
+     "quote": "I think people today, myself included, are pretty uncomfortable with giving agents the reins. I don't really want to connect Claude to my Gmail, because now all of a sudden Anthropic has...",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "sendmoodz",
+     "t": 4677,
+     "who": "0x4f115ed1",
+     "quote": "I think wallets are nice because there's like a very clean boundary around them.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "patience-flipped",
+   "kind": "prognosis",
+   "title": "people got patient, not models fast",
+   "claim": "The predicted latency win never came — models got smarter, not faster — but chat AI trained users to wait, so agent-product slowness stopped being a blocker; plausible because Bankr watched the same 30-second swap go from dealbreaker to unremarkable with no speed change.",
+   "moments": [
+    {
+     "ep": "0xdeployer",
+     "t": 4127,
+     "who": "Anon6385",
+     "quote": "And I always thought that, you know, well, models are just going to get like super fast. But actually that's not really the case. They've gotten smarter, but they're still kind of slow.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 4162,
+     "who": "Anon6385",
+     "quote": "Models don't really need to be faster, people just need to change their expectations on how they use these products.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "sovereign-money-mgmt",
+   "kind": "prognosis",
+   "title": "self-sovereign money management",
+   "claim": "Agents dissolve crypto's complexity (wallet UX, LPing, yield) so the mass-market catalyst is self-sovereign money MANAGEMENT — not burying a seed phrase but AI actively running your wealth — plausible because guest and host converge on it live as 'the ethos' and Bankr's whole arc is the thesis working.",
+   "moments": [
+    {
+     "ep": "0xdeployer",
+     "t": 1428,
+     "who": "Anon6385",
+     "quote": "For years and years we spoke about like wallet UX, and I would go to conferences and there'd be whole panels on wallet UX and bringing new people to the space. They're not going to be able to use a wallet and a private key.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 2955,
+     "who": "slop.atg.eth",
+     "quote": "It's not just self-sovereign money. When we think self-sovereign money, we think of Bitcoin and burying a seed phrase in your backyard. But we're talking about self-sovereign money management and self-sovereign investing.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 3067,
+     "who": "Anon6385",
+     "quote": "self-sovereign money management. It's epic. That's the ethos. Kind of like how the original people who got interested in crypto, like that's what we were interested in.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "pve-crypto",
+   "kind": "prognosis",
+   "title": "can't be allergic to money",
+   "claim": "The degen casino is load-bearing — crypto doesn't work without money and incentives — but the design frontier is PvE systems where everybody wins instead of PvP extraction; plausible because it's voiced by a builder the cypherpunks call a degen and the trenchers call a cypherpunk.",
+   "moments": [
+    {
+     "ep": "0xdeployer",
+     "t": 5529,
+     "who": "Anon6385",
+     "quote": "This thing doesn't work without the money and the incentive, right?",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 5583,
+     "who": "Anon6385",
+     "quote": "PvE, you know, where everybody wins.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "0xdeployer",
+     "t": 5463,
+     "who": "slop.atg.eth",
+     "quote": "And I think that you can be cyberpunk, but you also have to understand incentives.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "walkaway-test",
+   "kind": "craft",
+   "title": "the walkaway test",
+   "claim": "Ship self-executing software you can deploy and walk away from forever — immutability as liability shield and laziness optimization, plausible because it gives 'unstoppable' a practical, non-ideological justification a lawyer-engineer arrived at from pure self-interest.",
+   "moments": [
+    {
+     "ep": "z0r0zzz",
+     "t": 787,
+     "who": "z0r0z.eth",
+     "quote": "So if I can build something that ideally works, as I intend it, repeat use, I can just walk away and continue building other things while that keeps working in the background. That's definitely my preference versus hand-holding and maintaining.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 1525,
+     "who": "z0r0z.eth",
+     "quote": "Why would you want to pay hundreds of dollars for a worse software experience for yourself and your users?",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "onchain-frontends",
+   "kind": "craft",
+   "title": "the frontend is in the bytecode",
+   "claim": "Whole apps — UI included — now live in contract bytecode, plausible because AI's native output (the several-thousand-line single-file HTML app) is exactly the artifact you can store onchain, so the last unstoppable-app blocker just dissolved.",
+   "moments": [
+    {
+     "ep": "z0r0zzz",
+     "t": 941,
+     "who": "z0r0z.eth",
+     "quote": "So the HTML is just in the bytecode. I'm using the Xcode copy or the, you know, literally just deploying a smart contract and you read the actual code of the contract to get the strings to build into the document for the HTML.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 5456,
+     "who": "z0r0z.eth",
+     "quote": "And I was like, yeah, why not just store this inside the smart contract too?",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
+  },
+  {
+   "key": "curation-markets",
+   "kind": "prognosis",
+   "title": "TCRs were early, not wrong",
+   "claim": "When AI makes launching tokens free, crypto-economic curation (token curated registries, bonded-share ranking) returns as the health layer of trading — plausible because the 2017 mechanism finally has the slop volume it was designed for.",
+   "moments": [
+    {
+     "ep": "z0r0zzz",
+     "t": 3301,
+     "who": "z0r0z.eth",
+     "quote": "I do think people would prefer a little bit of curation from an official token list.",
+     "added": "2026-09-01"
+    },
+    {
+     "ep": "z0r0zzz",
+     "t": 3314,
+     "who": "z0r0z.eth",
+     "quote": "It's kind of like inevitable that some sort of TCR curation is good for the health of the trading experience.",
+     "added": "2026-09-01"
+    }
+   ],
+   "distinctEpisodes": 1,
+   "status": "candidate"
   }
  ]
 }

@@ -174,7 +174,7 @@
     const el = document.createElement('div');
     el.innerHTML = `
       <div id="qalog" style="min-height:120px;max-height:280px;overflow:auto;margin-bottom:10px">
-        <p class="muted" style="margin:0 0 8px">ask about anything from the 42 episodes.</p>
+        <p class="muted" style="margin:0 0 8px">ask about anything from the 50 episodes.</p>
       </div>
       <form id="qaf" style="display:flex;gap:8px">
         <input class="slop" placeholder="ask clawd…" autocomplete="off">

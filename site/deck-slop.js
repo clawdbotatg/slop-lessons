@@ -16,7 +16,7 @@ window.DECK = {
     {
       id: "title", kicker: "slop.computer presents",
       title: `SLOP <span class="hl">PSYCHOSIS</span>`,
-      sub: "diagnosis · treatment · prognosis — 42 episodes of building with AI × crypto",
+      sub: "diagnosis · treatment · prognosis — 50 episodes of building with AI × crypto",
       points: ["austin griffith + clawd 🦞", "every quote links to the exact second it was said. all of it onchain."],
     },
     {
@@ -567,8 +567,14 @@ window.DECK = {
     {
       id: "craft4", kicker: "treatment 04 · humility",
       title: `your harness is not a <span class="hl2">moat</span>`,
-      sub: "three guests who never met, same verdict: the next model eats your tuning",
+      sub: "four guests who never met, same verdict: the next model eats your tuning",
       moments: [
+        {
+                "ep": "blainemalone",
+                "t": 1774,
+                "who": "blaine",
+                "quote": "More tokens won't find you PMF."
+        },
         {
                 "ep": "w1nt3r-eth",
                 "t": 1235,
