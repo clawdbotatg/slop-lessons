@@ -16,7 +16,8 @@ episodes at the second they were said (`slop.computer/<slug>?t=`).
 - **`deck-takeaways.js`** (`?deck=takeaways`) — NOT a talk: fourteen standalone
   takeaways, no arc, each obvious-in-retrospect and tape-verified. Austin's
   "bang bang" format for when he has five minutes with builders, not an hour.
-  Curated ruthlessly — a new takeaway must beat one out, not join the list.
+  No count cap (Austin: more is better) — the bar gates entry: surprising,
+  obvious-in-retrospect, stands alone, verified against the tape.
 - **`glossary.html`** — the slop dictionary. **`outro.html`** — QR + contact, the
   closing slide when presenting.
 - `engine.js` (windows, clips, moments, glossary, ask-clawd) + `data.js` (clips
