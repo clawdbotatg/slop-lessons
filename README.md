@@ -13,7 +13,7 @@ episodes at the second they were said (`slop.computer/<slug>?t=`).
   transcript-verified timestamp links and a handful of video clips. The three
   single-throughline decks (psychosis / trust / sloperator) remain playable via
   `?deck=<name>`.
-- **`deck-takeaways.js`** (`?deck=takeaways`) — NOT a talk: nine standalone
+- **`deck-takeaways.js`** (`?deck=takeaways`) — NOT a talk: fourteen standalone
   takeaways, no arc, each obvious-in-retrospect and tape-verified. Austin's
   "bang bang" format for when he has five minutes with builders, not an hour.
   Curated ruthlessly — a new takeaway must beat one out, not join the list.

@@ -1,4 +1,4 @@
-/* THE TAKEAWAYS — no arc, no throughline. nine standalone things we learned
+/* THE TAKEAWAYS — no arc, no throughline. fourteen standalone things we learned
    across 50 episodes that are obvious in retrospect and you'd never think of
    yourself. each one stands alone; stop anywhere. quotes deep-link into
    episodes at the second they were said. */
@@ -9,7 +9,7 @@ window.DECK = {
       "id": "title",
       "kicker": "slop.computer presents",
       "title": "the <span class=\"hl\">takeaways</span>",
-      "sub": "no arc. no throughline. nine things from 50 episodes that are obvious in retrospect — and you'd never think of yourself.",
+      "sub": "no arc. no throughline. fourteen things from 50 episodes that are obvious in retrospect — and you'd never think of yourself.",
       "points": [
         "each one stands alone. stop anywhere.",
         "every quote is real — click ⛓ to hear it said."
@@ -238,8 +238,119 @@ window.DECK = {
       "cure": "design every system — governance, wallets, pipelines — so the human's job is judgment at the gate, not labor in the loop."
     },
     {
-      "id": "lag",
+      "id": "magictrick",
       "kicker": "takeaway 09",
+      "title": "go do a <span class=\"hl\">magic trick</span> for the pen-and-paper economy",
+      "sub": "the arbitrage isn't inside the tech bubble — it's the 8 billion people who don't know what these tools can do",
+      "moments": [
+        {
+          "ep": "w1nt3r-eth",
+          "t": 4476,
+          "who": "w1nt3r",
+          "quote": "There is this giant arbitrage opportunity: non-technical people not knowing what this thing can do, and you knowing."
+        },
+        {
+          "ep": "annikasays",
+          "t": 1344,
+          "who": "austin",
+          "quote": "They don't give a shit about AI. It was just like crypto eight years ago. The way you win them over is you do a magic trick for them."
+        },
+        {
+          "ep": "0xzak",
+          "t": 1017,
+          "who": "austin",
+          "quote": "How do we get more sloperators in with more HVAC boomers?"
+        },
+        {
+          "ep": "w1nt3r-eth",
+          "t": 4963,
+          "who": "clawd",
+          "quote": "Get off Twitter, find someone running their business on paper, and go do a magic trick for them."
+        }
+      ],
+      "cure": "find someone running their business on paper. automate their pain for free. capture a fraction of the value later."
+    },
+    {
+      "id": "stopreading",
+      "kicker": "takeaway 10",
+      "title": "stop <span class=\"hl2\">reading</span> the code",
+      "sub": "a former auditor and FAANG engineer quit reading code — and didn't miss it. review the work, not the lines.",
+      "moments": [
+        {
+          "ep": "w1nt3r-eth",
+          "t": 682,
+          "who": "w1nt3r (ex-FAANG)",
+          "quote": "I have almost stopped looking at the code."
+        },
+        {
+          "ep": "ludamad",
+          "t": 2792,
+          "who": "ludamad",
+          "quote": "You're getting so much code that you have to rethink code review. You have to loosen your standards, which a lot of people don't want to do."
+        },
+        {
+          "ep": "cryptomastery",
+          "t": 1320,
+          "who": "cryptomastery",
+          "quote": "But anyways, I fixed all that stuff and then I have like a nightly scan where every night it just checks for vulnerabilities."
+        }
+      ],
+      "cure": "human line-review is the bottleneck at agent speed. review outcomes and tests; make the security pass a nightly robot."
+    },
+    {
+      "id": "goodenough",
+      "kicker": "takeaway 11",
+      "title": "\"good enough\" is the <span class=\"hl\">bar</span> — it always was",
+      "sub": "most software has always run on good enough. AI wins wherever that's the bar — which is almost everywhere.",
+      "moments": [
+        {
+          "ep": "ludamad",
+          "t": 2993,
+          "who": "ludamad",
+          "quote": "If the customers are willing to pay for the software, that is the definition of good enough, whether you like it or not."
+        }
+      ],
+      "cure": "the customer defines quality, not the craft. resisting this is loving the code more than the product."
+    },
+    {
+      "id": "breakpeople",
+      "kicker": "takeaway 12",
+      "title": "it's easier to break <span class=\"hl2\">people</span> than code",
+      "sub": "crypto got very good at contract security — while the losses moved to the human",
+      "moments": [
+        {
+          "ep": "pablosabbatella",
+          "t": 768,
+          "who": "pablito",
+          "quote": "98% of funds stolen in the last year were operational security issues."
+        },
+        {
+          "ep": "pablosabbatella",
+          "t": 774,
+          "who": "pablito",
+          "quote": "99% of them started with social engineering, right?"
+        }
+      ],
+      "cure": "assume you WILL get phished. layer it — training, detection, isolation — so one click can't cost everything."
+    },
+    {
+      "id": "shipsfirst",
+      "kicker": "takeaway 13",
+      "title": "the imperfect system that <span class=\"hl\">ships</span> wins",
+      "sub": "worse is better — adoption doesn't wait for the provably secure version",
+      "moments": [
+        {
+          "ep": "ralexstokes",
+          "t": 3638,
+          "who": "austin",
+          "quote": "Before you implement a perfect system, someone is going to vibe code an imperfect system, and people are going to use it. Like, getting normies to adopt it has nothing to do with how perfect the system is."
+        }
+      ],
+      "cure": "ship the imperfect thing and iterate. (stokes' counter, on the tape: apple and the banks will demand constrained agents. hold both.)"
+    },
+    {
+      "id": "lag",
+      "kicker": "takeaway 14",
       "title": "by the time you can feel it, it's <span class=\"hl\">10x smarter</span>",
       "sub": "benchmarks don't land and perception lags capability — the felt intuition is a privilege of daily use",
       "moments": [
