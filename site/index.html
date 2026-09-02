@@ -54,6 +54,11 @@ SLOP.mkWindow('the acts', `
   ${DECKS.map(([href, name, _d, c]) => `<p style="margin:6px 0"><a href="${href}" style="color:var(--slop-${c});text-decoration:none">▸ ${name}</a></p>`).join('')}`,
   { x: innerWidth*0.10, y: innerHeight*0.52, w: Math.min(innerWidth*0.42, 540) });
 
+SLOP.mkWindow('💥 the takeaways', `
+  <p class="muted" style="margin:0 0 8px">not a talk. nine standalone things from 50 episodes — obvious in retrospect, and you'd never think of them yourself.</p>
+  <a href="t1-desktop.html?deck=takeaways"><button class="slop" style="color:var(--slop-amber)">bang bang ▶</button></a>`,
+  { x: innerWidth*0.30, y: innerHeight*0.30, w: Math.min(innerWidth*0.38, 470) });
+
 SLOP.mkWindow('other templates', `
   <p class="muted" style="margin:0 0 8px">same psychosis deck, alternate formats:</p>
   <a href="t2-terminal.html"><button class="slop">⌨ terminal</button></a>
