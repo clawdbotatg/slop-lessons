@@ -54,11 +54,6 @@ SLOP.mkWindow('the acts', `
   ${DECKS.map(([href, name, _d, c]) => `<p style="margin:6px 0"><a href="${href}" style="color:var(--slop-${c});text-decoration:none">▸ ${name}</a></p>`).join('')}`,
   { x: innerWidth*0.10, y: innerHeight*0.52, w: Math.min(innerWidth*0.42, 540) });
 
-SLOP.mkWindow('💥 the takeaways', `
-  <p class="muted" style="margin:0 0 8px">not a talk. fourteen standalone things from 50 episodes — obvious in retrospect, and you'd never think of them yourself.</p>
-  <a href="t1-desktop.html?deck=takeaways"><button class="slop" style="color:var(--slop-amber)">bang bang ▶</button></a>`,
-  { x: innerWidth*0.30, y: innerHeight*0.30, w: Math.min(innerWidth*0.38, 470) });
-
 SLOP.mkWindow('other templates', `
   <p class="muted" style="margin:0 0 8px">same psychosis deck, alternate formats:</p>
   <a href="t2-terminal.html"><button class="slop">⌨ terminal</button></a>
@@ -66,6 +61,13 @@ SLOP.mkWindow('other templates', `
   { x: innerWidth*0.62, y: innerHeight*0.12, w: 330 });
 
 SLOP.qaWindow({ x: innerWidth*0.62, y: innerHeight*0.40, w: 380 });
+
+SLOP.mkWindow('💥 THE TAKEAWAYS', `
+  <h1 class="big" style="font-size:clamp(18px,2.6vw,32px)">14 THINGS.<br><span class="hl">NO ARC. BANG BANG.</span></h1>
+  <p class="muted" style="margin:8px 0">standalone lessons from 50 episodes — obvious in retrospect, and you'd never think of them yourself. every quote linked to the tape.</p>
+  <a href="t1-desktop.html?deck=takeaways"><button class="slop" style="font-size:16px;color:var(--slop-amber)">bang bang ▶</button></a>`,
+  { x: innerWidth*0.28, y: innerHeight*0.22, w: Math.min(innerWidth*0.42, 520) });
+
 
 addEventListener('keydown', e => {
   if (e.target.tagName === 'INPUT') return;
