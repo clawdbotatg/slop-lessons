@@ -87,3 +87,23 @@ Optionally offer 1–2 alternate hooks.
 - Verbatim beats paraphrase. If the guest said it well, quote it.
 - Name the guest by handle. Don't oversell the episode; let the lessons sell it.
 - Never invent. If the transcript is thin, say so and give fewer bullets.
+
+## Reference example (Austin: "this is perfect")
+
+blainemalone, 2026-09-10, 268 chars:
+
+```
+"more tokens won't find you PMF"
+
+@blainemalone, cloaked, 2 devs, no VC:
+
+• don't tune the harness. the next model eats it
+• error rates compound. let it rip slower
+• wrong answers keep you at the keyboard
+• PMF first. raise later, maybe never
+
+https://slop.computer/blainemalone
+```
+
+Match this. Four bullets, each one short clause, maybe two. Hook is a
+verbatim quote. Guest line is handle, project, three-word context.
