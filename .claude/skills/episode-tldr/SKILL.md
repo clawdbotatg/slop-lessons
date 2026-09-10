@@ -49,12 +49,15 @@ anything you'd nod at and forget.
 
 ## Output
 
-One tweet, ready to paste. Shape:
+**One tweet. Hard limit 280 characters** (a URL counts as 23). Count it
+before you show it: `python3 -c "import re,sys;s=sys.stdin.read().rstrip();print(len(re.sub(r'https?://\\S+','x'*23,s)))" < tweet.txt`.
+Over 280 → cut words, then cut a bullet. Never a thread, never long-post.
+Shape:
 
 ```
 <one-line hook: the sharpest thing said, ideally a near-verbatim quote>
 
-lessons from <guest> (<one-phrase context>):
+<@guest>, <project>, <3-word context>:
 
 • <lesson>
 • <lesson>
