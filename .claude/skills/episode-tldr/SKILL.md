@@ -56,26 +56,24 @@ anything you'd nod at and forget.
 **One tweet. Hard limit 280 characters** (a URL counts as 23). Count it
 before you show it: `python3 -c "import re,sys;s=sys.stdin.read().rstrip();print(len(re.sub(r'https?://\\S+','x'*23,s)))" < tweet.txt`.
 Over 280 → cut words, then cut a bullet. Never a thread, never long-post.
-Shape:
+Shape (exactly this, Austin's final format):
 
 ```
-<one-line hook: the sharpest thing said, ideally a near-verbatim quote>
+TLDR recap of <@guest> on slop computer:
 
-<@guest>, <project>, <3-word context>:
+  • <lesson>
+  • <lesson>
+  • <lesson>
+  • <lesson>
 
-• <lesson>
-• <lesson>
-• <lesson>
-(3–5 bullets)
-
-<https://slop.computer/<slug>>
+https://slop.computer/<slug>
 ```
+
+No hook line. No project or context line. Two-space indent on bullets.
 
 Then, below the tweet, a short **receipts** block: for each bullet, the
 speaker and a verbatim line from the transcript that backs it. Austin checks
 these before posting. If a bullet has no receipt, cut the bullet.
-
-Optionally offer 1–2 alternate hooks.
 
 ## Voice
 
@@ -88,26 +86,22 @@ Optionally offer 1–2 alternate hooks.
 - Bad: "skip the harness maxing. 5% more intelligence from perfect MD files
   isn't worth it, the next model eats it anyway. vanilla frontier subs, build
   product". Good: "don't tune the harness. the next model eats it. build product".
-- Verbatim beats paraphrase. If the guest said it well, quote it.
+- Verbatim beats paraphrase. If the guest said it well, use their words.
 - Name the guest by handle. Don't oversell the episode; let the lessons sell it.
 - Never invent. If the transcript is thin, say so and give fewer bullets.
 
-## Reference example (Austin: "this is perfect")
-
-blainemalone, 2026-09-10, 268 chars:
+## Reference example (Austin posted this as-is, 2026-09-10)
 
 ```
-"more tokens won't find you PMF"
+TLDR recap of @me_jango on slop computer:
 
-@blainemalone, cloaked, 2 devs, no VC:
+  • whitehat your own protocol before the models do
+  • harden it once. every frontend after is art
+  • codex + claude max in a terminal. that's it
+  • more headroom just makes more work
 
-• don't tune the harness. the next model eats it
-• error rates compound. let it rip slower
-• wrong answers keep you at the keyboard
-• PMF first. raise later, maybe never
-
-https://slop.computer/blainemalone
+https://slop.computer/me-jango
 ```
 
-Match this. Four bullets, each one short clause, maybe two. Hook is a
-verbatim quote. Guest line is handle, project, three-word context.
+Match this. Four bullets, one short clause each, maybe two. He cut the
+quote hook and the project line from my draft. Don't bring them back.
