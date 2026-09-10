@@ -14,6 +14,10 @@ out that they haven't.
 
 ## Inputs (all in this repo)
 
+**First, refresh the episode list** — the local snapshot goes stale:
+`curl -s https://slop.computer/episodes.json > data/episodes.json`. "Most
+recent" means newest `datetime` in the live list, never the local file.
+
 - `data/transcripts/<slug>.txt` — cleaned, speaker-labeled transcript. **Read
   the whole thing.** If it's missing, run `python3 pipeline/fetch_episode.py
   <slug>` and read `pipeline/.vt/<slug>.txt` (has `[sec mm:ss]` prefixes; every
