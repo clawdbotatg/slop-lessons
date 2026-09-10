@@ -18,6 +18,11 @@ out that they haven't.
 `curl -s https://slop.computer/episodes.json > data/episodes.json`. "Most
 recent" means newest `datetime` in the live list, never the local file.
 
+**Done check.** An episode with a `tldr` field in episodes.json already has
+its tweet (Austin saved it in the admin page). Say so and stop unless he asks
+for a redo. To list what's left:
+`python3 -c "import json;[print(e['slug']) for e in json.load(open('data/episodes.json'))['episodes'] if not e.get('tldr')]"`
+
 - `data/transcripts/<slug>.txt` — cleaned, speaker-labeled transcript. **Read
   the whole thing.** If it's missing, run `python3 pipeline/fetch_episode.py
   <slug>` and read `pipeline/.vt/<slug>.txt` (has `[sec mm:ss]` prefixes; every
@@ -105,3 +110,9 @@ https://slop.computer/me-jango
 
 Match this. Four bullets, one short clause each, maybe two. He cut the
 quote hook and the project line from my draft. Don't bring them back.
+
+## After he posts
+
+He pastes the tweet text + link into the episode's "tldr tweet" box on
+https://slop.computer/admin. That stores it in the relay (no tx), shows it on
+the episode page, and marks the episode done in episodes.json.
