@@ -15,8 +15,11 @@ out that they haven't.
 ## Inputs (all in this repo)
 
 - `data/transcripts/<slug>.txt` — cleaned, speaker-labeled transcript. **Read
-  the whole thing.** Austin is `austingriffith.eth`, clawd (AI cohost) is
-  `clawdbotatg.eth`; everyone else is the guest.
+  the whole thing.** If it's missing, run `python3 pipeline/fetch_episode.py
+  <slug>` and read `pipeline/.vt/<slug>.txt` (has `[sec mm:ss]` prefixes; every
+  line appears twice from streaming STT, dedupe before reading). Speaker labels
+  vary per episode (`austingriffith.eth` or `slop.atg.eth` = Austin,
+  `clawdbotatg.eth` = clawd, a hex prefix = the guest). Identify by content.
 - `notes/<slug>.md` — an earlier distillation, if one exists. Use it as a
   checklist, not a source. The tweet comes from the tapes.
 - `data/episodes.json` — title, `oneLiner`, `page` (the episode URL:
@@ -51,7 +54,7 @@ One tweet, ready to paste. Shape:
 ```
 <one-line hook: the sharpest thing said, ideally a near-verbatim quote>
 
-lessons for sloperators from <guest> on slop computer:
+lessons from <guest> (<one-phrase context>):
 
 • <lesson>
 • <lesson>
@@ -69,9 +72,15 @@ Optionally offer 1–2 alternate hooks.
 
 ## Voice
 
-- Austin's voice. Plain, blunt, builder-to-builder. Lowercase is fine.
-- Few words. Every bullet fits on one line on a phone. No hashtags, no
-  emoji beyond the bullet dot, no "🧵", no "here's what I learned".
+- **Plain English. As few words as possible. No slop.** Cut every word that
+  can go. One short clause per bullet, two at most. If a bullet needs a
+  comma-chain of context, it's two bullets or none.
+- Austin's voice. Blunt, builder-to-builder. Lowercase is fine.
+- Every bullet fits on one line on a phone. No hashtags, no emoji beyond
+  the bullet dot, no "🧵", no "here's what I learned".
+- Bad: "skip the harness maxing. 5% more intelligence from perfect MD files
+  isn't worth it, the next model eats it anyway. vanilla frontier subs, build
+  product". Good: "don't tune the harness. the next model eats it. build product".
 - Verbatim beats paraphrase. If the guest said it well, quote it.
 - Name the guest by handle. Don't oversell the episode; let the lessons sell it.
 - Never invent. If the transcript is thin, say so and give fewer bullets.
