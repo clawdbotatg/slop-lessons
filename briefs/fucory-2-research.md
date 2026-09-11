@@ -196,3 +196,20 @@ walk was still running when he went live).
 - The Telegram room is a MEV/research crowd, not his user base — don't cite it
   as "Smithers users say".
 - No public podcasts/talks in the window; this is his first airing of the pivot.
+
+## 9. Telegram history walk (Jul 8 → Sep 11, 6,578 msgs; fucory 2,036 of them)
+
+He is the room's top poster by 2.4x. His own lines, dated:
+- Jul 9: "16 [accounts] if you count 3 codex accounts" · Jul 10: "Compaction is evil and should be avoided" · Jul 11: "we went from 0 to 1 users lol" · "days to weeks away from having revenue"
+- Jul 14: "Fable finds issues about as fast as I'm able to have agents fix them" · Jul 18: "if I ever plan with sol I will get gaslit into thinking the plan is good but if I then copy paste into fable fable nearly always finds an issue"
+- Jul 18: "Codex getting rid of the 5 hour window opened my eyes to a better world" · "smithers cron … I never use because claude /loop works so well"
+- Aug 6: "started round robining subscriptions with smithers while keeping a claude and a codex subscription separate that smithers isn't allowed to touch"
+- Aug 11: "I'm now confident agent harnesses just won't really be a thing. Claude vs codex vs pi vs opencode vs whatever just doesn't make sense in a world where harnesses are just workflows and UI is generated" · "codex is literally a while loop"
+- Aug 15: "I'm in complete rate limit hell — Kimi: weekly limit / Codex: 2.5/3 weekly limits / Claude: 3 fable accounts"
+- Aug 18: "caring deeply about agents being fast is the biggest mistake I made" · the two reasons for the rewrite: "1. an agent just writing code that runs in a sandbox is all you need and a minimal harness that facilitates that is almost no code 2. fine tuning a model like kimi for a specific workflow… will keep growing from near 0 to a really high quality value proposition over the next 12 months"
+- Aug 19: "About to spend $500 fine tuning kimi to write smithers scripts" · Aug 21: own harness vs codex "~50 benchmark cases: ~20% smarter ~25% faster 2x more expensive" · Aug 23: "tied for as smart as codex, 15% slower, way cheaper… cost savings seem to be the metric this architecture dominates on"
+- Aug 31: "5 hours a day 5 days a week, one tab, I would still need 2 fable accounts to get to the end of the week" · Sep 1: "smithers scripts that were running for days on 5.0 are getting rate limited way faster since switching over to 5.1"
+- Sep 6: "0 Kimi / 1 account · 0 Codex / 5 accounts plus 3 resets · 0 Claude / 8 accounts. Time to try gemini?" · "We can't even get a single codex agent with a /goal to write maintainable code consistently yet"
+- Sep 7, asked why not just a prompt: "That would be amazing if smithers was a prompt away. I certainly wouldn't currently have 13 accounts rate limited"
+- Sep 10: "I would like to take a loan out to use some of my future codex" · "I should rerelease the tevm block explorer"
+- Aug 19 aside: found the CSV from "my most successful stretch gambling for a living… betting on WNBA games"
