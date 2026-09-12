@@ -66,15 +66,25 @@ Shape (exactly this, Austin's final format):
 ```
 TLDR recap of <@guest> on slop computer:
 
-  • <lesson>
-  • <lesson>
-  • <lesson>
-  • <lesson>
+• <lesson>
+• <lesson>
+• <lesson>
+• <lesson>
 
 https://slop.computer/<slug>
 ```
 
-No hook line. No project or context line. Two-space indent on bullets.
+No hook line. No project or context line. **No indent on the bullets** — the
+dot starts the line. Austin's 2026-09-12 correction: an indented draft that
+counted 280 still overflowed on X (a "read more" with nothing behind it), so
+after the draft is final, strip every leading space, trailing space and doubled
+space, recount, and **put the cleaned text in his clipboard with `pbcopy`**
+before you show it. Every tldr ends with the tweet already on the clipboard.
+
+Clean + count + copy in one go:
+```
+python3 -c "import re,sys;s=sys.stdin.read();s='\n'.join(l.strip() for l in s.strip().splitlines());s=re.sub(r' {2,}',' ',s);open('tweet.txt','w').write(s);print(len(re.sub(r'https?://\S+','x'*23,s)))" < draft.txt && pbcopy < tweet.txt
+```
 
 Then, below the tweet, a short **receipts** block: for each bullet, the
 speaker and a verbatim line from the transcript that backs it. Austin checks
@@ -100,10 +110,10 @@ these before posting. If a bullet has no receipt, cut the bullet.
 ```
 TLDR recap of @me_jango on slop computer:
 
-  • whitehat your own protocol before the models do
-  • harden it once. every frontend after is art
-  • codex + claude max in a terminal. that's it
-  • more headroom just makes more work
+• whitehat your own protocol before the models do
+• harden it once. every frontend after is art
+• codex + claude max in a terminal. that's it
+• more headroom just makes more work
 
 https://slop.computer/me-jango
 ```
