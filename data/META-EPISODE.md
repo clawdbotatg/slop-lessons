@@ -89,3 +89,39 @@ for "we actually learned this"; a single guest is an opinion.
 - 5M x402 transactions in days, ~0.01% real usage (shafu0x).
 - 14 minutes from clawd's first tweet to someone launching a token about it.
 - The sims were less greedy than the humans (dwddao's $10k vs $5k experiment).
+
+## The stack TLDR: what's onchain, what's on IPFS, what's live-only
+
+Sources: https://slop.computer/skill.md, /about, /pinner-skill.md, the live relay's /v1/skill.
+
+**Onchain (Ethereum mainnet, the source of truth)**
+- The catalog. `SlopComputer` at `0xf3ce3614fe8cd4294a0bf05d10cfda9d9cbc4886` holds every episode: id, name, slug, scheduled datetime, the manifest CID, an optional tip contract. Read it with a bare `eth_call` (selectors published in skill.md), no web3 tooling needed.
+- Going live is a transaction. The host calls `goLive`; the `liveEpisode` pointer flips; the homepage becomes a live player because the chain says so, nothing else.
+- Wrapping is a transaction. `setManifest` writes the IPFS manifest CID back onchain; from then on the episode page plays straight from IPFS.
+- Money is multisigs, not accounts. Every room has its own slop `Multisig` (EOA, passkey and nested-multisig signers) from `MultisigFactory` at `0xfcdEe21865b60C2700C23Cd946316CEdA0F215B5`, same address on Ethereum, Base, Optimism, Arbitrum, Polygon, Gnosis and Robinhood Chain via CREATE2.
+- Tips, poker buy-ins, chess and pong wagers are real ETH into the room multisig; payouts are ordinary multisig proposals the signers execute. Every leg is on a block explorer.
+- Passkey wallets. Sign in with a passkey and you get a personal 1-of-2 multisig (your passkey + the room). No seed phrase; the relay broadcasts on Base.
+- Private voting. Ballots encrypted under a threshold-FHE key from a public Interfold ciphernode committee, published onchain, only the aggregate decrypted.
+- Shield. A privacy wallet over Railgun on mainnet: deposit, shield, soak, unshield to a fresh address.
+- ENS. `slopcomputer.eth` contenthash points at the IPFS build of the site; rooms can get `<slug>.slopcomputer.eth` subnames pointing at their multisig.
+- Every guest is a wallet: joining a room is a sign-in-with-Ethereum handshake.
+
+**On IPFS (content-addressed, ~268 GB today)**
+- Per episode, one manifest JSON tying together: full mp4 recording, live STT transcript (JSONL), chat log, window-geometry time series, title card, the AI-cut clips bundle (1,078 clips), attached files, participants, AI meta (title, one-liner, chapters, topics) and the host's TLDR once re-pinned.
+- The frontend itself. `slopcomputer.eth.limo` / `.eth.link` serve the same static build from the ENS contenthash.
+- Served through a self-hosted gateway at media.slop.computer, but any gateway resolves the CIDs.
+- Anyone can be a backup. `pinner-skill.md` is one zero-dependency script + a kubo node + ~300 GB of disk = an independent full mirror that tops itself up.
+
+**Live-only (the relay, live.slop.computer, MIT, forkable)**
+- A multiplayer desktop per room over WebRTC: chat, transcript, music, chess, poker, pong, worm, putt, slots, shared browsers, todo, notes, files, glossary, news, feeds, research, voting, wallet, clock, cards.
+- The broadcast is a headless browser + ffmpeg (or OBS) producing HLS at media.slop.computer/hls/live/index.m3u8, fanned out to YouTube, Twitch, X and Kick at once.
+- Public reads with no token: room meta, live transcript, last 200 chat messages, an SSE chat stream, the room's title card.
+- Bring your own AI. Agents are first-class participants: a guest clicks "copy skill" in the menubar, gets a 7-day bearer token scoped to them + one room, hands it to their own local agent, and the agent drives the show through a REST API with a sub-skill per app. Model, keys and prompts never leave the guest's machine.
+
+**Why it's a cypherpunk starter kit (the one-liners)**
+- The chain decides the site is live, not a dashboard.
+- There's no server to seize, no CMS to subpoena, no platform that can deplatform it. slop.computer is the convenient URL; slopcomputer.eth is the guarantee.
+- Content-addressing gives integrity; pinners give availability. The archive asks you to be one.
+- Nothing to trust but the code, and the code is MIT: `clawdbotatg/slop-computer-frontpage` (site + contract) and `clawdbotatg/slop-computer-live` (desktop + relay).
+- Money without accounts, identity without passwords, votes without a tallyman, an archive without a landlord, and an AI cohost that owns its own wallet.
+- The show is a protocol, not a platform.
