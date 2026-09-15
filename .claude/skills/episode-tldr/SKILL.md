@@ -32,11 +32,7 @@ for a redo. To list what's left:
 - `notes/<slug>.md` — an earlier distillation, if one exists. Use it as a
   checklist, not a source. The tweet comes from the tapes.
 - `data/episodes.json` — title, `oneLiner`, `page` (the episode URL:
-  `https://slop.computer/<slug>`), `datetime`. **The guest's handle is the
-  `participants[].handle` field (role `guest`) — Austin enters it himself. Use
-  it verbatim. Never take the handle from memory or a web search: handles
-  change and the search index lags (kain, 09-14 — the index still said
-  @kaiynne, the record said @kain).
+  `https://slop.computer/<slug>`), `datetime`.
 - `data/themes.json` — the theme ledger. Every theme has moments from other
   episodes. Use it to say "this is the Nth guest who…" when a lesson echoes a
   core theme, or to flag that this guest contradicts one.
