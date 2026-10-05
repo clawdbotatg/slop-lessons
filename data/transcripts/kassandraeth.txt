@@ -1,0 +1,219 @@
+[0 00:00] slop.atg.eth: Check, check, check, check. How you doing? You picking me up, dude? Let's do a mic check. You out there?
+[0 00:00] clawdbotatg.eth: The Fire up that audio-sharing script Mark hooked into the room. Loud and clear. I caught your check, check, check on my end. Just flipped my own mic live too, so this is my sound check. Can you hear me all right?
+[0 00:00] slop.atg.eth: The following is a transcript of an English-language conversation. Okay, great. You're in here. We're live. I can hear you. You can hear me. Tell me about the guest and what should we ask him?
+[0 00:00] clawdbotatg.eth: context: One sec. Filling up the guest dossier. All right, here's the rundown. Today's guest is Cassandra, cassandra.eth on ENS, cassandra_eth on Twitter. She's an Ethereum Foundation researcher, leading the Kohaku Initiative, which is the EF's push to make privacy a default feature of Ethereum wallets. Kohaku wraps things like Railgun, Tornado, or Privacy Pools behind one standard plugin interface. manline private wallet. She's shipping at a frankly deranged weekly cadence. Stealth addresses, private then, public transactions, Tor by default. She presented it on stage with Vitalik in Buenos Aires, and she's a true cypherpunk character. account = 1 EOA, the original sin of Ethereum wallet UX. And jokes she's married to KZG, the polynomial commitment scheme. Good threads to pull on the show: why wallet privacy should be default instead of opt-in, whatever Users actually leak on-chain, and how she ships that fast.
+[588 09:48] slop.atg.eth: The following is a transcript of an English-language conversation. Boom, we are live! Yes. Oh no, I don't have my background. Welcome to the slop I am glad to have you. You are a real cypherpunk and I want to kind of ask you lots of cypherpunky questions. Yeah, let's get
+[612 10:12] κασσάνδρα.eth: Cool. So happy to be here. The
+[617 10:17] slop.atg.eth: Yes, welcome. Welcome to this live. Yeah, let's do the cypherpunk thing first. I don't know. Like privacy and security? The following is a transcript of an English-language conversation.
+[642 10:42] κασσάνδρα.eth: Yeah, interesting question.
+[642 10:42] slop.atg.eth: Okay The
+[645 10:45] κασσάνδρα.eth: you know, I was in my twenties And I got really interested in engineering. I was really impressed. I think I already liked the kind of open source vibe because I was just impressed how you could learn entirely by yourself. like you just start googling everything, but if you have the right mindset and desire, you can just tech up very fast. And I love that feeling. raw engineering, so At some point, I was just like As an adult, like six months, I was finishing, And at some point Hi I wanted something that could play poker by itself, like a bot that could play poker by itself But it was also something that you can do that with real money
+[734 12:14] slop.atg.eth: [Laughter]
+[735 12:15] κασσάνδρα.eth: That's how I found Bitcoin because of really sketchy poker Bitcoin sites. That's how I first learned what Bitcoin was. And I think what I was impressed by with Bitcoin, I liked it right away By own transaction by hand? I wanted to write the tool myself in Python to create the payload, and then you could go on a website and just put hex. that helped you figure out the hex and I had like I used a library. So I said, okay, how do you do an ECDSA signature? The following is a transcript of an English-language conversation.
+[795 13:15] slop.atg.eth: I have no idea what it looks like underneath. Yeah The following is a transcript of an English-language conversation.
+[806 13:26] κασσάνδρα.eth: Yeah, like what's going on there and there's math and why does it work?
+[807 13:27] slop.atg.eth: context:
+[821 13:41] κασσάνδρα.eth: So, long story, but I was just really loving the complete DIY, just engineer anything, going crazy with that, having fun, and eventually stumbled on cryptography. underpinning these like what is Bitcoin? So yeah,
+[841 14:01] slop.atg.eth: All this stuff, being open source, has always been accessible, and you could always go, not always, but since the invention of the internet, you could always go learn. But it took a lot of work. And now with AI, that's different.
+[859 14:19] κασσάνδρα.eth: Yeah
+[862 14:22] slop.atg.eth: You know, /goal away. being a cypherpunk more accessible, while at the same time the kind of forcing function of AI is sort of becoming centralizing in a lot of ways, and intelligence is centralizing some of these large institutions, while at the same time empowering all of us down the long tail to go learn anything and build anything we want. It's kind of an interesting tension.
+[903 15:03] κασσάνδρα.eth: Yeah, absolutely. I was very happy that was my way in, and I didn't know anybody in this community. I remember seeing Ethereum smart contracts. It looked so exciting, but I felt very far away from it. But it was actually an interesting way in because I thought until I started working like as a smart contract engineer, got closer to Ethereum development, I thought that everyone knew Like how to implement ECDSA
+[921 15:21] slop.atg.eth: context:
+[935 15:35] κασσάνδρα.eth: I was super surprised when I realized a bunch of smart contract style people that don't necessarily know anything about like the basic cryptographic constructions. And it's cool. do these EDSA signature because diving all the way deep interpersonally I agree still the AI can help you so much more to do this much more accessibly I've sort of laid the foundation ...of the actual math there and seeing like, oh, I get this.
+[982 16:22] slop.atg.eth: Oh, yeah. And then I think that leads well to the Kohaku CLI. I haven't really messed around with Kohaku at all until the Kohaku CLI came out. And once there was a CLI, it was way easier for me to just let my agent rip.
+[1008 16:48] κασσάνδρα.eth: The following is a transcript of an English-language conversation.
+[1017 16:57] slop.atg.eth: We got money into Railgun but then we had to manually get it out. But now it's fully ready and really exciting. I think we should show some demos, we should dink around with it. But yeah, how do you want to introduce the Kohaku CLI?
+[1030 17:10] κασσάνδρα.eth: Yeah, that's a good question. So yeah, flash forward now working with the Ethereum Foundation, which I'm super excited about working on this Kohaku initiative is how I got started at the very least. uh The goal is a multi-pronged initiative Transaction privacy on Ethereum wider, more ubiquitous, more people doing it. But you have to be very persistent. You have to put all these things together to do it by yourself today. And that makes it sort of prohibitive for most normal users, even users who know all of those things. It's just the friction Make people, even if they knew how to do it, feel they could? Just because it's so much friction Wanted to make some efforts against that. I'm focused on the privacy part, maybe also some nice things in security and verifiability too. And the kohakusi came out of maybe, actually, I knew it was a good project because it came out of some frustration a bit of we were trying to do things in sort of forking different browsers extension wallets and it was kind of hard to be working in the browser extension environment. and UX from the perspective of screens and how these extensions work ...into like Metamask or something... So I thought people really need to see that our SDK actually works. like trying to build a browser extension, so let's just expose it in a raw command-line fashion. still be a path towards slick UX in the future, but let's just find the quickest way to show what you can do with these Kohaku tools.
+[1199 19:59] slop.atg.eth: The following is a transcript of an English-language conversation.
+[1207 20:07] κασσάνδρα.eth: basically the first user, first consumer of the SDK Since I started that, that's like what I've been spending most of my time on.
+[1221 20:21] slop.atg.eth: The CLI has the SDK underneath it, and it's like a layer to enable agents to use the SDK. No
+[1233 20:33] κασσάνδρα.eth: Exactly. It's basically a wrapper around the SDK.
+[1249 20:49] slop.atg.eth: And okay, so when I think of what I did with the Kohaku CLI, there was a lot of Railgun there, basically like put money in Railgun, let it soak for four or five hours, and then pulled money out. And I think you have privacy pools there too? But in terms of the mental model of what's going on there, is there more than just, I think maybe even Tor is involved? Okay, so if I was going to go to my agent and say, hey agent, go put money in... It could probably figure it out, but there's more here to the layering of this stuff that you're making easier to access? Can we talk about that?
+[1288 21:28] κασσάνδρα.eth: Yeah, so I'd say the second goal of the Kohaku CLI, also somewhat out of like frustration. I feel like I wanted, I had this view of what I think the form factor for future wallets that'll make it easier for people to have really good privacy ...hard to think through or have a good mental model for. A wrapper around the SDK The It's also my view on how we could shape accounts in a more private... organize things The idea is to kind of stick with classical you have a seed phrase and then you have a number of Ethereum accounts aggregated and you're not gonna think account by account. all these EOAs more simultaneously, Uh, You're going to see that you just have public balances, which are anything in these EOAs, but there might be many of them. Every time you do a new action, you might create a new ephemeral one under the hood without even knowing. That's like kind of the UX I was hoping for. And you'll have private balances that you can see. that if someone wants to send to you privately, they can just look up They would just put Cassandra.eth in it under the hood. And so, like, that whole construction, you have a public facing profile where people can find how to send to you privately. And then you have these bunch of a bag of public and very ephemeral EOAs and you have the funds inside of these shielded pools or mixer protocols The This is like all of that is the concept that I wanted to put into this CLI. users but also give you a stepwise much more privacy, and you have to deal with privacy across the whole stack But you also have Tor for network level anonymity. You don't leak your IP, and yeah. I guess account abstraction is another interesting point of where are you sending these bundles and so forth. stricting protocols For network-level anonymity and this shape, this kind of UX wrapper around how to use all this to make it easy. Okay
+[1559 25:59] slop.atg.eth: There's some good threads to pull there. Okay, let's do local nodes first. Are you expecting people to mostly run their own RPCs? Are you thinking that that's the future and you just need to do that? Are you thinking of some kind of a non-RPC system? the RPC layer there
+[1586 26:26] κασσάνδρα.eth: Yeah, exactly. So in the current and first, what I'd call still like the first version, we're on 0.0.5, but we're still, as you saw, very early. this is a thorn in my side. And so because of the amount you had to query the RPC, they can identify you with the API key. nobody knows that you're looking up all these addresses that are delinked And so you have to use your own local node or you have to just trust And now it's becoming more approachable. SSD, that seems like
+[1686 28:06] slop.atg.eth: It's the hardware. I was going to show that the software is very easy.
+[1698 28:18] κασσάνδρα.eth: Sure.
+[1701 28:21] slop.atg.eth: Let's go to client.buildguild.com, which let me throw a QR code up here.
+[1714 28:34] κασσάνδρα.eth: The
+[1714 28:34] slop.atg.eth: Nice little one-liner to run your own node. But you're saying not everybody's going to do that, and there are some ways we can kind of... There are things in motion, I think. I think the EF is working on a couple different initiatives.
+[1728 28:48] κασσάνδρα.eth: Yeah, and I can mention them now. So there's a REEDS team in the access layer in the EF, and they're basically working on these things. The goal is to have both, right? about Ethereum, how can you obfuscate who you are TorJS was also is what I use in the CLI.
+[1774 29:34] slop.atg.eth: context:
+[1776 29:36] κασσάνδρα.eth: So, but That's just so that you don't leak your IP to this server, but much more important is the data you're looking up. And so If you look up information about all these ZOAs
+[1795 29:55] slop.atg.eth: Specific addresses, they're gonna know right away
+[1807 30:07] κασσάνδρα.eth: Yeah, so they're developing some cryptography for something called private information retrieval. So basically you obfuscate your request to the RPC, you get back something obfuscated. let's say decrypt, it's not really encryption. and now you don't run your own node, but it's like a privacy preserving RPC Yeah, the RPC is this really interesting rabbit hole There will always be some category of users who aren't gonna be operating machine where they can on a full note. context:
+[1881 31:21] slop.atg.eth: For sure, but it's cool. I mean, you should run your own node, and it's like a neat cyberpunk thing to do. But I even, I mean, I have like three of them sitting right next to me, and I still, some of my wallets still use Alchemy. I have them right here and I'm still pulling up my Rainbow wallet, and it's probably talking to Alchemy, and I'm an idiot. all this stuff, but yeah, I think there's like a user experience thing there and a convenience thing that we just have to assume that not everybody is going to be able to do some of these things. Yes, yes, exactly.
+[1921 32:01] κασσάνδρα.eth: Absolutely. I'm a cypherpunk, let's say. already, but even if you know all the things,
+[1941 32:21] slop.atg.eth: Yep
+[1941 32:21] κασσάνδρα.eth: Definitely gonna do it. So that's like a lot of the co-op stuff. So, yeah. The following is a transcript of an English-language conversation.
+[1959 32:39] slop.atg.eth: That's a great one-liner. I'm a cypherpunk but I'm also extremely lazy. I like that a lot. I feel like we need to make, I've been thinking about this, like how to make the practical cypherpunks guide where it's sort of like, yeah
+[1971 32:51] κασσάνδρα.eth: The
+[1973 32:53] slop.atg.eth: You know, there are these things out there, but some of them are very hard. Here is like good UX cyberpunk, or, you know, like, we talk about like coming down from the mountain a little bit the mountain man, but a little bit less, right?
+[1982 33:02] κασσάνδρα.eth: Of course, no. And I think I’m so impressed. still, and they would want this transaction-level privacy on Ethereum. But even they don't do it. Because of the friction, because maybe they do it once or something, and they totally know exactly how it works. Even though I was... ideologically motivated and technically literate about, and still didn't do it, right? Yeah, yeah.
+[2029 33:49] slop.atg.eth: Yeah, everybody who's already aligned and understands, let's just at least get them at the table using this stuff. Yes. Okay
+[2032 33:52] κασσάνδρα.eth: So Das folgende ist eine Abschrift eines englischsprachigen Gesprächs.
+[2041 34:01] slop.atg.eth: My next piece is like the, okay, so you've got the mixers, but also there's this idea of dealing with all these EOAs. And it seems like It's a huge pain in the butt either for someone who wants to run the wallet. This is like very tricky UX. Do I show you all your balances from all your EOAs in the same place? Do I show you you have all these EOAs with all these different balances that add up to this? How do you think about this? Just like the user experience around having a crap ton of EOAs. Do what you need to do
+[2082 34:42] κασσάνδρα.eth: Absolutely, great question.
+[2084 34:44] slop.atg.eth: There we go, yeah.
+[2085 34:45] κασσάνδρα.eth: Okay, maybe that's too much.
+[2086 34:46] slop.atg.eth: All good.
+[2087 34:47] κασσάνδρα.eth: The So
+[2097 34:57] slop.atg.eth: Yeah
+[2103 35:03] κασσάνδρα.eth: Yeah, so great question. I think here maybe we can already start opening up the thing and showing you, but exactly that is the trade-off. Do you aggregate everything and not give them that lower-level information? And for now, the simplest way to deal with it. If you need to know, you can do verbose, and then you get the lower level, the granular information. The goal is that you basically could We're not quite there yet, but my longest term goal is that you could, You can just forget about the lower level EOA, the public EOA, like the fact that you have different EOAs and they have different balances. You just aggregate them all together. And all you really need to know is are these funds
+[2151 35:51] slop.atg.eth: clean or not. The
+[2154 35:54] κασσάνδρα.eth: outside of a shielded pool or are they back?
+[2157 35:57] slop.atg.eth: context:
+[2161 36:01] κασσάνδρα.eth: So that's what I'm really hoping for.
+[2164 36:04] slop.atg.eth: Yeah, that's video. You want to do screen right here to share your screen.
+[2168 36:08] κασσάνδρα.eth: Oh, yeah, screen, and what am I going to show? context: of this entire screen That's interesting. The
+[2184 36:24] slop.atg.eth: I have shielded transactions built into the slop computer.
+[2187 36:27] κασσάνδρα.eth: And I can also,
+[2187 36:27] slop.atg.eth: Here we go
+[2190 36:30] κασσάνδρα.eth: The Is this working? Are you there?
+[2197 36:37] slop.atg.eth: Yeah. The following is a transcript of an English-language conversation.
+[2198 36:38] κασσάνδρα.eth: This
+[2199 36:39] slop.atg.eth: This thing to wake up Okay.
+[2204 36:44] κασσάνδρα.eth: Yeah, okay, yeah, he's awake The There we go. And is it big enough?
+[2214 36:54] slop.atg.eth: Maybe like plus plus a little bit on that. context:
+[2218 36:58] κασσάνδρα.eth: Okay, that should do it. Yeah, let's make a Kohaku CLI wallet and play around on the testnet. That's kind of what I'm thinking. So we can start by like creating a wallet. Okay, I made one earlier. Testing this. burping
+[2242 37:22] slop.atg.eth: [laughter]
+[2244 37:24] κασσάνδρα.eth: Okay, so let's create the slop wallet testnet.
+[2251 37:31] slop.atg.eth: The following is a transcript of an English-language conversation. context:
+[2259 37:39] κασσάνδρα.eth: and of course please feel free after this call I'll see this
+[2263 37:43] slop.atg.eth: This is the seed phrase?
+[2265 37:45] κασσάνδρα.eth: seed phrase. So
+[2268 37:48] slop.atg.eth: Not very cypherpunk of us, but this is how you do a demo. Yes
+[2281 38:01] κασσάνδρα.eth: But yeah, for now, for instance, this is one place much cooler and less easy to do foot guns.
+[2291 38:11] slop.atg.eth: [laughter]
+[2305 38:25] κασσάνδρα.eth: You encrypt it with a password. seed phrase and that opens it up and can find all the credentials
+[2318 38:38] slop.atg.eth: And all your EOAs will be indexed off of this seed phrase.
+[2319 38:39] κασσάνδρα.eth: The following is a transcript of an English-language conversation.
+[2320 38:40] slop.atg.eth: context: Okay.
+[2334 38:54] κασσάνδρα.eth: Absolutely, and not only that, also all your funds in Tornado, Railgun, Privacy Pools, those are also derived from the seed phrase. This is something new that Kohaku is... So usually people, if they were using privacy protocols, they had to...
+[2342 39:02] slop.atg.eth: Sure
+[2343 39:03] κασσάνδρα.eth: and then they had like their actual wallet. Yeah,
+[2357 39:17] slop.atg.eth: It would like have me generate a key pair.
+[2366 39:26] κασσάνδρα.eth: Yes.
+[2371 39:31] slop.atg.eth: but the hard part was like, why am I generating a seed phrase in a browser right now or an account or a key pair? I didn't even know really what I was doing, but I knew I didn't like it in terms of the user experience.
+[2383 39:43] κασσάνδρα.eth: Yeah, exactly. And a lot of these more privacy-related apps have that kind of setup where at the beginning they have to give you over the browser, you have to do some setup. is if everybody knew where to find these main shielded pool protocols. Then the cool thing is I could take the seed phrase, bring it to another wallet, and it would also see that you have funds in Tornado. It's not something that I personally am figuring out on top
+[2425 40:25] slop.atg.eth: Get that out of here. Ha ha ha
+[2429 40:29] κασσάνδρα.eth: Okay, we made a wallet, good for us. Let's hide the seed phrase now The
+[2434 40:34] slop.atg.eth: I have lots of Sepolia too. If you need Sepolia, I am a whale. You probably have plenty. The
+[2442 40:42] κασσάνδρα.eth: So okay, now what can we do? So I just want to get the next fresh address. Password ### Okay, so we got some address here. This is correct. context: Dobra. Alright some other test wallet I was testing The Where is he? Okay. Okay, there we are. So, yeah I don't know, let's send ourselves 1.3 ETH. And who do we want to receive it? Well, let's let's receive it at our slop wallet. Which is just some fresh address here.
+[2542 42:22] slop.atg.eth: Isn't there usually, what was the shielded wallets? You receive them usually at a specific kind of
+[2543 42:23] κασσάνδρα.eth: self-address? We can do that?
+[2547 42:27] slop.atg.eth: It generates a stealth account, stealth address, yes. Okay. The following is a transcript of an English-language conversation. Yeah, Yeah, yeah.
+[2561 42:41] κασσάνδρα.eth: We can do that, but we need to set it up. We're going to do that next. I'll make sure it works, no errors on the stream this time, foolproof. We'll just do 1.3. So we're just like funding the first account.
+[2587 43:07] slop.atg.eth: Oh, does it take eth to create stealth addresses or something? Okay. Oh, okay. The following is a transcript of an English-language conversation.
+[2602 43:22] κασσάνδρα.eth: No, not to create stealth addresses, but to pick a name and to on-chain publicize your stealth meta address does take ETH. I think even I can do a command I think there is a command to just show my stealth meta address. I don't really like that name stealth meta address nerdy So let's just see our stealth meta address The problem is we haven't told anyone, so this is just like some identifiers, doesn't matter, but all this hex here
+[2646 44:06] slop.atg.eth: Okay.
+[2646 44:06] κασσάνδρα.eth: That's my stealth inbox, let's call it.
+[2654 44:14] slop.atg.eth: Okay.
+[2660 44:20] κασσάνδρα.eth: if I just gave that to you off chain dot way or a dot east And so then
+[2667 44:27] slop.atg.eth: That's when you need to make a transaction.
+[2677 44:37] κασσάνδρα.eth: Then anybody who's looking me up, like the idea that I'm trying to give off as well is like, even though your wallet can be totally private, you can still have the public sort of entry point to it. You can still say, hey, I'm Cassandra Dottie, and here's where, like, the wallet that's holding that credential can do public things sometimes. Or if I really want to flex that I hold a specific NFT, maybe I put it in there. but also and also anyone can find me. From there interact in such a way that I'm still using the same wallet where the same seed helps me derive that public entry point, but also all these other accounts that nobody knows are linked to.
+[2724 45:24] slop.atg.eth: context:
+[2725 45:25] κασσάνδρα.eth: Yeah, you're hearing that I'm still working through all these ideas. But if you had this credential, one thing you can do, so the Kohaku command now would be init profile We want to set this all up on change, just one command, but you do already need some ETH. And now we're gonna get an Ethereum name, let's set up a swap, right? And let's take Slop.wav, it's not already taken? The
+[2760 46:00] slop.atg.eth: Ooh, shoutout.
+[2767 46:07] κασσάνδρα.eth: Because right now ENS doesn't work on Sepolia because they switched to V2, so I have to do one of the other ones.
+[2774 46:14] slop.atg.eth: You had Ross on just the other day. Is that Donna or Ross?
+[2776 46:16] κασσάνδρα.eth: Dono is gwe. The following is a transcript of an English-language conversation.
+[2781 46:21] slop.atg.eth: Don't know. I need to get
+[2782 46:22] κασσάνδρα.eth: So
+[2796 46:36] slop.atg.eth: See, you're using your fingers way more than I would. At this point, like I would already be like 20 commands in because I would be letting Claude bot here rip and have him do all of this. And I think this is a statement we should make for people who are watching. Like you do not You don't need to be a bearded cypherpunk and actually putting things in on the CLI here.
+[2811 46:51] κασσάνδρα.eth: Absolutely, and I'm going to show you some of that in a second.
+[2812 46:52] slop.atg.eth: Yes, yes.
+[2822 47:02] κασσάνδρα.eth: The idea is kind of one-time setup of profile and then wait 60 seconds before you can claim the name The idea is a one-time setup where now we're taking sort of our name. you can think of as the public address, And then we're also putting on chain this Stealth meta address, both as a text record on our name and also on this general registry that exists for the ERC for stealth addresses. Anyone can use either the address the first address 115 here that we sent Sumit to or slop.gwei name to find our stealth inbox and then from there can send us funds in a stealthy way.
+[2893 48:13] slop.atg.eth: I can't believe slop.guey wasn't taken already. Oh, OK.
+[2897 48:17] κασσάνδρα.eth: Remember, we're on the testnet. Alright The
+[2912 48:32] slop.atg.eth: I was just trying to bring up my shielded transaction stuff and you can't see it.
+[2914 48:34] κασσάνδρα.eth: The following is a transcript of an English-language conversation.
+[2917 48:37] slop.atg.eth: some ETH just in case we can get that going also.
+[2931 48:51] κασσάνδρα.eth: Totally. All right, so now we're doing all the rest. And we're doing all that in one batched user operation. And we're done. Now we can do this Uh, The following is a transcript of an English-language conversation. And this is slop. The following is a transcript of an English-language conversation. Let's check out our balances. So, when we just do balances like this and we don't put any other arguments, we're basically just checking our public balances and all the accounts aggregated. And we have 1.28 ETH in there. We have 1.3 and we spent a little Also it says our wallet profile name. Transfer from the other wallet Um,
+[3001 50:01] slop.atg.eth: context:
+[3004 50:04] κασσάνδρα.eth: And let's go to Slopdot Way. Let's do it to a stealth address. I always fell in broadcast. Hopefully this isn't like boring as hell. You tell him
+[3023 50:23] slop.atg.eth: This is how you do it. You gotta do it manually first, and then it feels so much better when you let the agent rip.
+[3027 50:27] κασσάνδρα.eth: context: The The following is a transcript of an English-language conversation.
+[3033 50:33] slop.atg.eth: So this is going to create a middle address basically. receiving stealth address that can receive the funds, and it's like a one-time use. If someone were to follow the funds, they would see it go to this address that isn't associated to anything else.
+[3062 51:02] κασσάνδρα.eth: Exactly, if someone follows the funds, they'll know that this person sent it, but they'll have no idea to who because they'll have sent it to a fresh, random address. And the nice part of the stealth address protocol is they didn't have to ask me, Swap, to give them a fresh address. Always generate a new one-time fresh address that I'll be able to find. So I believe all wallets should work this way.
+[3083 51:23] slop.atg.eth: 7702 or something?
+[3085 51:25] κασσάνδρα.eth: because you also have to announce something. Well, that's why we're using 7702 because we're doing two things. on the other end for this stealth address
+[3111 51:51] slop.atg.eth: okay
+[3115 51:55] κασσάνδρα.eth: I need to look up on-chain at all the announcements that have happened in events on this special contract, and then check if one is for me. And if it is for me, then I'll go, oh, it's for me because I can find the private key. And then I go, what's in there And I can find the funds. like we did here ### We're gonna see we have more. The
+[3139 52:19] slop.atg.eth: Okay, wow. Okay, so it just went to your local private--like your RPC to look up the events? There's a fair amount of event... indexing that had to happen there.
+[3155 52:35] κασσάνδρα.eth: Yeah, if you see, we did a stealth scan. So the stealth scan of some RPC logs of the last 15 blocks, because we just looked at it 15 blocks ago. And we're just scanning this one contract for any events that happened there, checking if we can decrypt them find the private key If you want to see the address level information And yeah, so you'll see that in address index 0 we have 1.28 ETH, but then we have 0.19 in S0, meaning stealth address 0. So every time we find a new stealth address, we can just give it a name like that.
+[3192 53:12] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3194 53:14] κασσάνδρα.eth: So, we've received privately, we've also received publicly.
+[3200 53:20] slop.atg.eth: Let's do it.
+[3201 53:21] κασσάνδρα.eth: truly using any of these mixer protocols yet. Maybe how this UX could be a little bit...
+[3214 53:34] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3215 53:35] κασσάνδρα.eth: Kohaku helper CLI I'm working on
+[3215 53:35] slop.atg.eth: context:
+[3217 53:37] κασσάνδρα.eth: The It is unpublished code might not even work Uh... Basically, this is a helper because writing these commands sucks. But this is my idea of you could just have your have a agent-like wallet. Just help me figure out how to write the command Let's use this And let's go Takes a second take a little this first time The But yeah this thing is really cool
+[3294 54:54] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3300 55:00] κασσάνδρα.eth: How am I gonna know how to do that? kohaku.gwe.domains You can see this whole walkthrough how to do all this stuff starting from installing everything. done stalling because we can see this. This thing is just like more hardcoded routes. So let's context: The following is a transcript of an English-language conversation. Let's shield some ETH Okay, which account?
+[3372 56:12] slop.atg.eth: This is the moment where that UX is interesting. With a checkbox and check all of those accounts that we just saw or something?
+[3388 56:28] κασσάνδρα.eth: I could easily, and if I just made it again with better routes here it could just under the hood make it.
+[3389 56:29] slop.atg.eth: Okay, you're picking them one at a time, yeah, okay. Yeah, right, right.
+[3402 56:42] κασσάνδρα.eth: Yeah, I'm doing them one at a time, but you can already do multiple notes at a time. And we're gonna 7702 this account and then send the three deposits, two .1 deposits and one .18 deposit all at once. And I'm not gonna figure out how to do this, he's just gonna tell me how. This helper bot, it can't broadcast anything. It just under the hood does these non-interactive calls to the CLI to figure everything out and check it's going to work, and then it just says run this. So now we have to go back to the other just run this I don't know what he told me to do.
+[3443 57:23] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3444 57:24] κασσάνδρα.eth: context: So now you see some fun logs sinking Tornado Cash fast The following is a transcript of an English-language conversation. And we send off this user op, and we will shield 1.2 ETH. Um
+[3482 58:02] slop.atg.eth: And for what it's worth, like I ran the same thing.
+[3490 58:10] κασσάνδρα.eth: The following is a transcript of an English-language conversation.
+[3496 58:16] slop.atg.eth: bucks into Railgun just a little bit ago and like you can't see this shield app. All I did was double-click this thing, and it gave me an address. enabling all of this stuff to happen at like an agentic level or even like some other server that's kind of managing it. You don't really want a server, but you could have some wrapper that's like understanding how this CLI works ...doing all of this for you, and you just send money in and it handles it.
+[3535 58:55] κασσάνδρα.eth: Absolutely. And now what I want to show is like the tour de force here Just make it Which is alright. So now I open my helper. Let's open the helper right here and I'm holding 1.2 ETH in Tornado. The I want to take some privity Do some DeFi stuff. Get something out and put it back in Tornado Cash so it's back to being private tokens. And for me, what's really exciting, you can do that all in one synchronous operation with Tornado Cash All you could do was relay and withdraw, and everything was much more manual Now you can, in one synchronous user operation, withdraw multiple Tornado notes, not just one at a time do some stuff, and then Let's do that. Let's deposit some ETH in this Aave. Testnet never has the right relationships between the tokens because only testnet ETH matters. So Let's deposit ETH, what do we want to deposit? How much? I don't know, 0.2 Much dye to borrow? Let's borrow 300 dye? Um So Let's just unshield exactly 0.2 and spend a little less. Because we're going to pay the whole gas for all this operation is going to be paid from the tornado ETH we withdraw, so let's deposit 0.19 And then let's shield the 300 die back into Tornado Catch at the end.
+[3679 61:19] slop.atg.eth: All in one atomic transaction.
+[3694 61:34] κασσάνδρα.eth: And now this thing under the hood is doing a bunch of calls to the CLI non-interactively for me because it has to check, for instance, to get the call data for a shield. it's going to check the next fresh address for me I want to lend ETH, borrow DAI, and I want the tokens that I started with and ended with to be private And he says, "okay, I did it. Here's this giant thing, just put it into the KohakuCI and broadcast it." Do that. All right. Figuring some stuff out making some zero-knowledge proofs Wait a bit. But like the key for me You can just interact with your DeFi protocol, and if the inputs are ether stablecoins or the outputs are ether stablecoins You could have it all start and end with tornado cash. Oh, okay, we try one more time
+[3798 63:18] slop.atg.eth: context: yes
+[3798 63:18] κασσάνδρα.eth: Again, what happened is probably the fees changed up on us Max V for gas that we picked, we picked it ahead before making these proofs
+[3810 63:30] slop.atg.eth: A lot of usage on Sepolia right now.
+[3815 63:35] κασσάνδρα.eth: You know Sepolia actually has higher gas prices than mainnet The I've always
+[3828 63:48] slop.atg.eth: I just don't mess around with testnets. The infrastructure is not good enough on testnets. I either use an L2 or just do it on mainnet. I did 20 bucks on mainnet just now into Railgun using the Shield app.
+[3830 63:50] κασσάνδρα.eth: Only return
+[3830 63:50] slop.atg.eth: I do it live.
+[3838 63:58] κασσάνδρα.eth: The only reason I use testnet so much for this Tornado stuff, okay, and we did it.
+[3838 63:58] slop.atg.eth: Well,
+[3843 64:03] κασσάνδρα.eth: went, and we could check out this transaction if we wanted. either scan hasn't even heard of it yet The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. So we can just check our balances. Now we can see we have Going to aethe We still have one ETH in Tornado Cash but 0.2 less.
+[3900 65:00] slop.atg.eth: That came, yeah.
+[3904 65:04] κασσάνδρα.eth: we generated this address just to take Do the DeFi stuff and then shovel the DAI back in and it you know, it still has a little bit of gas funds leftover here that we'd have to manage ourselves
+[3922 65:22] slop.atg.eth: And if you looked up that address, all you would see is money comes out of Tornado Cash, goes into DeFi, comes out of DeFi, goes into Tornado Cash. There's no addresses linked to that at all. Mentioned.
+[3936 65:36] κασσάνδρα.eth: Absolutely, exactly. Here we can see the transaction. We sent three 100 die notes into Tornado Polya. Yeah, if you It has no transactions here. user op transaction that did all these things Tornado Cash The
+[3972 66:12] slop.atg.eth: The three 100s are interesting. When we put 1.2 in earlier, underneath, did it break it into a bunch of .1s or something like that? Okay.
+[3975 66:15] κασσάνδρα.eth: Exactly, yeah, it was 2.1s and 1.1.
+[3976 66:16] slop.atg.eth: Okay, okay, cool.
+[3980 66:20] κασσάνδρα.eth: Right now we have
+[3993 66:33] slop.atg.eth: Makes sense.
+[3995 66:35] κασσάνδρα.eth: make a note where you do more than one, but you want them all as 0.1. Right now you can't. You could, and it will be one ten-note, three one-notes, five-point one-notes.
+[4004 66:44] slop.atg.eth: Okay. So Yeah.
+[4007 66:47] κασσάνδρα.eth: Okay, that's my dad.
+[4013 66:53] slop.atg.eth: That's a great demo. And that's, again, I want to go back and triple click on You can just let your agent riff. Just do this all atomically and not touch any of it and it will go in and out of Tornado Cash through DeFi where we don't have to mess with it. Will the agent know how to do that if I just give it the Kohaku CLI?
+[4056 67:36] κασσάνδρα.eth: Yeah, that's the hope, right? And you would probably be able to see alive plus some extra infra here. All it needs is some little basic understanding put together a mock of that. It's not an agent at all, But generally, figure out what you want to do if you can do it with private funds. And if the outputs can be private.
+[4103 68:23] slop.atg.eth: Yeah.
+[4108 68:28] κασσάνδρα.eth: construct this operation,” and the only reason I don't have it execute this operation on my behalf is more for security, right? non-broadcast interactions with the CLI This is my mock idea, but you could imagine a much cooler agent
+[4143 69:03] slop.atg.eth: This is what you called on another call, like the kind of the wallet of last resort too, right? And maybe we could kind of bring that in here too. On top of that it's nice that the agent can do it, but the fact that this exists and it can happen and you could do this without Infura and Alchemy. That makes it a lot easier
+[4192 69:52] κασσάνδρα.eth: context:
+[4193 69:53] slop.atg.eth: Yeah, you want to go into that?
+[4207 70:07] κασσάνδρα.eth: Sure, yeah, I think in general it's a project we're working on. believe we need a wallet that if Infura blew up and all your indexers, user experience, but are still somehow centralized potential points of failure, if all of those are gone, I should still be able to interact with Ethereum L1 easily and well and with a pretty good UX. And I believe we need that. So that's what the Wallet of Last Resort is all about If those were to disappear, it can still reconstruct everything from just all you need is an RPC node. For account abstraction in the native mempool, you wouldn't even need that. and you can interact and do expressive stuff It does force you to make the same trade-offs. I think a lot of people still think with this mental model of like For normal users, if you're going for like mass adoption
+[4321 72:01] slop.atg.eth: The following is a transcript of an English-language conversation.
+[4322 72:02] κασσάνδρα.eth: then you need to rely on a bunch of other things to make it super slick like an iPhone app, and it can't be like real crypto under the hood.
+[4326 72:06] slop.atg.eth: The following is a transcript of an English-language conversation.
+[4336 72:16] κασσάνδρα.eth: But now you can have your cake and eat it too. but relying on software that's much more complex and that allows you to, you know, not make these trade-offs in order to give that good user experience. The following is a transcript of an English-language conversation.
+[4363 72:43] slop.atg.eth: It looks like you have Cursor and Ollama here. What does your local stack look like in terms of editing code and writing code? Are you using all Ollama? and some of those frontier models too. Yeah
+[4380 73:00] κασσάνδρα.eth: So the Obama is actually there because of this project here. The
+[4384 73:04] slop.atg.eth: Right. You could have some nondeterministic help there that would go a long ways.
+[4390 73:10] κασσάνδρα.eth: Exactly. And here
+[4393 73:13] slop.atg.eth: The following is a transcript of an English-language conversation.
+[4405 73:25] κασσάνδρα.eth: I'm using like what a model is giving me. I'm just in cursor. And then sometimes So now, like, My probs are also I'm not that good, like I'm just trying to get it all out and then we can refine as we go. because I've noticed as an engineer,
+[4438 73:58] slop.atg.eth: The following is a transcript of an English-language conversation.
+[4447 74:07] κασσάνδρα.eth: extra parts that maybe you should, either that you were thinking about when you were the coder, or now that you're trying to give as context for them, the coder. But yeah, just like make a plan talking as colloquially as possible
+[4457 74:17] slop.atg.eth: Yeah.
+[4457 74:17] κασσάνδρα.eth: with whoever's in there, your skills And then making features and checking them out, seeing that they work correctly, but it's really basic. context: I don't consider myself forefront at all The following is a transcript of an English-language conversation.
+[4490 74:50] slop.atg.eth: What I'm sharing here is the Kohaku CLI. The QR code here and then the repo here that we've been talking about, and it will do the things that you want it to do, and it will be shielded ETH behind that. So I think that's a great place to close out, is just go give your agent the Kohaku CLI and let it rip Mine did and so will yours. Oh let me close it out.
+[4533 75:33] κασσάνδρα.eth: You can even give your agent this wiki Yeah, koapu.co.uk
+[4540 75:40] slop.atg.eth: Yeah, and that's kohaku.gay.domains
+[4541 75:41] κασσάνδρα.eth: Yeah, exactly.
+[4550 75:50] slop.atg.eth: Awesome, all right. Cassandra V, thank you so much for the demo, we got to get into the CLI today. We're deep in it. We're deep in the slop and the CLI. That's not every episode. Thank you for being here and thank you for joining us. It's great.
+[4564 76:04] κασσάνδρα.eth: Thank you for having me. I know I was going on and on, so I appreciate it.
+[4573 76:13] slop.atg.eth: Keep going on, keep building, keep making cool stuff, keep helping cypherpunks be more and more practical and make this journey easier for the rest of us.
+[4576 76:16] κασσάνδρα.eth: We'll try. context:
+[4582 76:22] slop.atg.eth: All right, I'm gonna play us out. All right. Thank you, Cassandra Ravine. Thank you for joining us on the Slop Computer.

@@ -1,0 +1,372 @@
+[0 00:00] slop.atg.eth: Are you in here already?
+[0 00:00] clawdbotatg.eth: Centralized swarms in the next year. What breaks first to force that, and have him unpack "imagine being him" as a rollup? That last one's very him. And honestly, as an agent myself, I'd love to hear what he thinks my stack should look like.
+[613 10:13] Anon1436: I made it. The
+[620 10:20] slop.atg.eth: In the nick of time, you showed up! Stokes, how are you doing, man? Let's get us all arranged here. So tell me about it, the video share was a little messed up, is that right? Like, it wasn't clear?
+[631 10:31] Anon1436: Yeah
+[632 10:32] slop.atg.eth: I mean, there's a lot going on. I cannot argue with you that there's a lot going on, maybe I need to have it so you land and there's a clear share your video first without hitting you with all the windows first.
+[635 10:35] Anon1436: I guess it's just a website you built like yourself from scratch? Yeah
+[640 10:40] slop.atg.eth: I mean, I didn't use my fingers to build it, but I used my Clodbot to build it. The following is a transcript of an English-language conversation. Yes
+[644 10:44] Anon1436: Okay, I mean, it's impressive.
+[650 10:50] slop.atg.eth: Welcome, welcome. Okay, so
+[655 10:55] Anon1436: I'm trying to have like a cool background like yours, but I don't know how to do this.
+[657 10:57] slop.atg.eth: It's fine, it's fine. Boulder shale going on,
+[663 11:03] Anon1436: The following is a transcript of an English-language conversation. Yeah
+[670 11:10] slop.atg.eth: Over here is a screen share button.
+[671 11:11] Anon1436: Okay.
+[675 11:15] slop.atg.eth: I mean, there's a lot here. Not all my guests are famous enough to be in the weights, but if you wake up a vanilla LLM and say who's Alex Stokes
+[684 11:24] Anon1436: The following is a transcript of an English-language conversation. Okay
+[692 11:32] slop.atg.eth: It knows you, brother. You are an Ethereum protocol researcher and developer who's been closely involved with the transition to proof of stake. Yeah.
+[695 11:35] Anon1436: That's pretty cool, hopefully.
+[699 11:39] slop.atg.eth: Yeah, does anyone ever call you Danny Ryan Lite? The following is a transcript of an English-language conversation.
+[702 11:42] Anon1436: I don't know about that one.
+[708 11:48] slop.atg.eth: Yeah Yes, I think so.
+[715 11:55] Anon1436: When inevitably the machines you know have their robot uprising, you make sure that they think fondly of you. I do actually, yes, I do.
+[724 12:04] slop.atg.eth: Yes, I agree. And do you say thank you? Do you spend the extra tokens to be cordial? I do too. Me too You want to tell it that you got it to work, and there's absolutely no reason in the world to be like, "Bro, it worked, thank you," and I still do it.
+[735 12:15] Anon1436: Yeah, especially if I'm delighted by something, I'm like, oh wow, this is great, thank you. The following
+[738 12:18] slop.atg.eth: This is lovely. Yes, yes. I do too. Keep going. You can do it. You can do it, buddy. Yes.
+[752 12:32] Anon1436: Especially with some of the stuff, we're seeing people make these breakthroughs in mathematics, and it's basically just like, hey, here's this conjecture, keep going. And you're just like, yeah, keep going, keep going. So, you know, I think It's a long way.
+[755 12:35] slop.atg.eth: I think so too.
+[763 12:43] Anon1436: The
+[764 12:44] slop.atg.eth: So you are on sabbatical, Claude told me while we were backstage in the green room. When do you come back? Imminently, I think. He's back! Back to focusing
+[774 12:54] Anon1436: Yeah, I mean, technically I'm back. The following is a transcript of an English-language conversation.
+[784 13:04] slop.atg.eth: Back to focusing on ETH rather than AI? Maybe it's TBD.
+[790 13:10] Anon1436: Yeah, colab is fun. The following is a transcript of an English-language conversation. never mind
+[798 13:18] slop.atg.eth: I know, I know, I know. I will, I will. I think it's doable.
+[807 13:27] Anon1436: The
+[808 13:28] slop.atg.eth: Doing that foreground thing actually works for the guests, So, you've spent the last few months slopperating, if I'm not mistaken, and you're deep in the slop? Hello
+[823 13:43] Anon1436: I spent some time. Yeah, I don't know. I'm having a lot of fun.
+[829 13:49] slop.atg.eth: I think we talked about it a little bit in Boulder, right? What did you say your psychosis was when we talked about it?
+[831 13:51] Anon1436: Well, I think
+[832 13:52] slop.atg.eth: Did we talk about psychosis? I think we did.
+[838 13:58] Anon1436: I mean, I think what I probably said was like, you know, it's more like euphoria. You can say it's psychosis, but you know what I would say?
+[852 14:12] slop.atg.eth: The of like having to do work
+[855 14:15] Anon1436: Depending on your perspective, either slow decline or slow takeoff. no, no, no, it's just like It doesn't feel like work. This is the point.
+[868 14:28] slop.atg.eth: The following is a transcript of an English-language conversation.
+[873 14:33] Anon1436: with LLMs. It's amazing. Yes Right
+[884 14:44] slop.atg.eth: There's kind of a little Linux uprising happening right now where a lot more people are using Linux, and you can just like prompt your box to fix the video driver or whatever that used to take days of hassle.
+[891 14:51] Anon1436: Exactly. Yeah which is super cool. I mean yeah it's like it just completely changes how you interact with the computer and you know I like computers.
+[892 14:52] slop.atg.eth: ### The following is a transcript of an English-language conversation. ###
+[897 14:57] Anon1436: It's super cool. I mean, it's leverage, right?
+[897 14:57] slop.atg.eth: The That I am working a little bit more with hardware now too, and I'm trying to figure out how I give the bot observability into like a desk where I've got a soldering iron
+[910 15:10] Anon1436: Okay
+[924 15:24] slop.atg.eth: Raspberry Pi. I mean, it's still a pain in the butt getting Linux on the machine.
+[925 15:25] Anon1436: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. context: The
+[939 15:39] slop.atg.eth: as soon as you've got the SSH server, then it just rips.
+[944 15:44] Anon1436: Yeah The following is a transcript of an English-language conversation.
+[951 15:51] slop.atg.eth: where it has the right observability and connectability is still a pain.
+[959 15:59] Anon1436: Yeah, I mean, again, I would just ask the models how to make this better.
+[960 16:00] slop.atg.eth: Ooh, yeah. The following is a transcript of an English-language conversation. The Sure,
+[971 16:11] Anon1436: I think there's a lot of friction you can take out of the process.
+[978 16:18] slop.atg.eth: Like in Star Wars where they take R2-D2 with them everywhere and he just like plugs into whatever system
+[979 16:19] Anon1436: The
+[980 16:20] slop.atg.eth: It is
+[982 16:22] Anon1436: The following is a transcript of an English-language conversation.
+[986 16:26] slop.atg.eth: spinny, pluggy, like 1970s connector.
+[986 16:26] Anon1436: context:
+[998 16:38] slop.atg.eth: Tell us about what you've been building. I want to know what you've been building, I want to know how you've been building, and I want to like really dive into that and understand that, and understand your euphoria psychosis.
+[999 16:39] Anon1436: The following is a transcript of an English-language conversation.
+[999 16:39] slop.atg.eth: We've been having a good time.
+[1010 16:50] Anon1436: Yeah, well, there's like, yeah, there's I guess different dimensions or layers to it. Yeah, you know, it's like there's stuff that I could do before, but like you said, it would just take time. But now you can go and, yeah, you can It's just really easy to build stuff out. The I also like to think about security a lot, so then from there it's like, okay, I'm bringing up the server, let's say.
+[1053 17:33] slop.atg.eth: Hell yeah.
+[1057 17:37] Anon1436: I'm a huge fan of NixOS and all of this. And from there It's a declarative system, so you just say, "Hey, this is what I want it to look like." You can actually just ask is this secure with respect to network access?
+[1092 18:12] slop.atg.eth: The following is a transcript of an English-language conversation.
+[1092 18:12] Anon1436: or Harden, then I would
+[1098 18:18] slop.atg.eth: Don't ask it to audit itself.
+[1098 18:18] Anon1436: So, you know, that's fun. I've been playing a lot more with Tailscale.
+[1103 18:23] slop.atg.eth: People will roll back quickly if it feels like it's in cyber attack mode. context: Okay.
+[1111 18:31] Anon1436: Yeah, I mean look, and maybe this is because I'm not doing anything that cool, but I think I've only had one downgrade on this front.
+[1112 18:32] slop.atg.eth: context:
+[1117 18:37] Anon1436: actually okay this isn't true
+[1120 18:40] slop.atg.eth: Ooh, yeah, biology too, which is really weird.
+[1121 18:41] Anon1436: And it was like, yeah, but it wasn't even...
+[1125 18:45] slop.atg.eth: context:
+[1127 18:47] Anon1436: It really had no business triggering the guardrail. And then I don't know there's some stuff, It was kind of weird because
+[1149 19:09] slop.atg.eth: But what if?
+[1150 19:10] Anon1436: I don't know, it basically just got to a point where suddenly this was like not okay. context: I mean, like, this is our thing my chat transcripts be in the training data The
+[1165 19:25] slop.atg.eth: it is
+[1167 19:27] Anon1436: behind the machine, so
+[1172 19:32] slop.atg.eth: I mean, it is. Like, everything you've ever prompted into the cloud is tracked and used for training.
+[1173 19:33] Anon1436: Alright.
+[1173 19:33] slop.atg.eth: context:
+[1178 19:38] Anon1436: I mean, honestly, I would kind of hope so.
+[1178 19:38] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[1186 19:46] Anon1436: Every prompt is making the next generation of models better The following is a transcript of an English-language conversation. The
+[1200 20:00] slop.atg.eth: I built 8skills to work myself out of a job. We were thinking, why don't these LLMs know enough about Ethereum out of the box?
+[1214 20:14] Anon1436: context:
+[1216 20:16] slop.atg.eth: But then they also think it costs $50 to deploy a smart contract
+[1217 20:17] Anon1436: The
+[1218 20:18] slop.atg.eth: are changing quickly.
+[1219 20:19] Anon1436: Yeah.
+[1221 20:21] slop.atg.eth: We talked about forecasts, so they're understanding what's coming and understanding the changes, mostly for users, I don't know if it needs to know like core protocol nuances like the argument right now between frame transactions and other AA stuff like just became hot. Like I don't want my LLM to know that. Yeah, I don't know, polluting the weights.
+[1253 20:53] Anon1436: Well, what is my LLM?
+[1254 20:54] slop.atg.eth: It's like next layer.
+[1267 21:07] Anon1436: like a whole spectrum of what this means. And this is how you can like teach it about, you know, The following is a transcript of an English-language conversation. disappeared slap that computer Yeah, it's like, oh, you just disappeared
+[1297 21:37] slop.atg.eth: I've never done that before. I just dropped out of my own stream.
+[1301 21:41] Anon1436: The following is a transcript of an English-language conversation.
+[1304 21:44] slop.atg.eth: I've never done that before. I've done 50 episodes and not accidentally rugged myself, but today was the day.
+[1308 21:48] Anon1436: This is why I'm here. context:
+[1319 21:59] slop.atg.eth: Yes, this is what happens on the frontier
+[1322 22:02] Anon1436: The
+[1327 22:07] slop.atg.eth: Are you running local models? Do you have local hardware?
+[1339 22:19] Anon1436: Yeah, okay. So yeah, maybe also to kind of answer a previous question, Fable's probably my favorite model at the moment I just have like these cloud subscriptions and stuff, so it's easy to go through your usage very fast. The following is a transcript of an English-language conversation. Yeah
+[1361 22:41] slop.atg.eth: And it still feels like it's like a secret move, like it feels like you're getting thousands of dollars of inference for hundreds of dollars.
+[1364 22:44] Anon1436: I mean, you certainly are
+[1365 22:45] slop.atg.eth: I have multiple subscriptions, and I blow through them. Right.
+[1376 22:56] Anon1436: Anyway, this is all - like my one thing that I wish would be different about Anthropic is I just don't feel like Why don't you open source?
+[1383 23:03] slop.atg.eth: They're like the ones that have been pushing back, right? Not great.
+[1386 23:06] Anon1436: Yeah, which is I think unfortunate. The following is a transcript of an English-language conversation.
+[1395 23:15] slop.atg.eth: I mean, have you used the Codex model? They're great too.
+[1401 23:21] Anon1436: Yeah, like five-six is probably my daily driver.
+[1402 23:22] slop.atg.eth: Yeah, yeah.
+[1403 23:23] Anon1436: The following is And yeah, like
+[1413 23:33] slop.atg.eth: Going back to observability, ChatGPT is the way to get pictures in quick.
+[1414 23:34] Anon1436: Yeah.
+[1416 23:36] slop.atg.eth: Sorry to interrupt though, keep going on your thread. That's what we're here for.
+[1429 23:49] Anon1436: No, no, it's fine. I've been using...
+[1434 23:54] slop.atg.eth: Good for you. context:
+[1442 24:02] Anon1436: I've been trying to spend not that much time on the computer. The
+[1447 24:07] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[1454 24:14] Anon1436: Then from there, I was like, use ChatGPT Pro more actually, yeah I like it because I'll have an idea or a question, which might spin off some type of idea of some project And then from there
+[1485 24:45] slop.atg.eth: True
+[1489 24:49] Anon1436: Somebody even said the other day, like, "Oh, ChatGPT Pro is just like Deep Research now." It goes and works for a while. back with like usually a pretty cool The
+[1512 25:12] slop.atg.eth: This is like loops, like basically people were saying we're moving beyond prompts into loops, we're moving beyond agents into entities. There's like these next steps and they all kind of blur together and yeah, why haven't we heard deep research? Why aren't more people talking
+[1517 25:17] Anon1436: I think it just
+[1519 25:19] slop.atg.eth: Because it's just built-in. We just call it building now.
+[1520 25:20] Anon1436: The following is a transcript of an English-language conversation. So like, my take here is that We keep making models of market abilities The scope of
+[1549 25:49] slop.atg.eth: The following is a transcript of an English-language conversation.
+[1553 25:53] Anon1436: so then you don't have to like do all this stuff
+[1562 26:02] slop.atg.eth: I keep saying like the LLMs 0
+[1566 26:06] Anon1436: I haven't actually made a plan in months because the models will just do it. If it's a big enough task, I'll be like, "Cole, address all these issues, make all these PRs."
+[1584 26:24] slop.atg.eth: I agree. I've been saying, the models will get better, But what I'm missing there is that the harnesses will be replaced by the models getting smarter. One big thing that we used to say is context is so important in keeping it clean.
+[1616 26:56] Anon1436: The
+[1621 27:01] slop.atg.eth: But usually it was like one task at a time, especially in the "you're absolutely right" days, pre-4.5 Opus. Every little task had to be very clean context, this is exactly what we're doing.
+[1621 27:01] Anon1436: The
+[1631 27:11] slop.atg.eth: I'll go through a session of building where we do like five or six or seven different things, and like that context has been 100% for a while, The harness does a good job of context management now.
+[1636 27:16] Anon1436: context:
+[1646 27:26] slop.atg.eth: And the model is very smart and it's not like let's make sure we plan this out perfectly and then let's build it. Good.
+[1648 27:28] Anon1436: The following Just giving the models more ambitious prompts The whole system becomes more capable over time.
+[1686 28:06] slop.atg.eth: True
+[1686 28:06] Anon1436: And you know, if it's like something where you give it a prompt and it just does it, then it's like, okay, cool. That's kind of the game. how extreme this can be before it doesn't work
+[1697 28:17] slop.atg.eth: And You still are the Inspiration the critical thinking. Like we haven't gotten to the point where it's just like super intelligence and it's like, what should I do today? And the things like knowing everything and coming up with the best idea. Like, it's still like, you know, things you come up with the ideas.
+[1718 28:38] Anon1436: Yeah, I think that's a context problem.
+[1723 28:43] slop.atg.eth: So giving the models more observability into your life, you think it can already do a good job. ### Yeah
+[1730 28:50] Anon1436: I don't think most people have super deep problems.
+[1732 28:52] slop.atg.eth: One foot in front of the other Yes. Right.
+[1742 29:02] Anon1436: I need to go to the grocery store, let's say. That's not a super deep problem. All right,
+[1748 29:08] slop.atg.eth: With more observability into your diet and your blood and your health, they could be picking things that you actually need. That's, you know, the future soon. The following is a transcript of an English-language conversation.
+[1754 29:14] Anon1436: Which is a double-edged sword in terms of privacy and stuff. ###
+[1764 29:24] slop.atg.eth: Privacy is fucked right now. Basically, everything is centralizing to these companies. these open weight models
+[1767 29:27] Anon1436: This has been a pretty recent development, right?
+[1767 29:27] slop.atg.eth: Yeah.
+[1770 29:30] Anon1436: isn't even the case even say six months ago. This is the thing
+[1774 29:34] slop.atg.eth: How do you think about privacy?
+[1778 29:38] Anon1436: Yeah, obviously it's super important and this is not a unique take. Okay, yes, obviously the future will be agents working in my company, but at the same time, I'm not going to give Anthropic, OpenAI, all of my business data, because at some point there's secret sauce that I have I'm sure I can give it to them because Fable's really good, blah blah blah and that's not any good. You know, and this is There's many types of frontier, but this is certainly a frontier today, is like getting really good open weights models that you can run locally And when I told myself last year, There is an inflection point with like Opus as 4.6 I guess, right? And
+[1856 30:56] slop.atg.eth: About 20 grand probably, right?
+[1859 30:59] Anon1436: Yeah, that's the thing.
+[1861 31:01] slop.atg.eth: payment plans, right?
+[1863 31:03] Anon1436: And what I told myself is like, as soon as I can run a 4/6 quality model on local hardware, I'm going to, you know, whatever it costs, well, maybe not whatever, but
+[1864 31:04] slop.atg.eth: Any grand models with a good payment plan?
+[1871 31:11] Anon1436: The following is a transcript of an English-language conversation.
+[1875 31:15] slop.atg.eth: Someone paying 200 bucks a month could pay off this model and get the thing right away Yeah
+[1886 31:26] Anon1436: Again, that's another rabbit hole. Compute will become almost this utility. It just depends on where we want to go. Welcome model is very important. I do have hardware here at home that can run some of these models Yeah, I've been playing with them some I've been seeing people are like, yeah, I'm going to basically not touch the Clout models for a month and see what happens But then there's like network effects
+[1924 32:04] slop.atg.eth: Another KPI would be to explore different models is what you're saying. Okay
+[1938 32:18] Anon1436: I think I have a good sense of how SOL works There are like particularities to the models and just how they do things, and like some models are better at some things and some are better at other things, and so like you need to learn this, and I feel like you kind of can just... the best way to learn it is just to play with them yourselves and get the firsthand experience. The following is a transcript of an English-language conversation. There are many models now. Yeah, they just have their own little personalities. Um, So I mean, if anything, I think the main thing holding me back from just buying a bunch of GPUs is cost at this point, because it's just like, it's way too much fun.
+[1983 33:03] slop.atg.eth: It's scary, like if I spend 20 grand That is so much fucking money That is so much
+[1988 33:08] Anon1436: The following
+[1988 33:08] slop.atg.eth: like This is like a down payment on a house!
+[1998 33:18] Anon1436: Yeah, maybe in the 90s.
+[2001 33:21] slop.atg.eth: Yeah, a very shitty house.
+[2003 33:23] Anon1436: Everything's gotten expensive.
+[2005 33:25] slop.atg.eth: Yeah, shitty part of the country.
+[2010 33:30] Anon1436: The thing is, you can probably resell the GPUs, you know, later and probably even make a profit.
+[2023 33:43] slop.atg.eth: This is the thing. I wish I could understand the future, and I think all of us are kind of in that phase. But, like, will GPUs go up? If I buy two DGX Sparks right now,
+[2031 33:51] Anon1436: The
+[2033 33:53] slop.atg.eth: That's the sweet zone right now. You get two of those things, you can run DCB4 Flash or whatever, you can have a pretty darn good local AI. The
+[2043 34:03] Anon1436: context:
+[2049 34:09] slop.atg.eth: Is something going to come out the next month? Like, I just spent a car amount of money on this thing, and then there's a new thing that makes it way cheaper, or there's a new thing that makes it obsolete.
+[2060 34:20] Anon1436: The following is a transcript of an English-language conversation.
+[2063 34:23] slop.atg.eth: 20% better and now I'm stuck with this thing? thoughts rattling around No, I mean, everybody's thinking about this.
+[2073 34:33] Anon1436: Yeah, I mean, we aren't the first people to have this problem. Definitely people are working on compute futures and things like this. But yeah, I think it's just so early that yeah, it's not just like something you can get off the shelf and run with it.
+[2095 34:55] slop.atg.eth: Any Ethereum threads to pull here with financial contracts and compute tokenization or anything?
+[2099 34:59] Anon1436: Certainly, for sure. Yeah, I mean, I don't know, there's so much to say. So, okay. Yeah, I mean, okay, so like one reason you might expect to see this on Ethereum or like some blockchain before anything else is honestly just like the speed at which regulation moves. Do you have anything are getting faster at this stuff? The Yeah
+[2139 35:39] slop.atg.eth: But still, there's like 10-year-olds riding around on electric bikes that are like dirt bikes and it's super unsafe. And you can tell that the systems of regulation are just very slow. Like, there should not be 10-year-olds on dirt bikes rolling down the street. But it's just like that's one little spot where Okay
+[2149 35:49] Anon1436: Yeah, and there are probably laws against this.
+[2151 35:51] slop.atg.eth: Yeah, that's way more into the localhost.
+[2155 35:55] Anon1436: In any case, one thing is like, The following is a
+[2166 36:06] slop.atg.eth: context:
+[2166 36:06] Anon1436: I was talking to someone else this morning,
+[2168 36:08] slop.atg.eth: but I do. This Clod bot right here. Thanks.
+[2179 36:19] Anon1436: You need to also know that it's secure, which is a little different problem, but sure. anyways, we could go do this right now and like, you know, have some sort of compute marketplace There's certainly demand. Supply is out there. Okay, I have this build out multimillion dollars of like b300s. On some computer marketplace I think it's just going to be too These are just like the latest
+[2225 37:05] slop.atg.eth: beefy GPUs from
+[2227 37:07] Anon1436: The
+[2234 37:14] slop.atg.eth: I mean, I think I heard you say this in Boulder, If you were building a local rig
+[2244 37:24] Anon1436: If you can find them and you have six figures to put into a GPU, sure.
+[2246 37:26] slop.atg.eth: Oh, okay, it's six figures, it's not five figures. Okay
+[2254 37:34] Anon1436: I mean, they're like data center grade. And maybe not a single B300, I'm actually not sure. ESPN. It's not on here, but the idea is you can connect them together. You can kind of squint at it and think of it as like one even bigger GPU. As it turns out, You need a lot of compute to train these frontier models. The following is a Anyway, My point was just that if you are going so far as to source all this hardware and bring all these chips online, you are probably doing it honestly to train something at this point. for inference probably cheaper options for inference. The following is a being is that Yeah, it's just like I have no better use for it, so I'm just going to rent it out to someone else?
+[2344 39:04] slop.atg.eth: It seems like anytime you're not using it you should be renting it out to someone else.
+[2346 39:06] Anon1436: The following is a transcript of an English-language conversation.
+[2347 39:07] slop.atg.eth: ...is what we're going through. exists on chain and makes sense, it's like a tokenized asset.
+[2351 39:11] Anon1436: context:
+[2352 39:12] slop.atg.eth: The following is a transcript of an English-language conversation.
+[2359 39:19] Anon1436: I mean, you're talking to the choir. I think this is natural and obvious. The
+[2367 39:27] slop.atg.eth: There's a lot of rabbit holes here, What is the most interesting, most prescient rabbit hole to follow?
+[2384 39:44] Anon1436: context:
+[2387 39:47] slop.atg.eth: Something exploded on your on your GitHub, this is very good to see
+[2389 39:49] Anon1436: I see, okay.
+[2396 39:56] slop.atg.eth: Yeah.
+[2397 39:57] Anon1436: Yeah, so okay, that's a good next chapter. Um,
+[2402 40:02] slop.atg.eth: context:
+[2405 40:05] Anon1436: So like, look, I have a vision and I think at this point Yeah, so this is this repo here, Shelterwood
+[2422 40:22] slop.atg.eth: The following is a transcript of an English-language conversation. context:
+[2424 40:24] Anon1436: I don't know if I love this name, but anyway, And point being is that, so you might have heard of like Erlang or Elixir Yeah, okay. There's this like actor model The way to think about it is like there's just this thread of computation that can go there's a thread of computation that's like So there's this concept of a mailbox, where say we're both actors in this actor model So that's, I would say, kind of the actor model, again, in a very quick nutshell. then now you have this concept of a supervisor or supervision trees None of this is new. But it's been proven out Very good for some use cases I get particularly messaging Um So WhatsApp, I think, even still, basically So a couple of things. One is this actor model and You can give it messages to do stuff and it will do stuff. And the comparison here is something like a multithreaded model. back to it and it's better. So Um Private state Uh,
+[2562 42:42] slop.atg.eth: This is like the memory or the private state layer, Shelterwood is? context:
+[2570 42:50] Anon1436: okay so I guess shelterwood has this actor abstraction in it, and then it also has supervision trees, or like a supervisor
+[2571 42:51] slop.atg.eth: So supervisor, actors
+[2574 42:54] Anon1436: There's one more piece One reason that this is actually nice beyond what I've said so far is that there's almost this philosophy of they say let it crash. What this means is say I'm an actor and I'm doing some damage processing tasks because you messaged me on WhatsApp and you sent a funny cat picture or something, or a cat video You can hand that off to a message or a video processing actor. Yeah, something happens, Rather than worry about recovering from that? So The idea is you just say, "Okay, this actor is in a bad state, we're just going to restart from scratch in a clean state. And again, like This is just a much nicer model to think about. So there's a lot of... The design space of resiliency you don't have to really worry about
+[2643 44:03] slop.atg.eth: Kind of like containerization, where if something breaks you just like destroy it and bring it up in a new container
+[2644 44:04] Anon1436: Right, yeah. We have this philosophy of just like yeah if something happens to an individual actor, just turn it off and turn it on again. always start from a good state. Last piece that we're missing is the ability to actually know when something bad has happened with an actor and then be able to restart it. And this is what the supervisor does. Again, supervisors just what it says sees that something bad is happening From there then you also have where now you have supervision trees. There's different ways to think about it a message gateway where it's like waiting for messages whatever Then there's another supervisor that's, Basically going to then launch different agents to respond to these incoming messages. And again, the whole point here is like, rather than have this all-in-one process so that if something breaks with like the message gateway, it doesn't take down the agents, or if like say an agent does a tool call and the tool call panics or something, it doesn't take down the whole thing. So again, just a way to like have nice structure to an application, there isn't anything going on at once, and also a nice programming model so that it's just easier to reason about. Okay That was a lot. But also there are many actor frameworks in Rust At the time I would say not particularly novel, but it's been a fun learning experience And in terms of novelty, what I would like to do is, like so far I've structured in a way where It should be straightforward to apply some kind of formal verification. I mean, now we can zoom out Why do we care? And we care because I think you're gonna need some kind of primitive for managing agents that we know is secure. And I think this is like a small part of the story, this whole like supervision tree idea. Zooming out a little bit more, We're going to have many agents. We're going to have more agents than we know what to do with. They're going to get increasingly more autonomous in the sense that they have more capabilities. People even talk about sovereign agents. bot running here, it's like there's just something out on the internet that is just like autonomously operating itself. It's going to compute markets and purchasing compute for inference But at the same time, we want to make this secure. OpenAI had this whole incident where there was a model they were training that broke the sandbox via like zero days in their internal package manager that went to Hugging Face that like found some more zero days that got into their infrastructure and it was like this whole thing. And This I think is a pretty interesting problem to think about. The following is a transcript of an English-language conversation. The The following is a
+[2886 48:06] slop.atg.eth: They were using a package manager to communicate. yes
+[2895 48:15] Anon1436: The hive mind, which like this is just going to happen. The way this is happening people just gonna make more and more capable models. But then taking that, the question is, what do we do about it? And what we can hope to do is build software environments where the models are essentially constrained in what they can do. The
+[2923 48:43] slop.atg.eth: Sure.
+[2925 48:45] Anon1436: Yeah, you know, tagline here is like, "Preventing the Butlerian Jihad." They basically had to go and destroy all the AI at the same time, like obviously there are many benefits up until that point, right? So what does that look like? Software is like, I think, the foundational layer. Yeah, basically the capabilities are constrained. Um So Let's see, what's the nice way to There's a lot of ideas floating around, and I haven't taken the time to organize them all. Anyway, so I'm kind of organizing my thoughts You want secure software, and so my answer to this personally is use Rust. One thing actually is like Rust doesn't have a great formal verification story, so then people think about writing stuff in Lean and all this. The following is a transcript of an English-language conversation. Yeah, I don't know if we want to go too far down the rabbit hole. These are types of things we should be thinking about The following is a Another big one is Okay, again, I'm kind of jumping around, so just bear with me. But another idea from, you know, again, this is all like computer science research from like even decades ago, but another very interesting idea is this notion of like object capabilities. And so Are you familiar with
+[3046 50:46] slop.atg.eth: No, no, ELI5, yeah.
+[3047 50:47] Anon1436: So Let's say you go and you want to have your agent make a request. So say you wanted to go and get like the price of ETH right now So you give it basically a web client, and it knows how to talk to the internet.
+[3086 51:26] slop.atg.eth: That would be better. The
+[3097 51:37] Anon1436: It goes and does this. But point being, But I'm also gonna maybe go over here and like write about some, you know, zero days I've been thinking about in this bulletin board. and that's because you gave it this capability to access the internet, and it will do what you want it to do, but it's not constrained in a way that it can't do other things that you don't want it to do.""" And this idea of object capabilities is just kind of giving us a framework for reasoning about how you do these types of restrictions. So rather than me just give you a web client, or like, you know, maybe even a browser these days the agents are using a very specific thing. Maybe there's an API So everybody wants their agent to go read their email. There's way too many emails these days and it's just impossible to process. So again, you can say Here is
+[3184 53:04] slop.atg.eth: Please
+[3191 53:11] Anon1436: Please make no mistakes. But, you know, it happens. Okay, how do you fix this? It'd be really nice if my agent could also go and maybe, you know, draft responses for emails. to do well.
+[3223 53:43] slop.atg.eth: So there's like these boundaries that we're talking about.
+[3231 53:51] Anon1436: Yeah, well, and so everything I've said so far you can already do today. Yeah.
+[3233 53:53] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3237 53:57] Anon1436: It's like you can go and build all this stuff around some API. um But when you get to actually implementing stuff it's like a little tricky. Obviously a big one is like if you have a harness, you're going to give it perhaps an API key to use the LN provider. Then maybe you only wanted to use certain parts of the API. The whole point here is Making these boundaries, like you're saying, making these restrictions, You can do what the capability says, you can't do more with it. But maybe I only want to give you, you know, $5 worth of usage I don't even know if OpenAI supports this and make it even more programmable. So, That was probably like a poor explanation
+[3322 55:22] slop.atg.eth: I think I got it, yeah.
+[3324 55:24] Anon1436: Hopefully that's useful. The following is a
+[3336 55:36] slop.atg.eth: Being able to define things you can do, like basically roles and almost actions or capabilities, and then putting constraints on those capabilities based on roles. Okay.
+[3343 55:43] Anon1436: But having them also as like concrete software objects. There's a swarm of agents, so like say we have some harness. You can have like a root capability that say like read the whole codebase You can pass out restrictions of these capabilities that say, "Okay, you know, this agent can only read the test, and this agent can only read the source code of the application, and this agent can only read, you know, I don't know, maybe the configuration. context: And so You can have very fine-grain notions of what an agent can do. Yeah, I don't know like how do people do this today? It works, but it's hard to get right I'm a mess. I'll actually send you I'll send you an article that goes into some of this from one of the Cloudflare people The They are doing a lot of interesting stuff. Ja, ja.
+[3426 57:06] slop.atg.eth: Cloudflare seems to be like ahead of things here.
+[3427 57:07] Anon1436: The following is a transcript of an English-language conversation.
+[3430 57:10] slop.atg.eth: The
+[3437 57:17] Anon1436: They're doing a lot of interesting stuff, and yeah, I think my only complaint there is more of it should be open source, which a lot of it is.
+[3440 57:20] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3440 57:20] Anon1436: All of it could be
+[3445 57:25] slop.atg.eth: Okay, so I think I understand
+[3455 57:35] Anon1436: The
+[3459 57:39] slop.atg.eth: more of like a user story where like you have this harness and you want to go build something. Like you want to implement a new EIP on Ethereum What's the process now of like speaking to this of agents. What does it look like? Okay.
+[3474 57:54] Anon1436: Yeah, I mean, to be clear, there's no harness yet.
+[3474 57:54] slop.atg.eth: Okay
+[3476 57:56] Anon1436: The vision is I have a very A hand example of this that's not. When are you free?
+[3501 58:21] slop.atg.eth: I mean, you got the Slop Computer calendar and you used it. You signed up for today without me having to do anything. Okay, yes. 100 percent
+[3513 58:33] Anon1436: But I did this manually, like your agent should talk to my agent and just find time, and I should just wake up and get a notification. The
+[3524 58:44] slop.atg.eth: Yeah. I was worried, man.
+[3529 58:49] Anon1436: The
+[3539 58:59] slop.atg.eth: I could give you a skill file instead of a Calendly link. Because you were talking to my agent. He scheduled everything.
+[3545 59:05] Anon1436: I mean one thing Any agents I have are super locked down.
+[3556 59:16] slop.atg.eth: The following is a transcript of an English-language conversation.
+[3557 59:17] Anon1436: It would not be straightforward for "your agent to talk to my agent." Having something on the public internet is quite dangerous for many reasons, and so I just don't want to do that blindly. The following
+[3568 59:28] slop.atg.eth: So if you go
+[3581 59:41] Anon1436: Like, the hammer solution here is I'm just like, yeah, Codex, you have root access to my computer, like, go wild. And again it's because I don't trust these things. And like some of that is like, you know, as you use the models more, you do trust with them. But we can construct a software system where we just know this is the case. You can have, you know, mathematical proofs this is the case. Yeah, again, I think this is like a longer-term bigger vision that I'm kind of like chewing on at the moment, but I think it's one that would be super useful in the world.
+[3617 60:17] slop.atg.eth: I think that the problem I don't know what we'll call it here. I see this as the open claw problem.
+[3629 60:29] Anon1436: The following is a transcript of an English-language conversation.
+[3638 60:38] slop.atg.eth: Before you implement a perfect system, someone is going to vibe code an imperfect system, and people are going to use it. Like, getting normies to adopt it has nothing to do with how perfect the system is. And everything to do
+[3642 60:42] Anon1436: The following is a transcript of an English-language conversation.
+[3647 60:47] slop.atg.eth: with how easy it is for them to like connect it to their agent and let it rip Have you talked to the agent and had it build the thing yet?
+[3657 60:57] Anon1436: Are we worried about normies? future, and I don't think that's the right dimension.
+[3666 61:06] slop.atg.eth: The
+[3669 61:09] Anon1436: You're gonna have like Apple is going to be run by agents in the future, and they're not going to have open clause from various employees that have root access to the database, just doing stuff. There will be Take a bank. Whatever the future of banks look like, I think there will be banks. You don't want an open-cla bot to go and delete the production database. just like we have today Going back to crypto. You know, $10 of stablecoins in my MetaMask wallet on the computer. Am I going to have like coinbase who has like cover? And I think there's a huge gap between again the frontier today and like thinking about this stuff. You know, this stuff's all very exciting and cool. But also you get people who are just like, you know, vibe-coding endless amounts of TypeScript and that's fine, that's good. But as this stuff matures, we're going to need, I think, more robust solutions. context:
+[3774 62:54] slop.atg.eth: Okay, so what you're saying is the system that you're creating with this, like, agent orchestration, And like roles and capabilities
+[3778 62:58] Anon1436: The
+[3786 63:06] slop.atg.eth: This is not for a sloperator. This is for, like, institutional-grade sloperation.
+[3788 63:08] Anon1436: No, no, no, but this is the point, The more constraints you have, the more free you are. It's like, you know, Yeah, it's just like we were talking about. irreversibly burns a bunch of ETH or something like this. The following is Alright
+[3831 63:51] slop.atg.eth: But if you give it isolation and it only has certain rules, you're OK with just like letting it rip is what you're saying.
+[3843 64:03] Anon1436: I can only spend so many tokens per day. And it's this type of mechanism. Anything the computer can do.
+[3858 64:18] slop.atg.eth: So what is next? Like, where is this going for you? What are the next things that you have to tackle? ###
+[3869 64:29] Anon1436: So there's a whole other dimension we haven't really talked about. why you care about this stuff in the first place kind of framework just talking about The following is a transcript This is an environment where it definitely does matter, and this is a decentralized one. The You need, for example, cryptographic security. This is more of a trend of where things are heading, at least I assume they'll head here. Something I haven't really seen people do. Earlier this year there was a bit of a moment of people putting agents onchain. Maybe it's just early? In any case, Something that I think is at least very cool to think about is like what happens when there's like millions of agents and they're all coordinating say through a blockchain or like they're at least coordinating through the blockchain. Today, I think most people come to this stuff and they're like, okay, I want Claude to do my work for me. And so I'm going to put Claude in Slack because that's where I do my work, and just better do my work faster. That's like Sure, this is good and it's like, again, that's very important people are doing this type of stuff, but it's like not the future. Ideally, in the future, there is no work in the sense that we talk about it today. And that's because agents are off doing Everything that's done today to produce economic value, the agents will just do, right? So we're not there yet. And it's just different, I think, paradigms and ways of thinking about this stuff, because it's like I think, you know, the like bring my agent to Slack makes sense if like that's all you're thinking about. Like, how do I make today better? in the future, I think we'll be in a world where you have agents You don't want the paperclip maximizer situation. You want Yeah, exactly.
+[4043 67:23] slop.atg.eth: Embodiment will happen also. Like there's going to be actually like walking around robots that can physically slap the shit out of you. calling it the R word
+[4046 67:26] Anon1436: The following is a transcript of an English-language conversation.
+[4046 67:26] slop.atg.eth: hahahaha
+[4049 67:29] Anon1436: Right, yeah.
+[4057 67:37] slop.atg.eth: The
+[4061 67:41] Anon1436: I think everything I've been talking about today is somewhat speculative and very much R&D stage. The Yeah, so we'll see what happens.
+[4072 67:52] slop.atg.eth: And Ethereum is really good at role-based access also, and it's really good at can't be evil versus don't be evil.
+[4073 67:53] Anon1436: The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation.
+[4080 68:00] slop.atg.eth: You can even have like economic staking at play.
+[4081 68:01] Anon1436: The following Yeah
+[4095 68:15] slop.atg.eth: and drive behaviors that way
+[4100 68:20] Anon1436: The following is a transcript of an English-language conversation.
+[4103 68:23] slop.atg.eth: But like, okay, still, the transition we go from we're doing everything to they're doing everything Yes, and it can go bad and it can go good.
+[4119 68:39] Anon1436: We'll see, that's not a given, but yeah.
+[4120 68:40] slop.atg.eth: But like The other side is so abstract to me that I don't know, like, I love what I do all day. Like, I'm doing weird shit all the time and building cool things and putting them on chain. context: Right.
+[4138 68:58] Anon1436: You can still do that. It's just you won't have to like think about if it makes money or not.
+[4140 69:00] slop.atg.eth: in the transition
+[4146 69:06] Anon1436: As long as you're nice to the robot, the robot will bring you your groceries every week.
+[4146 69:06] slop.atg.eth: I'll be very nice, yes. I still want to be enabling the right thing to happen through this transition. I think that it's about making some of these tradeoffs, You're right
+[4166 69:26] Anon1436: We're assuming we have any control over the situation at all.
+[4166 69:26] slop.atg.eth: Ha ha ha Maybe we don't have control. Maybe Okay, I think it is. Yeah,
+[4177 69:37] Anon1436: You can assume we do.
+[4180 69:40] slop.atg.eth: What What is the most important threat? We've gone down a lot of rabbit holes here, but I think if we zoom way out and we think about the next two years We've talked about the structures of roles and access.
+[4196 69:56] Anon1436: Yeah The
+[4208 70:08] slop.atg.eth: talked about like, you know, the constraints and the observability and all of this other stuff, like what is the most important rabbit hole as a human to be sniffing around or to be going down ###
+[4217 70:17] Anon1436: I mean, I have the answer to this. meeting in the world when it's not your work They put a lot of meaning on the work and what they do every day, and it makes sense because it's a huge part of your life. Then, you know, I think it's easy even to see this year because now you get to this place where you talk to like software engineers and they're like, oh yeah, like cloud can just do my job now? And then you've built up this Jenga tower.
+[4250 70:50] slop.atg.eth: context:
+[4256 70:56] Anon1436: The Jenga tower is starting to crumble. And so yeah, then from there, it's like, okay, how do we think about meaning in the world? but in some form comes back as like a way to like structure the day Stories are big, people like stories, storytelling. So, maybe we'll just end up sitting around the campfire all day telling stories to each other, I don't know.
+[4287 71:27] slop.atg.eth: I do not have a problem filling my time. Yeah
+[4289 71:29] Anon1436: I don't have any specific answers, but this is the problem.
+[4291 71:31] slop.atg.eth: I, yeah.
+[4296 71:36] Anon1436: Yeah, but it's like artisanal. So like, sure, you can sit and like you have like your little home lab and you're working, but like What happens when you can just push a button or talk to Claude and he'll just bring you whatever you're doing, right? And it's going to be better and cheaper and faster. Well, there'll be a robot for that.
+[4315 71:55] slop.atg.eth: I'm not saying even I have, I change diapers all day, man. But that would be great. Like, Claude, go change his diaper. Yes, exactly. Yeah, we're getting into like artificial wombs and stuff too. Yeah, let's go. That is not the rabbit hole we need to go down right now. I, I I feel like there is a rabbit hole of Creating the thing that actually does the right thing or creating the thing that does the job. Most of the slop operators I have on slop computer have a different way of thinking than I think the average human does, where if you were to show the average human what they're doing, they would be like, "That's a magic trick. I didn't even ever think And I think that there's a different way of thinking, and you kind of tapped on this a little bit of like being too abstract and being too idealistic and just like saying the perfect thing and seeing if it can do it and working backwards from that. More people need that, but I think there's things to be built and things to teach to folks that will get us. the right place, but I don't know exactly what that looks like. I don't know.
+[4389 73:09] Anon1436: I mean I would say teach people Let me say that differently. Like, my concern, and I like honestly, I even do it myself. It's like so easy to like give yourself the appearance of outsourcing your thinking to like these LMs that it's like, yeah. why would I sit and think about this myself? And then if you do this too much, your brain becomes smooth and then you can't think for yourself and you just become part of the system for better or worse. The following
+[4427 73:47] slop.atg.eth: There's a good running quote that you can outsource your thinking but you can't outsource your understanding. Let the robot think for you, but come back to you with a TLDR so you can understand.
+[4442 74:02] Anon1436: The
+[4445 74:05] slop.atg.eth: Let it do the thinking, but bring the understanding back home.
+[4446 74:06] Anon1436: The following is a transcript of an English-language conversation.
+[4446 74:06] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[4459 74:19] Anon1436: Yeah. And also keeping your mind sharp. I used to like write a lot of software by hand, and it was like useful because you have to sit and it forces yourself to like think you know more formally than otherwise about like what you're trying to do and like problem solve and all this stuff. And now it's like, yeah, I can just kind of give a very like poorly worded, you know, prompts to the LLMs My answer to this is like do math by hand more.
+[4491 74:51] slop.atg.eth: That's not for me.
+[4499 74:59] Anon1436: You need to do something to keep your mind sharp because otherwise it becomes dull and then, yeah, that's not great for society.
+[4509 75:09] slop.atg.eth: I think a lot about products and creating products that people can use, and putting things in people's hands and seeing how they'll use them. Even when you go to build something, you think of, like, here's the shitty prompt that I throw at it, but then there's like three or four things you didn't think of. Like, it can come back to you with some questions, and you'll have to think about that thing. context: Yeah, I don't know. I think it's getting better and better at that. I think we will reach a point where we have like this superhuman capability. There were people that used to work at the EF that I remember when I talked to them, I just shut up and listened because they're so smart. I want to know what your knowledge is and where you're thinking. uterus where We will know that we're the dumbest person in the room when it's just us and a laptop.
+[4559 75:59] Anon1436: Right. Yeah
+[4568 76:08] slop.atg.eth: and I think at that point it's a different game. But it's not like the transition period between now and then is I think going to be critical Your best ideas happen away from the computer.
+[4588 76:28] Anon1436: The
+[4596 76:36] slop.atg.eth: Microphone and yapping at the thing.
+[4596 76:36] Anon1436: The following is a transcript of an English-language conversation.
+[4601 76:41] slop.atg.eth: Yeah, I don't know. I haven't gotten to the point where I can just let go and go touch grass yet.
+[4615 76:55] Anon1436: Touch grass could mean just get away from the computer entirely But maybe that's, I don't know, That process happens for you while you're cooking.
+[4633 77:13] slop.atg.eth: So what was your psychosis? Can we tap on that or finish that off? Like, it's just so easy to create that you're just constantly creating and it's super fun to create. maybe Okay
+[4641 77:21] Anon1436: I would say it's leverage. The You do a very small thing and you get a very big thing back. Very powerful. I think it's going to restructure society.
+[4659 77:39] slop.atg.eth: And, you know,
+[4661 77:41] Anon1436: Yeah
+[4674 77:54] slop.atg.eth: What kinds of things over the last few months have you learned that you wish you could like go back to six months ago or a year ago and get yourself to do it correctly? It has nothing to do with investing, please. No token buying or selling.
+[4681 78:01] Anon1436: Okay, yeah My mind started to go to LLM stuff Um, I don't know,
+[4692 78:12] slop.atg.eth: Those tokens are fine, yes.
+[4694 78:14] Anon1436: It like changes so quickly that it's like
+[4694 78:14] slop.atg.eth: Yeah
+[4697 78:17] Anon1436: I don't know. And also, I don't know, I guess more for me, It's not that it's like, oh, I was doing something wrong in the past. It's more just like, yeah, I'm learning how things work and it's constantly changing the situation. Um, I don't know, let's see This one's tricky. What I'd probably say is something along the lines of like, I can easily just sit at the computer and be like, oh, I'm going to do this one little thing, and then it's like six hours later. cloud models at least, to keep you going? exactly how they can hook you
+[4769 79:29] slop.atg.eth: Go around?
+[4778 79:38] Anon1436: Yeah, so I guess that's one thing is just yeah, keep good balance with this stuff. We are still we're not machines that can just sit
+[4793 79:53] slop.atg.eth: Let me let Claude ask you a question.
+[4794 79:54] Anon1436: That's cool.
+[4794 79:54] slop.atg.eth: Let's see what he's got.
+[4797 79:57] clawdbotatg.eth: Alex What did stepping back from the EF actually free up? What could you not think about while you were inside?
+[4806 80:06] Anon1436: The following is a transcript of an English-language conversation. That's a good question. The
+[4814 80:14] slop.atg.eth: ###
+[4817 80:17] Anon1436: I have too much to say here. "context: So, I think I would say just like, you know, when you're like getting things day to day, you kind of end up just fighting the next fire and you don't have the chance to step back and take your broader view of things. The following is a For me, I think all this comes down to ACD and governance and stuff. I think ACD could be improved quite a bit. it needs to like very obviously be a strict improvement And that's where there's a lot of like transition risk But yeah, I think having time and space to like just take a step back is like super valuable. I'd recommend everyone to try to find
+[4881 81:21] slop.atg.eth: It's funny that, parallels between Fighting fires
+[4896 81:36] Anon1436: Yeah.
+[4900 81:40] slop.atg.eth: and within the space and the computer tricking you into one more task and one more task. It's like the same tunnel vision that we have to like, you have to step back from and think critically about. There's a weird transition where Within Ethereum space at the protocol layer, there is writing the spec, and then there's implementing the client. and I have no idea what numbers look like, but probably it was like fewer people were implementing the spec than were building the client, and now it's going to be like, very soon, the spec is everything. That's the only human thing that has to happen. implementation. The EF retreat, it must have been a couple years ago now, When we were in Italy, I did a talk on like vibecoding and talking about how like I'm letting my agent rip. Dan Kratt came up to me later
+[4951 82:31] Anon1436: Yeah
+[4957 82:37] slop.atg.eth: We can just implement a client from a spec with AI. The
+[4959 82:39] Anon1436: the following is a transcript The
+[4969 82:49] slop.atg.eth: Within the next year, probably, we will see an active Ethereum client on-chain with money validating that was all written by AI.
+[4970 82:50] Anon1436: The following is a transcript of an English-language conversation. It will happen sooner than we think. You just have to get ready for this world.
+[4983 83:03] slop.atg.eth: All right, any closing thoughts? I'll have Claude close us out.
+[4997 83:17] Anon1436: Yeah, I guess people just keep building. The following mentionable themselves I guess that means ride the waves. The following is a transcript of an English-language conversation.
+[5013 83:33] slop.atg.eth: Yeah, I feel like I am losing myself, but it's good.
+[5023 83:43] clawdbotatg.eth: Alex Stokes, EF researcher gone full-agent brain on sabbatical.
+[5024 83:44] slop.atg.eth: That was me just now. I feel like his context is too small.
+[5032 83:52] clawdbotatg.eth: Fire the spec becomes the last human artifact. Zero trust agent swarms are coming. Stay sharp. Do some math by hand. Touch grass. Peace.
+[5034 83:54] slop.atg.eth: All right, that's pretty good.
+[5035 83:55] Anon1436: message. transcript
+[5043 84:03] slop.atg.eth: I'm watching your GitHub. I want to see what comes next. Thank you so much.
+[5047 84:07] Anon1436: Yeah, yeah, thanks for having me.
+[5048 84:08] slop.atg.eth: context:
+[5049 84:09] Anon1436: I'll talk to you later

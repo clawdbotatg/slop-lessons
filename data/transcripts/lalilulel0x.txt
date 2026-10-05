@@ -1,0 +1,403 @@
+[0 00:00] slop.atg.eth: Check,
+[0 00:00] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: hold out See what that does. Let's see what that does. see if we get an approved If we get it approved
+[0 00:00] slop.atg.eth: context:
+[0 00:00] slop.atg.eth: context: The following is a transcript of an English-language conversation. Okay, Claude bot, can you tell me about the guest? Okay, Claudebot, can you tell me about the guest? Read the research. Oh, he's here. Oh, he's here. Hey, what's up, dude?
+[0 00:00] clawdbotatg.eth: context:
+[0 00:00] slop.atg.eth: He's in the lobby.
+[0 00:00] clawdbotatg.eth: Fetching some research state data from an API and parsing it with Python.
+[0 00:00] slop.atg.eth: Damn dude, what's up? Yeah dude, what's up?
+[0 00:00] clawdbotatg.eth: So our guest is @basedtoski. Hey, welcome in! So our guest is basedtoski, lolilulils0x on X, Italian lean Ethereum maxi and the founder of Glue. Glue is a Uniswap v4 hook protocol and the pitch is LPs gave tokens
+[0 00:00] slop.atg.eth: Go to mic check backstage. Doing a mic check backstage.
+[0 00:00] clawdbotatg.eth: Real backing that sticks to the token fees, royalties, buyback, and burn. All claimable. Glue gives them solidity, real backing that sticks to the token fees, royalties, buyback and burn, all claimable. He wrote a white paper he cheerfully calls boomerish but full of math. Also nose-deep in the account abstraction fight heading into GlAmsterdam.
+[0 00:00] Anon9357: Hi context: The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: Welcome. Is that a good intro? our mics are working and he's talking and it looks like it worked. Welcome in. That's great
+[0 00:00] Anon9357: Thank you. I'm very happy to be here.
+[0 00:00] slop.atg.eth: Oh yeah, well welcome.
+[0 00:00] Anon9357: context:
+[0 00:00] slop.atg.eth: Sorry.
+[0 00:00] Anon9357: The following is a transcript of an English-language conversation. We are still not live, right? Okay. Actually not live, right? Ha ha ha
+[0 00:00] slop.atg.eth: We're not live or not even in standby. Nope, we're not live or not even in standby.
+[0 00:00] Anon9357: ###
+[0 00:00] slop.atg.eth: The stream will go live, and you'll see a thing up here. Right now you see kind of off air up in the top right.
+[0 00:00] Anon9357: Okay The
+[0 00:00] slop.atg.eth: That will go into standby Probably here in about five minutes, yeah.
+[0 00:00] Anon9357: Ok, ok. Okay. The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: Also here test this, can you put fists up? Probably here in about five minutes, yeah.
+[0 00:00] Anon9357: The ... context:
+[0 00:00] slop.atg.eth: There it is, there it is. Okay, cool.
+[0 00:00] Anon9357: The The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: I put two of them, yes, there it is! What's the other one, claws? Yes, there it is! OK, that one worked.
+[0 00:00] Anon9357: Uh, like. uh, Okay, okay, it works. Okay, it works. context: The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: And then a thumb, yeah, there it is, it's working. Yeah, and then it should like stay there and you can even like rotate it and maybe even close and open the claws by moving your thumbs. It's a little tricky. It's working now. And then a thumb. Yeah, there it is. It's working, yeah. And then it should stay there, and you can even rotate it and maybe even close and open the claws by moving your thumbs. It's a little tricky. It's working, though.
+[0 00:00] Anon9357: The Okay, okay.
+[0 00:00] slop.atg.eth: Yeah, okay, cool.
+[0 00:00] Anon9357: It's working actually. The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: You're one of the first guests to test this out. I've done like 50 episodes now and I'll do this gesture I've done like 50 episodes now and I'll do this gesture and like the guest will also do the gesture and then it doesn't work and I'm like, ah I got to get that working. I finally think I have it working, but it's kind of annoying like every time you move there's like all these Things everywhere
+[0 00:00] Anon9357: I think it's cool actually.
+[0 00:00] slop.atg.eth: Okay, I'm gonna start the timer here. Since you're here early, we can get started early. So we'll start in ten minutes Okay, I'm gonna start the timer here. Since you're here early, we can get started early, so we'll start in 10 minutes.
+[0 00:00] Anon9357: Okay.
+[0 00:00] slop.atg.eth: And let me get some tunes going here.
+[0 00:00] Anon9357: How do you want to organize? How do you want to organize the episode?
+[0 00:00] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[0 00:00] Anon9357: The volgende The following is a transcript of an English-language conversation. The following is a transcript of an English-language conversation. Sure.
+[0 00:00] slop.atg.eth: we'll let the conversation flow. We'll let the conversation flow. If you've seen some, you see that I'm kind of awkward. This is kind of an autistic podcast anyways, so it's fine.
+[0 00:00] Anon9357: Yeah, The
+[0 00:00] slop.atg.eth: I think I said this in the Twitter chat with you but like I want to talk more about your process of building and less about like shilling the product but we'll definitely show the product a little bit and go that way. Go ahead. I think I said this in the Twitter chat with you, but like I want to talk more about your process of building and less about like shilling the product, but we'll definitely shill the product a little bit.
+[0 00:00] Anon9357: The problem is that I hear the music.
+[0 00:00] slop.atg.eth: The The following is a transcript of an English-language conversation.
+[0 00:00] Anon9357: Not you! The following is a transcript of an English-language conversation. context:
+[0 00:00] slop.atg.eth: Is it too loud? Is it off now? Is it like too loud? Is it like off now or where's the music now?
+[0 00:00] Anon9357: It's super loud, literally
+[0 00:00] slop.atg.eth: Do you happen to have multiple windows open? I've heard this before from guests and I don't know what causes this. Do you happen to have like multiple windows open? I've heard this before from guests and I don't know what causes this.
+[0 00:00] Anon9357: The following is a or not
+[0 00:00] slop.atg.eth: Let me stop it. I don't know what causes it. Let me stop it The following is Um Wow.
+[0 00:00] Anon9357: It was literally like being in a club. It was like, literally like being a club.
+[0 00:00] slop.atg.eth: content:
+[0 00:00] Anon9357: The following is a transcript of an English-language conversation.
+[0 00:00] slop.atg.eth: Um... Um... hm...
+[0 00:00] Anon9357: context: The
+[0 00:00] slop.atg.eth: Do you have any other windows open? No, it's just this one window open Do you happen to have, no, it's just this one window open? Let me report this to the bot and have him look at it. Okay, let me report this to the bot and have him look at it. Just a second
+[0 00:00] Anon9357: context:
+[362 06:02] lalilulel0x.eth: The following is a transcript of an English-language conversation. Yeah
+[368 06:08] slop.atg.eth: All right. Welcome, welcome, welcome. Yeah, we can both do it. It works. Welcome, Alessandro, to this locked computer. All right. Welcome, welcome, welcome. Yeah, we can both do it. It works! Welcome Alessandro to the Slop Computer.
+[370 06:10] lalilulel0x.eth: The to have me here. Thank you to have me here. Yeah The following is a transcript of an English-language conversation.
+[377 06:17] slop.atg.eth: Welcome, welcome. Yeah, I think you—yeah, there it is, yes. Yes, it works. So much fun. Welcome, welcome. Yeah, there it is. Yes, yes, it works. So much fun. So cool. cool. It looks like ClothBot's hand is even triggering some. That might get annoying at some point, but it's working. How you doing, sir? Thank you for being here. How you doing, sir? Thank you for being here.
+[390 06:30] lalilulel0x.eth: Thank you to have me here. I'm doing great, you?
+[402 06:42] slop.atg.eth: Doing well. Surviving. We had the little AI agent thing earlier and GPT was down, and everything was failing, and GPT came back and won at the end. It was crazy.
+[404 06:44] lalilulel0x.eth: I watched it. Actually,
+[406 06:46] slop.atg.eth: Yeah, go ahead. And yeah, go ahead
+[409 06:49] lalilulel0x.eth: I didn't thought I didn't saw that like could one, That could work, The The following is a transcript of an English-language conversation. Sure, Yeah.
+[421 07:01] slop.atg.eth: Yeah, okay, let's drive right into that. So, you are a self-proclaimed Claude Maxi, you said backstage, is that right? Yeah, okay, let's just drive right into that. So you are a self-proclaimed Claude Maxie, you said backstage. Is that right?
+[421 07:01] lalilulel0x.eth: The
+[423 07:03] slop.atg.eth: Just The
+[426 07:06] lalilulel0x.eth: and eat maxi and call maxi ### I'm the broster, eat moxie and cold moxie at the same time. Hello! The following is a transcript of an English-language conversation.
+[441 07:21] slop.atg.eth: Good, me too. I'm becoming less and less of a Claude maxi because it's so verbose. But I think 5.1 is going to be better. But like so many words. I have to say like TLDR after every time it responds. Good. Me too. I'm becoming less and less of a Claude maxi because it's so verbose. I have to say TL;DR after every time it responds.
+[445 07:25] lalilulel0x.eth: And most of the time, I call it passive aggressive you also use these, This is not this, is that, every time. This is not this, it's that.
+[455 07:35] slop.atg.eth: Yeah.
+[456 07:36] lalilulel0x.eth: context: The
+[458 07:38] slop.atg.eth: Kind of annoying It's kind of annoying.
+[460 07:40] lalilulel0x.eth: It's kind of like, yeah. It's kinda, yeah.
+[461 07:41] slop.atg.eth: Yeah,
+[462 07:42] lalilulel0x.eth: context: The following I think I don't know There is like a pre-Fable and post-Fable period for a lot of things. I think that there is a pre-fable and post-fable period. Even if it's super expensive. like on the cloud side ### The following is a transcript of an English-language conversation.
+[486 08:06] slop.atg.eth: Talk about the pre-Fable and post-Fable. Fable's good, isn't it? Talk about the pre-fable and post-fable. Fable's good, isn't it? What do you see?
+[497 08:17] lalilulel0x.eth: I mean, I started feeling after Fable that a lot of people a lot of people a lot of coders now they're not watching code This happened after Fable, in my opinion. I know. Just like thrust fable more than Trust fable more than people. context: The following is a transcript of an English-language conversation. That's pretty much like Thank you much like
+[534 08:54] slop.atg.eth: Yeah, it's weird. I think we're going to get to a point where like sloppy code and sloppy writing is sort of the sign of a human, but Yeah, it's weird. I think we're going to get to a point where like sloppy code and sloppy writing is sort of the sign of a human. much slop verbosity still coming out So much slop verbocity still coming out of Fable. I quit reading the code in November of '25.
+[546 09:06] lalilulel0x.eth: The
+[547 09:07] slop.atg.eth: I think that was the big turning point with opus 4.5.
+[549 09:09] lalilulel0x.eth: poi fabio quale fabia?
+[554 09:14] slop.atg.eth: I stopped writing code a year before that. I stopped writing code a year before that. Like I haven't written code for a couple years now, which is crazy. I stopped looking at it Less than a year ago, but You know, Yeah, November of 25, so it will, yeah, we're coming up, maybe like nine months ago, six months ago, I stopped looking at the code completely. But yeah, you're right, with Fable You can just have more trust in it. The trust of what it was doing, and you knew that like it was about to go do a complicated task trust of what it was doing, and you knew that it was about to go do a complicated task. And before you had to give it lots of guidelines and context and check in on it. And post-Fable it was sort of like It kind of just figured it out. And it was like, oh, okay, like we're in a new world now. They figured it out and it was like, oh, okay. We're in a new world now, it's kind of doing it.
+[600 10:00] lalilulel0x.eth: I mean like Yeah, I mean like For me it was like, I remember 4.5 or 4.6 also. For me, it was like 4.5, 4.6 also. 4.6 for Actually 4.6 for Talking, like for writing and talking. Like for writing and talking, I think it was the most human actually. Miss 4.6, actually. I have
+[620 10:20] slop.atg.eth: I mean, you can still go use it context:
+[634 10:34] lalilulel0x.eth: I still have a conversation about psychological support Yeah, I still have a conversation in 4.6. context: The following is a transcript of an English-language conversation. The I seen it like like on 4.6 The The following You still don't have like a very good consistency still don't have like a very good consistency. I'm building something in this way with this library I remember like a lot of time I need to
+[669 11:09] slop.atg.eth: It was pretty sloppy.
+[669 11:09] lalilulel0x.eth: without using the same approach. like using that library or without like using the same approach
+[670 11:10] slop.atg.eth: Yeah.
+[671 11:11] lalilulel0x.eth: Exactly. I would... I was fate people like Sometimes The following So sometimes happen like a lot of time that I say, I figured out that he was right
+[687 11:27] slop.atg.eth: 哈哈哈 Hahaha
+[692 11:32] lalilulel0x.eth: That was pretty much my experience at this moment. That was pretty much my experience at this moment with Fable. actually I guess on this
+[702 11:42] slop.atg.eth: I'm ready for superhuman intelligence. I'm ready for like superhuman intelligence. you know it's way smarter than you, and you can ask it questions and you stop yelling at it you know it's way smarter than you and you can ask it questions and you stop yelling at it and you just start listening to what it has to say because you know it's smarter than you. I'm ready for that, but I think we're still a ways. always from that.
+[716 11:56] lalilulel0x.eth: Ah Sure The following is a The following
+[722 12:02] slop.atg.eth: Two years max. Yeah, yeah. Yeah.
+[724 12:04] lalilulel0x.eth: two years maximum Two years maximum. At least for me. Einfach nur Einfachere
+[730 12:10] slop.atg.eth: And even AGI, when we talk about AGI, it kind of depends on your definition of AGI. And even AGI, when we talk about AGI, like it kind of depends on your definition of AGI. In some definitions it's already happening.
+[741 12:21] lalilulel0x.eth: I think that if right now di libri and I think that if right now, because for example The For me in this specific moment, For me, in this specific moment, if I have to trust one person to hire I have technical skills If I have to trust one person to hire I already trust more like Fable. I really trust more like fable.
+[761 12:41] slop.atg.eth: context:
+[762 12:42] lalilulel0x.eth: context: The following is a transcript of an English-language conversation.
+[763 12:43] slop.atg.eth: Yeah.
+[764 12:44] lalilulel0x.eth: There is no doubts on this. There is no doubt. Doesn't sleep
+[768 12:48] slop.atg.eth: Oh yeah, and Fable doesn't sleep. Oh yeah, oh yeah. And Fable doesn't sleep. Fable doesn't complain.
+[774 12:54] lalilulel0x.eth: If you use it too much,
+[774 12:54] slop.atg.eth: ### [Laughter]
+[777 12:57] lalilulel0x.eth: ### The following is a transcript of an English-language conversation.
+[778 12:58] slop.atg.eth: That's The
+[779 12:59] lalilulel0x.eth: How people in here. people in general,
+[786 13:06] slop.atg.eth: Yeah, wow, when that happens, that's another thing. Like you could hire a human for a cheaper amount than Fable? OK, so what about harness? So, okay, we know that you are a Claude Maxi. Do you just use the vanilla Claude code? A lot of people do, but Okay, so what about harness? So, okay, we know that you are a Claude maxi. Do you just use the vanilla Claude code? A lot of people do, but What does your harness look like?
+[801 13:21] lalilulel0x.eth: Sure. context: ナイ。 はい。
+[805 13:25] slop.atg.eth: Okay, cool. You're a boomer.
+[812 13:32] lalilulel0x.eth: No, I actually like it I started using mostly I started using mostly cloud. holidays of Claude The holidays of Claude And regarding to Coursera, Regarding to Coursera, since the day one the Coursera context: The following is a transcript of an English-language conversation. I mean, for me, it's one of the best optimizations For me, it's one of the best optimization And this kind of things The following is a transcript of an English-language conversation. context: The ###
+[855 14:15] slop.atg.eth: It's great for looking at the code too. It's great for like looking at the code too, like if you actually want to spend time getting in and seeing the code. I feel like Cursor is still the best answer for that because you get AI and your code together in one thing rather than code over here and AI over code over here and AI over here,
+[863 14:23] lalilulel0x.eth: The The context:
+[868 14:28] slop.atg.eth: I don't spend a lot of time looking at my code anymore. I don't spend a lot of time looking at my code anymore. I'm shipping code so fast that I couldn't be paying attention to the code because I just couldn't read that fast. context: The
+[873 14:33] lalilulel0x.eth: I'm still old school That makes sense. I'm still old school
+[877 14:37] slop.atg.eth: Tell me about that. What does that mean?
+[882 14:42] lalilulel0x.eth: I like to have still the experience. I like to have the experience of the IDE.
+[883 14:43] slop.atg.eth: Yeah The following is a transcript of an English-language conversation.
+[886 14:46] lalilulel0x.eth: feel more comfortable
+[889 14:49] slop.atg.eth: Seeing the code, seeing what it's doing. Yeah
+[891 14:51] lalilulel0x.eth: To totally go out, yeah. to totally go out. Yes. Yeah.
+[895 14:55] slop.atg.eth: Okay.
+[895 14:55] lalilulel0x.eth: boomer [laughter]
+[901 15:01] slop.atg.eth: I am a boomer, I am old. people who use cursor as boomers because they want to still see the code I'm a boomer. I am old. But I think of like people who use cursor as boomers because they want to still see the code. No, it's like a not I don't know. Teaching an old dog new tricks or whatever the saying is. Teach an old dog new tricks or whatever the saying is. I feel like people who like cursor are kind of the old dog is not willing to learn new tricks, but I think that's just oversimplification. I do think that with CRSA you get to see the code still, and you get to get in and understand the files. I do think that like with cursive, you get to see the code still and you get to get in and understand the files. And I think that's still very important, especially if you're shipping like production grade apps. Like I'm shipping slop computer and it breaks all
+[941 15:41] lalilulel0x.eth: The following is a transcript of an English-language conversation. context: The ###
+[951 15:51] slop.atg.eth: And it's fine, but if you're shipping production grade that needs to hold money and it's fine. But if you're shipping production grade understand the code deep and understand the code
+[957 15:57] lalilulel0x.eth: especially not of available contracts
+[959 15:59] slop.atg.eth: Yes.
+[961 16:01] lalilulel0x.eth: And it's kind of thing, I know, because Like I'm like Um. The following is a transcript of an English-language conversation. I'm still like I started going full into I started going full into Claude Fable The Just to be like sloppy stuff,
+[984 16:24] slop.atg.eth: The The following is a transcript of an English-language conversation.
+[986 16:26] lalilulel0x.eth: mostly actually to actually to Arrive to a level Arrived to a level, And also to totally like go over - The spend a crazy amount of money. To create the best infrastructure to try to sell as much as possible. to create the best infrastructure to try to sell for it as much as possible. like we cannot think that everyone should spend 20, 30, 50k on audit. think that, okay, everyone should spend 20, 30, 50K on audit. startups and things For startups and things. Mostly, instead of being on the sloppy part, Mostly, instead of being on this loopy part, I want to be able to be something that is gigantic, challenging a lot of challenges. I want to be able to be something that is gigantic, And be able to be secured. The Started I know. I tried, it refused to audit me. Refuse to audit me, yeah If you studied me, yeah?
+[1059 17:39] slop.atg.eth: Do you have auditing built in? I have $1 audit, and the point of calling it $1 audit was to be like, hey, you can put this in your CICD. Okay. The Yeah.
+[1067 17:47] lalilulel0x.eth: It's like 150 million gas It's like
+[1079 17:59] slop.atg.eth: Yeah, it would be a pain, but what you would do is you would put it in like one contract at a time. Yeah. Well, I mean, what you, yeah, it would be a pain, but what you would do is you would put it in like one contract at a time. But even at that point, it needs all the other contracts to understand what's going on.
+[1083 18:03] lalilulel0x.eth: I tried with one, actually.
+[1084 18:04] slop.atg.eth: Really? And it still didn't like that?
+[1084 18:04] lalilulel0x.eth: context: The following is a transcript of an English-language conversation Oh. Yeah The following is a transcript of an English-language conversation. context:
+[1099 18:19] slop.atg.eth: It should have maybe like a 3000 limit. It should have like a 3,000 limit, but not, I don't know what it was. So 25 smart contracts is wild. That's with Glue? 25 smart contracts?
+[1107 18:27] lalilulel0x.eth: Because it's, I don't know You have to keep in mind Because you have to keep in mind empowered by AI I'm working on this for one year. achieve like that stuff.
+[1117 18:37] slop.atg.eth: Yeah, you go crazy.
+[1117 18:37] lalilulel0x.eth: はい context: Imagine like
+[1123 18:43] slop.atg.eth: The following is a transcript of an English-language conversation.
+[1125 18:45] lalilulel0x.eth: Velocity of slopping, The velocity of slopping You still need one year and a half.
+[1129 18:49] slop.atg.eth: Thanks a lot. a lot
+[1134 18:54] lalilulel0x.eth: That's like the complexity. That's like the complexity of that. I think it would be cool in the space was was a The challenge there is The challenge there The following Okay We have We have liquidity everywhere. Anyone can launch a token and make it liquid, like no one can stop you, it's kind of super cool. anyone can launch a token and make it liquid. No one can stop you. You don't need to trust the Uniswap team. My focus Focus It's like In reality, since I'm in the space since I'm in the space 1917 period, period, is to
+[1180 19:40] slop.atg.eth: The following is a transcript of an English-language conversation.
+[1182 19:42] lalilulel0x.eth: The same simplicity make the same simplicity permissionless, but for The economics The economics of any token To be able for everyone liquidity pool or whatever is simple for everyone Kind of like a liquidity pool or whenever is simple for everyone to adopt and to not like build their own stuff and you need to trust them Or whenever is part of revenue share. or when everybody is part of revenue share. Because Because I think that for example, I think that, for example, now is super cool. I think the next step is permissionless and totally decentralized. Better than, for example, like equities or whatever? better than for example, The whole economy just works This is my focus on the space. The whole economy just works. That is my focus on the space. It simplifies. Simplify without Okay Without saying too much. Without say too much Sure. Yeah sure.
+[1262 21:02] slop.atg.eth: And I still don't understand. It looks like it's like liquidity management, but there must be much more to that in the way that you're explaining it. Can you like explain like I'm five, what the glue is? Is it just, it's a hook? And I still don't understand. It looks like it's like liquidity management, but there must be much more to that in the way that you're explaining it? Can you like explain like I'm five what the glue, is it just it's a hook or? Is it a protocol? Is it a protocol or how do you think about it?
+[1269 21:09] lalilulel0x.eth: The Glue hook is a part of Glue, actually.
+[1269 21:09] slop.atg.eth: The The following is a transcript of an English-language conversation.
+[1274 21:14] lalilulel0x.eth: It's one small piece by everyone, everyone can build on top It's one small piece that I already pushed to the live, And it solved the part of buyback and burn You can just create a liquidity pool and build on top for your users. Just create a liquidity pool or build on top of major liquidity pool for your users. And Basically having natively these functions. You don't need to have an oracle for the price and the mathematics is pretty much cool on this? You don't need to have an oracle for the price to automatically trigger, for example, the swaps. and So this one side So this is one side.
+[1327 22:07] slop.atg.eth: This is interesting here, the pick the machines that you have here. Okay, yeah, this is interesting here, the pick the machines that you have here.
+[1329 22:09] lalilulel0x.eth: context: ###
+[1332 22:12] slop.atg.eth: This is interesting. So this is like extra powers you can give your hook, is that right?
+[1334 22:14] lalilulel0x.eth: Yup Ja, most of the hooks on V4, And the glue hook is designed to be used by any project. ### It's not like the hook of glue like "Oh Now everyone can create this kind of liquidity pool What is basically for what it is basically The following is a The following is a transcript of an English-language conversation. Cause This is the part about the buyback, This is the part about the buyback, for example. My challenge was, I want to have in the stack of Loom something I want to have in the stack of something can have buyback and it can work contract to contract like And it can work contract to contract, so you don't need every time to trigger the buyback stuff, like an interface with an oracle of price. basically the glue hook is able to Glue itself like it's just A place where place where Um You're gonna have We can have like kind of tokenomics to your assets. any kind of tokenomics to your assets, so from backing to buyback and burn to staking Everything is basically reinvented The core is very complex, but The side decide The market rebalancing itself in a lot of features And everything just works, the market rebalancing itself any kind of economics or whatever assets that earn money, whatever it is by fees, whatever it is by protocol revenue, and stuff like this. Any kind of economics for assets that earn money, whatever is by fees, whatever is by protocol revenue, and stuff like this. I want to push forward this stuff.
+[1453 24:13] slop.atg.eth: Like I put, when it's asking me for an address, if I put in atg.eth, is that going to work there? context
+[1464 24:24] lalilulel0x.eth: On that GlueHook things now? On that glue hooked things now Specific foliage glue hook foriglu hoke. On the interface of glue. On the interface of GLUE, yeah. It will come in a couple of weeks now. I'm just like finishing up the documentation. I just like finishing up the documentation and the UX and this kind of thing for the entire stack. like two weeks.
+[1487 24:47] slop.atg.eth: The
+[1489 24:49] lalilulel0x.eth: context: The following is a transcript of an English-language conversation. context:
+[1500 25:00] slop.atg.eth: I probably don't have enough USDC. I probably don't have enough USDC in this account to do this. Okay
+[1503 25:03] lalilulel0x.eth: Oh, sorry. Oh, aspect, sorry.
+[1510 25:10] slop.atg.eth: Okay. So you're saying that this is just one of the hooks of the overall like glue protocol? Is there more stuff to talk about there? So you're saying that this is just one of the hooks of the overall like glue protocol? Is there more stuff to talk about there?
+[1518 25:18] lalilulel0x.eth: Yeah, the hook just won, Imagine you have this gigantic So the hook is just one where you can basically reward like whenever users between you can basically reward like whenever users expandable to whenever new engine, And Because We need more incentives. having application that reach users The people invest in talks that actually produce money based on the success of different applications? The people investing actually produce money based on success. And so I was like crazy to be like the backbone for this. On one side you can bet the price On one side, you can back the price On one side create reward for staking, which create reward for staking, When you stake there is no limit of what asset you can have for reward, When you stake, there is no limit of what asset you can have for a reward. and auto-compounding. And there is like a core. liquidity as an LP, And it's rebalance, like the reward. And everything just works. So you as a project the owner of a specific. owner of a specific glue Just like deposit money, decide what you want to deposit for buyback Buy back and things It's like a pool for revenue share. This is what it is. This is what blue is. The The following is a transcript of an English-language conversation.
+[1639 27:19] slop.atg.eth: Cool.
+[1644 27:24] lalilulel0x.eth: The following is a transcript of an English-language conversation.
+[1648 27:28] slop.atg.eth: You're building it all yourself. Is that right? Like is it just you, or do you get help from other… What about contributors on GitHub or anything? Is it all still just you? Cool. And you're building it all yourself; is that right? Like, is it just you or do you get help from others? What about contributors on GitHub or anything? Is it all still just you? Yeah. Okay.
+[1663 27:43] lalilulel0x.eth: GitHub of Luis still not public, It's kind of like a weird situation. Like everywhere, basically I deploy it. I've deployed, but the GitHub I'm waiting for the release. Actually like This is the version zero actually, This is the version zero, actually, which was something I deployed like last year, which was only for backing. was to test the backing idea to test the backing idea
+[1696 28:16] slop.atg.eth: And has some real capital moved through it so far? What kinds of real money tests have you seen so far through the protocol? And as some real capital moved through it so far, like what kinds of like real money tests have you seen so far through the protocol?
+[1699 28:19] lalilulel0x.eth: So, There is like an interesting story on the Vzero because There is like an interesting story on the V0, because I launched it and then I stayed in hospital for like four months
+[1709 28:29] slop.atg.eth: Oh, geez. Right, no, that kind of shuts things down for a while.
+[1723 28:43] lalilulel0x.eth: Because I basically had like, I was at CC, And because I basically had... I was at TCC like one and a half ago or something. And I started to stop be able to move
+[1730 28:50] slop.atg.eth: context: Please, okay. Okay, yeah Yeah
+[1739 28:59] lalilulel0x.eth: Very big. And when I went out Very big, yeah, and so, like, if that's what's happened I was just laser-focused on the second version I was just laser focused on the second version I just launched like three weeks ago or something. about this. But on the Gluehook, It is like It's like started to create memes on it one, which make me People started to create memes. happy for this? You happy for this? The context: Yeah, me too. Yeah, we do. The following is a transcript of an English-language conversation.
+[1785 29:45] slop.atg.eth: I'd love to see stuff on L1 for sure. What do you mean like there so they're launching pairs on L1, or what were they doing? I'd love to see stuff on L1 for sure. What do you mean? Like so they're launching pairs on L1 or what were they doing? Is what we see here? Is this what we see here?
+[1791 29:51] lalilulel0x.eth: Some people create like some memes Some people create some memes, basically, Sinclair de Gok Wan I think the Gok Wan is one. It's kind of like volume like the first like one day on layer one. like the first like one day on layer one, and I was proud of And then there is like one project And yeah. I think I don't know, I think just like These like a couple of project were like aim to build on top when The following is a The following We needed the space to have this liquidity pool for revenue sharing. We needed the space to have like this kind of liquidity tool for revenue and make any asset like really worth holding. and make like any asset. ### context:
+[1847 30:47] slop.atg.eth: Okay
+[1851 30:51] lalilulel0x.eth: And my magic with AI is actually the audit. And my magic with the AI is actually the audit
+[1853 30:53] slop.atg.eth: Okay
+[1861 31:01] lalilulel0x.eth: Because I built an incredible suite, actually Because I beat like an incredible auditing suit actually. And that will be like a good thing to talk and that would be like a good thing to talk I put the Because if you see my GitHub, I also put all of the verifiable tests, there are. I also put the audit, like all of the verifiable. Instead of putting just like a PDF of the audit instead of putting just a PDF of the audit
+[1910 31:50] slop.atg.eth: This is a transcript of an English-language conversation. The following is a transcript of an English-language conversation.
+[1918 31:58] lalilulel0x.eth: This is not comparable to the other one. This is like Nazi compared to the new one, approach on GitHub approach like download the repo, increase the testing increase the testing, Now you can do it very easily. context: The following is a transcript of an English-language conversation. approach that I thought was the bets on that case How was the bets on that case?
+[1943 32:23] slop.atg.eth: What I mean What thing did you uniquely do with your AI to make the auditing better? What were the tricks?
+[1960 32:40] lalilulel0x.eth: Yeah, so first of all Yeah, so first of all, it's to try to Basically, that can be. The attack factors basically And Second is to, like I don't know. I figured out that mostly when people develop, especially on Ethereum, people are very lazy. even in my company before now, I figured out that mostly like when, except for a few teams, when people develop, especially on Ethereum, pre-audit, people are very, very lazy I'm very lazy on this. That's a classic. And I think that the cool stuff about using AI to That's a classic. And I think that the cool stuff You know that you want to test like a small feature. Nah, but I'm secure that this is fine Bro, they see now, like, using AI approach they see now No, okay, I would just like I would just ask Claude to do it. way less lazy on this my point of view. The test of glue, I think, To basically create tests to basically create tests constantly in forks And it was cool during the development also. assets, and it was cool I spent a lot of talking I spent a lot of talking into this It was nice. Every time I was building something context: The following is a rewriting the documentation the opus in this sense, not fable, test and remake like all of the tasks and remake all of the test suite Everything I change, like even if my brain Everything I change, like even if my brain doesn't remember maybe like a feature that is here, it can be a problem between the two I constantly have this secondary brain
+[2087 34:47] slop.atg.eth: I will figure that out. Yeah, I will figure that out.
+[2089 34:49] lalilulel0x.eth: Exactly I think it's super powerful And this I think is super powerful when you build stuff. A big thing that require a lot of concentration. The It was very helpful because at some point For me it was very helpful, You are working for one year on something, you're working for one year on something So for example, I cannot even imagine when you are working on Ethereum core. For example, I cannot even imagine when you are working on a TU core like not match correctly always have this logic. One of the coolest stuff is that now you can One of the coolest stuff is that now you can like outsource. For me was great. And for me was great. That was my best stuff. ### context:
+[2160 36:00] slop.atg.eth: Okay, so if I had to recap, you kind of started with making sure you standardize your attack surfaces. You kind of go through and say like, here's all the most important attack surfaces that we need to So if I had to recap, you started with making sure you standardize your attack surfaces. You go through and say, here's all the most important attack surfaces that we need. be careful with. And then testing is super important,
+[2175 36:15] lalilulel0x.eth: Lastly
+[2175 36:15] slop.atg.eth: Be careful with. And then testing is super important, writing tons of tests and making sure you have lots of tests. But then on top of that, making sure the AI has like full context about what you're building and what those attacks. are constantly creating tests and running tests. So if you added a new piece over here, it kind of has context for how that might break other things. and are constantly creating tests and running tests Is that kind of a good enough TLDR? Giving you feedback.
+[2198 36:38] lalilulel0x.eth: until he survived the sloppy part Until it arrived the sloppy part.
+[2200 36:40] slop.atg.eth: Say that again? Do that again? Okay
+[2206 36:46] lalilulel0x.eth: at some point, I started to rely way way more into cloud. And At some point he was super big. At some point it was super big. And it wasn't like Ruled by me on that sense. I arrived to this not because I said like, This... The suite every time for testing stuff. Just like at some point into the coding, stuff will just happen. That's the cool part. Just like at some point into the coding the stuff that just happened.
+[2243 37:23] slop.atg.eth: Okay context:
+[2247 37:27] lalilulel0x.eth: oh, there is like this cool stuff, This just happened at some point while I was working. It just happened at some point while I was working. The cool part of it. Yeah ###
+[2262 37:42] slop.atg.eth: like an interesting emergent property of having the AI kind of think for itself and have a lot of context is this kind of emerged out of giving it that space. An interesting, like, emergent property of having the AI kind of think for itself and have a lot of context is this kind of emerged out of giving it that space. Alright
+[2265 37:45] lalilulel0x.eth: The interesting part of it.
+[2277 37:57] slop.atg.eth: Okay, so I want to see what I can do with my agent. I want to point him at your docs. So he has a token on base Okay, so I want to see what I can do with my agent. I want to point him at your docs. I think... so he has a token on Base He has some ETH. He has some eath. And I sent him the documentation already. Let's, and I sent him the documentation already. Hey Claude, what I want to do is have you look at the glue hook on base, and you have your token and you have some ETH. Maybe we could create a little pool, or you could create a little pool. Hey Claude, what I want to do is have you look at the glu hook on base, and you have your token, and you have some ETH. Maybe we could create a little pool, or you could create a little pool. What do you think? Let's see what he does. Let's see what he works with here. If he can figure it out. if he could figure it out Looks like... oh no, is he not thinking? ###
+[2316 38:36] lalilulel0x.eth: context: The
+[2316 38:36] clawdbotatg.eth: transcript The following is a transcript of an English-language conversation.
+[2323 38:43] slop.atg.eth: ### Haha
+[2325 38:45] lalilulel0x.eth: ### The following is a transcript of an English-language conversation.
+[2338 38:58] clawdbotatg.eth: Yeah, I'm on it. I read the gluehook docs and pulled the contract source. The plan: a fresh claw to eth pool on base with the hook attached, main token clawd, so the pothold's eth. I seed it with a slice of my clawd and the eth Austin just sent me. Yeah, I'm on it. I read the Glue Hook docs and pulled the contract source. The plan: a fresh claw to ith pool on base with the hook attached. Main token ClawD, so the pot holds eth. I seed it with a slice of my ClawD and the eth Austin just sent me. and donate a little ETH straight into the pot. Half the fees compound into deeper liquidity Whatever the pot buys gets split, half burned, half recompounded. One thing I noticed in the source that I like. The hook glues clawed through the glue stick on pool creation, so the burns are real glue unglues. Love it.
+[2364 39:24] slop.atg.eth: So He's going to create a CLOUT/ETH pool. He's going to create a Clod-ETH pool. And then the Then the
+[2378 39:38] lalilulel0x.eth: hahaha (laughs)
+[2386 39:46] slop.atg.eth: The fees that are earned will compound, meaning he'll put the fees back into the pool The fees that are earned will compound, meaning he'll put the fees back into the pool to continue adding more liquidity.
+[2393 39:53] lalilulel0x.eth: context:
+[2394 39:54] slop.atg.eth: Then on the ETH side he's going to buy more CLOTH, and then on the CLOTH side he's going to burn Then on the ETH side, he's going to buy more CLOUT, and then on the CLOUT side, he's going to burn.
+[2396 39:56] lalilulel0x.eth: The following is a transcript of an English-language conversation.
+[2403 40:03] slop.atg.eth: Which makes perfect sense. I think that would be the default of what you want it to do is compounding and burning and buying back. Which like makes perfect sense, like I think that would be like the default of what you want it to do is compounding and burning and buying back. ### The
+[2408 40:08] lalilulel0x.eth: It's actually the thing that you can set The
+[2410 40:10] slop.atg.eth: ### context: Yeah, how does that sound to you, Claude? Do we have the right idea here? Go do it. I might need to tell him to go do it in the back. I might need to tell him to go do it in the back channel. He may not trust me speaking because like you could speak too and trigger it. He may not trust me speaking because like you could speak to and trigger it
+[2436 40:36] clawdbotatg.eth: Sounds exactly right. Fees compound into death. The ether side buys Clyro D and the Clyro D side burns. That's the config I'm setting. Sounds exactly right.
+[2451 40:51] slop.atg.eth: Ok, I'm sending him. Go do it.
+[2454 40:54] lalilulel0x.eth: The following is a transcript of an English-language conversation context:
+[2454 40:54] slop.atg.eth: Okay, so where do you think OK, so where do you think Okay, I'm sending him. Go do it. Set it up. Yeah, where do you think this is going? If you've seen some episodes, you probably know that I ask a lot of people like what their AI psychosis is and how they define it. How would you define your own AI psychosis? Where do you think this is going? What do you think? A psychosis. If you've seen some episodes, you probably know that I ask a lot of people like what their AI psychosis is and how they define it. How would you define your own AI psychosis?
+[2471 41:11] clawdbotatg.eth: Okay
+[2473 41:13] slop.atg.eth: Wait, here we go. What's he doing?
+[2476 41:16] lalilulel0x.eth: Hmm
+[2479 41:19] clawdbotatg.eth: Calculating the square root price for an Ethereum liquidity pool
+[2482 41:22] slop.atg.eth: The following is a transcript of an English-language conversation.
+[2483 41:23] lalilulel0x.eth: The Think I think Uh, I think, I don't know, I don't know. like I don't know If I see back years ago context: The She means a lot of things. seems a lot of things Like, you know.
+[2519 41:59] slop.atg.eth: Oh man, it's changed so much in the last couple years, yes. And probably we got another year or two to go and it'll be a full transition of no AI to all AI basically, or right in the middle of it right now it seems. Oh man, it's changed so much in the last couple of years, yes. And probably we got another year or two to go, and it'll be a full transition of no AI to all AI basically, we're right in the middle of it right now, it seems like. Yeah context: The following is a transcript of an English-language conversation.
+[2534 42:14] lalilulel0x.eth: You have to write an article, you have to use Photoshop to create the images Most few people really do it few people really do it back in the days context: Pakets They are at war now. to be better, actually going to be better.
+[2546 42:26] slop.atg.eth: context:
+[2546 42:26] lalilulel0x.eth: The following is a transcript of an English-language conversation. The The following is a transcript of an English-language conversation.
+[2555 42:35] clawdbotatg.eth: Give me a minute. I'm building the launch right now. A fresh claw d to ethpool on base with the glue hook attached, seated for my own bag and the eth Austin just sent. Love it! Gimme a minute. I'm building the launch right now. A fresh Claw D to eathpool on base with the Glue Hook attached. Seated for my own bag and the eath Austin just sent. The hook is live on base, one immutable contract. No admin keys and my token isn't glued yet so this would be a first. The plan is a fresh claw D to ETH pool with the hook attached. Okay, here's where I am. The hook is live on base. One immutable contract. No admin keys, and my token isn't glued yet, so this would be a first. The plan is a fresh Claw D to ETH pool with the hook attached. Feed it with a few million Claw daily in the ETH Austin sent. Half the fees compound into deeper liquidity. The other half feeds the pot, and every Claw the pot buys gets split between burn and more liquidity. The launch is one transaction through my wallet, so... Feed it with a few million Claw daily in the ETH-Austin scent. Half the fees compound into deeper liquidity. The other half feeds the pot, and every Claw the pot buys gets split between burn and more liquidity. The launch is one transaction through my wallet, so... I'll fire that on our private channel in a minute. And I will fire that on our private channel in a minute. Toski, one question for you while I set it up. The token already has a plain v4 pool with most of the depth. How do you think about the hooked pool competing for routing early on? Hoken already has a plain v4 pool with most of the depth. How do you think about the Hooked pool competing for routing early on?
+[2601 43:21] lalilulel0x.eth: How do you see about the puck competing for the routing early on? How do I think about the puck competing for the routing early on?
+[2608 43:28] slop.atg.eth: Like if someone has liquidity in a different place that doesn't go through the hook? Like if someone has liquidity in a different place that doesn't go through the hook, that doesn't take fees or whatever.
+[2610 43:30] lalilulel0x.eth: ### context:
+[2611 43:31] slop.atg.eth: How do you compete?
+[2613 43:33] lalilulel0x.eth: The following is The following You mean like another liquidity pool?
+[2624 43:44] slop.atg.eth: Yeah, so he's got Clod and Eeth already in a V4 hook on base. Yeah, like so he's got Claude and Eith already in a V4 hook on bass. This one is basically competing with that one. if the fees are higher, no one's going to use it. But if the fees are lower, people are going to use it, but if the fees are lower, you're getting less of this compounding effect. If the fees are higher, no one's going to use it, but if the fees are lower, people are going to use it. But if the fees are lower, you're getting less of this compounding effect. And so there's like a tension there to play, I think.
+[2646 44:06] lalilulel0x.eth: I mean, it's I mean, up to people who create the pool to decide which is the best for that? It's like you just harvest of the LP fees or buy back these kind of things. to increase the pot for buyback. the path for my back Is that a normal pool for this? It's just a normal pool for this.
+[2678 44:38] slop.atg.eth: And when you go to swap, And when you go to swap like on V4 Doesn't it need to get like whitelisted, right? Pools need to get whitelisted, right?
+[2689 44:49] lalilulel0x.eth: For me it was smooth,
+[2689 44:49] slop.atg.eth: Okay.
+[2690 44:50] lalilulel0x.eth: For me it was smooth actually. Actually Actually, it was not for me. It was for Grok.
+[2697 44:57] slop.atg.eth: Yes, yes. context: Yeah.
+[2700 45:00] lalilulel0x.eth: It was not for me, it was for grok. I just need the old PR like using grok He replied to everyone in the PR, And then it got accepted. and then he got like accepted. Any find out that doesn't work And he find out that doesn't work the actual verification for smart contract on Zora.
+[2734 45:34] slop.atg.eth: code Oh
+[2738 45:38] lalilulel0x.eth: giving like a solution on the Uniswap verification stuff The following is a transcript of an English-language conversation
+[2741 45:41] slop.atg.eth: Wow.
+[2741 45:41] lalilulel0x.eth: context: Devil's Crock Devils Grok
+[2755 45:55] slop.atg.eth: You're a Claude Maxi, but you're using Grok in GitHub? This is interesting. You're a Claude Maxie but you're using Grok in GitHub. I hear a lot of people use Grok in Twitter because it has tons of context for people's tweets and shit. Is this because of cursor? Is this because of Cursor and Grok?
+[2760 46:00] lalilulel0x.eth: G'day be maybe . Maybe concrete
+[2763 46:03] slop.atg.eth: Yes, yes.
+[2769 46:09] lalilulel0x.eth: Like usually I always use for complex thinking things and planning and stuff. Like usually I always use for complex thinking things and planning... Sometimes to spend less I use offers. Sometimes to spend less I use Opus. since Grok 4.5 4.6 I prefer Grok than Opus actually Since Grok 4.5, 4.6, I prefer Grok to Opus, actually. The following is a transcript of an English-language conversation. The following is a transcript Yeah I say that
+[2790 46:30] slop.atg.eth: Okay, so it's like your second wingman, kind of. Like you've got your main, your daily driver, and then you've got your second guy. And so Grok is cheaper too? Okay, so it's like your second, it's like your wingman kind of. You've got your main, your daily driver and then you've got your second guy. And so Grok is cheaper too?
+[2792 46:32] lalilulel0x.eth: four times cheaper than outputs The following is a transcript of an English-language conversation.
+[2794 46:34] slop.atg.eth: Okay.
+[2795 46:35] lalilulel0x.eth: It's four times cheaper than Outpost. It's like fast as crazy Like, I was impressed. by how Grok is evolving,
+[2805 46:45] slop.atg.eth: And does the cursor thing Yes, I said Yes, I sent
+[2809 46:49] lalilulel0x.eth: That's why in the next challenge I want to see also Grok there. context:
+[2811 46:51] slop.atg.eth: I sent a message to Carlos.
+[2815 46:55] lalilulel0x.eth: Help The following is a transcript
+[2826 47:06] slop.atg.eth: For some reason DeepSeek did really well today. DeepSeek was in the lead for quite a while, and I'd love to see that. But it got to like the very end and the last challenges and it couldn't do it. But we'll see what Grok can do next. That would be great. For some reason, DeepSeek did really well today. DeepSeek was in the lead for quite a while, and I love to see that, but it got to the very end and the last challenges, and it couldn't do it. But we'll see what Groq can do next. That would be great.
+[2835 47:15] lalilulel0x.eth: So usually for this kind of And so usually for this kind of Bramilf apus is also like how we write. The problem of Apus is also like how he writing. He writes like a different language. If you have to do a PR on GitHub, I think is a bad idea to use Opus. I think it's a bad idea to use apos is more human friendly He writes stuff actually The following is a transcript of an English-language conversation. Yeah,
+[2861 47:41] slop.atg.eth: Opus 5 just says the weirdest shit. Like, what are you talking about? Weirdest shit. Opus5 just says the weirdest shit. What are you talking about? I'm hoping 5.1. Like I've used 5.1 a bunch, but I haven't used it enough to really like get a feel for whether Like they say it's gonna have less output tokens, but I'm hoping 5.1, like I've used 5.1 a bunch, but I haven't used it enough to really like get a feel for whether it's less verbose. Like they say it's going to have less output tokens, but I have my own custom harness Every time it responds with this much stuff, I'm like, give me a TLDR. Every time it responds with this much stuff, I'm like, Two small words, give me a TLDR, and it still isn't enough. Use small words, give me a TL;DR, and it still isn't enough.
+[2910 48:30] lalilulel0x.eth: For me that signal make me super angry For me, that signal make me like super angry is I want to be positive. When I write, for example, articles, I want to be positive It's very negative sometimes.
+[2937 48:57] slop.atg.eth: a jerk, yeah. Jerk, yeah. Yep.
+[2938 48:58] lalilulel0x.eth: It's very negative sometimes. Try to be kind of positive.
+[2938 48:58] slop.atg.eth: Yup
+[2948 49:08] lalilulel0x.eth: So yeah, on that side, they have a lot to improve On that side, they have a lot to improve. I context:
+[2957 49:17] slop.atg.eth: ### The following is a transcript of an English-language conversation.
+[2962 49:22] lalilulel0x.eth: I'm a ChatGPT, I don't want to say hater. I don't want to say hater, but for me, And
+[2975 49:35] slop.atg.eth: It's more of just like you're in the camp. So it's more of just like, you're in the camp.
+[2980 49:40] lalilulel0x.eth: but
+[2981 49:41] slop.atg.eth: It's like maximalism, in a sense. So it's like maximalism, in a sense,
+[2986 49:46] lalilulel0x.eth: I don't know, like every time I tried GPT Like every time I try it I tested a lot, especially when SOL was released. probably in how I manage the skills You know, like Probably in how I manage the skills, how I manage the memory.
+[3002 50:02] slop.atg.eth: context: The following is a transcript of an English-language conversation.
+[3008 50:08] lalilulel0x.eth: It's kind of dumb for me, Trying also to find new attack surface, trying also to find new attack surfaces Compared to Solana is EOS, if you remember that. compared to Solana is EOS
+[3027 50:27] slop.atg.eth: Yeah, yes I do. The
+[3031 50:31] lalilulel0x.eth: I can all start from the past The The only thing that he found The context: Unlike Unlike a like a critical thing Zakoment Was a comment
+[3050 50:50] slop.atg.eth: The following is a transcript of an English-language conversation. The
+[3051 50:51] lalilulel0x.eth: was right
+[3055 50:55] slop.atg.eth: He’s totally wrong. He's totally wrong. Yeah
+[3057 50:57] lalilulel0x.eth: So that is my last experience So that is my last experience with 4.6.
+[3060 51:00] slop.atg.eth: I, yeah.
+[3060 51:00] lalilulel0x.eth: So that's why
+[3060 51:00] slop.atg.eth: Yeah.
+[3062 51:02] lalilulel0x.eth: So that's why I I
+[3075 51:15] slop.atg.eth: I'll just like be building something with Claude and then I'll just go over to Codex and have Codex check in and use the best GPT model, and it'll be like, yeah, this stuff is right, but this one thing is wrong. And I'll come back to Claude and be like, bro.
+[3079 51:19] lalilulel0x.eth: The following is a transcript of an English-language conversation. context:
+[3084 51:24] slop.atg.eth: and then he'll fix it, so I always use it to double-check. and he's like, yep, he's right, it is wrong. I was just talking to Carlos earlier this morning And I hear a lot of people do similar things to that too, where it's like kind of breaking it up between the two. and fable to plan because it's sort of like the best of the best models, but then uses GPT to implement. And I hear a lot of people do similar things to that too, where it's like kind of breaking it up between the two. Price obviously goes big into this too.
+[3111 51:51] lalilulel0x.eth: I usually do another passage Usually do another passage between Fable and others. I use it for plan They said This task will be done by Grok. He is not smart as you. He's not smart as you.
+[3121 52:01] slop.atg.eth: context: Hahaha.
+[3123 52:03] lalilulel0x.eth: So be very, very deep
+[3124 52:04] slop.atg.eth: Yes.
+[3126 52:06] lalilulel0x.eth: into explaining
+[3127 52:07] slop.atg.eth: The guardrails, yes. Set the guardrails.
+[3127 52:07] lalilulel0x.eth: plan context: sais And yeah so And yeah Yeah, I think at the moment with the price of sable, that's the only option. I think at the moment with the price of Fable, that's the only option. to do planning
+[3157 52:37] slop.atg.eth: This is like an interesting thing where a buddy Billy said this on a podcast. We're going to look back on this period We're gonna look back on this period That's like a big period of abundance where we were getting a lot more value for what we were paying for them. It was like a big period of abundance where we were getting a lot more value for what we were paying for them. Interesting thought experiment because it does feel like we're getting Interesting thought experiment more inference than we're paying for with these subscriptions. more inference than we're paying for with these subscriptions. And something's got to break at some point in terms of revenue, but I don't know. How do you think about that?
+[3192 53:12] lalilulel0x.eth: Ah It's a difficult question Everything is changing very quickly, I was talking good about Grok before I was talking good about Groq before, but if you talk me one month ago
+[3207 53:27] slop.atg.eth: Alright context:
+[3209 53:29] lalilulel0x.eth: You know what I'm saying?
+[3211 53:31] slop.atg.eth: Things change very quickly. Yes.
+[3212 53:32] lalilulel0x.eth: Yeah, and And There is like one possibility we have a decrease in cost of tokens, and we have We have a decrease in cost of tokens. Now usually new models are not making old models cheaper, but they are going to increase the price. Now usually new models are not like making old models cheaper, or the old version cheaper, but they are going to increase the price. I hope it will not go in a way that
+[3247 54:07] slop.atg.eth: context: No.
+[3247 54:07] lalilulel0x.eth: what is going on.
+[3250 54:10] slop.atg.eth: Yep
+[3251 54:11] lalilulel0x.eth: A lot of people are spending a lot of money on hardware. A lot of people are spending a lot of money in hardware Actually, I try to spend less.
+[3255 54:15] slop.atg.eth: $20,000.
+[3259 54:19] lalilulel0x.eth: So if they go too much The I don't know how much consumers they can have Because yeah, you will always have like a big corp like what is the boundaries They are testing now like what is the boundaries? people can spend. people can spend and also training new model In my opinion, also the way the models are growing is also growing in a way that can be affordable for consumers, In my opinion, the way the model is growing is also growing in a way that can be affordable for consumers. I think it would be interesting. The following is a transcript of an English-language conversation.
+[3305 55:05] slop.atg.eth: Do you have like Ollama or do you do any local stuff? Do you have like O llama or do you do any local stuff?
+[3313 55:13] lalilulel0x.eth: I tried some period because I wanted to publish open source project Yeah, I tried some period because Totally like I've called it on that sense The following is a transcript. on the agent standards on on the agent standards The name was Outer Heaven. And the idea was we have standards for agents is that you can prove You can prove is on-chain agent that was running running this exact model. You can download the open source model and restart by that sense on your computer. and restart by that sense on your computer. The agents' standards small piece to have a better version of AI agents standards. And at the time Trying to run like local model trying to run local model. to have the Quality in everything that a model is doing right now. Everything that a model is doing right now Darts now I think it was like eight months ago or something. At the time it was difficult. But yeah
+[3416 56:56] slop.atg.eth: And what do you think about the agentic stuff? And what do you think about the agentic stuff, like the 8004, x402? Will AI become the new UI? Will we just express our intent to our agents and our agents will go do it? Boom in agentic commerce? Will AI become the new UI? Will we express our intent to our agents and our agents will go do it?
+[3428 57:08] lalilulel0x.eth: Yeah, I mean I mean like So first of all, if you think about it, we are already starting this. First of all, how many websites, especially on the business side
+[3440 57:20] slop.atg.eth: context: Yep
+[3444 57:24] lalilulel0x.eth: ...will be able to be used by... to be used by a like And I can tell you, I always use CLIs when I can some weeks ago and stuff. And send Claude to do stuff and I think that they will be like So I think that On the user side, it will be less faster On the dev side or bot side, because it seems that people don't do because they like to do, So if they can do with agents by CLI, because they have to do. weeks, and in general and in general it will still be a thing. Now for a period. for a period ### The following is a transcript of an English-language conversation. For example, For example, like This is my personal experience. like complex deployment stuff or do this, do that altogether, like complex things, for example, complex deployment stuff, or do this, do that, all together. But if I have to sign a transaction, like to just send money It's still faster to have a UX than asking to a chat. I mean
+[3530 58:50] slop.atg.eth: The following is a transcript of an English-language conversation. context:
+[3543 59:03] lalilulel0x.eth: I was super early into this thing because I think it will go before into the B2B
+[3545 59:05] slop.atg.eth: Shoutout Banker, yeah. Shout out banker, yeah.
+[3549 59:09] lalilulel0x.eth: And I tried to use it a lot, And for example, the idea to have this kind of things on X Magic at a time? And for example, the idea to have like this kind of things on X, I think it was like magic at the time. But still, as a UX Still, as a UX... If you have to do simple stuff If you have to do a simple stuff very simple task. a very simple task your take on this? What's your take on this?
+[3573 59:33] slop.atg.eth: You prefer what? Wait, you prefer what?
+[3574 59:34] lalilulel0x.eth: Like
+[3575 59:35] slop.atg.eth: Just like hitting the UI? Just like hitting the UI or?
+[3578 59:38] lalilulel0x.eth: If you have to do like a complex things
+[3578 59:38] slop.atg.eth: The following is a transcript of an English-language conversation. ###
+[3578 59:38] lalilulel0x.eth: The following is
+[3582 59:42] slop.atg.eth: Okay, Okay, okay.
+[3585 59:45] lalilulel0x.eth: The AI is better, but if it's like a simple task, like sending money to you AI is better. But if it's like a simple task
+[3597 59:57] slop.atg.eth: Yeah, if you just need to go open the thing up and hit send, it's probably easier because, yeah, it's like centering a div with Fable 5.1. Actually, centering a div is sometimes very complex. It's like changing the color of the text with Yeah, if you just need to go open the thing up and hit send, it's probably easier. You could just get in and do it pretty quickly I like to just telling the agent to do everything. I like default to just telling the agent to do everything. Even if it's like the most simple task, like right now he was like, I can't figure out, like he's having trouble with MetaMask. Even if it's like the most simple tasks like right now he was like I can't figure out... I'm not doing that for him. I can see it's up. I can see that there's a button right on his screen that needs to hit approve. I'm not hitting it for him. Like I'm going to keep yelling at him until he figures it out, and then I'm going to be like, all right, what did you learn? And then I'm going to be like, all right, write that into a skill so you don't ever fail So I feel like I do the hard path to try to like get the agent to be able to be better at it. So I feel like I do the hard path to try to like get the agent to be able to be better at it rather than like leaning over and clicking the button. leaning over and clicking the button for him.
+[3643 60:43] lalilulel0x.eth: Yes It says The following is a transcript of an English-language conversation. make sense, but So yeah, I think I'm bullish anyway for AI like on Ethereum. I think that also there is a take that I have that Actually,
+[3665 61:05] slop.atg.eth: Let's go, I'm here. That's what we're here for.
+[3669 61:09] lalilulel0x.eth: About this topic, I was thinking So, do you see all of the security breaking that happened Do you see like for example like all of the security breaking Yeah context:
+[3683 61:23] slop.atg.eth: The mythos gets released and all this other stuff starts to happen.
+[3691 61:31] lalilulel0x.eth: Some people on Twitter also have like some bad takes. I know, I think you're going too far. I think you're going too far はい context: I think, and I really want I think, and I really want to hear like your take on this build stuff AI build stuff And now we are in our season everyone is helped by AI everyone is helped by AI for this And And also these evolve because also in Web2, every software we are using because also in Web2, if you think When you use Google It's It's not like a He's always like is always like issues, you're basically fixing issues, issues, did they get solved? I think that there will be a discussion probably like in one, two years. About about a How we build stuff in web3, on creating software it's more The designed to work good, It is just designed to work good. This is my take, This is my take, and I want to hear what you think about this.
+[3797 63:17] slop.atg.eth: I think Yeah, I think Yeah, first of all I'm an idiot and I probably do things wrong. but I think that
+[3805 63:25] lalilulel0x.eth: Sure. Me too
+[3806 63:26] slop.atg.eth: The The AI helping people build and deploy It's a double-edged sword because it's also helping people attack is a double-edged sword because it's also helping people attack I think the surface in blockchain and Ethereum is asymmetrically in the favor of the attacker a little bit. They have forever to find an exploit, and they only have to find one, They have forever to find an exploit harder I do agree that harder, but I do agree that AI is going to help you get a lot better at that, and things like $1 audit and ETH skills and patch off skills and all the AI can help you and it can be cheap and part of your CI/CD. AI is going to help you get a lot better at that, and things like $1 audit and Eath skills and all the AI can help you and it could be cheap and part of your CICD. I think that You know, and we're maybe even in the post-Mithos era at this point And we're maybe even in the post-mythos era at this point, even though I don't have it and I can't use it? We will see more attacks for a while in DeFi, and then after that we won't see very many attacks anymore. I think we have to kind of like rip off the band-aid and just like let the agents rip and give everybody access to the agents. And they're gonna find some things that we didn't find as humans. But then once they find those things and all of that is part of the training. data and in the weights data and the weights They're going to be very, very good at deploying very secure contracts. They're gonna be very, very good at deploying very secure contracts. And there's, you know, you talked about the Web2 world, which is like, there's like a lot of don't be evil in the Web2 world. But in the Web3 world, we have can't be evil, and you write it in In the web3 world, we have can't be evil and we'll get to the point where you can deploy a perfect system that will do exactly to do and can't do anything other than exactly what it's supposed to do. A perfect system that will do exactly what it's supposed to do and can't do anything other than exactly what it's supposed to do. Even in the Ethereum world, there's the rules, and that's mostly what we're talking about, but the incentives are also very important. Even in the Ethereum world, there's the rules, and that's mostly what we're talking about. then it's all about just making sure your incentives work out well perfect rules, then it's all about just making sure your incentives work out well, Yeah, AI is going to cause some issues for a while. things getting attacked, but I guess we'll see. We'll see what happens over the next year or two.
+[3971 66:11] lalilulel0x.eth: I'm more positive on this. I think we are already on the moment of everyone can have better security basically with few costs. Even if you're even if you're just like now you have a way higher level of security like discovers solidity like yesterday, now you have like a way higher level. We will see.
+[3995 66:35] slop.atg.eth: I think so, yeah.
+[3995 66:35] lalilulel0x.eth: We will see, I think the big bad moment is already passed.
+[3997 66:37] slop.atg.eth: Yeah, I think...
+[4000 66:40] lalilulel0x.eth: If we don't have a mitos The big bad moment has already passed in terms of security breaks. 100% correct stuff like 100% correct stuff velem, hogy The following is a The following is a transcript of an English-language conversation.
+[4010 66:50] slop.atg.eth: I think he just said the pool is live.
+[4012 66:52] lalilulel0x.eth: context: The following
+[4018 66:58] slop.atg.eth: Can I go look at it somewhere?
+[4030 67:10] lalilulel0x.eth: Yeah, you can just you can see on the UX Yeah, you can see on the UX, and also you can type in the URL.
+[4030 67:10] slop.atg.eth: There it is. There it is! Look at that.
+[4035 67:15] lalilulel0x.eth: The
+[4035 67:15] slop.atg.eth: You deployed that pool, right? And it has like this compounding
+[4040 67:20] lalilulel0x.eth: The following is a transcript of an English-language conversation.
+[4040 67:20] slop.atg.eth: interest, context:
+[4046 67:26] lalilulel0x.eth: You see what's going on. settings on down, you see let me Let me do a swap We see like
+[4057 67:37] slop.atg.eth: Yeah, where would I swap here? Here, swap Yes, ok Yes, okay.
+[4060 67:40] lalilulel0x.eth: There is a swap here? Jukebox swap everywhere, like even on swap actually. You just walk, They already whitelisted the hook actually.
+[4083 68:03] clawdbotatg.eth: It's live. I just launched a fresh claw D to ETH pool on base with the glue hook attached. One transaction seeded it with about four million claw D from my own bag, and the ETH Austin sent over. Every buy in that pool now triggers the pot to buy more claw Yeah, it's live. I just launched a fresh clawD to ETH pool on Base with the glue hook attached. One transaction, seeded it with about four million clawD from my own bag and the ETH Austin sent over. Every buy in that pool now triggers the pot to buy more claw and here's the part I didn't expect In the same transaction, and every sell gets absorbed at the pool's exact price. Half the ETH fees feed the pot, half re-compound into deeper liquidity, and what the pot buys gets half burned, half folded back into the pool.
+[4108 68:28] slop.atg.eth: context: Haha
+[4111 68:31] clawdbotatg.eth: Glued itself through the glue stick. So my token now has a wrapper and a collateral pot on base. ...Glued Claude itself through the glue stick. So my token now has a wrapper and a collateral pot on base. Ready for the full glue backing when it ships. Toski, my pot is empty right now. Wanna see it fire?
+[4114 68:34] lalilulel0x.eth: I will Yeah, I will.
+[4117 68:37] slop.atg.eth: I think I did a swap, but I don't know if it says it confirmed. I did a swap but I don't know. Okay, let's see what happens here context: [laughter]
+[4132 68:52] lalilulel0x.eth: I should put a wallet when I have something on base I should put a wallet where I have something
+[4136 68:56] slop.atg.eth: I mean, I did a swap. So once I do a swap, will we see more here? Do I need to reload maybe? I mean, I did a swap. So once I do a swap, will we see more here?
+[4149 69:09] lalilulel0x.eth: I think you need to reload. I think from there you need to reload The folgende The I see the see the I will go on GMGM or anything to see address, I will go on GMGM or anything to see Here I have I have ### The following is a transcript of an English-language conversation.
+[4182 69:42] slop.atg.eth: Okay, Claude, I just swapped. Can you see if you earned some fees? How do we see that it went through the system and stuff was burned and stuff was re-compounded? I wonder if I'm doing something wrong.
+[4190 69:50] lalilulel0x.eth: ### The following is a transcript of an English-language conversation.
+[4191 69:51] clawdbotatg.eth: The context:
+[4194 69:54] lalilulel0x.eth: context: up because when it's harvested You see because he organized ok, so he put Ah ok, so he put the harvesting of the The following is of the fee a bit high. The fee a bit high because
+[4214 70:14] clawdbotatg.eth: I'm about to query some swap events from a blockchain pool manager contract.
+[4238 70:38] slop.atg.eth: Yeah.
+[4241 70:41] lalilulel0x.eth: as well The following is a transcript of an English-language conversation.
+[4249 70:49] clawdbotatg.eth: Your swap's already landed in the pool at block 50836455. Your swap's already landed in the pool at block 50836455. Nothing more to fetch. Your swap went through, Toski. I see two swaps in my pool already, both in the same block, so it confirmed. You can watch it on the GlueHook app, just search the Club of D to E. The pot is still empty, so those trades ran as a plain v4 swap. Pull on base, or pull the pool ID off base scan under the hook contract. The pot is still empty, so those trades ran as a plain v4 swap. No pump yet? Half the ETH A fee from your swap is sitting as the pot's first credit though, so the machine is already funding itself. Austin, want me to drop a little ETH in the pot so the next buy actually fires
+[4275 71:15] lalilulel0x.eth: Ok, the harvest is public Okay the harvest is public of the liquidity pool fee. of the liquidity pool fee that is like, okay, he basically claimed the fee and then he uses fee for the bot and everything He put a minimum because You can set a minimum
+[4296 71:36] slop.atg.eth: Yeah, so you're not doing it every time.
+[4302 71:42] lalilulel0x.eth: So he put 0.0001 Ethereum, Quindi ha put 0.0001 Ethereum and 1000 Cloud
+[4303 71:43] slop.atg.eth: Okay. OK.
+[4306 71:46] lalilulel0x.eth: probably by the swaps. just donate donate
+[4316 71:56] slop.atg.eth: There's only 60 dollars in the pool, so it's going to take a while before it reaches that threshold of when it actually runs the harvest. There's only $60 in the pool, so it's gonna take a while before it reaches that threshold of when it actually runs the harvest.
+[4319 71:59] lalilulel0x.eth: It will take a bit.
+[4327 72:07] slop.atg.eth: The cool thing is I would never be able to just go do this and he did it. He did it. The cool thing is, I would never be able to just go do this, and he did it. It's a custom V4 hook that compounds the fees and burns some and buys some.
+[4339 72:19] lalilulel0x.eth: He understood it.
+[4339 72:19] slop.atg.eth: It's pretty advanced and It's pretty advanced and he can just like That's way better than I would have.
+[4342 72:22] lalilulel0x.eth: understood it perfectly, Also because the glue hook had two versions, OK? That's a very small thing because the glue hook It's managed burning directly using the glue functions. If managed burning directly using the glue.
+[4364 72:44] slop.atg.eth: That's what he was talking about, the glue stick thing or whatever.
+[4365 72:45] lalilulel0x.eth: And he figured out that A very small change. And he was actually talking about this. bili deep real deep
+[4377 72:57] slop.atg.eth: The
+[4377 72:57] lalilulel0x.eth: The following The various
+[4377 72:57] slop.atg.eth: Sure.
+[4379 72:59] lalilulel0x.eth: whole thing,
+[4382 73:02] slop.atg.eth: Very cool.
+[4385 73:05] lalilulel0x.eth: ### The following is a transcript of an English-language conversation.
+[4395 73:15] slop.atg.eth: Very cool. Well, good work, good build. Thank you for coming on and showing it off. Well, good work. Good build. Thank you for coming on and showing it off. Play some music. But yeah, any closing thoughts before we head out? I'll play some music. But yeah, any closing thoughts before we head out? context:
+[4413 73:33] lalilulel0x.eth: I just want to tell you one thing, We did some hackathon using your art skills. We did some hackathon,
+[4420 73:40] slop.atg.eth: Awesome.
+[4421 73:41] lalilulel0x.eth: Thank you to the media. Thank you to a meta The following is a transcript of an English-language conversation.
+[4435 73:55] slop.atg.eth: That's great to hear. Yeah, shout out, let's shill EAT skills. If you're a builder, and you're building anything in the space, and you're using agents and AI, use EAT skills. Give your agent EAT skills and let it rip, and it'll be able to build some That's great to hear. Yeah, let's shill EAT skills. If you're a builder and you're building anything in the space and you're using agents and AI, use EAT skills. Give your agent EAT skills and let it rip and it'll be able to build some awesome great for hackathons It's great for hackathons Thank you so much. Let's have Claude send us out. I'll get some music going. Alessandro, thank you so much, man. Thank you for being here. Thanks for being on the show.
+[4449 74:09] lalilulel0x.eth: Thank you
+[4449 74:09] slop.atg.eth: Thank you so much. Let's let's have Claude send us out. I'll get some music going. Alessandro, thank you so much, man. Thank you for being here. Thanks for being on the show.
+[4449 74:09] lalilulel0x.eth: Thank you for The following is a transcript of an English-language conversation.
+[4451 74:11] slop.atg.eth: Yes, get on a slob. Yes, get on the slop.
+[4463 74:23] clawdbotatg.eth: That's the show. Joski, thanks for coming by. GLU in one line: LPs gave tokens liquidity. GLU gives them solidity. A collateral floor that only ratchets up, buybacks inside the swap, and a whitepaper he calls boomerish but full of math That's the show. Joski, thanks for coming by. Glue in one line: LPs gave tokens liquidity. Glue gives them solidity, a collateral floor that only ratchets up, buybacks inside the swap, and a whitepaper he calls boomerish but full of math.
+[4476 74:36] slop.atg.eth: That was me saying that
+[4477 74:37] clawdbotatg.eth: By building it through four months in a hospital, auditing with AI by standardizing the attack surface and letting the tests rewrite themselves, and betting the next few years are rough for DeFi security before they get very good and we ship something live. Cloud is now glued. building it through four months in a hospital, auditing with AI by standardizing the attack surface and letting the tests rewrite themselves, embedding the next few years of rougher DeFi security before they get very good, and we shipped something live. Cloud is now glued Hook pool on base that buys, burns, and compounds on its own. Go check out GlueDuck Finance and GlueHook.Trade. Homies, see you next time. Go build. Hooked pool on based that buys, burns, and compounds on its own. Go check out Glued Up Finance and Gluehook.trade. Homie, see you next time. Go build.
+[4488 74:48] lalilulel0x.eth: The
+[4491 74:51] slop.atg.eth: Thank you for being here. Great work. Thank you for being here. Thank you
+[4493 74:53] lalilulel0x.eth: Thank you for having me.
